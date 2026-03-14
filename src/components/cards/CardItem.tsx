@@ -12,32 +12,27 @@ const CardItem: React.FC<CardItemProps> = ({ card, onClick, isSelected }) => {
 
   return (
     <div 
-      className={`relative cursor-pointer transition-all duration-300 transform hover:scale-105 ${
-        isSelected ? 'opacity-50' : ''
-      }`}
+      className={`card ${isSelected ? 'selected' : ''}`}
       onClick={onClick}
       onMouseEnter={() => setShowHover(true)}
       onMouseLeave={() => setShowHover(false)}
     >
-      {/* Card Image */}
       <img 
         src={card.image} 
         alt={card.name}
-        className="w-full rounded-lg shadow-lg"
+        className="card-image"
       />
       
-      {/* Hover Info */}
       {showHover && !isSelected && (
-        <div className="absolute inset-0 bg-black bg-opacity-75 text-white p-2 rounded-lg flex flex-col justify-center items-center text-center animate-fadeIn">
-          <h3 className="text-sm font-bold">{card.name}</h3>
-          <p className="text-xs italic">{card.name_en}</p>
-          <p className="text-xs mt-2">{card.keywords.split(',')[0]}</p>
+        <div className="card-hover animate-fadeIn">
+          <h3>{card.name}</h3>
+          <p>{card.name_en}</p>
+          <p>{card.keywords.split(',')[0]}</p>
         </div>
       )}
 
-      {/* Selected Badge */}
       {isSelected && (
-        <div className="absolute top-2 right-2 bg-purple-600 text-white rounded-full w-6 h-6 flex items-center justify-center">
+        <div className="selected-badge">
           ✓
         </div>
       )}
