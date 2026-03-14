@@ -8,7 +8,7 @@ import { Card, Reading } from '../types';
 
 const MyCardsPage: React.FC = () => {
   const [selectedCardIds, setSelectedCardIds] = useState<string[]>([]);
-  const [foundReading, setFoundReading] = useState<Reading | null>(null);
+  const [foundReadings, setFoundReadings] = useState<Reading[]>([]); // Променено име
   const [activeFilter, setActiveFilter] = useState<string>('all');
   const interpretationsRef = useRef<HTMLDivElement>(null);
 
@@ -21,22 +21,18 @@ const MyCardsPage: React.FC = () => {
   const filteredCards = availableCards.filter(card => {
     if (activeFilter === 'all') return true;
     
-    // Филтър за числа (1-10)
     if (activeFilter.startsWith('number_')) {
       const number = activeFilter.split('_')[1];
       return card.number === number;
     }
     
-    // Филтър за числа (общ)
     if (activeFilter === 'numbers') {
       return ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10'].includes(card.number);
     }
     
-    // Обикновен филтър
     return card.filter === activeFilter;
   });
 
-  // Функция за добавяне/махане на карта
   const toggleCard = (card: Card) => {
     setSelectedCardIds(prev => {
       if (prev.includes(card.card_id)) {
@@ -51,34 +47,31 @@ const MyCardsPage: React.FC = () => {
     });
   };
 
-  // Функция за премахване на конкретна карта
   const removeCard = (cardId: string) => {
     setSelectedCardIds(prev => prev.filter(id => id !== cardId));
   };
 
-  // Изчистване на всички карти
   const clearSelected = () => {
     setSelectedCardIds([]);
-    setFoundReading(null);
+    setFoundReadings([]);
   };
 
-  // Скрол до тълкуванията
   const scrollToInterpretations = () => {
     if (interpretationsRef.current) {
       interpretationsRef.current.scrollIntoView({ behavior: 'smooth' });
     }
   };
 
-  // Функция за търсене на комбинация
-  const checkForReading = (ids: string[]) => {
+  // Функция за търсене на всички комбинации
+  const checkForReadings = (ids: string[]) => {
     if (ids.length < 2) {
-      setFoundReading(null);
+      setFoundReadings([]);
       return;
     }
 
     const sortedIds = [...ids].sort();
     
-    const reading = readings.find(r => {
+    const matchingReadings = readings.filter(r => {
       const sortedReadingIds = [...r.reading_combination].sort();
       
       if (JSON.stringify(sortedIds) === JSON.stringify(sortedReadingIds)) {
@@ -92,11 +85,11 @@ const MyCardsPage: React.FC = () => {
       return false;
     });
 
-    setFoundReading(reading || null);
+    setFoundReadings(matchingReadings);
   };
 
   useEffect(() => {
-    checkForReading(selectedCardIds);
+    checkForReadings(selectedCardIds);
   }, [selectedCardIds]);
 
   return (
@@ -106,16 +99,15 @@ const MyCardsPage: React.FC = () => {
         Изберете до 10 карти, за да получите тълкувание и да откриете специални комбинации
       </p>
       
-      {/* Selected Cards Component */}
+      {/* Selected Cards Component - Променено от foundReading на foundReadings */}
       <SelectedCards 
         selectedCards={selectedCards}
         onClear={clearSelected}
         onRemoveCard={removeCard}
-        foundReading={foundReading}
+        foundReadings={foundReadings}  // ← Променено тук
         onScrollToInterpretations={scrollToInterpretations}
       />
 
-      {/* Филтри за налични карти */}
       <div className="mt-4 mb-2">
         <FilterButtons 
           activeFilter={activeFilter} 
@@ -124,7 +116,6 @@ const MyCardsPage: React.FC = () => {
         />
       </div>
 
-      {/* Available Cards Grid */}
       <div className="mt-8">
         <h2 className="section-title">Налични карти ({filteredCards.length})</h2>
         <CardGrid 
@@ -134,7 +125,6 @@ const MyCardsPage: React.FC = () => {
         />
       </div>
 
-      {/* Interpretations Section */}
       {selectedCards.length > 0 && (
         <div ref={interpretationsRef} className="interpretations-section">
           <h2 className="section-title">Тълкувания</h2>

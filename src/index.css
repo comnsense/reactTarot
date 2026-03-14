@@ -1750,3 +1750,41 @@ body.dark .filter-btn.number-filter.active {
     flex: 1 1 calc(33.333% - 4px);
   }
 }
+
+/* Found Readings Container */
+.found-readings-container {
+  margin-top: 24px;
+  border-top: 2px solid var(--accent-light);
+  padding-top: 20px;
+}
+
+.found-readings-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--accent-color);
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.found-readings-title::before {
+  content: '⚡';
+  font-size: 20px;
+}
+
+.found-readings-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* Адаптации за multiple readings */
+.found-readings-list .reading-found {
+  margin-top: 0;
+  animation: sparkle 1.5s ease-in-out infinite;
+}
+
+.found-readings-list .reading-found:not(:last-child) {
+  margin-bottom: 12px;
+}

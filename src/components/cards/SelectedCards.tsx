@@ -5,7 +5,7 @@ interface SelectedCardsProps {
   selectedCards: Card[];
   onClear: () => void;
   onRemoveCard: (cardId: string) => void;
-  foundReading: Reading | null;
+  foundReadings: Reading[]; // Променено от foundReading на масив
   onScrollToInterpretations: () => void;
 }
 
@@ -13,7 +13,7 @@ const SelectedCards: React.FC<SelectedCardsProps> = ({
   selectedCards, 
   onClear, 
   onRemoveCard,
-  foundReading, 
+  foundReadings, 
   onScrollToInterpretations 
 }) => {
   if (selectedCards.length === 0) {
@@ -47,7 +47,7 @@ const SelectedCards: React.FC<SelectedCardsProps> = ({
           <div key={card.card_id} className="selected-card-item">
             <img 
               src={card.image} 
-              alt={card.name}  // ← Променено от card_name на name
+              alt={card.name}
               className="selected-card-image"
             />
             <button 
@@ -57,21 +57,30 @@ const SelectedCards: React.FC<SelectedCardsProps> = ({
             >
               ×
             </button>
-            <span className="selected-card-name">{card.name}</span>  {/* ← Променено от card_name на name */}
+            <span className="selected-card-name">{card.name}</span>
           </div>
         ))}
       </div>
 
-      {/* Открита комбинация */}
-      {foundReading && (
-        <div className="reading-found animate-sparkle">
-          <div className="reading-found-header">
-            <span className="reading-found-icon">⚡</span>
-            <h3 className="reading-found-title">Открита комбинация: {foundReading.reading_name}</h3>
+      {/* Открити комбинации - вече може да са няколко */}
+      {foundReadings.length > 0 && (
+        <div className="found-readings-container">
+          <h3 className="found-readings-title">
+            ⚡ Открити комбинации ({foundReadings.length})
+          </h3>
+          <div className="found-readings-list">
+            {foundReadings.map((reading, index) => (
+              <div key={index} className="reading-found animate-sparkle">
+                <div className="reading-found-header">
+                  <span className="reading-found-icon">⚡</span>
+                  <h4 className="reading-found-title">{reading.reading_name}</h4>
+                </div>
+                <p className="reading-found-cards">{reading.reading_cards}</p>
+                <p className="reading-found-description">{reading.reading_description}</p>
+                <p className="reading-found-advice">"{reading.reading_advice}"</p>
+              </div>
+            ))}
           </div>
-          <p className="reading-found-cards">{foundReading.reading_cards}</p>
-          <p className="reading-found-description">{foundReading.reading_description}</p>
-          <p className="reading-found-advice">"{foundReading.reading_advice}"</p>
         </div>
       )}
     </div>
