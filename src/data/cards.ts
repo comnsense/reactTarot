@@ -4864,7 +4864,817 @@ export const readings = [
     "reading_meaning": "Редовна медитация",
     "reading_description": "Започваш редовна духовна практика - медитация, йога, молитва. Всеки ден отделяш време за връзка с отвъдното.",
     "reading_advice": "Постоянството е ключът. Дори 10 минути на ден правят разлика."
+  },
+    {
+    "reading_id": "ace_wands_two_wands",
+    "reading_name": "Искра и решение",
+    "reading_cards": "Асо Жезли + 2 Жезли",
+    "reading_combination": ["ace_wands", "two_wands"],
+    "reading_meaning": "Избор на посока",
+    "reading_description": "Нова идея или проект се ражда и веднага изисква решение. Имаш енергия, но трябва да избереш накъде да я насочиш.",
+    "reading_advice": "Не отлагай избора. Всяка посока е по-добра от липсата на такава."
+  },
+  {
+    "reading_id": "ace_wands_three_wands",
+    "reading_name": "Първи стъпки",
+    "reading_cards": "Асо Жезли + 3 Жезли",
+    "reading_combination": ["ace_wands", "three_wands"],
+    "reading_meaning": "Старт и очакване",
+    "reading_description": "Започваш нещо ново и веднага виждаш първите резултати. Успехът не идва веднага, но пътят е обещаващ.",
+    "reading_advice": "Бъди търпелив. Добрите неща идват при тези, които чакат, докато работят."
+  },
+  {
+    "reading_id": "ace_wands_four_wands",
+    "reading_name": "Празнично начало",
+    "reading_cards": "Асо Жезли + 4 Жезли",
+    "reading_combination": ["ace_wands", "four_wands"],
+    "reading_meaning": "Радостен старт",
+    "reading_description": "Новото начало идва с празник и радост. Преместване, нова работа, нов проект - всичко се случва по най-добрия начин.",
+    "reading_advice": "Празнувай малките победи. Те са стъпалата към големия успех."
+  },
+  {
+    "reading_id": "ace_wands_five_wands",
+    "reading_name": "Конкурентен старт",
+    "reading_cards": "Асо Жезли + 5 Жезли",
+    "reading_combination": ["ace_wands", "five_wands"],
+    "reading_meaning": "Борба от самото начало",
+    "reading_description": "Още в началото срещаш конкуренция и съпротива. Идеята ти е добра, но трябва да се бориш за място под слънцето.",
+    "reading_advice": "Не се отказвай при първото препятствие. Конкуренцията означава, че си на прав път."
+  },
+  {
+    "reading_id": "ace_wands_six_wands",
+    "reading_name": "Победно начало",
+    "reading_cards": "Асо Жезли + 6 Жезли",
+    "reading_combination": ["ace_wands", "six_wands"],
+    "reading_meaning": "Успех от първия ден",
+    "reading_description": "Новото начинание пожънва успех още в самото начало. Всички те забелязват и оценяват.",
+    "reading_advice": "Наслаждавай се на успеха, но не спирай да работиш. Първата победа не е последната."
+  },
+  {
+    "reading_id": "ace_wands_seven_wands",
+    "reading_name": "Защита на идеята",
+    "reading_cards": "Асо Жезли + 7 Жезли",
+    "reading_combination": ["ace_wands", "seven_wands"],
+    "reading_meaning": "Отстояване на позиция",
+    "reading_description": "Трябва да защитаваш новата си идея от критики и нападки. Дръж позицията си, тя е правилна.",
+    "reading_advice": "Не се огъвай пред първата съпротива. Убедеността ти ще спечели."
+  },
+  {
+    "reading_id": "ace_wands_eight_wands",
+    "reading_name": "Бързо развитие",
+    "reading_cards": "Асо Жезли + 8 Жезли",
+    "reading_combination": ["ace_wands", "eight_wands"],
+    "reading_meaning": "Скоростен напредък",
+    "reading_description": "Всичко се развива изключително бързо. Идеята хваща скорост и нещата се случват светкавично.",
+    "reading_advice": "Язди вълната, но не изпускай контрол. Скоростта изисква внимание."
+  },
+  {
+    "reading_id": "ace_wands_nine_wands",
+    "reading_name": "Упоритост в началото",
+    "reading_cards": "Асо Жезли + 9 Жезли",
+    "reading_combination": ["ace_wands", "nine_wands"],
+    "reading_meaning": "Трябва да издържиш",
+    "reading_description": "Началото е трудно и изисква много усилия. Чувстваш се изтощен, но не се отказвай - скоро идва облекчение.",
+    "reading_advice": "Дръж се още малко. Финалната права е точно зад ъгъла."
+  },
+  {
+    "reading_id": "ace_wands_ten_wands",
+    "reading_name": "Тежко начало",
+    "reading_cards": "Асо Жезли + 10 Жезли",
+    "reading_combination": ["ace_wands", "ten_wands"],
+    "reading_meaning": "Твърде много наведнъж",
+    "reading_description": "Започваш с ентусиазъм, но бързо се претоварваш. Поемаш твърде много отговорности твърде рано.",
+    "reading_advice": "Забави темпото. Никой не може да носи всичко сам."
+  },
+  {
+    "reading_id": "two_wands_three_wands",
+    "reading_name": "Избор и очакване",
+    "reading_cards": "2 Жезли + 3 Жезли",
+    "reading_combination": ["two_wands", "three_wands"],
+    "reading_meaning": "След решението идва търпението",
+    "reading_description": "Взе решение и сега чакаш резултатите. Поглед към хоризонта, но все още нищо не се вижда.",
+    "reading_advice": "Търпението е добродетел. Резултатите идват при тези, които умеят да чакат."
+  },
+  {
+    "reading_id": "two_wands_four_wands",
+    "reading_name": "Избор и празник",
+    "reading_cards": "2 Жезли + 4 Жезли",
+    "reading_combination": ["two_wands", "four_wands"],
+    "reading_meaning": "Празнуване на решението",
+    "reading_description": "Направи правилния избор и сега празнуваш. Радост, задоволство, удовлетворение от взетото решение.",
+    "reading_advice": "Празнувай, но утре те чакат нови решения."
+  },
+  {
+    "reading_id": "two_wands_five_wands",
+    "reading_name": "Спорен избор",
+    "reading_cards": "2 Жезли + 5 Жезли",
+    "reading_combination": ["two_wands", "five_wands"],
+    "reading_meaning": "Решението води до конфликт",
+    "reading_description": "Изборът, който направи, не се харесва на всички. Конфликти, спорове, защита на позицията.",
+    "reading_advice": "Бъди твърд в решението си. Не можеш да угодиш на всички."
+  },
+  {
+    "reading_id": "two_wands_six_wands",
+    "reading_name": "Правилен избор",
+    "reading_cards": "2 Жезли + 6 Жезли",
+    "reading_combination": ["two_wands", "six_wands"],
+    "reading_meaning": "Решението води до успех",
+    "reading_description": "Изборът ти беше правилен и вече виждаш първите успехи. Признание, победа, удовлетворение.",
+    "reading_advice": "Довери се на интуицията си. Тя те води правилно."
+  },
+  {
+    "reading_id": "two_wands_seven_wands",
+    "reading_name": "Защитен избор",
+    "reading_cards": "2 Жезли + 7 Жезли",
+    "reading_combination": ["two_wands", "seven_wands"],
+    "reading_meaning": "Трябва да защитаваш решението си",
+    "reading_description": "Някой оспорва избора ти и трябва да защитаваш позицията си. Не отстъпвай, ако си сигурен.",
+    "reading_advice": "Имай смелостта да отстояваш себе си."
+  },
+  {
+    "reading_id": "two_wands_eight_wands",
+    "reading_name": "Бързо следствие",
+    "reading_cards": "2 Жезли + 8 Жезли",
+    "reading_combination": ["two_wands", "eight_wands"],
+    "reading_meaning": "Решението носи бързи резултати",
+    "reading_description": "След като взе решение, нещата започнаха да се случват много бързо. Почти не можеш да ги настигнеш.",
+    "reading_advice": "Остани фокусиран, но се наслаждавай на скоростта."
+  },
+  {
+    "reading_id": "two_wands_nine_wands",
+    "reading_name": "Упоритост след избора",
+    "reading_cards": "2 Жезли + 9 Жезли",
+    "reading_combination": ["two_wands", "nine_wands"],
+    "reading_meaning": "Избра и сега трябва да издържиш",
+    "reading_description": "Изборът беше труден и още по-трудно е да се придържаш към него. Умора, но и решителност.",
+    "reading_advice": "Не се отказвай точно сега. Ти си почти на финала."
+  },
+  {
+    "reading_id": "two_wands_ten_wands",
+    "reading_name": "Тежест на избора",
+    "reading_cards": "2 Жезли + 10 Жезли",
+    "reading_combination": ["two_wands", "ten_wands"],
+    "reading_meaning": "Решението тежи",
+    "reading_description": "Изборът, който направи, носи много отговорности. Чувстваш се претоварен, но си поел ангажимент.",
+    "reading_advice": "Потърси помощ. Не е нужно да носиш всичко сам."
+  },
+  {
+    "reading_id": "three_wands_four_wands",
+    "reading_name": "Очакване и празник",
+    "reading_cards": "3 Жезли + 4 Жезли",
+    "reading_combination": ["three_wands", "four_wands"],
+    "reading_meaning": "Докато чакаш, празнувай",
+    "reading_description": "В очакване на резултати, не забравяй да се радваш на това, което вече имаш. Празник и надежда.",
+    "reading_advice": "Радвай се на пътя, не само на дестинацията."
+  },
+  {
+    "reading_id": "three_wands_five_wands",
+    "reading_name": "Очакване и конфликт",
+    "reading_cards": "3 Жезли + 5 Жезли",
+    "reading_combination": ["three_wands", "five_wands"],
+    "reading_meaning": "Докато чакаш, някой спори",
+    "reading_description": "Очакваш резултати, но около теб има напрежение и конфликти. Трудно е да запазиш спокойствие.",
+    "reading_advice": "Не се замесвай в драми. Фокусирай се върху целите си."
+  },
+  {
+    "reading_id": "three_wands_six_wands",
+    "reading_name": "Очакван успех",
+    "reading_cards": "3 Жезли + 6 Жезли",
+    "reading_combination": ["three_wands", "six_wands"],
+    "reading_meaning": "Чакането се отплаща",
+    "reading_description": "Очакваните резултати най-после идват и те водят до успех. Търпението ти се отплаща.",
+    "reading_advice": "Наслади се на момента. Ти го заслужи."
+  },
+  {
+    "reading_id": "three_wands_seven_wands",
+    "reading_name": "Очакване и защита",
+    "reading_cards": "3 Жезли + 7 Жезли",
+    "reading_combination": ["three_wands", "seven_wands"],
+    "reading_meaning": "Чакаш и се браниш",
+    "reading_description": "Докато чакаш резултати, някой се опитва да ти попречи. Дръж позицията си и не отстъпвай.",
+    "reading_advice": "Бъди бдителен, но не позволявай на страха да те завладее."
+  },
+  {
+    "reading_id": "three_wands_eight_wands",
+    "reading_name": "Очакване и бързина",
+    "reading_cards": "3 Жезли + 8 Жезли",
+    "reading_combination": ["three_wands", "eight_wands"],
+    "reading_meaning": "Резултатите идват бързо",
+    "reading_description": "Това, което очакваше, пристига с неочаквана скорост. Готов ли си да го приемеш?",
+    "reading_advice": "Приготви се. Нещата ще се случат по-бързо, отколкото си мислиш."
+  },
+  {
+    "reading_id": "three_wands_nine_wands",
+    "reading_name": "Очакване и изтощение",
+    "reading_cards": "3 Жезли + 9 Жезли",
+    "reading_combination": ["three_wands", "nine_wands"],
+    "reading_meaning": "Чакането те изтощава",
+    "reading_description": "Очакването се проточва и започва да те изтощава. Умора, но и надежда, че скоро ще приключи.",
+    "reading_advice": "Дръж се още малко. Краят е близо."
+  },
+  {
+    "reading_id": "three_wands_ten_wands",
+    "reading_name": "Тежко очакване",
+    "reading_cards": "3 Жезли + 10 Жезли",
+    "reading_combination": ["three_wands", "ten_wands"],
+    "reading_meaning": "Очакването тежи",
+    "reading_description": "Докато чакаш, носиш и много други отговорности. Претоварване и умора, но не можеш да спреш.",
+    "reading_advice": "Потърси облекчение, преди да се сринеш."
+  },
+  {
+    "reading_id": "four_wands_five_wands",
+    "reading_name": "Празник и конфликт",
+    "reading_cards": "4 Жезли + 5 Жезли",
+    "reading_combination": ["four_wands", "five_wands"],
+    "reading_meaning": "Радост, помрачена от спор",
+    "reading_description": "Празник или щастлив момент е помрачен от конфликт. Някой не може да се радва с теб.",
+    "reading_advice": "Не позволявай на споровете да развалят щастието ти."
+  },
+  {
+    "reading_id": "four_wands_six_wands",
+    "reading_name": "Празник на победата",
+    "reading_cards": "4 Жезли + 6 Жезли",
+    "reading_combination": ["four_wands", "six_wands"],
+    "reading_meaning": "Празнуваш успех",
+    "reading_description": "Победа и празник вървят ръка за ръка. Радост, задоволство, споделяне на успеха с близки.",
+    "reading_advice": "Празнувай, но утре те чакат нови предизвикателства."
+  },
+  {
+    "reading_id": "four_wands_seven_wands",
+    "reading_name": "Празник и защита",
+    "reading_cards": "4 Жезли + 7 Жезли",
+    "reading_combination": ["four_wands", "seven_wands"],
+    "reading_meaning": "Дори в радостта трябва да се браниш",
+    "reading_description": "Докато празнуваш, някой се опитва да ти попречи или да те нападне. Не позволявай това да развали момента.",
+    "reading_advice": "Пази радостта си. Не всеки я заслужава."
+  },
+  {
+    "reading_id": "four_wands_eight_wands",
+    "reading_name": "Бърз празник",
+    "reading_cards": "4 Жезли + 8 Жезли",
+    "reading_combination": ["four_wands", "eight_wands"],
+    "reading_meaning": "Радостта идва бързо",
+    "reading_description": "Щастливо събитие настъпва неочаквано бързо. Празник, за който не си имал време да се подготвиш.",
+    "reading_advice": "Приеми радостта такава, каквато идва - неподготвен, но щастлив."
+  },
+  {
+    "reading_id": "four_wands_nine_wands",
+    "reading_name": "Уморен празник",
+    "reading_cards": "4 Жезли + 9 Жезли",
+    "reading_combination": ["four_wands", "nine_wands"],
+    "reading_meaning": "Празнуваш, но си изтощен",
+    "reading_description": "Дори в момента на радост усещаш умората от битките, които си водил. Празник със смесени чувства.",
+    "reading_advice": "Позволи си да си починеш, дори когато празнуваш."
+  },
+  {
+    "reading_id": "four_wands_ten_wands",
+    "reading_name": "Тежък празник",
+    "reading_cards": "4 Жезли + 10 Жезли",
+    "reading_combination": ["four_wands", "ten_wands"],
+    "reading_meaning": "Празник под напрежение",
+    "reading_description": "Опитваш се да се радваш, но тежестта на отговорностите не ти позволява. Празник, който не е истински.",
+    "reading_advice": "Освободи се от част от бремето, за да можеш истински да се радваш."
+  },
+  {
+    "reading_id": "five_wands_six_wands",
+    "reading_name": "Конфликт и победа",
+    "reading_cards": "5 Жезли + 6 Жезли",
+    "reading_combination": ["five_wands", "six_wands"],
+    "reading_meaning": "След битката идва успехът",
+    "reading_description": "Премина през конфликти и сега пожънваш успех. Борбата си заслужаваше.",
+    "reading_advice": "Гордей се с това, което постигна. Не беше лесно."
+  },
+  {
+    "reading_id": "five_wands_seven_wands",
+    "reading_name": "Битка за позиция",
+    "reading_cards": "5 Жезли + 7 Жезли",
+    "reading_combination": ["five_wands", "seven_wands"],
+    "reading_meaning": "Защитаваш се в конфликт",
+    "reading_description": "В конфликтна ситуация трябва да защитаваш позицията си. Не отстъпвай, но и не нападай пръв.",
+    "reading_advice": "Дръж позицията си, но избери битките си мъдро."
+  },
+  {
+    "reading_id": "five_wands_eight_wands",
+    "reading_name": "Бърз конфликт",
+    "reading_cards": "5 Жезли + 8 Жезли",
+    "reading_combination": ["five_wands", "eight_wands"],
+    "reading_meaning": "Спорът ескалира бързо",
+    "reading_description": "Конфликтът се разраства неочаквано бързо. От малко недоразумение до голям скандал за миг.",
+    "reading_advice": "Преди да реагираш, преброй до десет. Бързите реакции рядко са мъдри."
+  },
+  {
+    "reading_id": "five_wands_nine_wands",
+    "reading_name": "Изтощителен конфликт",
+    "reading_cards": "5 Жезли + 9 Жезли",
+    "reading_combination": ["five_wands", "nine_wands"],
+    "reading_meaning": "Битката те изтощава",
+    "reading_description": "Продължителен конфликт започва да те изтощава. Умора, но не можеш да се откажеш.",
+    "reading_advice": "Потърси начин за примирие, преди да си загубил последните си сили."
+  },
+  {
+    "reading_id": "five_wands_ten_wands",
+    "reading_name": "Конфликт и бреме",
+    "reading_cards": "5 Жезли + 10 Жезли",
+    "reading_combination": ["five_wands", "ten_wands"],
+    "reading_meaning": "Споровете тежат",
+    "reading_description": "Конфликтите добавят тежест към и без това претоварения ти живот. Твърде много едновременно.",
+    "reading_advice": "Освободи се от ненужните битки. Не всяка битка си струва да се води."
+  },
+  {
+    "reading_id": "six_wands_seven_wands",
+    "reading_name": "Успех и защита",
+    "reading_cards": "6 Жезли + 7 Жезли",
+    "reading_combination": ["six_wands", "seven_wands"],
+    "reading_meaning": "Победа, която трябва да защитиш",
+    "reading_description": "Постигна успех, но веднага трябва да го защитаваш от нападки. Победата не ти носи мир.",
+    "reading_advice": "Не позволявай на другите да ти отнемат радостта от успеха."
+  },
+  {
+    "reading_id": "six_wands_eight_wands",
+    "reading_name": "Бърз успех",
+    "reading_cards": "6 Жезли + 8 Жезли",
+    "reading_combination": ["six_wands", "eight_wands"],
+    "reading_meaning": "Успехът идва бързо",
+    "reading_description": "Победата идва неочаквано бързо и леко. Почти не можеш да повярваш, че се случва.",
+    "reading_advice": "Приеми успеха с благодарност и смирение."
+  },
+  {
+    "reading_id": "six_wands_nine_wands",
+    "reading_name": "Уморен победител",
+    "reading_cards": "6 Жезли + 9 Жезли",
+    "reading_combination": ["six_wands", "nine_wands"],
+    "reading_meaning": "Победа, но си изтощен",
+    "reading_description": "Постигна успех, но цената беше висока. Чувстваш се повече изтощен, отколкото щастлив.",
+    "reading_advice": "Почини си. Заслужил си го."
+  },
+  {
+    "reading_id": "six_wands_ten_wands",
+    "reading_name": "Успех под напрежение",
+    "reading_cards": "6 Жезли + 10 Жезли",
+    "reading_combination": ["six_wands", "ten_wands"],
+    "reading_meaning": "Победа, но още тегоби",
+    "reading_description": "Успя, но все още носиш тежестта на отговорностите. Няма време за празнуване.",
+    "reading_advice": "Намери момент за себе си, дори и кратък."
+  },
+  {
+    "reading_id": "seven_wands_eight_wands",
+    "reading_name": "Бърза защита",
+    "reading_cards": "7 Жезли + 8 Жезли",
+    "reading_combination": ["seven_wands", "eight_wands"],
+    "reading_meaning": "Трябва да реагираш бързо",
+    "reading_description": "Нападение идва неочаквано и трябва да реагираш светкавично. Интуиция и бързина.",
+    "reading_advice": "Довери се на първия си импулс. Той обикновено е правилен."
+  },
+  {
+    "reading_id": "seven_wands_nine_wands",
+    "reading_name": "Изтощителна защита",
+    "reading_cards": "7 Жезли + 9 Жезли",
+    "reading_combination": ["seven_wands", "nine_wands"],
+    "reading_meaning": "Защитаваш се дълго",
+    "reading_description": "Дълго време се защитаваш от нападки и това започва да те изтощава. Колко още можеш да издържиш?",
+    "reading_advice": "Потърси съюзници. Сам си твърде уязвим."
+  },
+  {
+    "reading_id": "seven_wands_ten_wands",
+    "reading_name": "Тежка защита",
+    "reading_cards": "7 Жезли + 10 Жезли",
+    "reading_combination": ["seven_wands", "ten_wands"],
+    "reading_meaning": "Защита и бреме",
+    "reading_description": "Едновременно се защитаваш и носиш тежки отговорности. Претоварване, което те заплашва да те срине.",
+    "reading_advice": "Освободи се от нещо. Не можеш да правиш всичко наведнъж."
+  },
+  {
+    "reading_id": "eight_wands_nine_wands",
+    "reading_name": "Бързина и умора",
+    "reading_cards": "8 Жезли + 9 Жезли",
+    "reading_combination": ["eight_wands", "nine_wands"],
+    "reading_meaning": "Движиш се бързо, но си уморен",
+    "reading_description": "Скоростта, с която се движат нещата, те изтощава. Трябва да намериш баланс.",
+    "reading_advice": "Забави, за да не изгориш."
+  },
+  {
+    "reading_id": "eight_wands_ten_wands",
+    "reading_name": "Бързина и тежест",
+    "reading_cards": "8 Жезли + 10 Жезли",
+    "reading_combination": ["eight_wands", "ten_wands"],
+    "reading_meaning": "Бързаш, но носиш много",
+    "reading_description": "Опитваш се да се движиш бързо, но товарът ти пречи. Трябва да избереш - или скорост, или тежест.",
+    "reading_advice": "Освободи се от багажа, ако искаш да летиш."
+  },
+  {
+    "reading_id": "nine_wands_ten_wands",
+    "reading_name": "Последна битка",
+    "reading_cards": "9 Жезли + 10 Жезли",
+    "reading_combination": ["nine_wands", "ten_wands"],
+    "reading_meaning": "Изтощение преди финала",
+    "reading_description": "Ти си в последната битка, но си изтощен. Още малко и ще приключи, но трябва да издържиш.",
+    "reading_advice": "Мобилизирай последните си сили. Краят е близо."
+  },
+  {
+    "reading_id": "ace_cups_two_cups",
+    "reading_name": "Нова любов",
+    "reading_cards": "Асо Чаши + 2 Чаши",
+    "reading_combination": ["ace_cups", "two_cups"],
+    "reading_meaning": "Начало на връзка",
+    "reading_description": "Нова любов се заражда. Среща, която носи надежда и вълнение. Сърцето ти отново бие по-бързо.",
+    "reading_advice": "Отвори сърцето си и се наслади на момента."
+  },
+  {
+    "reading_id": "ace_cups_three_cups",
+    "reading_name": "Нова радост",
+    "reading_cards": "Асо Чаши + 3 Чаши",
+    "reading_combination": ["ace_cups", "three_cups"],
+    "reading_meaning": "Празник на чувствата",
+    "reading_description": "Нова емоция носи радост и празник. Щастие, което искаш да споделиш с другите.",
+    "reading_advice": "Сподели радостта си. Тя се умножава, когато я споделяш."
+  },
+  {
+    "reading_id": "ace_cups_four_cups",
+    "reading_name": "Нова възможност, пропусната",
+    "reading_cards": "Асо Чаши + 4 Чаши",
+    "reading_combination": ["ace_cups", "four_cups"],
+    "reading_meaning": "Предложение, което не виждаш",
+    "reading_description": "Нова любов или емоционална възможност се появява, но ти не я забелязваш. Заети си със себе си.",
+    "reading_advice": "Вдигни поглед. Може да пропускаш нещо важно."
+  },
+  {
+    "reading_id": "ace_cups_five_cups",
+    "reading_name": "Радост и тъга",
+    "reading_cards": "Асо Чаши + 5 Чаши",
+    "reading_combination": ["ace_cups", "five_cups"],
+    "reading_meaning": "Смесени чувства",
+    "reading_description": "Нова радост идва, но стара тъга все още тежи. Едновременно щастлив и тъжен.",
+    "reading_advice": "Позволи си да чувстваш и двете. Нормално е."
+  },
+  {
+    "reading_id": "ace_cups_six_cups",
+    "reading_name": "Носталгична любов",
+    "reading_cards": "Асо Чаши + 6 Чаши",
+    "reading_combination": ["ace_cups", "six_cups"],
+    "reading_meaning": "Нова любов, познато чувство",
+    "reading_description": "Срещаш някой, който ти напомня за миналото. Познато усещане, сякаш сте се познавали от винаги.",
+    "reading_advice": "Не бягай от миналото, но не позволявай то да определя бъдещето ти."
+  },
+  {
+    "reading_id": "ace_cups_seven_cups",
+    "reading_name": "Много възможности",
+    "reading_cards": "Асо Чаши + 7 Чаши",
+    "reading_combination": ["ace_cups", "seven_cups"],
+    "reading_meaning": "Избор между много",
+    "reading_description": "Много любовни възможности се появяват пред теб. Трудно е да избереш само една.",
+    "reading_advice": "Не се заблуждавай от блясъка. Истинското е по-просто."
+  },
+  {
+    "reading_id": "ace_cups_eight_cups",
+    "reading_name": "Нова любов и тръгване",
+    "reading_cards": "Асо Чаши + 8 Чаши",
+    "reading_combination": ["ace_cups", "eight_cups"],
+    "reading_meaning": "Любов, която те кара да тръгнеш",
+    "reading_description": "Нова любов те кара да оставиш старото зад гърба си. Тръгваш към нещо ново.",
+    "reading_advice": "Понякога трябва да оставиш нещо, за да получиш нещо по-добро."
+  },
+  {
+    "reading_id": "ace_cups_nine_cups",
+    "reading_name": "Сбъдната мечта",
+    "reading_cards": "Асо Чаши + 9 Чаши",
+    "reading_combination": ["ace_cups", "nine_cups"],
+    "reading_meaning": "Желанието се изпълнява",
+    "reading_description": "Любов, която си копнял, най-после идва. Мечтата ти се сбъдва.",
+    "reading_advice": "Наслади се на момента. Ти го заслужаваш."
+  },
+  {
+    "reading_id": "ace_cups_ten_cups",
+    "reading_name": "Пълно щастие",
+    "reading_cards": "Асо Чаши + 10 Чаши",
+    "reading_combination": ["ace_cups", "ten_cups"],
+    "reading_meaning": "Истинско семейно щастие",
+    "reading_description": "Нова любов води до пълно семейно щастие. Всичко, за което си мечтал, се сбъдва.",
+    "reading_advice": "Цени това, което имаш. То е рядкост."
+  },
+  {
+    "reading_id": "two_cups_three_cups",
+    "reading_name": "Любов и празник",
+    "reading_cards": "2 Чаши + 3 Чаши",
+    "reading_combination": ["two_cups", "three_cups"],
+    "reading_meaning": "Щастлива двойка",
+    "reading_description": "Двама души, които се обичат и празнуват заедно. Радост, смях, споделено щастие.",
+    "reading_advice": "Празнувайте любовта си. Тя заслужава да бъде чествана."
+  },
+  {
+    "reading_id": "two_cups_four_cups",
+    "reading_name": "Любов и неудовлетворение",
+    "reading_cards": "2 Чаши + 4 Чаши",
+    "reading_combination": ["two_cups", "four_cups"],
+    "reading_meaning": "Имаш любов, но не я цениш",
+    "reading_description": "Във връзка си, но не оценяваш какво имаш. Търсиш нещо повече, без да виждаш какво вече имаш.",
+    "reading_advice": "Спрете се и погледнете какво имате. Може да е повече, отколкото си мислите."
+  },
+  {
+    "reading_id": "two_cups_five_cups",
+    "reading_name": "Любов и загуба",
+    "reading_cards": "2 Чаши + 5 Чаши",
+    "reading_combination": ["two_cups", "five_cups"],
+    "reading_meaning": "Връзка, белязана от загуба",
+    "reading_description": "Обичаш, но си загубил нещо важно. Любов, смесена с тъга и копнеж.",
+    "reading_advice": "Позволете си да скърбите заедно. Това ще ви направи по-силни."
+  },
+  {
+    "reading_id": "two_cups_six_cups",
+    "reading_name": "Носталгична любов",
+    "reading_cards": "2 Чаши + 6 Чаши",
+    "reading_combination": ["two_cups", "six_cups"],
+    "reading_meaning": "Любов от миналото",
+    "reading_description": "Връзка, която ви връща в миналото. Носталгия, спомени, познати чувства.",
+    "reading_advice": "Ценете спомените, но живейте в настоящето."
+  },
+  {
+    "reading_id": "two_cups_seven_cups",
+    "reading_name": "Избор в любовта",
+    "reading_cards": "2 Чаши + 7 Чаши",
+    "reading_combination": ["two_cups", "seven_cups"],
+    "reading_meaning": "Много избори пред двойката",
+    "reading_description": "Като двойка сте изправени пред много избори и възможности. Трудно е да решите заедно.",
+    "reading_advice": "Говорете и избирайте заедно. Любовта изисква съгласие."
+  },
+  {
+    "reading_id": "two_cups_eight_cups",
+    "reading_name": "Любов и тръгване",
+    "reading_cards": "2 Чаши + 8 Чаши",
+    "reading_combination": ["two_cups", "eight_cups"],
+    "reading_meaning": "Единият иска да тръгне",
+    "reading_description": "В двойката единият иска да продължи напред, другият - да остане. Разминаване в посоките.",
+    "reading_advice": "Ако посоките ви са различни, може би е време да се разделите."
+  },
+  {
+    "reading_id": "two_cups_nine_cups",
+    "reading_name": "Сбъдната любов",
+    "reading_cards": "2 Чаши + 9 Чаши",
+    "reading_combination": ["two_cups", "nine_cups"],
+    "reading_meaning": "Любовта, за която мечтаеше",
+    "reading_description": "Връзката ви е точно това, за което си мечтал. Изпълнение на желанията.",
+    "reading_advice": "Радвай се и не спирай да работиш за връзката."
+  },
+  {
+    "reading_id": "two_cups_ten_cups",
+    "reading_name": "Съвършена двойка",
+    "reading_cards": "2 Чаши + 10 Чаши",
+    "reading_combination": ["two_cups", "ten_cups"],
+    "reading_meaning": "Щастие до края",
+    "reading_description": "Връзка, която носи пълно щастие и семейна хармония. Това е любов за цял живот.",
+    "reading_advice": "Ценете се един друг. Това, което имате, е безценно."
+  },
+  {
+    "reading_id": "three_cups_four_cups",
+    "reading_name": "Празник и скука",
+    "reading_cards": "3 Чаши + 4 Чаши",
+    "reading_combination": ["three_cups", "four_cups"],
+    "reading_meaning": "Празник, който не те радва",
+    "reading_description": "Около теб има празник, но ти не усещаш радост. Сякаш нещо липсва.",
+    "reading_advice": "Потърси причината вътре в себе си, не вън от теб."
+  },
+  {
+    "reading_id": "three_cups_five_cups",
+    "reading_name": "Празник и тъга",
+    "reading_cards": "3 Чаши + 5 Чаши",
+    "reading_combination": ["three_cups", "five_cups"],
+    "reading_meaning": "Смесени емоции",
+    "reading_description": "Празнуваш, но в сърцето ти има тъга. Радост и болка едновременно.",
+    "reading_advice": "Позволи си да чувстваш всичко. Нормално е."
+  },
+  {
+    "reading_id": "three_cups_six_cups",
+    "reading_name": "Празник на спомените",
+    "reading_cards": "3 Чаши + 6 Чаши",
+    "reading_combination": ["three_cups", "six_cups"],
+    "reading_meaning": "Събиране на стари приятели",
+    "reading_description": "Празник със стари приятели или семейство. Носталгия, спомени, топлина.",
+    "reading_advice": "Цени тези моменти. Те са безценни."
+  },
+  {
+    "reading_id": "three_cups_seven_cups",
+    "reading_name": "Много избори за забавление",
+    "reading_cards": "3 Чаши + 7 Чаши",
+    "reading_combination": ["three_cups", "seven_cups"],
+    "reading_meaning": "Твърде много възможности",
+    "reading_description": "Много покани, много възможности за забавление. Трудно е да избереш.",
+    "reading_advice": "Избери това, което те прави истински щастлив."
+  },
+  {
+    "reading_id": "three_cups_eight_cups",
+    "reading_name": "Празник и раздяла",
+    "reading_cards": "3 Чаши + 8 Чаши",
+    "reading_combination": ["three_cups", "eight_cups"],
+    "reading_meaning": "След празника идва сбогуване",
+    "reading_description": "Празнуваш, но знаеш, че скоро ще се разделиш с тези хора. Тъжна радост.",
+    "reading_advice": "Наслади се на момента. Той няма да се повтори."
+  },
+  {
+    "reading_id": "three_cups_nine_cups",
+    "reading_name": "Сбъднато желание",
+    "reading_cards": "3 Чаши + 9 Чаши",
+    "reading_combination": ["three_cups", "nine_cups"],
+    "reading_meaning": "Празнуваш сбъдната мечта",
+    "reading_description": "Мечтата ти се сбъдна и празнуваш с любими хора. Пълно щастие.",
+    "reading_advice": "Наслади се на успеха. Ти го заслужи."
+  },
+  {
+    "reading_id": "three_cups_ten_cups",
+    "reading_name": "Семеен празник",
+    "reading_cards": "3 Чаши + 10 Чаши",
+    "reading_combination": ["three_cups", "ten_cups"],
+    "reading_meaning": "Щастие със семейството",
+    "reading_description": "Празник със семейството - сватба, рожден ден, годишнина. Радост и благодарност.",
+    "reading_advice": "Семейството е най-ценното. Бъди благодарен."
+  },
+  {
+    "reading_id": "four_cups_five_cups",
+    "reading_name": "Неудовлетворение и тъга",
+    "reading_cards": "4 Чаши + 5 Чаши",
+    "reading_combination": ["four_cups", "five_cups"],
+    "reading_meaning": "Нищо не те радва",
+    "reading_description": "Чувстваш се неудовлетворен и тъжен, въпреки че имаш много. Нищо не носи радост.",
+    "reading_advice": "Потърси причината вътре в себе си. Външният свят не може да те направи щастлив."
+  },
+  {
+    "reading_id": "four_cups_six_cups",
+    "reading_name": "Носталгия и неудовлетворение",
+    "reading_cards": "4 Чаши + 6 Чаши",
+    "reading_combination": ["four_cups", "six_cups"],
+    "reading_meaning": "Търсиш щастието в миналото",
+    "reading_description": "Настоящето не те радва и се връщаш към спомените за по-щастливи времена.",
+    "reading_advice": "Миналото е хубаво за спомен, но не живей в него."
+  },
+  {
+    "reading_id": "four_cups_seven_cups",
+    "reading_name": "Много илюзии",
+    "reading_cards": "4 Чаши + 7 Чаши",
+    "reading_combination": ["four_cups", "seven_cups"],
+    "reading_meaning": "Търсиш в грешните посоки",
+    "reading_description": "Неудовлетворен си и търсиш щастието в илюзии и фантазии. Бягство от реалността.",
+    "reading_advice": "Слез на земята. Истинското щастие е в реалния живот."
+  },
+  {
+    "reading_id": "four_cups_eight_cups",
+    "reading_name": "Тръгваш от празнота",
+    "reading_cards": "4 Чаши + 8 Чаши",
+    "reading_combination": ["four_cups", "eight_cups"],
+    "reading_meaning": "Напускаш, защото нищо не те задържа",
+    "reading_description": "Решаваш да тръгнеш, защото настоящето не те удовлетворява. Търсиш нещо повече.",
+    "reading_advice": "Понякога тръгването е най-доброто решение."
+  },
+  {
+    "reading_id": "four_cups_nine_cups",
+    "reading_name": "Мечта, която не виждаш",
+    "reading_cards": "4 Чаши + 9 Чаши",
+    "reading_combination": ["four_cups", "nine_cups"],
+    "reading_meaning": "Желанието ти е пред теб, но не го виждаш",
+    "reading_description": "Това, за което мечтаеш, е точно пред теб, но ти не го забелязваш. Твърде си зает със себе си.",
+    "reading_advice": "Вдигни поглед. Щастието ти е съвсем близо."
+  },
+  {
+    "reading_id": "four_cups_ten_cups",
+    "reading_name": "Имаш всичко, но не го цениш",
+    "reading_cards": "4 Чаши + 10 Чаши",
+    "reading_combination": ["four_cups", "ten_cups"],
+    "reading_meaning": "Не виждаш щастието си",
+    "reading_description": "Имаш всичко за пълно щастие, но не го осъзнаваш. Търсиш нещо, което вече имаш.",
+    "reading_advice": "Спрете се и благодарете за това, което имате."
+  },
+  {
+    "reading_id": "five_cups_six_cups",
+    "reading_name": "Тъга и носталгия",
+    "reading_cards": "5 Чаши + 6 Чаши",
+    "reading_combination": ["five_cups", "six_cups"],
+    "reading_meaning": "Тъга по миналото",
+    "reading_description": "Тъжен си и се връщаш към спомените за по-щастливи времена. Носталгия и болка.",
+    "reading_advice": "Позволи си да скърбиш, но не оставай там."
+  },
+  {
+    "reading_id": "five_cups_seven_cups",
+    "reading_name": "Тъга и илюзии",
+    "reading_cards": "5 Чаши + 7 Чаши",
+    "reading_combination": ["five_cups", "seven_cups"],
+    "reading_meaning": "Бягаш от болката в мечти",
+    "reading_description": "Болката те кара да бягаш в свят на илюзии и фантазии. Временно облекчение.",
+    "reading_advice": "Изправи се пред болката. Тя е единственият път към изцеление."
+  },
+  {
+    "reading_id": "five_cups_eight_cups",
+    "reading_name": "Тръгваш от тъгата",
+    "reading_cards": "5 Чаши + 8 Чаши",
+    "reading_combination": ["five_cups", "eight_cups"],
+    "reading_meaning": "Напускаш, защото те боли",
+    "reading_description": "Болката те кара да тръгнеш и да оставиш всичко зад гърба си. Ново начало.",
+    "reading_advice": "Понякога тръгването е единственият начин да се излекуваш."
+  },
+  {
+    "reading_id": "five_cups_nine_cups",
+    "reading_name": "Тъга и желание",
+    "reading_cards": "5 Чаши + 9 Чаши",
+    "reading_combination": ["five_cups", "nine_cups"],
+    "reading_meaning": "Копнеж за щастие",
+    "reading_description": "Тъжен си, но силно желаеш да бъдеш щастлив. Мечтаеш за по-добри дни.",
+    "reading_advice": "Желанието ти е първата стъпка към изпълнението му."
+  },
+  {
+    "reading_id": "five_cups_ten_cups",
+    "reading_name": "Тъга и семейство",
+    "reading_cards": "5 Чаши + 10 Чаши",
+    "reading_combination": ["five_cups", "ten_cups"],
+    "reading_meaning": "Тъга в семейството",
+    "reading_description": "Семейно щастие е помрачено от тъга или загуба. Радост и болка заедно.",
+    "reading_advice": "Дръжте се един за друг. Заедно сте по-силни."
+  },
+  {
+    "reading_id": "six_cups_seven_cups",
+    "reading_name": "Носталгия и илюзии",
+    "reading_cards": "6 Чаши + 7 Чаши",
+    "reading_combination": ["six_cups", "seven_cups"],
+    "reading_meaning": "Идеализираш миналото",
+    "reading_description": "Връщаш се към миналото и го виждаш през розови очила. Не беше толкова идеално.",
+    "reading_advice": "Помни миналото, но не го идеализирай."
+  },
+  {
+    "reading_id": "six_cups_eight_cups",
+    "reading_name": "Тръгваш от миналото",
+    "reading_cards": "6 Чаши + 8 Чаши",
+    "reading_combination": ["six_cups", "eight_cups"],
+    "reading_meaning": "Оставяш спомените",
+    "reading_description": "Решаваш да оставиш миналото зад гърба си и да тръгнеш напред. Освобождаване.",
+    "reading_advice": "Носи наученото, остави болката."
+  },
+  {
+    "reading_id": "six_cups_nine_cups",
+    "reading_name": "Спомен за мечта",
+    "reading_cards": "6 Чаши + 9 Чаши",
+    "reading_combination": ["six_cups", "nine_cups"],
+    "reading_meaning": "Спомняш си сбъдната мечта",
+    "reading_description": "Връщаш се към спомен за момент, в който мечтата ти се е сбъднала. Топлина и носталгия.",
+    "reading_advice": "Благодари на миналото за хубавите моменти."
+  },
+  {
+    "reading_id": "six_cups_ten_cups",
+    "reading_name": "Семейни спомени",
+    "reading_cards": "6 Чаши + 10 Чаши",
+    "reading_combination": ["six_cups", "ten_cups"],
+    "reading_meaning": "Носталгия по семейството",
+    "reading_description": "Връщаш се към спомени за семейни празници и щастливи моменти с близките.",
+    "reading_advice": "Цени тези спомени. Те са част от теб."
+  },
+  {
+    "reading_id": "seven_cups_eight_cups",
+    "reading_name": "Илюзии и тръгване",
+    "reading_cards": "7 Чаши + 8 Чаши",
+    "reading_combination": ["seven_cups", "eight_cups"],
+    "reading_meaning": "Бягаш от реалността",
+    "reading_description": "Тръгваш, защото реалността не те удовлетворява, но бягаш в илюзии, не в истинска промяна.",
+    "reading_advice": "Увери се, че тръгваш към нещо реално, а не към поредната илюзия."
+  },
+  {
+    "reading_id": "seven_cups_nine_cups",
+    "reading_name": "Илюзорна мечта",
+    "reading_cards": "7 Чаши + 9 Чаши",
+    "reading_combination": ["seven_cups", "nine_cups"],
+    "reading_meaning": "Желание, което не е реално",
+    "reading_description": "Копнееш за нещо, което съществува само във въображението ти. Мечта, която няма да се сбъдне.",
+    "reading_advice": "Провери дали желанието ти е реално или просто бягство."
+  },
+  {
+    "reading_id": "seven_cups_ten_cups",
+    "reading_name": "Илюзия за щастие",
+    "reading_cards": "7 Чаши + 10 Чаши",
+    "reading_combination": ["seven_cups", "ten_cups"],
+    "reading_meaning": "Мислиш, че си щастлив, но не си",
+    "reading_description": "Представата ти за щастие не съвпада с реалността. Живееш в илюзия.",
+    "reading_advice": "Събуди се. Истинското щастие е различно."
+  },
+  {
+    "reading_id": "eight_cups_nine_cups",
+    "reading_name": "Тръгваш след мечта",
+    "reading_cards": "8 Чаши + 9 Чаши",
+    "reading_combination": ["eight_cups", "nine_cups"],
+    "reading_meaning": "Оставяш всичко за мечтата",
+    "reading_description": "Решаваш да тръгнеш след мечтата си, дори това да означава да оставиш всичко познато.",
+    "reading_advice": "Следвай мечтата си, но знай, че пътят няма да е лесен."
+  },
+  {
+    "reading_id": "eight_cups_ten_cups",
+    "reading_name": "Тръгваш от щастие",
+    "reading_cards": "8 Чаши + 10 Чаши",
+    "reading_combination": ["eight_cups", "ten_cups"],
+    "reading_meaning": "Напускаш щастието",
+    "reading_description": "Оставяш зад гърба си семейно щастие и сигурност, за да тръгнеш по нов път. Риск.",
+    "reading_advice": "Убеди се, че си готов за тази промяна."
+  },
+  {
+    "reading_id": "nine_cups_ten_cups",
+    "reading_name": "Сбъдната мечта и щастие",
+    "reading_cards": "9 Чаши + 10 Чаши",
+    "reading_combination": ["nine_cups", "ten_cups"],
+    "reading_meaning": "Пълно емоционално удовлетворение",
+    "reading_description": "Мечтата ти се сбъдна и носи пълно семейно щастие. Всичко, за което си копнял.",
+    "reading_advice": "Наслаждавай се и бъди благодарен. Ти си благословен."
   }
-
-
 ];
+
+
