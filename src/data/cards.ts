@@ -3741,6 +3741,1130 @@ export const readings = [
     "reading_meaning": "Спомен за други светове",
     "reading_description": "Чувстваш, че не си от този свят. Носталгия по звездите, спомени за други планети, усещане за извънземен произход.",
     "reading_advice": "Ти си тук с мисия. Открий каква е и я изпълни. Семената на звездите носят светлина на Земята."
+  },
+    {
+    "reading_id": "love_confession",
+    "reading_name": "Признание в любов",
+    "reading_cards": "Асо Чаши + 3 Чаши + Слънце",
+    "reading_combination": ["ace_cups", "three_cups", "sun"],
+    "reading_meaning": "Някой ще ти признае любов",
+    "reading_description": "Очаквай неочаквано признание в любов. Някой дълго е крил чувствата си и най-накрая намира смелост да ги разкрие.",
+    "reading_advice": "Изслушай с отворено сърце. Дори отговорът ти да е 'не', бъди нежен - признанието изисква смелост."
+  },
+  {
+    "reading_id": "love_failure",
+    "reading_name": "Разочарование в любовта",
+    "reading_cards": "3 Мечове + 5 Чаши + 8 Чаши",
+    "reading_combination": ["three_swords", "five_cups", "eight_cups"],
+    "reading_meaning": "Болка от отхвърляне",
+    "reading_description": "Чувстваш се отхвърлен, неразбран и самотен. Любовта не се получи така, както си мечтал. Болката е истинска.",
+    "reading_advice": "Позволи си да скърбиш, но не се заключвай в тъгата. След всяка загуба идва ново начало."
+  },
+  {
+    "reading_id": "love_maturity",
+    "reading_name": "Зряла любов",
+    "reading_cards": "2 Чаши + Умереност + 10 Чаши",
+    "reading_combination": ["two_cups", "temperance", "ten_cups"],
+    "reading_meaning": "Любов след години",
+    "reading_description": "Връзка, която е издържала изпитанието на времето. Спокойна, сигурна, задълбочена - любов, която не се нуждае от драма.",
+    "reading_advice": "Ценете се един друг. Това, което имате, е рядкост - истинска, зряла любов."
+  },
+  {
+    "reading_id": "love_obsession",
+    "reading_name": "Обсебваща любов",
+    "reading_cards": "Дявол + 7 Мечове + 9 Мечове",
+    "reading_combination": ["devil", "seven_swords", "nine_swords"],
+    "reading_meaning": "Нездрава привързаност",
+    "reading_description": "Любовта ти прилича повече на обсебване. Ревност, контрол, страх от загуба. Това не е любов, а зависимост.",
+    "reading_advice": "Освободи се от веригите, дори да боли. Нездравата любов унищожава и двамата."
+  },
+  {
+    "reading_id": "love_rejection",
+    "reading_name": "Отхвърляне",
+    "reading_cards": "3 Мечове + 5 Чаши + 8 Мечове",
+    "reading_combination": ["three_swords", "five_cups", "eight_swords"],
+    "reading_meaning": "Чувстваш се нежелан",
+    "reading_description": "Чувстваш се отхвърлен и нежелан. Сякаш не си достатъчно добър. Болката те парализира.",
+    "reading_advice": "Тяхното 'не' не определя твоята стойност. Някой ден някой ще каже 'да' точно на теб."
+  },
+  {
+    "reading_id": "love_vacation",
+    "reading_name": "Ваканционен романс",
+    "reading_cards": "8 Жезли + 3 Чаши + 6 Чаши",
+    "reading_combination": ["eight_wands", "three_cups", "six_cups"],
+    "reading_meaning": "Любов по време на почивка",
+    "reading_description": "По време на почивка или пътуване ще преживееш кратък, но интензивен романс. Среща, която остава спомен за цял живот.",
+    "reading_advice": "Наслаждавай се на момента, без очаквания за бъдеще. Някои неща са красиви точно защото са кратки."
+  },
+  {
+    "reading_id": "love_home",
+    "reading_name": "Домашен уют в любовта",
+    "reading_cards": "4 Жезли + 10 Чаши + 9 Пентакли",
+    "reading_combination": ["four_wands", "ten_cups", "nine_pentacles"],
+    "reading_meaning": "Щастие в ежедневието",
+    "reading_description": "Щастието не е в големите жестове, а в малките моменти - закуска заедно, филм в събота, разходка в парка. Това е истинската любов.",
+    "reading_advice": "Не търси драма и страст на всяка цена. Тихите води са най-дълбоки."
+  },
+  {
+    "reading_id": "love_distance",
+    "reading_name": "Любов през океан",
+    "reading_cards": "8 Чаши + 2 Чаши + 6 Мечове",
+    "reading_combination": ["eight_cups", "two_cups", "six_swords"],
+    "reading_meaning": "Връзка през континенти",
+    "reading_description": "Любов, разделена от хиляди километри и часови разлики. Срещите са редки, но емоцията е силна.",
+    "reading_advice": "Планирайте следващата среща още щом се разделите. Надеждата е това, което държи връзката жива."
+  },
+  {
+    "reading_id": "love_break_upside",
+    "reading_name": "Положителна страна на раздялата",
+    "reading_cards": "8 Чаши + Звезда + Асо Чаши",
+    "reading_combination": ["eight_cups", "star", "ace_cups"],
+    "reading_meaning": "След раздяла идва ново начало",
+    "reading_description": "Раздялата, колкото и да боли, ти отваря врата за нещо ново. Освобождаваш място за човек, който наистина те заслужава.",
+    "reading_advice": "Благодари на миналото за уроците и отвори сърце за бъдещето. Най-доброто тепърва предстои."
+  },
+  {
+    "reading_id": "love_compromise",
+    "reading_name": "Компромис в любовта",
+    "reading_cards": "2 Пентакли + 2 Чаши + Умереност",
+    "reading_combination": ["two_pentacles", "two_cups", "temperance"],
+    "reading_meaning": "Даване и вземане",
+    "reading_description": "Връзката изисква компромиси и от двамата. Баланс между 'аз' и 'ние', между твоите и неговите нужди.",
+    "reading_advice": "Компромисът не означава да се пречупиш. Означава да намериш средата, в която и двамата сте щастливи."
+  },
+  {
+    "reading_id": "love_fight",
+    "reading_name": "Любовна кавга",
+    "reading_cards": "5 Жезли + 3 Мечове + 2 Чаши",
+    "reading_combination": ["five_wands", "three_swords", "two_cups"],
+    "reading_meaning": "Спор с любимия",
+    "reading_description": "Предстои ви кавга с любимия човек. Думи, които ще наранят, напрежение, което тежи. Но това е част от връзката.",
+    "reading_advice": "Не казвай неща, които после ще съжаляваш. След бурята винаги идва спокойствие."
+  },
+  {
+    "reading_id": "love_make_up",
+    "reading_name": "Помирение след кавга",
+    "reading_cards": "2 Чаши + 6 Чаши + Слънце",
+    "reading_combination": ["two_cups", "six_cups", "sun"],
+    "reading_meaning": "Сладко помирение",
+    "reading_description": "След кавгата идва най-сладката част - помирението. Прегръдки, сълзи, разбиране и любов, която е още по-силна.",
+    "reading_advice": "Използвайте конфликтите, за да се опознаете по-добре. Всяка преодоляна криза ви прави по-силни."
+  },
+  {
+    "reading_id": "love_proposal_reject",
+    "reading_name": "Отказ на предложение",
+    "reading_cards": "3 Мечове + 5 Чаши + Справедливост",
+    "reading_combination": ["three_swords", "five_cups", "justice"],
+    "reading_meaning": "Казаха 'не'",
+    "reading_description": "Предложението ти за брак или обвързване беше отказано. Болка, унижение, разочарование. Светът ти се срива.",
+    "reading_advice": "Това не е край, а пренасочване. Някой ден ще срещнеш човек, който ще каже 'да' без колебание."
+  },
+  {
+    "reading_id": "love_second_chance",
+    "reading_name": "Втори шанс",
+    "reading_cards": "6 Чаши + 2 Чаши + Умереност",
+    "reading_combination": ["six_cups", "two_cups", "temperance"],
+    "reading_meaning": "Опитвате отново",
+    "reading_description": "Решавате да дадете втори шанс на връзката си. Този път и двамата сте по-зрели, по-мъдри и по-наясно какво искате.",
+    "reading_advice": "Простете истински и започнете на чисто. Носенето на стари рани ще убие и втория шанс."
+  },
+  {
+    "reading_id": "love_independence",
+    "reading_name": "Независимост в любовта",
+    "reading_cards": "9 Пентакли + 2 Чаши + 4 Мечове",
+    "reading_combination": ["nine_pentacles", "two_cups", "four_swords"],
+    "reading_meaning": "Обичаш, но си свободен",
+    "reading_description": "Намерил си баланса между любов и лична свобода. Обичаш, но не си зависим. Това е зрялата любов.",
+    "reading_advice": "Цени тази динамика. Тя е рядка и ценна."
+  },  {
+    "reading_id": "family_dinner",
+    "reading_name": "Семейна вечеря",
+    "reading_cards": "3 Чаши + 4 Жезли + 10 Чаши",
+    "reading_combination": ["three_cups", "four_wands", "ten_cups"],
+    "reading_meaning": "Всички заедно",
+    "reading_description": "Семейна вечеря или събиране, на което всички присъстват. Смях, спомени, любими ястия и усещане за принадлежност.",
+    "reading_advice": "Остави телефона и бъди истински там. Тези моменти няма да се повторят."
+  },
+  {
+    "reading_id": "family_crisis",
+    "reading_name": "Семейна криза",
+    "reading_cards": "Кула + 5 Чаши + 3 Мечове",
+    "reading_combination": ["tower", "five_cups", "three_swords"],
+    "reading_meaning": "Сериозен проблем в семейството",
+    "reading_description": "Семейството преминава през тежка криза - болест, загуба, скандал, раздяла. Всичко се променя.",
+    "reading_advice": "Дръжте се един за друг. В криза семейството или се разпада, или става по-силно."
+  },
+  {
+    "reading_id": "family_support",
+    "reading_name": "Подкрепа от семейството",
+    "reading_cards": "6 Пентакли + 10 Чаши + 4 Жезли",
+    "reading_combination": ["six_pentacles", "ten_cups", "four_wands"],
+    "reading_meaning": "Семейството те подкрепя",
+    "reading_description": "В труден момент семейството застава зад теб. Финансова помощ, емоционална подкрепа, подслон - те са там.",
+    "reading_advice": "Приеми помощта с благодарност. Някой ден ще имаш възможност да върнеш жеста."
+  },
+  {
+    "reading_id": "family_estrangement",
+    "reading_name": "Отчуждение от семейството",
+    "reading_cards": "8 Чаши + 5 Чаши + 3 Мечове",
+    "reading_combination": ["eight_cups", "five_cups", "three_swords"],
+    "reading_meaning": "Прекъсване на връзка с роднини",
+    "reading_description": "Решаваш да прекъснеш връзка с част от семейството си. Трудно решение, но необходимо за твоето здраве и мир.",
+    "reading_advice": "Не се чувствай виновен. Понякога най-здравословното нещо е да се отдалечиш от токсичните хора, дори да са роднини."
+  },
+  {
+    "reading_id": "sibling_rivalry",
+    "reading_name": "Съперничество с брат/сестра",
+    "reading_cards": "5 Жезли + 5 Мечове + 7 Мечове",
+    "reading_combination": ["five_wands", "five_swords", "seven_swords"],
+    "reading_meaning": "Конфликт с брат или сестра",
+    "reading_description": "Конфликт с брат или сестра - стари съперничества, ревност, неразрешени спорове от детството излизат на повърхността.",
+    "reading_advice": "Опитайте се да говорите като възрастни. Детските съперничества нямат място в зрелия живот."
+  },
+  {
+    "reading_id": "sibling_bond",
+    "reading_name": "Задруга с брат/сестра",
+    "reading_cards": "3 Чаши + 6 Чаши + 10 Чаши",
+    "reading_combination": ["three_cups", "six_cups", "ten_cups"],
+    "reading_meaning": "Силна връзка с брат/сестра",
+    "reading_description": "Засилване на връзката с брат или сестра. Споделяне, подкрепа, общи спомени и радостта да имаш човек, който те познава от винаги.",
+    "reading_advice": "Ценете тази връзка. Братята и сестрите са единствените хора, които са били с теб през целия ти път."
+  },
+  {
+    "reading_id": "parents_aging",
+    "reading_name": "Застаряващи родители",
+    "reading_cards": "5 Пентакли + 4 Мечове + 10 Пентакли",
+    "reading_combination": ["five_pentacles", "four_swords", "ten_pentacles"],
+    "reading_meaning": "Грижа за възрастни родители",
+    "reading_description": "Родителите ти застаряват и имат нужда от повече грижи. Обръщане на ролите - ти ставаш родител на своите родители.",
+    "reading_advice": "Бъди търпелив и благодарен. Те са се грижили за теб - сега е твой ред."
+  },
+  {
+    "reading_id": "parents_divorce_late",
+    "reading_name": "Развод на родители",
+    "reading_cards": "Кула + 3 Мечове + 5 Чаши",
+    "reading_combination": ["tower", "three_swords", "five_cups"],
+    "reading_meaning": "Родителите се разделят",
+    "reading_description": "Родителите ти се разделят или развеждат, въпреки че си възрастен. Това разтърсва представата ти за семейство.",
+    "reading_advice": "Не заставай на страна. Те остават твои родители, дори вече да не са двойка."
+  },
+  {
+    "reading_id": "family_addiction",
+    "reading_name": "Зависимост в семейството",
+    "reading_cards": "Дявол + 5 Пентакли + 9 Мечове",
+    "reading_combination": ["devil", "five_pentacles", "nine_swords"],
+    "reading_meaning": "Проблем с алкохол/наркотици",
+    "reading_description": "Някой в семейството има проблем със зависимости - алкохол, хазарт, наркотици. Това засяга всички.",
+    "reading_advice": "Потърси помощ - Анонимни алкохолици, терапия, консултации. Не можеш да спасиш човек, който не иска да бъде спасен."
+  },
+  {
+    "reading_id": "family_intervention",
+    "reading_name": "Интервенция",
+    "reading_cards": "Справедливост + 5 Мечове + 8 Мечове",
+    "reading_combination": ["justice", "five_swords", "eight_swords"],
+    "reading_meaning": "Семейството се намесва",
+    "reading_description": "Семейството организира интервенция за член със зависимости или проблеми. Труден, но необходим разговор.",
+    "reading_advice": "Говорете с любов, не с обвинения. Целта е да помогнете, не да накажете."
+  },
+  {
+    "reading_id": "family_secret_revealed",
+    "reading_name": "Разкрита семейна тайна",
+    "reading_cards": "Луна + 7 Мечове + Съд",
+    "reading_combination": ["moon", "seven_swords", "judgement"],
+    "reading_meaning": "Тайна излиза наяве",
+    "reading_description": "Семейна тайна, пазена с години, най-после излиза наяве. Рождение, осиновяване, изневяра, престъпление - истината вече не може да се крие.",
+    "reading_advice": "Истината лекува, дори да боли. След като всичко излезе наяве, можете да започнете да лекувате раните."
+  },
+  {
+    "reading_id": "family_forgiveness",
+    "reading_name": "Прошка в семейството",
+    "reading_cards": "6 Чаши + Умереност + 10 Чаши",
+    "reading_combination": ["six_cups", "temperance", "ten_cups"],
+    "reading_meaning": "Помирение след дълго време",
+    "reading_description": "След години на отчуждение идва прошката и помирението. Семейството отново се събира, старите рани заздравяват.",
+    "reading_advice": "Прости, дори да не забравиш. Носенето на омраза тежи само на теб."
+  },
+  {
+    "reading_id": "child_school",
+    "reading_name": "Детето тръгва на училище",
+    "reading_cards": "8 Пентакли + 4 Жезли + 6 Жезли",
+    "reading_combination": ["eight_pentacles", "four_wands", "six_wands"],
+    "reading_meaning": "Първи учебен ден",
+    "reading_description": "Детето ти тръгва на училище за първи път. Гордост, тъга, притеснение - емоционален микс от чувства.",
+    "reading_advice": "Наслади се на този преход. Той бележи израстването на детето ти и твоето като родител."
+  },
+  {
+    "reading_id": "child_teen",
+    "reading_name": "Тийнейджърски години",
+    "reading_cards": "5 Жезли + 7 Мечове + Луна",
+    "reading_combination": ["five_wands", "seven_swords", "moon"],
+    "reading_meaning": "Бунтарски период",
+    "reading_description": "Детето ти навлиза в тийнейджърските години - бунт, тайни, промени в настроението. Труден период за цялото семейство.",
+    "reading_advice": "Бъди търпелив и присъстващ. Колкото и да се бунтува, той/тя все още има нужда от теб."
+  },
+  {
+    "reading_id": "child_graduate",
+    "reading_name": "Завършване на детето",
+    "reading_cards": "6 Жезли + 10 Пентакли + Свят",
+    "reading_combination": ["six_wands", "ten_pentacles", "world"],
+    "reading_meaning": "Гордост от детето",
+    "reading_description": "Детето ти завършва образование, постига успех. Гордост, щастие, вълнение - трудът ти се отплаща.",
+    "reading_advice": "Празнувай този успех заедно. Това е и твой успех като родител."
+  },
+    {
+    "reading_id": "business_plan",
+    "reading_name": "Бизнес план",
+    "reading_cards": "Асо Жезли + 8 Пентакли + Император",
+    "reading_combination": ["ace_wands", "eight_pentacles", "emperor"],
+    "reading_meaning": "Създаване на бизнес план",
+    "reading_description": "Разработваш детайлен бизнес план за нова идея или проект. Структура, анализи, прогнози - всичко е на място.",
+    "reading_advice": "Добрият план е половината успех. Инвестирай време в детайлите."
+  },
+  {
+    "reading_id": "business_pitch",
+    "reading_name": "Представяне на идея",
+    "reading_cards": "Магьосник + 6 Жезли + 8 Жезли",
+    "reading_combination": ["magician", "six_wands", "eight_wands"],
+    "reading_meaning": "Успешно презентиране",
+    "reading_description": "Предстои ти представяне на бизнес идея пред инвеститори или партньори. Ще впечатлиш и ще получиш зелена светлина.",
+    "reading_advice": "Вярвай в идеята си и говори със страст. Убедеността ти е заразителна."
+  },
+  {
+    "reading_id": "business_competition",
+    "reading_name": "Конкуренция",
+    "reading_cards": "5 Жезли + 7 Мечове + 5 Мечове",
+    "reading_combination": ["five_wands", "seven_swords", "five_swords"],
+    "reading_meaning": "Борба с конкуренти",
+    "reading_description": "Конкуренцията в бранша се засилва. Някой се опитва да ти вземе клиенти, идеи или пазарен дял.",
+    "reading_advice": "Наблюдавай конкурентите, но не се фиксирай върху тях. Фокусирай се върху собственото си развитие."
+  },
+  {
+    "reading_id": "business_innovation",
+    "reading_name": "Иновация",
+    "reading_cards": "Асо Жезли + Магьосник + Слънце",
+    "reading_combination": ["ace_wands", "magician", "sun"],
+    "reading_meaning": "Новаторска идея",
+    "reading_description": "Хрумва ти иновативна идея, която може да промени бизнеса ти. Творчество, вдъхновение, уникалност.",
+    "reading_advice": "Действай бързо, докато идеята е свежа. Иновациите не чакат."
+  },
+  {
+    "reading_id": "business_expansion",
+    "reading_name": "Разширяване на бизнес",
+    "reading_cards": "8 Жезли + 10 Пентакли + Свят",
+    "reading_combination": ["eight_wands", "ten_pentacles", "world"],
+    "reading_meaning": "Излизане на нови пазари",
+    "reading_description": "Бизнесът ти се разширява - нови локации, нови пазари, нови продукти. Растеж и развитие.",
+    "reading_advice": "Разширявай се внимателно и обмислено. Бързият растеж крие рискове."
+  },
+  {
+    "reading_id": "business_downsize",
+    "reading_name": "Свиване на бизнес",
+    "reading_cards": "5 Пентакли + 8 Мечове + 10 Жезли",
+    "reading_combination": ["five_pentacles", "eight_swords", "ten_wands"],
+    "reading_meaning": "Намаляване на мащаба",
+    "reading_description": "Наложено е да свиеш бизнеса си - съкращения, затваряне на офиси, намаляване на разходи. Труден период.",
+    "reading_advice": "Прави каквото трябва, за да оцелееш. По-малкото може да бъде по-добро."
+  },
+  {
+    "reading_id": "business_sale",
+    "reading_name": "Продажба на бизнес",
+    "reading_cards": "10 Пентакли + 6 Жезли + Свят",
+    "reading_combination": ["ten_pentacles", "six_wands", "world"],
+    "reading_meaning": "Успешна продажба",
+    "reading_description": "Продаваш бизнеса си след години труд. Добра цена, доволни купувачи, чувство на завършеност.",
+    "reading_advice": "Наслади се на постижението. Ти построи нещо ценно."
+  },
+  {
+    "reading_id": "business_buy",
+    "reading_name": "Закупуване на бизнес",
+    "reading_cards": "Асо Пентакли + 4 Пентакли + 10 Пентакли",
+    "reading_combination": ["ace_pentacles", "four_pentacles", "ten_pentacles"],
+    "reading_meaning": "Придобиване на компания",
+    "reading_description": "Закупуваш съществуващ бизнес или дял от компания. Инвестиция в нещо вече изградено.",
+    "reading_advice": "Провери добре финансите и дълговете. Купуваш не само активи, но и проблеми."
+  },
+  {
+    "reading_id": "business_franchise",
+    "reading_name": "Франчайз",
+    "reading_cards": "3 Пентакли + 8 Пентакли + 10 Пентакли",
+    "reading_combination": ["three_pentacles", "eight_pentacles", "ten_pentacles"],
+    "reading_meaning": "Закупуване на франчайз",
+    "reading_description": "Закупуваш франчайз - доказан бизнес модел с подкрепа и обучение. По-сигурен път към предприемачество.",
+    "reading_advice": "Следвай системата, но добави и нещо свое. Успехът идва от баланса между правила и индивидуалност."
+  },
+  {
+    "reading_id": "business_network",
+    "reading_name": "Мрежа от контакти",
+    "reading_cards": "3 Чаши + 6 Пентакли + 8 Жезли",
+    "reading_combination": ["three_cups", "six_pentacles", "eight_wands"],
+    "reading_meaning": "Разширяване на връзки",
+    "reading_description": "Разширяваш професионалната си мрежа - нови контакти, партньорства, възможности. Връзките са злато.",
+    "reading_advice": "Инвестирай време в изграждане на истински връзки, не просто в събиране на визитки."
+  },
+  {
+    "reading_id": "business_mentor",
+    "reading_name": "Бизнес ментор",
+    "reading_cards": "Йерофант + 8 Пентакли + 9 Пентакли",
+    "reading_combination": ["hierophant", "eight_pentacles", "nine_pentacles"],
+    "reading_meaning": "Среща с наставник",
+    "reading_description": "Срещаш бизнес ментор, който ти помага да избегнеш грешки и да се развиваш по-бързо. Безценна помощ.",
+    "reading_advice": "Слушай и учи, но не забравяй собствения си глас. Менторът е пътеводител, не господар."
+  },
+  {
+    "reading_id": "business_mistake",
+    "reading_name": "Бизнес грешка",
+    "reading_cards": "5 Мечове + 7 Мечове + 8 Мечове",
+    "reading_combination": ["five_swords", "seven_swords", "eight_swords"],
+    "reading_meaning": "Скъпа грешка",
+    "reading_description": "Допуснал си грешка в бизнеса, която ти коства пари, време или репутация. Чувстваш се унил и разочарован.",
+    "reading_advice": "Грешките са уроци, маскирани като провали. Анализирай, учи и продължавай напред."
+  },
+  {
+    "reading_id": "business_recovery",
+    "reading_name": "Възстановяване на бизнес",
+    "reading_cards": "8 Пентакли + 6 Жезли + Звезда",
+    "reading_combination": ["eight_pentacles", "six_wands", "star"],
+    "reading_meaning": "След криза идва възход",
+    "reading_description": "След период на криза бизнесът ти започва да се възстановява. Нови клиенти, подобрени финанси, надежда.",
+    "reading_advice": "Продължавай да работиш упорито. Възходът изисква постоянство."
+  },
+  {
+    "reading_id": "business_exit",
+    "reading_name": "Излизане от бизнес",
+    "reading_cards": "8 Чаши + 10 Пентакли + Отшелник",
+    "reading_combination": ["eight_cups", "ten_pentacles", "hermit"],
+    "reading_meaning": "Напускане на бизнеса",
+    "reading_description": "Решаваш да излезеш от бизнеса, който си създал. Продажба, предаване на щафетата, ново начало.",
+    "reading_advice": "Тръгни си с гордост. Ти остави следа."
+  },
+  {
+    "reading_id": "business_legacy",
+    "reading_name": "Бизнес наследство",
+    "reading_cards": "10 Пентакли + 4 Жезли + Император",
+    "reading_combination": ["ten_pentacles", "four_wands", "emperor"],
+    "reading_meaning": "Предаване на бизнеса",
+    "reading_description": "Предаваш бизнеса на следващото поколение - деца, наследници. Осигуряване на бъдещето и продължаване на рода.",
+    "reading_advice": "Предай не само активите, но и ценностите, които са те водили."
+  },  {
+    "reading_id": "health_diagnosis",
+    "reading_name": "Диагноза",
+    "reading_cards": "8 Мечове + 5 Пентакли + 10 Мечове",
+    "reading_combination": ["eight_swords", "five_pentacles", "ten_swords"],
+    "reading_meaning": "Получаване на диагноза",
+    "reading_description": "Получаваш медицинска диагноза, която променя живота ти. Шок, страх, объркване - свят се срива.",
+    "reading_advice": "Дай си време да приемеш новината. После действай - потърси второ мнение, информирай се, бори се."
+  },
+  {
+    "reading_id": "health_second_opinion",
+    "reading_name": "Второ мнение",
+    "reading_cards": "Справедливост + 8 Мечове + 4 Мечове",
+    "reading_combination": ["justice", "eight_swords", "four_swords"],
+    "reading_meaning": "Търсене на друг лекар",
+    "reading_description": "Търсиш второ медицинско мнение. Не си сигурен в първоначалната диагноза и искаш да се увериш.",
+    "reading_advice": "Винаги търси второ мнение при сериозни заболявания. Различните лекари имат различен опит."
+  },
+  {
+    "reading_id": "health_alternative",
+    "reading_name": "Алтернативно лечение",
+    "reading_cards": "Върховна жрица + 4 Мечове + 8 Пентакли",
+    "reading_combination": ["high_priestess", "four_swords", "eight_pentacles"],
+    "reading_meaning": "Неконвенционални методи",
+    "reading_description": "Започваш алтернативно лечение - билки, акупунктура, хомеопатия, енергийно лечение. Допълнение към конвенционалната медицина.",
+    "reading_advice": "Информирай се добре и не спирай конвенционалното лечение без консултация."
+  },
+  {
+    "reading_id": "health_diet",
+    "reading_name": "Диета",
+    "reading_cards": "8 Пентакли + 4 Мечове + 9 Пентакли",
+    "reading_combination": ["eight_pentacles", "four_swords", "nine_pentacles"],
+    "reading_meaning": "Започване на диета",
+    "reading_description": "Започваш нова диета или хранителен режим. Грижа за тялото, желание за промяна, подобряване на здравето.",
+    "reading_advice": "Бъди търпелив. Здравословните навици се изграждат бавно, но траят дълго."
+  },
+  {
+    "reading_id": "health_exercise",
+    "reading_name": "Започване на спорт",
+    "reading_cards": "8 Жезли + Сила + Слънце",
+    "reading_combination": ["eight_wands", "strength", "sun"],
+    "reading_meaning": "Нова спортна дейност",
+    "reading_description": "Започваш да спортуваш или се връщаш към активен начин на живот. Енергия, мотивация, грижа за себе си.",
+    "reading_advice": "Намери спорт, който наистина ти харесва. Така ще го правиш с удоволствие, а не задължение."
+  },
+  {
+    "reading_id": "health_injury",
+    "reading_name": "Контузия",
+    "reading_cards": "5 Мечове + 10 Мечове + 4 Мечове",
+    "reading_combination": ["five_swords", "ten_swords", "four_swords"],
+    "reading_meaning": "Физическо нараняване",
+    "reading_description": "Претърпяваш контузия или нараняване, което те ограничава. Болка, спиране на активността, възстановяване.",
+    "reading_advice": "Слушай лекарите и не бързай да се връщаш към активност. Възстановяването изисква време."
+  },
+  {
+    "reading_id": "health_physical_therapy",
+    "reading_name": "Физиотерапия",
+    "reading_cards": "8 Пентакли + 4 Мечове + 6 Пентакли",
+    "reading_combination": ["eight_pentacles", "four_swords", "six_pentacles"],
+    "reading_meaning": "Рехабилитация",
+    "reading_description": "Започваш физиотерапия или рехабилитация след травма или болест. Бавно, но сигурно възстановяване.",
+    "reading_advice": "Бъди търпелив и постоянен. Всяко упражнение те приближава към пълното възстановяване."
+  },
+  {
+    "reading_id": "health_massage",
+    "reading_name": "Масаж",
+    "reading_cards": "4 Мечове + 9 Пентакли + 3 Чаши",
+    "reading_combination": ["four_swords", "nine_pentacles", "three_cups"],
+    "reading_meaning": "Релакс и възстановяване",
+    "reading_description": "Отделяш време за масаж, СПА или релакс. Грижа за тялото, отпускане, зареждане с енергия.",
+    "reading_advice": "Прави го редовно. Грижата за тялото не е лукс, а необходимост."
+  },
+  {
+    "reading_id": "health_mental_break",
+    "reading_name": "Психическа почивка",
+    "reading_cards": "4 Мечове + Отшелник + 9 Мечове",
+    "reading_combination": ["four_swords", "hermit", "nine_swords"],
+    "reading_meaning": "Почивка от стреса",
+    "reading_description": "Имаш нужда от психическа почивка - от социални мрежи, новини, задължения. Твърде много информация и стрес те натоварват.",
+    "reading_advice": "Направи дигитален детокс. Изключи телефона, излез сред природа, бъди сам със себе си."
+  },
+  {
+    "reading_id": "health_balance",
+    "reading_name": "Баланс в живота",
+    "reading_cards": "Умереност + 4 Мечове + 10 Чаши",
+    "reading_combination": ["temperance", "four_swords", "ten_cups"],
+    "reading_meaning": "Хармония между тяло и дух",
+    "reading_description": "Намираш баланс между работа, почивка, здраве и семейство. Чувстваш се цялостен и удовлетворен.",
+    "reading_advice": "Пази този баланс. Той е ключът към дълъг и щастлив живот."
+  },
+    {
+    "reading_id": "travel_adventure",
+    "reading_name": "Екстремно пътуване",
+    "reading_cards": "Глупак + 8 Жезли + Колесница",
+    "reading_combination": ["fool", "eight_wands", "chariot"],
+    "reading_meaning": "Приключенско пътуване",
+    "reading_description": "Предстои ти екстремно пътуване - планини, джунгла, пустиня. Приключение, което ще те промени.",
+    "reading_advice": "Бъди подготвен, но и отворен за изненади. Истинските приключения идват непланирани."
+  },
+  {
+    "reading_id": "travel_solo",
+    "reading_name": "Самотно пътуване",
+    "reading_cards": "Отшелник + 6 Мечове + 8 Жезли",
+    "reading_combination": ["hermit", "six_swords", "eight_wands"],
+    "reading_meaning": "Пътуване сам",
+    "reading_description": "Пътуваш сам - доброволно или по необходимост. Време за себе си, опознаване, самота, която не е лоша.",
+    "reading_advice": "Наслади се на компанията си. Сам си, но не самотен."
+  },
+  {
+    "reading_id": "travel_group",
+    "reading_name": "Групово пътуване",
+    "reading_cards": "3 Чаши + 6 Мечове + 4 Жезли",
+    "reading_combination": ["three_cups", "six_swords", "four_wands"],
+    "reading_meaning": "Екскурзия с приятели",
+    "reading_description": "Пътуване с група приятели или организирана група. Веселба, нови приятелства, споделени преживявания.",
+    "reading_advice": "Наслаждавай се на компанията, но запази и време за себе си."
+  },
+  {
+    "reading_id": "travel_family",
+    "reading_name": "Семейна ваканция",
+    "reading_cards": "10 Чаши + 4 Жезли + 6 Мечове",
+    "reading_combination": ["ten_cups", "four_wands", "six_swords"],
+    "reading_meaning": "Почивка със семейството",
+    "reading_description": "Семейна ваканция - деца, родители, баби и дядовци заедно. Спомени за цял живот.",
+    "reading_advice": "Остави очакванията за перфектна почивка и просто бъди заедно. Това е най-важното."
+  },
+  {
+    "reading_id": "travel_romantic",
+    "reading_name": "Романтично пътуване",
+    "reading_cards": "2 Чаши + 6 Мечове + 4 Жезли",
+    "reading_combination": ["two_cups", "six_swords", "four_wands"],
+    "reading_meaning": "Почивка за двама",
+    "reading_description": "Романтично пътуване с любимия човек. Само двамата, далеч от ежедневието, време за любов.",
+    "reading_advice": "Наслаждавайте се един на друг. Тези моменти са безценни."
+  },
+  {
+    "reading_id": "travel_business",
+    "reading_name": "Бизнес пътуване",
+    "reading_cards": "8 Жезли + 3 Пентакли + 6 Мечове",
+    "reading_combination": ["eight_wands", "three_pentacles", "six_swords"],
+    "reading_meaning": "Командировка",
+    "reading_description": "Бизнес пътуване - срещи, конференции, преговори. Работа в движение.",
+    "reading_advice": "Опитай да съчетаеш работа и удоволствие. Остани ден-два повече, ако можеш."
+  },
+  {
+    "reading_id": "travel_backpack",
+    "reading_name": "Раница на гръб",
+    "reading_cards": "Глупак + 8 Жезли + 6 Мечове",
+    "reading_combination": ["fool", "eight_wands", "six_swords"],
+    "reading_meaning": "Пътуване с раница",
+    "reading_description": "Пътуване с раница - хостели, влакове, автостоп. Свобода, приключения, срещи с непознати.",
+    "reading_advice": "Бъди отворен за всичко. Най-хубавите спомени идват от непланираните моменти."
+  },
+  {
+    "reading_id": "travel_lost",
+    "reading_name": "Изгубен по пътя",
+    "reading_cards": "Луна + 7 Мечове + 6 Мечове",
+    "reading_combination": ["moon", "seven_swords", "six_swords"],
+    "reading_meaning": "Заблуден пътник",
+    "reading_description": "Изгубваш се по време на пътуване - физически или метафорично. Не знаеш накъде да продължиш.",
+    "reading_advice": "Питай за упътване. Няма срам в това да не знаеш пътя."
+  },
+  {
+    "reading_id": "travel_found",
+    "reading_name": "Откритие",
+    "reading_cards": "Звезда + 6 Мечове + Слънце",
+    "reading_combination": ["star", "six_swords", "sun"],
+    "reading_meaning": "Намиране на пътя",
+    "reading_description": "Намираш посоката след период на объркване. Пътят се отваря, нещата се изясняват.",
+    "reading_advice": "Следвай светлината. Тя те води правилно."
+  },
+  {
+    "reading_id": "travel_return",
+    "reading_name": "Завръщане у дома",
+    "reading_cards": "6 Мечове + 4 Жезли + 10 Чаши",
+    "reading_combination": ["six_swords", "four_wands", "ten_cups"],
+    "reading_meaning": "Прибиране след път",
+    "reading_description": "Завръщаш се у дома след дълго пътуване. Уют, сигурност, радост от срещата с близките.",
+    "reading_advice": "Няма по-хубаво място от дома. Цени го."
+  },
+    {
+    "reading_id": "travel_adventure",
+    "reading_name": "Екстремно пътуване",
+    "reading_cards": "Глупак + 8 Жезли + Колесница",
+    "reading_combination": ["fool", "eight_wands", "chariot"],
+    "reading_meaning": "Приключенско пътуване",
+    "reading_description": "Предстои ти екстремно пътуване - планини, джунгла, пустиня. Приключение, което ще те промени.",
+    "reading_advice": "Бъди подготвен, но и отворен за изненади. Истинските приключения идват непланирани."
+  },
+  {
+    "reading_id": "travel_solo",
+    "reading_name": "Самотно пътуване",
+    "reading_cards": "Отшелник + 6 Мечове + 8 Жезли",
+    "reading_combination": ["hermit", "six_swords", "eight_wands"],
+    "reading_meaning": "Пътуване сам",
+    "reading_description": "Пътуваш сам - доброволно или по необходимост. Време за себе си, опознаване, самота, която не е лоша.",
+    "reading_advice": "Наслади се на компанията си. Сам си, но не самотен."
+  },
+  {
+    "reading_id": "travel_group",
+    "reading_name": "Групово пътуване",
+    "reading_cards": "3 Чаши + 6 Мечове + 4 Жезли",
+    "reading_combination": ["three_cups", "six_swords", "four_wands"],
+    "reading_meaning": "Екскурзия с приятели",
+    "reading_description": "Пътуване с група приятели или организирана група. Веселба, нови приятелства, споделени преживявания.",
+    "reading_advice": "Наслаждавай се на компанията, но запази и време за себе си."
+  },
+  {
+    "reading_id": "travel_family",
+    "reading_name": "Семейна ваканция",
+    "reading_cards": "10 Чаши + 4 Жезли + 6 Мечове",
+    "reading_combination": ["ten_cups", "four_wands", "six_swords"],
+    "reading_meaning": "Почивка със семейството",
+    "reading_description": "Семейна ваканция - деца, родители, баби и дядовци заедно. Спомени за цял живот.",
+    "reading_advice": "Остави очакванията за перфектна почивка и просто бъди заедно. Това е най-важното."
+  },
+  {
+    "reading_id": "travel_romantic",
+    "reading_name": "Романтично пътуване",
+    "reading_cards": "2 Чаши + 6 Мечове + 4 Жезли",
+    "reading_combination": ["two_cups", "six_swords", "four_wands"],
+    "reading_meaning": "Почивка за двама",
+    "reading_description": "Романтично пътуване с любимия човек. Само двамата, далеч от ежедневието, време за любов.",
+    "reading_advice": "Наслаждавайте се един на друг. Тези моменти са безценни."
+  },
+  {
+    "reading_id": "travel_business",
+    "reading_name": "Бизнес пътуване",
+    "reading_cards": "8 Жезли + 3 Пентакли + 6 Мечове",
+    "reading_combination": ["eight_wands", "three_pentacles", "six_swords"],
+    "reading_meaning": "Командировка",
+    "reading_description": "Бизнес пътуване - срещи, конференции, преговори. Работа в движение.",
+    "reading_advice": "Опитай да съчетаеш работа и удоволствие. Остани ден-два повече, ако можеш."
+  },
+  {
+    "reading_id": "travel_backpack",
+    "reading_name": "Раница на гръб",
+    "reading_cards": "Глупак + 8 Жезли + 6 Мечове",
+    "reading_combination": ["fool", "eight_wands", "six_swords"],
+    "reading_meaning": "Пътуване с раница",
+    "reading_description": "Пътуване с раница - хостели, влакове, автостоп. Свобода, приключения, срещи с непознати.",
+    "reading_advice": "Бъди отворен за всичко. Най-хубавите спомени идват от непланираните моменти."
+  },
+  {
+    "reading_id": "travel_lost",
+    "reading_name": "Изгубен по пътя",
+    "reading_cards": "Луна + 7 Мечове + 6 Мечове",
+    "reading_combination": ["moon", "seven_swords", "six_swords"],
+    "reading_meaning": "Заблуден пътник",
+    "reading_description": "Изгубваш се по време на пътуване - физически или метафорично. Не знаеш накъде да продължиш.",
+    "reading_advice": "Питай за упътване. Няма срам в това да не знаеш пътя."
+  },
+  {
+    "reading_id": "travel_found",
+    "reading_name": "Откритие",
+    "reading_cards": "Звезда + 6 Мечове + Слънце",
+    "reading_combination": ["star", "six_swords", "sun"],
+    "reading_meaning": "Намиране на пътя",
+    "reading_description": "Намираш посоката след период на объркване. Пътят се отваря, нещата се изясняват.",
+    "reading_advice": "Следвай светлината. Тя те води правилно."
+  },
+  {
+    "reading_id": "travel_return",
+    "reading_name": "Завръщане у дома",
+    "reading_cards": "6 Мечове + 4 Жезли + 10 Чаши",
+    "reading_combination": ["six_swords", "four_wands", "ten_cups"],
+    "reading_meaning": "Прибиране след път",
+    "reading_description": "Завръщаш се у дома след дълго пътуване. Уют, сигурност, радост от срещата с близките.",
+    "reading_advice": "Няма по-хубаво място от дома. Цени го."
+  },
+    {
+    "reading_id": "study_abroad",
+    "reading_name": "Следване в чужбина",
+    "reading_cards": "6 Мечове + 8 Жезли + Свят",
+    "reading_combination": ["six_swords", "eight_wands", "world"],
+    "reading_meaning": "Заминаване да учиш",
+    "reading_description": "Заминаваш да следваш в чужбина. Нова държава, нов език, нова култура. Страх и вълнение.",
+    "reading_advice": "Отвори се за новото, но не забравяй корените си."
+  },
+  {
+    "reading_id": "study_exam_anxiety",
+    "reading_name": "Изпитна треска",
+    "reading_cards": "9 Мечове + 8 Мечове + 4 Мечове",
+    "reading_combination": ["nine_swords", "eight_swords", "four_swords"],
+    "reading_meaning": "Страх от изпит",
+    "reading_description": "Притесняваш се преди важен изпит. Безсъние, паника, страх от провал. Умът ти блокира.",
+    "reading_advice": "Дишай. Знаеш повече, отколкото си мислиш. Спокойствието е ключът."
+  },
+  {
+    "reading_id": "study_course",
+    "reading_name": "Курс за квалификация",
+    "reading_cards": "8 Пентакли + 3 Пентакли + 6 Жезли",
+    "reading_combination": ["eight_pentacles", "three_pentacles", "six_wands"],
+    "reading_meaning": "Допълнително обучение",
+    "reading_description": "Записваш се на курс за допълнителна квалификация. Инвестиция в себе си и бъдещето си.",
+    "reading_advice": "Учи с желание. Знанието е единственото нещо, което никой не може да ти отнеме."
+  },
+  {
+    "reading_id": "study_workshop",
+    "reading_name": "Уъркшоп",
+    "reading_cards": "3 Чаши + 8 Пентакли + 6 Жезли",
+    "reading_combination": ["three_cups", "eight_pentacles", "six_wands"],
+    "reading_meaning": "Практическо обучение",
+    "reading_description": "Участваш в уъркшоп или практически курс. Учене чрез правене, нови контакти, забавление.",
+    "reading_advice": "Задавай въпроси и бъди активен. Така научаваш най-много."
+  },
+  {
+    "reading_id": "study_online",
+    "reading_name": "Онлайн обучение",
+    "reading_cards": "8 Жезли + 8 Пентакли + Свят",
+    "reading_combination": ["eight_wands", "eight_pentacles", "world"],
+    "reading_meaning": "Дистанционно учене",
+    "reading_description": "Започваш онлайн курс или дистанционно обучение. Учене от вкъщи, собствено темпо, гъвкавост.",
+    "reading_advice": "Самодисциплината е ключова. Без нея онлайн обучението е трудно."
+  },
+  {
+    "reading_id": "study_teacher",
+    "reading_name": "Вдъхновяващ учител",
+    "reading_cards": "Йерофант + Слънце + 8 Пентакли",
+    "reading_combination": ["hierophant", "sun", "eight_pentacles"],
+    "reading_meaning": "Учител, който променя всичко",
+    "reading_description": "Срещаш учител, който променя представата ти за предмета. Той те вдъхновява и запалва искрата.",
+    "reading_advice": "Бъди благодарен и учи с отворено сърце. Такива учители са рядкост."
+  },
+  {
+    "reading_id": "study_failure",
+    "reading_name": "Провал на изпит",
+    "reading_cards": "5 Мечове + 5 Чаши + 10 Мечове",
+    "reading_combination": ["five_swords", "five_cups", "ten_swords"],
+    "reading_meaning": "Неуспех в ученето",
+    "reading_description": "Проваляш се на изпит или не успяваш да завършиш курс. Разочарование, униние, съмнение в себе си.",
+    "reading_advice": "Това не е край, а завой. Опитай отново или потърси друг път."
+  },
+  {
+    "reading_id": "study_retake",
+    "reading_name": "Поправителен изпит",
+    "reading_cards": "8 Пентакли + 6 Жезли + 4 Мечове",
+    "reading_combination": ["eight_pentacles", "six_wands", "four_swords"],
+    "reading_meaning": "Втори шанс",
+    "reading_description": "Получаваш втори шанс да се явиш на изпит или да поправиш оценката си. Този път си подготвен.",
+    "reading_advice": "Учи от грешките си и сега ще успееш."
+  },
+  {
+    "reading_id": "study_scholarship",
+    "reading_name": "Стипендия",
+    "reading_cards": "Асо Пентакли + 6 Жезли + 10 Пентакли",
+    "reading_combination": ["ace_pentacles", "six_wands", "ten_pentacles"],
+    "reading_meaning": "Получаване на стипендия",
+    "reading_description": "Получаваш стипендия или финансова помощ за образование. Признание за труда ти и помощ за бъдещето.",
+    "reading_advice": "Гордей се с постижението си. Ти го заслужаваш."
+  },
+  {
+    "reading_id": "study_phd",
+    "reading_name": "Докторантура",
+    "reading_cards": "8 Пентакли + Отшелник + Свят",
+    "reading_combination": ["eight_pentacles", "hermit", "world"],
+    "reading_meaning": "Задълбочено изследване",
+    "reading_description": "Започваш докторантура или задълбочено научно изследване. Години на учене, изолация, но и открития.",
+    "reading_advice": "Бъди търпелив и упорит. Пътят е дълъг, но наградата е голяма."
+  },
+    {
+    "reading_id": "art_block",
+    "reading_name": "Творческа блокада",
+    "reading_cards": "8 Мечове + 4 Мечове + 9 Мечове",
+    "reading_combination": ["eight_swords", "four_swords", "nine_swords"],
+    "reading_meaning": "Няма вдъхновение",
+    "reading_description": "Изпитваш творческа блокада - няма идеи, вдъхновение, желание за творене. Празнота и фрустрация.",
+    "reading_advice": "Не се насилвай. Почини, разходи се, смени средата. Вдъхновението идва, когато не го търсиш."
+  },
+  {
+    "reading_id": "art_inspiration",
+    "reading_name": "Внезапно вдъхновение",
+    "reading_cards": "Асо Жезли + Слънце + Магьосник",
+    "reading_combination": ["ace_wands", "sun", "magician"],
+    "reading_meaning": "Идеята идва",
+    "reading_description": "Внезапно те залива вълна от вдъхновение. Идеи, които искат да бъдат реализирани веднага.",
+    "reading_advice": "Записвай, рисувай, твори веднага. Вдъхновението е нетрайно."
+  },
+  {
+    "reading_id": "art_exhibition_success",
+    "reading_name": "Успешна изложба",
+    "reading_cards": "6 Жезли + 3 Чаши + Слънце",
+    "reading_combination": ["six_wands", "three_cups", "sun"],
+    "reading_meaning": "Творчеството е признато",
+    "reading_description": "Твоята изложба, концерт или представяне е успешно. Признание, аплодисменти, продажби. Ти си забелязан.",
+    "reading_advice": "Наслади се на успеха. Ти го заслужи."
+  },
+  {
+    "reading_id": "art_gallery",
+    "reading_name": "Посещение на галерия",
+    "reading_cards": "3 Чаши + 6 Чаши + 9 Пентакли",
+    "reading_combination": ["three_cups", "six_cups", "nine_pentacles"],
+    "reading_meaning": "Ден за изкуство",
+    "reading_description": "Прекарваш ден в галерия, музей или на културно събитие. Обогатяване, вдъхновение, нови гледни точки.",
+    "reading_advice": "Позволи си този лукс. Изкуството храни душата."
+  },
+  {
+    "reading_id": "art_music",
+    "reading_name": "Музикално вдъхновение",
+    "reading_cards": "3 Чаши + Асо Жезли + Луна",
+    "reading_combination": ["three_cups", "ace_wands", "moon"],
+    "reading_meaning": "Нова песен",
+    "reading_description": "Създаваш нова музика или песен. Емоциите ти се изливат в ноти и текст. Творчество, което лекува.",
+    "reading_advice": "Сподели музиката си. Тя докосва повече хора, отколкото си мислиш."
+  },
+  {
+    "reading_id": "art_writing",
+    "reading_name": "Писателско вдъхновение",
+    "reading_cards": "Асо Мечове + 3 Чаши + 8 Пентакли",
+    "reading_combination": ["ace_swords", "three_cups", "eight_pentacles"],
+    "reading_meaning": "Нова книга",
+    "reading_description": "Започваш да пишеш - книга, блог, стихове. Думите текат, идеите идват, вдъхновението е силно.",
+    "reading_advice": "Пиши всеки ден. Дори да не е много, важното е постоянството."
+  },
+  {
+    "reading_id": "art_photography",
+    "reading_name": "Фотография",
+    "reading_cards": "Слънце + 6 Мечове + 9 Пентакли",
+    "reading_combination": ["sun", "six_swords", "nine_pentacles"],
+    "reading_meaning": "Улавяне на момента",
+    "reading_description": "Задълбочаваш се във фотографията. Улавяш светлина, емоции, моменти. Творчество през обектива.",
+    "reading_advice": "Снимай това, което те вълнува. Най-добрите снимки идват от сърцето."
+  },
+  {
+    "reading_id": "art_painting",
+    "reading_name": "Рисуване",
+    "reading_cards": "Императрица + 3 Чаши + Слънце",
+    "reading_combination": ["empress", "three_cups", "sun"],
+    "reading_meaning": "Нова картина",
+    "reading_description": "Започваш нова картина или художествен проект. Цветове, форми, емоции на платно.",
+    "reading_advice": "Не се страхувай да експериментираш. В изкуството няма грешки."
+  },
+  {
+    "reading_id": "art_craft",
+    "reading_name": "Ръчна изработка",
+    "reading_cards": "8 Пентакли + 3 Пентакли + 9 Пентакли",
+    "reading_combination": ["eight_pentacles", "three_pentacles", "nine_pentacles"],
+    "reading_meaning": "Занаятчийство",
+    "reading_description": "Занимаваш се с ръчна изработка - бижута, керамика, дърворезба. Творчество с ръце, което носи удовлетворение.",
+    "reading_advice": "Твоите ръце създават красота. Цени този дар."
+  },
+  {
+    "reading_id": "art_performance",
+    "reading_name": "Сценично изкуство",
+    "reading_cards": "6 Жезли + 3 Чаши + Магьосник",
+    "reading_combination": ["six_wands", "three_cups", "magician"],
+    "reading_meaning": "Представление",
+    "reading_description": "Участваш в театрална постановка, танц или друго сценично изкуство. Превъплъщение, емоция, аплодисменти.",
+    "reading_advice": "Отдай се на ролята. Сцената е магия."
+  },
+    {
+    "reading_id": "nature_escape",
+    "reading_name": "Бягство сред природа",
+    "reading_cards": "4 Мечове + 6 Мечове + Слънце",
+    "reading_combination": ["four_swords", "six_swords", "sun"],
+    "reading_meaning": "Почивка на планина/море",
+    "reading_description": "Бягство от града сред природата. Планина, море, гора - място, където душата си почива.",
+    "reading_advice": "Прави го по-често. Природата лекува всичко."
+  },
+  {
+    "reading_id": "nature_gardening",
+    "reading_name": "Градинарство",
+    "reading_cards": "Императрица + 8 Пентакли + 3 Пентакли",
+    "reading_combination": ["empress", "eight_pentacles", "three_pentacles"],
+    "reading_meaning": "Грижа за градина",
+    "reading_description": "Занимаваш се с градинарство - засаждане, гледане, събиране на плодове. Връзка със земята и природата.",
+    "reading_advice": "Грижи се за растенията, те ще се грижат за теб."
+  },
+  {
+    "reading_id": "nature_harvest",
+    "reading_name": "Реколта",
+    "reading_cards": "7 Пентакли + 9 Пентакли + Слънце",
+    "reading_combination": ["seven_pentacles", "nine_pentacles", "sun"],
+    "reading_meaning": "Събиране на плодовете",
+    "reading_description": "Събираш реколтата от градината си - плодове, зеленчуци, билки. Награда за труда ти.",
+    "reading_advice": "Наслади се на плодовете на труда си. Те са най-вкусни, когато са отгледани със собствени ръце."
+  },
+  {
+    "reading_id": "nature_animal",
+    "reading_name": "Среща с диво животно",
+    "reading_cards": "Сила + 6 Мечове + Луна",
+    "reading_combination": ["strength", "six_swords", "moon"],
+    "reading_meaning": "Вълшебна среща",
+    "reading_description": "Срещаш диво животно по време на разходка - елен, лисица, птица. Магически момент, знак от природата.",
+    "reading_advice": "Приеми го като знак. Животните носят послания, ако умееш да ги чуеш."
+  },
+  {
+    "reading_id": "nature_storm",
+    "reading_name": "Буря",
+    "reading_cards": "Кула + 5 Мечове + 8 Жезли",
+    "reading_combination": ["tower", "five_swords", "eight_wands"],
+    "reading_meaning": "Природно бедствие",
+    "reading_description": "Преживяваш буря или природно бедствие. Страх, разрушение, но и осъзнаване на силата на природата.",
+    "reading_advice": "Природата е по-силна от всичко. Уважавай я."
+  },
+    {
+    "reading_id": "finance_budget",
+    "reading_name": "Бюджетиране",
+    "reading_cards": "4 Пентакли + 2 Пентакли + 8 Пентакли",
+    "reading_combination": ["four_pentacles", "two_pentacles", "eight_pentacles"],
+    "reading_meaning": "Планиране на разходи",
+    "reading_description": "Започваш да планираш бюджета си по-сериозно. Записваш разходи, планираш спестявания, мислиш за бъдещето.",
+    "reading_advice": "Добрият бюджет не те ограничава, а ти дава свобода."
+  },
+  {
+    "reading_id": "finance_save",
+    "reading_name": "Спестяване",
+    "reading_cards": "4 Пентакли + 9 Пентакли + 6 Пентакли",
+    "reading_combination": ["four_pentacles", "nine_pentacles", "six_pentacles"],
+    "reading_meaning": "Трупане на спестявания",
+    "reading_description": "Успяваш да спестиш повече пари от обикновено. Дисциплина, отказ от излишни неща, мислене за бъдещето.",
+    "reading_advice": "Продължавай в същия дух. Спестяванията носят спокойствие."
+  },
+  {
+    "reading_id": "finance_invest",
+    "reading_name": "Инвестиране",
+    "reading_cards": "Асо Пентакли + 7 Пентакли + 10 Пентакли",
+    "reading_combination": ["ace_pentacles", "seven_pentacles", "ten_pentacles"],
+    "reading_meaning": "Пускане на пари в инвестиция",
+    "reading_description": "Инвестираш пари в акции, имоти или друг актив. Пускаш парите да работят за теб.",
+    "reading_advice": "Инвестирай в това, което разбираш. И не слагай всички яйца в една кошница."
+  },
+  {
+    "reading_id": "finance_cryptocurrency",
+    "reading_name": "Криптовалута",
+    "reading_cards": "Колело на съдбата + Асо Пентакли + 7 Мечове",
+    "reading_combination": ["wheel_of_fortune", "ace_pentacles", "seven_swords"],
+    "reading_meaning": "Инвестиция в крипто",
+    "reading_description": "Занимаваш се с криптовалути - покупка, търговия, инвестиция. Висок риск, висока печалба (или загуба).",
+    "reading_advice": "Инвестирай само толкова, колкото си готов да загубиш. Пазарът е непредсказуем."
+  },
+  {
+    "reading_id": "finance_stock",
+    "reading_name": "Борсова търговия",
+    "reading_cards": "8 Жезли + 7 Пентакли + 6 Жезли",
+    "reading_combination": ["eight_wands", "seven_pentacles", "six_wands"],
+    "reading_meaning": "Активна търговия",
+    "reading_description": "Търгуваш активно на борсата - покупко-продажба на акции, следене на новини, анализ на графики.",
+    "reading_advice": "Не се поддавай на емоции. Борсата наказва алчността и страха."
+  },
+  {
+    "reading_id": "finance_loss",
+    "reading_name": "Финансова загуба",
+    "reading_cards": "5 Пентакли + 10 Мечове + 3 Мечове",
+    "reading_combination": ["five_pentacles", "ten_swords", "three_swords"],
+    "reading_meaning": "Губиш пари",
+    "reading_description": "Претърпяваш финансова загуба - лоша инвестиция, измама, непредвидени разходи. Болка и притеснение.",
+    "reading_advice": "Това е урок, маскиран като загуба. Анализирай какво се обърка и продължавай."
+  },
+  {
+    "reading_id": "finance_debt_pay",
+    "reading_name": "Погасяване на дълг",
+    "reading_cards": "6 Пентакли + 4 Пентакли + 10 Пентакли",
+    "reading_combination": ["six_pentacles", "four_pentacles", "ten_pentacles"],
+    "reading_meaning": "Изплащане на заем",
+    "reading_description": "Успяваш да погасиш дълг или заем. Облекчение, свобода, чувство на постижение.",
+    "reading_advice": "Празнувай този момент. Ти освободи бъдещето си от тежест."
+  },
+  {
+    "reading_id": "finance_credit",
+    "reading_name": "Кредит",
+    "reading_cards": "5 Пентакли + 4 Пентакли + 2 Пентакли",
+    "reading_combination": ["five_pentacles", "four_pentacles", "two_pentacles"],
+    "reading_meaning": "Теглене на заем",
+    "reading_description": "Теглиш кредит или заем за голяма покупка. Поемаш задължение, което ще тежи месеци напред.",
+    "reading_advice": "Прочети дребния шрифт и пресметни дали можеш да си го позволиш."
+  },
+  {
+    "reading_id": "finance_tax_return",
+    "reading_name": "Данъчно облекчение",
+    "reading_cards": "6 Пентакли + Справедливост + 4 Пентакли",
+    "reading_combination": ["six_pentacles", "justice", "four_pentacles"],
+    "reading_meaning": "Възстановяване на данъци",
+    "reading_description": "Получаваш възстановяване на данъци или данъчно облекчение. Неочаквани пари, които идват в точния момент.",
+    "reading_advice": "Използвай ги разумно - за спестявания или погасяване на дългове."
+  },
+  {
+    "reading_id": "finance_rich",
+    "reading_name": "Богатство",
+    "reading_cards": "10 Пентакли + 9 Пентакли + Слънце",
+    "reading_combination": ["ten_pentacles", "nine_pentacles", "sun"],
+    "reading_meaning": "Финансово изобилие",
+    "reading_description": "Постигаш финансова сигурност и изобилие. Не си само осигурен, а можеш и да помагаш на другите.",
+    "reading_advice": "Бъди щедър. Истинското богатство е в споделянето."
+  },
+    {
+    "reading_id": "friend_meet",
+    "reading_name": "Среща със стар приятел",
+    "reading_cards": "6 Чаши + 3 Чаши + 2 Чаши",
+    "reading_combination": ["six_cups", "three_cups", "two_cups"],
+    "reading_meaning": "Възстановяване на приятелство",
+    "reading_description": "Срещаш стар приятел, с когото отдавна не сте се виждали. Носталгия, спомени, сякаш времето не е минало.",
+    "reading_advice": "Цени тези срещи. Истинските приятелства са за цял живот."
+  },
+  {
+    "reading_id": "friend_betrayal",
+    "reading_name": "Предателство от приятел",
+    "reading_cards": "7 Мечове + 3 Мечове + 5 Чаши",
+    "reading_combination": ["seven_swords", "three_swords", "five_cups"],
+    "reading_meaning": "Приятел те предава",
+    "reading_description": "Приятел те предава или разочарова. Клюка, лъжа, злоупотреба с доверие. Болката е дълбока.",
+    "reading_advice": "Понякога хората идват в живота ни, за да ни научат на доверие... или на обратното."
+  },
+  {
+    "reading_id": "friend_help",
+    "reading_name": "Приятелска помощ",
+    "reading_cards": "6 Пентакли + 3 Чаши + 10 Чаши",
+    "reading_combination": ["six_pentacles", "three_cups", "ten_cups"],
+    "reading_meaning": "Приятел протяга ръка",
+    "reading_description": "В труден момент приятел ти протяга ръка. Без да се колебае, без да иска нищо в замяна.",
+    "reading_advice": "Приеми помощта с благодарност. Някой ден ще имаш възможност да върнеш жеста."
+  },
+  {
+    "reading_id": "friend_group",
+    "reading_name": "Нова приятелска група",
+    "reading_cards": "3 Чаши + 4 Жезли + 6 Чаши",
+    "reading_combination": ["three_cups", "four_wands", "six_cups"],
+    "reading_meaning": "Влизаш в нов кръг",
+    "reading_description": "Влизаш в нова приятелска група или общност. Нови хора, нови интереси, нови преживявания.",
+    "reading_advice": "Бъди отворен, но не бързай да се доверяваш напълно. Истинските приятелства се градят с време."
+  },
+  {
+    "reading_id": "friend_drift",
+    "reading_name": "Отдалечаване",
+    "reading_cards": "8 Чаши + 5 Чаши + 6 Мечове",
+    "reading_combination": ["eight_cups", "five_cups", "six_swords"],
+    "reading_meaning": "Приятелството изстива",
+    "reading_description": "Приятелството ви с някой се отдалечава. Вече нямате общи теми, срещате се все по-рядко, усещате празнота.",
+    "reading_advice": "Пусни го с благодарност за времето, което сте споделили. Не всички приятелства са завинаги."
+  },
+  {
+    "reading_id": "friend_argument",
+    "reading_name": "Спор с приятел",
+    "reading_cards": "5 Жезли + 3 Мечове + 5 Чаши",
+    "reading_combination": ["five_wands", "three_swords", "five_cups"],
+    "reading_meaning": "Скарване с близък",
+    "reading_description": "Скарваш се с близък приятел. Дума по дума, натрупано напрежение, обидени чувства. И двамата сте наранени.",
+    "reading_advice": "Оставете времето да успокои духовете. После говорете, не се обвинявайте."
+  },
+  {
+    "reading_id": "friend_reconcile",
+    "reading_name": "Помирение с приятел",
+    "reading_cards": "2 Чаши + 6 Чаши + 10 Чаши",
+    "reading_combination": ["two_cups", "six_cups", "ten_cups"],
+    "reading_meaning": "След кавга идва прошка",
+    "reading_description": "След дълго отчуждение идва помирението с приятел. Разговор, прегръдка, прошка и приятелството продължава.",
+    "reading_advice": "Радвай се, че успяхте да преодолеете различията. Истинското приятелство издържа на всичко."
+  },
+  {
+    "reading_id": "friend_jealousy",
+    "reading_name": "Завист от приятел",
+    "reading_cards": "7 Мечове + 5 Чаши + Дявол",
+    "reading_combination": ["seven_swords", "five_cups", "devil"],
+    "reading_meaning": "Приятел ти завижда",
+    "reading_description": "Забелязваш, че приятел ти завижда за успехите, щастието или притежанията. Това променя динамиката ви.",
+    "reading_advice": "Бъди внимателен. Завистта може да разруши дори най-старите приятелства."
+  },
+  {
+    "reading_id": "friend_success",
+    "reading_name": "Успех на приятел",
+    "reading_cards": "6 Жезли + 3 Чаши + 10 Чаши",
+    "reading_combination": ["six_wands", "three_cups", "ten_cups"],
+    "reading_meaning": "Радваш се за приятел",
+    "reading_description": "Приятел постига голям успех и ти искрено се радваш. Без завист, без конкуренция - чиста радост.",
+    "reading_advice": "Това е знак за зряло приятелство. Цени го."
+  },
+  {
+    "reading_id": "friend_death",
+    "reading_name": "Загуба на приятел",
+    "reading_cards": "3 Мечове + 5 Чаши + 10 Мечове",
+    "reading_combination": ["three_swords", "five_cups", "ten_swords"],
+    "reading_meaning": "Приятел си отива",
+    "reading_description": "Губиш приятел - чрез смърт, прекъсване или преместване. Празнота, тъга, усещане за загуба.",
+    "reading_advice": "Почети паметта му, като носиш наученото в сърцето си. Никой не си отива напълно."
+  },
+    {
+    "reading_id": "spiritual_books",
+    "reading_name": "Духовна литература",
+    "reading_cards": "Отшелник + 8 Пентакли + Върховна жрица",
+    "reading_combination": ["hermit", "eight_pentacles", "high_priestess"],
+    "reading_meaning": "Четене на духовни книги",
+    "reading_description": "Задълбочаваш се в духовна литература. Книги за източни учения, езотерика, философия. Търсене на истината.",
+    "reading_advice": "Чети, но и прилагай. Истинската мъдрост е в преживяването."
+  },
+  {
+    "reading_id": "spiritual_teacher_find",
+    "reading_name": "Намиране на учител",
+    "reading_cards": "Йерофант + Отшелник + Слънце",
+    "reading_combination": ["hierophant", "hermit", "sun"],
+    "reading_meaning": "Среща с гуру",
+    "reading_description": "Намираш духовен учител, който резонира с теб. Човек, който не ти дава отговори, а те учи да ги търсиш сам.",
+    "reading_advice": "Бъди отворен ученик. Истинският учител е този, който те учи да бъдеш свой собствен учител."
+  },
+  {
+    "reading_id": "spiritual_retreat_abroad",
+    "reading_name": "Ретрийт в чужбина",
+    "reading_cards": "6 Мечове + Отшелник + Свят",
+    "reading_combination": ["six_swords", "hermit", "world"],
+    "reading_meaning": "Духовно пътуване",
+    "reading_description": "Заминаваш на духовен ретрийт в чужбина - Индия, Перу, Тибет. Път към себе си през света.",
+    "reading_advice": "Отвори се за преживяването. То ще те промени по начини, които не можеш да предвидиш."
+  },
+  {
+    "reading_id": "spiritual_awakening_sudden",
+    "reading_name": "Внезапно пробуждане",
+    "reading_cards": "Кула + Слънце + Върховна жрица",
+    "reading_combination": ["tower", "sun", "high_priestess"],
+    "reading_meaning": "Просветление",
+    "reading_description": "Преживяваш внезапно духовно пробуждане. Всичко придобива нов смисъл, виждаш нещата от по-висока перспектива.",
+    "reading_advice": "Прегърни промяната. Ти вече не си същият човек."
+  },
+  {
+    "reading_id": "spiritual_practice",
+    "reading_name": "Духовна практика",
+    "reading_cards": "8 Пентакли + 4 Мечове + Върховна жрица",
+    "reading_combination": ["eight_pentacles", "four_swords", "high_priestess"],
+    "reading_meaning": "Редовна медитация",
+    "reading_description": "Започваш редовна духовна практика - медитация, йога, молитва. Всеки ден отделяш време за връзка с отвъдното.",
+    "reading_advice": "Постоянството е ключът. Дори 10 минути на ден правят разлика."
   }
+
 
 ];
