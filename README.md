@@ -112,7 +112,7 @@ This creates an optimized production build in the build folder.
  https://react-tarot-sandy.vercel.app/
 --- 
  ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+  - This project is licensed under the MIT License - see the LICENSE file for details.
 ---
 ### GitHub: @comnsense
 
