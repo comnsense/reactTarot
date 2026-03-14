@@ -136,7 +136,7 @@ const ReadingsPage: React.FC = () => {
   }, []);
 
   return (
-    <div className="container">
+    <div className="container readings-page">
       <h1 className="page-title">Всички комбинации</h1>
       <p className="page-subtitle">
         {readings.length} комбинации - открийте значението на картите заедно

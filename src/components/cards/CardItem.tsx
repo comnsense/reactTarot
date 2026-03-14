@@ -30,7 +30,7 @@ const CardItem: React.FC<CardItemProps> = ({ card, onClick, isSelected }) => {
         />
       ) : (
         <div className="card-image" style={{ 
-          backgroundColor: '#9333ea', 
+          backgroundColor: '#374151', 
           display: 'flex', 
           alignItems: 'center', 
           justifyContent: 'center',

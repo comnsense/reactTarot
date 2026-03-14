@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import CardGrid from '../components/cards/CardGrid';
 import CardModal from '../components/cards/CardModal';
 import FilterButtons from '../components/filters/FilterButtons';
@@ -9,32 +9,38 @@ const HomePage: React.FC = () => {
   const [selectedCard, setSelectedCard] = useState<Card | null>(null);
   const [activeFilter, setActiveFilter] = useState<string>('all');
 
-  // DEBUG: Проверка дали картите се зареждат
-  useEffect(() => {
-    console.log('Cards loaded:', cards);
-    console.log('Number of cards:', cards.length);
-    if (cards.length > 0) {
-      console.log('First card:', cards[0]);
-    }
-  }, []);
-
   // Филтриране на картите
   const filteredCards = cards.filter(card => {
     if (activeFilter === 'all') return true;
+    
+    // Филтър за числа (1-10)
+    if (activeFilter.startsWith('number_')) {
+      const number = activeFilter.split('_')[1];
+      return card.number === number;
+    }
+    
+    // Филтър за числа (общ)
+    if (activeFilter === 'numbers') {
+      return ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10'].includes(card.number);
+    }
+    
+    // Обикновен филтър
     return card.filter === activeFilter;
   });
-
-  // DEBUG: Проверка на филтрираните карти
-  console.log('Active filter:', activeFilter);
-  console.log('Filtered cards:', filteredCards.length);
 
   return (
     <div className="container">
       <h1 className="page-title">Всички Таро карти</h1>
-      <p className="page-subtitle">{cards.length} карти - Големи и Малки аркани</p>
+      <p className="page-subtitle">
+        {cards.length} карти - Големи и Малки аркани
+      </p>
       
-      {/* Филтри */}
-      <FilterButtons activeFilter={activeFilter} onFilterChange={setActiveFilter} />
+      {/* Филтри - с showNumbers = true */}
+      <FilterButtons 
+        activeFilter={activeFilter} 
+        onFilterChange={setActiveFilter}
+        showNumbers={true}
+      />
       
       {/* Брой намерени карти */}
       <div className="results-count">
@@ -42,16 +48,10 @@ const HomePage: React.FC = () => {
       </div>
       
       {/* Grid с карти */}
-      {filteredCards.length > 0 ? (
-        <CardGrid 
-          cards={filteredCards} 
-          onCardClick={setSelectedCard} 
-        />
-      ) : (
-        <div className="text-center py-8">
-          <p className="text-gray-600">Няма карти в тази категория</p>
-        </div>
-      )}
+      <CardGrid 
+        cards={filteredCards} 
+        onCardClick={setSelectedCard} 
+      />
 
       {/* Modal за детайли */}
       <CardModal 

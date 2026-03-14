@@ -2,25 +2,46 @@ import React, { useState, useEffect, useRef } from 'react';
 import CardGrid from '../components/cards/CardGrid';
 import SelectedCards from '../components/cards/SelectedCards';
 import CardInterpretation from '../components/cards/CardInterpretation';
+import FilterButtons from '../components/filters/FilterButtons';
 import { cards, readings } from '../data/cards';
 import { Card, Reading } from '../types';
 
 const MyCardsPage: React.FC = () => {
   const [selectedCardIds, setSelectedCardIds] = useState<string[]>([]);
   const [foundReading, setFoundReading] = useState<Reading | null>(null);
+  const [activeFilter, setActiveFilter] = useState<string>('all');
   const interpretationsRef = useRef<HTMLDivElement>(null);
 
   // Избраните карти (пълни обекти)
   const selectedCards = cards.filter(c => selectedCardIds.includes(c.card_id));
 
+  // Филтриране на наличните карти
+  const availableCards = cards.filter(c => !selectedCardIds.includes(c.card_id));
+  
+  const filteredCards = availableCards.filter(card => {
+    if (activeFilter === 'all') return true;
+    
+    // Филтър за числа (1-10)
+    if (activeFilter.startsWith('number_')) {
+      const number = activeFilter.split('_')[1];
+      return card.number === number;
+    }
+    
+    // Филтър за числа (общ)
+    if (activeFilter === 'numbers') {
+      return ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10'].includes(card.number);
+    }
+    
+    // Обикновен филтър
+    return card.filter === activeFilter;
+  });
+
   // Функция за добавяне/махане на карта
   const toggleCard = (card: Card) => {
     setSelectedCardIds(prev => {
       if (prev.includes(card.card_id)) {
-        // Махаме картата
         return prev.filter(id => id !== card.card_id);
       } else {
-        // Добавяме карта (макс 10)
         if (prev.length >= 10) {
           alert('Може да изберете максимум 10 карти');
           return prev;
@@ -55,20 +76,15 @@ const MyCardsPage: React.FC = () => {
       return;
     }
 
-    // Сортираме ID-тата за коректно сравнение
     const sortedIds = [...ids].sort();
     
-    // Търсим съвпадение в readings
     const reading = readings.find(r => {
       const sortedReadingIds = [...r.reading_combination].sort();
       
-      // Проверка за точно съвпадение
       if (JSON.stringify(sortedIds) === JSON.stringify(sortedReadingIds)) {
         return true;
       }
       
-      // Проверка за частични комбинации (ако избраните карти включват комбинацията)
-      // Например: ако имаме 3 карти и комбинацията е от 2 от тях
       if (r.reading_combination.every(id => sortedIds.includes(id))) {
         return true;
       }
@@ -79,7 +95,6 @@ const MyCardsPage: React.FC = () => {
     setFoundReading(reading || null);
   };
 
-  // Ефект за проверка на комбинации при промяна на избраните карти
   useEffect(() => {
     checkForReading(selectedCardIds);
   }, [selectedCardIds]);
@@ -100,11 +115,20 @@ const MyCardsPage: React.FC = () => {
         onScrollToInterpretations={scrollToInterpretations}
       />
 
+      {/* Филтри за налични карти */}
+      <div className="mt-4 mb-2">
+        <FilterButtons 
+          activeFilter={activeFilter} 
+          onFilterChange={setActiveFilter}
+          showNumbers={true}
+        />
+      </div>
+
       {/* Available Cards Grid */}
       <div className="mt-8">
-        <h2 className="section-title">Налични карти</h2>
+        <h2 className="section-title">Налични карти ({filteredCards.length})</h2>
         <CardGrid 
-          cards={cards.filter(c => !selectedCardIds.includes(c.card_id))}
+          cards={filteredCards}
           onCardClick={toggleCard}
           selectedCards={selectedCardIds}
         />

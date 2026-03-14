@@ -21,7 +21,7 @@ const CardInterpretation: React.FC<CardInterpretationProps> = ({ card }) => {
       </div>
       
       <div className="interpretation-content">
-        {/* KEYWORDS - първи секция */}
+        {/* KEYWORDS */}
         <div className="interpretation-section">
           <h4>🔮 Ключови думи</h4>
           <div className="keywords-list">
@@ -31,19 +31,25 @@ const CardInterpretation: React.FC<CardInterpretationProps> = ({ card }) => {
           </div>
         </div>
 
-        {/* GENERAL MEANING - вторa секция */}
+        {/* GENERAL MEANING */}
         <div className="interpretation-section">
           <h4>📖 Подробно значение</h4>
           <p className="general-meaning-text">{card.general_meaning}</p>
         </div>
 
-        {/* THIS IS (Ситуация) - трета секция */}
+        {/* AS SITUATION */}
         <div className="interpretation-section">
           <h4>📌 Ситуация</h4>
-          <p>{card.this_is}</p>
+          <p>{card.as_situation || card.this_is}</p>
         </div>
 
-        {/* ADVICE (Съвет) - четвърта секция */}
+        {/* AS LESSON */}
+        <div className="interpretation-section">
+          <h4>💡 Урок</h4>
+          <p>{card.as_lesson || "Няма специфичен урок за тази карта."}</p>
+        </div>
+
+        {/* ADVICE */}
         <div className="interpretation-section advice">
           <h4>💫 Съвет от картата</h4>
           <p>{card.advice}</p>

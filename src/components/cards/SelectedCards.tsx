@@ -4,7 +4,7 @@ import { Card, Reading } from '../../types';
 interface SelectedCardsProps {
   selectedCards: Card[];
   onClear: () => void;
-  onRemoveCard: (cardId: string) => void;  // Добавяме този проп
+  onRemoveCard: (cardId: string) => void;
   foundReading: Reading | null;
   onScrollToInterpretations: () => void;
 }
@@ -47,7 +47,7 @@ const SelectedCards: React.FC<SelectedCardsProps> = ({
           <div key={card.card_id} className="selected-card-item">
             <img 
               src={card.image} 
-              alt={card.name}
+              alt={card.name}  // ← Променено от card_name на name
               className="selected-card-image"
             />
             <button 
@@ -57,7 +57,7 @@ const SelectedCards: React.FC<SelectedCardsProps> = ({
             >
               ×
             </button>
-            <span className="selected-card-name">{card.name}</span>
+            <span className="selected-card-name">{card.name}</span>  {/* ← Променено от card_name на name */}
           </div>
         ))}
       </div>

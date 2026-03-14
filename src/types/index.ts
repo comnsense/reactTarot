@@ -14,6 +14,8 @@ export interface Card {
   reversed: string;
   planet: string;
   zodiac_sign: string;
+  as_situation?: string;  
+  as_lesson?: string;    
 }
 
 export interface Reading {
@@ -25,3 +27,10 @@ export interface Reading {
   reading_description: string;
   reading_advice: string;
 }
+
+export interface Filters {
+  [key: string]: string | { [key: string]: string };
+}
+
+export type FilterType = 'major' | 'wands' | 'cups' | 'swords' | 'pentacles' | 
+                        'kings' | 'queens' | 'knights' | 'pages' | 'numbers' | 'all';
