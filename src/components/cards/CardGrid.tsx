@@ -9,16 +9,34 @@ interface CardGridProps {
 }
 
 const CardGrid: React.FC<CardGridProps> = ({ cards, onCardClick, selectedCards = [] }) => {
+  // DEBUG
+  console.log('CardGrid received:', cards.length, 'cards');
+
+  if (!cards || cards.length === 0) {
+    return (
+      <div className="text-center py-8">
+        <p className="text-gray-600">Няма карти за показване</p>
+      </div>
+    );
+  }
+
   return (
-    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 p-4">
-      {cards.map((card) => (
-        <CardItem
-          key={card.card_id}
-          card={card}
-          onClick={() => onCardClick(card)}
-          isSelected={selectedCards.includes(card.card_id)}
-        />
-      ))}
+    <div className="cards-grid">
+      {cards.map((card) => {
+        // DEBUG за първата карта
+        if (card === cards[0]) {
+          console.log('Rendering first card:', card.name, card.image);
+        }
+        
+        return (
+          <CardItem
+            key={card.card_id}
+            card={card}
+            onClick={() => onCardClick(card)}
+            isSelected={selectedCards.includes(card.card_id)}
+          />
+        );
+      })}
     </div>
   );
 };

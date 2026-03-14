@@ -6,32 +6,27 @@ interface CardModalProps {
   onClose: () => void;
 }
 
-// За момента ще използваме обикновен бутон с "X" докато оправим react-icons
 const CardModal: React.FC<CardModalProps> = ({ card, onClose }) => {
   const [showMore, setShowMore] = useState(false);
 
   if (!card) return null;
 
-  return (
-    <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 p-4">
-      <div className="bg-white rounded-xl max-w-4xl w-full max-h-[90vh] overflow-y-auto">
-        <div className="relative p-6">
-          {/* Close Button - използваме обикновен текст */}
-          <button 
-            onClick={onClose}
-            className="absolute top-4 right-4 text-gray-600 hover:text-gray-900 z-10 w-8 h-8 flex items-center justify-center text-2xl font-bold"
-            aria-label="Close"
-          >
-            ×
-          </button>
+  // Определяне на типа карта за стилове
+  const isMajor = card.arcana.includes('Големи');
 
-          <div className="flex flex-col md:flex-row gap-6">
+  return (
+    <div className="modal-overlay" onClick={onClose}>
+      <div className="modal-content" onClick={e => e.stopPropagation()}>
+        <button className="modal-close" onClick={onClose}>×</button>
+        
+        <div className="modal-body">
+          <div className="flex flex-col md-flex-row gap-6">
             {/* Card Image */}
-            <div className="md:w-1/3">
+            <div className="md-w-1-3">
               <img 
                 src={card.image} 
                 alt={card.name}
-                className="w-full rounded-lg shadow-lg"
+                className="modal-image"
               />
               <p className="text-sm text-gray-600 mt-2 text-center italic">
                 {card.name_en}
@@ -39,59 +34,65 @@ const CardModal: React.FC<CardModalProps> = ({ card, onClose }) => {
             </div>
 
             {/* Card Details */}
-            <div className="md:w-2/3">
-              <h2 className="text-3xl font-bold mb-2">{card.name}</h2>
+            <div className="md-w-2-3">
+              <h2 className="modal-title">{card.name}</h2>
               
-              {/* Filter/Number Info */}
-              <div className="flex flex-wrap gap-2 mb-4">
-                <span className="bg-purple-100 text-purple-800 px-3 py-1 rounded-full text-sm">
+              {/* Tags */}
+              <div className="card-tags">
+                <span className={`card-tag ${isMajor ? 'tag-major' : 'tag-minor'}`}>
                   {card.arcana}
                 </span>
                 {card.number && card.number !== "" && (
-                  <span className="bg-gray-100 text-gray-800 px-3 py-1 rounded-full text-sm">
+                  <span className="card-tag tag-number">
                     № {card.number}
                   </span>
                 )}
               </div>
 
               {/* Keywords */}
-              <div className="mb-4">
-                <h3 className="text-lg font-semibold mb-2">Ключови думи</h3>
-                <p className="text-gray-700">{card.keywords}</p>
+              <div className="keywords-container">
+                <h3 className="section-title">Ключови думи</h3>
+                <div className="keywords-list">
+                  {card.keywords.split(',').map((keyword, index) => (
+                    <span key={index} className="keyword-tag">
+                      {keyword.trim()}
+                    </span>
+                  ))}
+                </div>
               </div>
 
               {/* This is */}
-              <div className="mb-4">
-                <h3 className="text-lg font-semibold mb-2">Това е</h3>
-                <p className="text-gray-700">{card.this_is}</p>
+              <div className="modal-section">
+                <h3 className="section-title">Това е</h3>
+                <p className="section-text">{card.this_is}</p>
               </div>
 
               {/* General Meaning */}
-              <div className="mb-4">
-                <h3 className="text-lg font-semibold mb-2">Значение</h3>
-                <p className="text-gray-700">{card.general_meaning}</p>
+              <div className="modal-section">
+                <h3 className="section-title">Значение</h3>
+                <p className="section-text">{card.general_meaning}</p>
               </div>
 
               {/* Advice */}
-              <div className="mb-4 bg-yellow-50 p-4 rounded-lg">
-                <h3 className="text-lg font-semibold mb-2">✨ Съвет</h3>
-                <p className="text-gray-700">{card.advice}</p>
+              <div className="advice-box">
+                <h3>✨ Съвет от картата</h3>
+                <p>{card.advice}</p>
               </div>
 
               {/* Read More Section */}
               {!showMore ? (
                 <button
                   onClick={() => setShowMore(true)}
-                  className="text-purple-600 hover:text-purple-800 font-semibold"
+                  className="read-more-btn"
                 >
-                  + Прочети повече
+                  + Покажи повече информация
                 </button>
               ) : (
-                <div className="space-y-4 mt-4 border-t pt-4">
+                <div className="mt-6">
                   {/* Symbolism */}
-                  <div>
-                    <h3 className="text-lg font-semibold mb-2">Символика</h3>
-                    <ul className="list-disc list-inside text-gray-700 space-y-1">
+                  <div className="modal-section">
+                    <h3 className="section-title">Символика</h3>
+                    <ul className="symbolism-list">
                       {card.cardSymbolism.map((symbol, index) => (
                         <li key={index}>{symbol}</li>
                       ))}
@@ -99,20 +100,20 @@ const CardModal: React.FC<CardModalProps> = ({ card, onClose }) => {
                   </div>
 
                   {/* Reversed */}
-                  <div>
-                    <h3 className="text-lg font-semibold mb-2">Обърната позиция</h3>
-                    <p className="text-gray-700">{card.reversed}</p>
+                  <div className="reversed-box">
+                    <h3>Обърната позиция</h3>
+                    <p>{card.reversed}</p>
                   </div>
 
                   {/* Astrology */}
-                  <div className="grid grid-cols-2 gap-4 bg-gray-50 p-4 rounded-lg">
-                    <div>
-                      <h4 className="font-semibold text-purple-800">Планета</h4>
-                      <p className="text-gray-700">{card.planet}</p>
+                  <div className="astrology-grid">
+                    <div className="astrology-item">
+                      <div className="astrology-label">Планета</div>
+                      <div className="astrology-value">{card.planet}</div>
                     </div>
-                    <div>
-                      <h4 className="font-semibold text-purple-800">Зодия</h4>
-                      <p className="text-gray-700">{card.zodiac_sign}</p>
+                    <div className="astrology-item">
+                      <div className="astrology-label">Зодия</div>
+                      <div className="astrology-value">{card.zodiac_sign}</div>
                     </div>
                   </div>
                 </div>

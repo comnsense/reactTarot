@@ -25,10 +25,3 @@ export interface Reading {
   reading_description: string;
   reading_advice: string;
 }
-
-export interface Filters {
-  [key: string]: string | { [key: string]: string };
-}
-
-export type FilterType = 'major' | 'wands' | 'cups' | 'swords' | 'pentacles' | 
-                        'kings' | 'queens' | 'knights' | 'pages' | 'all';

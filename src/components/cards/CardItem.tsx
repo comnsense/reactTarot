@@ -9,6 +9,15 @@ interface CardItemProps {
 
 const CardItem: React.FC<CardItemProps> = ({ card, onClick, isSelected }) => {
   const [showHover, setShowHover] = useState(false);
+  const [imageError, setImageError] = useState(false);
+
+  // DEBUG
+  console.log('CardItem rendering:', card.name, card.image);
+
+  const handleImageError = () => {
+    console.log('Image failed to load:', card.image);
+    setImageError(true);
+  };
 
   return (
     <div 
@@ -17,17 +26,32 @@ const CardItem: React.FC<CardItemProps> = ({ card, onClick, isSelected }) => {
       onMouseEnter={() => setShowHover(true)}
       onMouseLeave={() => setShowHover(false)}
     >
-      <img 
-        src={card.image} 
-        alt={card.name}
-        className="card-image"
-      />
+      {!imageError ? (
+        <img 
+          src={card.image} 
+          alt={card.name}
+          className="card-image"
+          onError={handleImageError}
+        />
+      ) : (
+        <div className="card-image" style={{ 
+          backgroundColor: '#9333ea', 
+          display: 'flex', 
+          alignItems: 'center', 
+          justifyContent: 'center',
+          color: 'white',
+          fontWeight: 'bold',
+          minHeight: '250px'
+        }}>
+          {card.name}
+        </div>
+      )}
       
       {showHover && !isSelected && (
         <div className="card-hover animate-fadeIn">
           <h3>{card.name}</h3>
           <p>{card.name_en}</p>
-          <p>{card.keywords.split(',')[0]}</p>
+          <p className="mt-2 text-xs">{card.keywords?.split(',')[0] || ''}</p>
         </div>
       )}
 

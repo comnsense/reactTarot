@@ -1,3 +1,5 @@
+ import { Card, Reading } from '../types';
+
  export const cards = [
   {
     "card_id": "fool",
