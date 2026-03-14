@@ -4,67 +4,74 @@ import { Card, Reading } from '../../types';
 interface SelectedCardsProps {
   selectedCards: Card[];
   onClear: () => void;
+  onRemoveCard: (cardId: string) => void;  // Добавяме този проп
   foundReading: Reading | null;
+  onScrollToInterpretations: () => void;
 }
 
 const SelectedCards: React.FC<SelectedCardsProps> = ({ 
   selectedCards, 
   onClear, 
-  foundReading 
+  onRemoveCard,
+  foundReading, 
+  onScrollToInterpretations 
 }) => {
-  // Скрол до тълкуванията
-  const scrollToInterpretations = () => {
-    const element = document.getElementById('interpretations');
-    if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
-    }
-  };
+  if (selectedCards.length === 0) {
+    return (
+      <div className="selected-cards-empty">
+        <p>Все още нямате избрани карти</p>
+        <p className="text-sm">Кликнете върху карта, за да я добавите (макс. 10)</p>
+      </div>
+    );
+  }
 
   return (
-    <div className="bg-white rounded-lg shadow-lg p-4 mb-6">
-      <div className="flex justify-between items-center mb-4">
-        <h2 className="text-lg font-semibold">
+    <div className="selected-cards-container">
+      <div className="selected-cards-header">
+        <h2 className="selected-cards-title">
           Избрани карти ({selectedCards.length}/10)
         </h2>
-        <div className="flex gap-2">
-          <button 
-            onClick={onClear}
-            className="px-4 py-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300"
-          >
-            Изчисти
+        <div className="selected-cards-actions">
+          <button onClick={onClear} className="btn-secondary">
+            Изчисти всички
           </button>
-          <button 
-            onClick={scrollToInterpretations}
-            className="px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700"
-          >
+          <button onClick={onScrollToInterpretations} className="btn-primary">
             Готово
           </button>
         </div>
       </div>
 
       {/* Миниатюри на избрани карти */}
-      <div className="flex flex-wrap gap-2 mb-4">
+      <div className="selected-cards-grid">
         {selectedCards.map(card => (
-          <div key={card.card_id} className="w-16">
+          <div key={card.card_id} className="selected-card-item">
             <img 
               src={card.image} 
               alt={card.name}
-              className="w-full rounded-lg shadow"
+              className="selected-card-image"
             />
-            <p className="text-xs text-center mt-1">{card.name}</p>
+            <button 
+              onClick={() => onRemoveCard(card.card_id)}
+              className="selected-card-remove"
+              title="Премахни"
+            >
+              ×
+            </button>
+            <span className="selected-card-name">{card.name}</span>
           </div>
         ))}
       </div>
 
       {/* Открита комбинация */}
       {foundReading && (
-        <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 animate-sparkle">
-          <div className="flex items-center">
-            <span className="text-2xl mr-2">⚡</span>
-            <h3 className="font-bold text-lg">{foundReading.reading_name}</h3>
+        <div className="reading-found animate-sparkle">
+          <div className="reading-found-header">
+            <span className="reading-found-icon">⚡</span>
+            <h3 className="reading-found-title">Открита комбинация: {foundReading.reading_name}</h3>
           </div>
-          <p className="text-gray-700 mt-2">{foundReading.reading_description}</p>
-          <p className="text-purple-600 mt-2 italic">{foundReading.reading_advice}</p>
+          <p className="reading-found-cards">{foundReading.reading_cards}</p>
+          <p className="reading-found-description">{foundReading.reading_description}</p>
+          <p className="reading-found-advice">"{foundReading.reading_advice}"</p>
         </div>
       )}
     </div>

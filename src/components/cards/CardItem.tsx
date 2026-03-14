@@ -11,13 +11,8 @@ const CardItem: React.FC<CardItemProps> = ({ card, onClick, isSelected }) => {
   const [showHover, setShowHover] = useState(false);
   const [imageError, setImageError] = useState(false);
 
-  // DEBUG
-  console.log('CardItem rendering:', card.name, card.image);
-
-  const handleImageError = () => {
-    console.log('Image failed to load:', card.image);
-    setImageError(true);
-  };
+  // Разделяме ключовите думи
+  const keywordsList = card.keywords.split(',').map(k => k.trim());
 
   return (
     <div 
@@ -31,7 +26,7 @@ const CardItem: React.FC<CardItemProps> = ({ card, onClick, isSelected }) => {
           src={card.image} 
           alt={card.name}
           className="card-image"
-          onError={handleImageError}
+          onError={() => setImageError(true)}
         />
       ) : (
         <div className="card-image" style={{ 
@@ -48,10 +43,16 @@ const CardItem: React.FC<CardItemProps> = ({ card, onClick, isSelected }) => {
       )}
       
       {showHover && !isSelected && (
-        <div className="card-hover animate-fadeIn">
+        <div className="card-hover-transparent animate-fadeIn">
           <h3>{card.name}</h3>
-          <p>{card.name_en}</p>
-          <p className="mt-2 text-xs">{card.keywords?.split(',')[0] || ''}</p>
+          <p className="card-english">{card.name_en}</p>
+          <div className="card-keywords-hover">
+            {keywordsList.map((keyword, index) => (
+              <span key={index} className="keyword-hover-item">
+                {keyword}
+              </span>
+            ))}
+          </div>
         </div>
       )}
 
