@@ -1,4 +1,5 @@
- import { Card, Reading } from '../types';
+ /* eslint-disable @typescript-eslint/no-unused-vars */
+import { Card, Reading } from '../types';
 
  export const cards = [
 

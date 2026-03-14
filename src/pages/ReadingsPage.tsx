@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import ReadingCard from '../components/readings/ReadingCard';
-import { readings, cards } from '../data/cards';
+import { readings } from '../data/cards'; 
 import { Reading } from '../types';
 
 const ReadingsPage: React.FC = () => {
@@ -57,20 +57,16 @@ const ReadingsPage: React.FC = () => {
   const hasCardsFromSuit = (reading: Reading, suit: string): boolean => {
     if (suit === 'all') return true;
     
-    // Вземаме всички карти от комбинацията
     const readingCards = reading.reading_combination;
     
-    // Проверяваме дали поне една карта е от съответната боя/тип
     return readingCards.some(cardId => {
       if (suit === 'major') {
-        // Големи аркани - техните ID-та не съдържат имена на бои
         const majorCards = ['fool', 'magician', 'high_priestess', 'empress', 'emperor', 'hierophant', 
           'lovers', 'chariot', 'strength', 'hermit', 'wheel_of_fortune', 'justice', 'hanged_man',
           'death', 'temperance', 'devil', 'tower', 'star', 'moon', 'sun', 'judgement', 'world'];
         return majorCards.includes(cardId);
       }
       
-      // За малките аркани - проверяваме по префикс
       if (suit === 'wands') return cardId.includes('wands');
       if (suit === 'cups') return cardId.includes('cups');
       if (suit === 'swords') return cardId.includes('swords');
