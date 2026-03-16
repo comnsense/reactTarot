@@ -11155,7 +11155,7 @@ export const readings = [
     "reading_combination": ["high_priestess", "nine_wands"],
     "reading_meaning": "Знаеш, че трябва да издържиш",
     "reading_description": "Вътрешният ти глас ти казва да не се предаваш, въпреки трудностите. Дръж се.",
-    "reading_advice": "Когато интуицията казва "още малко", слушай я."
+    "reading_advice": "Когато интуицията казва още малко, слушай я."
   },
   {
     "reading_id": "high_priestess_ten_wands",
@@ -11245,7 +11245,7 @@ export const readings = [
     "reading_combination": ["high_priestess", "nine_cups"],
     "reading_meaning": "Усещаш, че желанието ще се сбъдне",
     "reading_description": "Интуицията ти подсказва, че мечтата ти е на път да се сбъдне. Вярвай ѝ.",
-    "reading_advice": "Когато вътрешният глас казва "да", значи е време."
+    "reading_advice": "Когато вътрешният глас казва да, значи е време."
   },
   {
     "reading_id": "high_priestess_ten_cups",
@@ -11407,7 +11407,7 @@ export const readings = [
     "reading_combination": ["high_priestess", "seven_pentacles"],
     "reading_meaning": "Усещаш кога да чакаш",
     "reading_description": "Интуицията ти подсказва, че сега е време за търпение, не за действие. Слушай я.",
-    "reading_advice": "Когато вътрешният глас казва "чакай", чакай."
+    "reading_advice": "Когато вътрешният глас казва чакай, чакай."
   },
   {
     "reading_id": "high_priestess_eight_pentacles",
