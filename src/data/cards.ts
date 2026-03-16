@@ -8778,7 +8778,7 @@ export const readings = [
     "reading_cards": "Глупак + 4 Мечове",
     "reading_combination": ["fool", "four_swords"],
     "reading_meaning": "Трябва да спреш",
-    "reading_description": "Тялото или умът ти казват "спри", но ти искаш да продължаваш. Налага се почивка, която не си планирал.",
+    "reading_description": "Тялото или умът ти казват спри, но ти искаш да продължаваш. Налага се почивка, която не си планирал.",
     "reading_advice": "Спри, когато трябва, не когато искаш."
   },
   {
@@ -9445,7 +9445,7 @@ export const readings = [
     "reading_combination": ["high_priestess", "eight_cups"],
     "reading_meaning": "Усещаш, че трябва да тръгнеш",
     "reading_description": "Вътрешният ти глас ти казва, че е време да оставиш нещо и да продължиш напред. Слушай го.",
-    "reading_advice": "Когато интуицията казва "тръгвай", тръгвай."
+    "reading_advice": "Когато интуицията казва тръгвай, тръгвай."
   },
   {
     "reading_id": "high_priestess_nine_cups",
@@ -9454,7 +9454,7 @@ export const readings = [
     "reading_combination": ["high_priestess", "nine_cups"],
     "reading_meaning": "Усещаш, че желанието ще се сбъдне",
     "reading_description": "Интуицията ти подсказва, че мечтата ти е на път да се сбъдне. Вярвай ѝ.",
-    "reading_advice": "Когато вътрешният глас казва "да", значи е време."
+    "reading_advice": "Когато вътрешният глас казва да, значи е време."
   },
   {
     "reading_id": "high_priestess_ten_cups",
@@ -9616,7 +9616,7 @@ export const readings = [
     "reading_combination": ["high_priestess", "seven_pentacles"],
     "reading_meaning": "Усещаш кога да чакаш",
     "reading_description": "Интуицията ти подсказва, че сега е време за търпение, не за действие. Слушай я.",
-    "reading_advice": "Когато вътрешният глас казва "чакай", чакай."
+    "reading_advice": "Когато вътрешният глас казва чакай- чакай."
   },
   {
     "reading_id": "high_priestess_eight_pentacles",
@@ -10367,5 +10367,4 @@ export const readings = [
   }
 ];
   
-
 
