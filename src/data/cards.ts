@@ -8565,15 +8565,6 @@ export const readings = [
     "reading_description": "Пробуждаш се и виждаш, че си завършил дълъг път. Пълнота и разбиране.",
     "reading_advice": "Ти намери себе си. Сега живей."
   },
-   {
-    "reading_id": "fool_ace_wands",
-    "reading_name": "Импулсивно начало",
-    "reading_cards": "Глупак + Асо Жезли",
-    "reading_combination": ["fool", "ace_wands"],
-    "reading_meaning": "Спонтанен старт",
-    "reading_description": "Започваш нещо ново без много планиране, воден от ентусиазъм и импулс. Това може да е добре, но внимавай.",
-    "reading_advice": "Ентусиазмът е чудесен, но малко разум няма да навреди."
-  },
   {
     "reading_id": "fool_two_wands",
     "reading_name": "Необмислен избор",
