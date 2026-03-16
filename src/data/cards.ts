@@ -9364,7 +9364,7 @@ export const readings = [
     "reading_combination": ["high_priestess", "nine_wands"],
     "reading_meaning": "Знаеш, че трябва да издържиш",
     "reading_description": "Вътрешният ти глас ти казва да не се предаваш, въпреки трудностите. Дръж се.",
-    "reading_advice": "Когато интуицията казва "още малко", слушай я."
+    "reading_advice": "Когато интуицията казва още малко, слушай я."
   },
   {
     "reading_id": "high_priestess_ten_wands",
@@ -12417,4 +12417,3 @@ javascript
   }
 ];
   
-
