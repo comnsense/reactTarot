@@ -6484,7 +6484,2087 @@ export const readings = [
     "reading_meaning": "Пълно емоционално удовлетворение",
     "reading_description": "Мечтата ти се сбъдна и носи пълно семейно щастие. Всичко, за което си копнял.",
     "reading_advice": "Наслаждавай се и бъди благодарен. Ти си благословен."
+  },  {
+    "reading_id": "fool_magician",
+    "reading_name": "Ново начало с увереност",
+    "reading_cards": "Глупак + Магьосник",
+    "reading_combination": ["fool", "magician"],
+    "reading_meaning": "Иновативен старт",
+    "reading_description": "Започваш нещо ново с всички необходими инструменти. Имаш и ентусиазма, и уменията да успееш.",
+    "reading_advice": "Довери се на способностите си и скочи смело."
+  },
+  {
+    "reading_id": "fool_high_priestess",
+    "reading_name": "Интуитивно начало",
+    "reading_cards": "Глупак + Върховна жрица",
+    "reading_combination": ["fool", "high_priestess"],
+    "reading_meaning": "Воден от вътрешен глас",
+    "reading_description": "Новото начало идва не от разума, а от дълбока вътрешна увереност. Слушай интуицията си.",
+    "reading_advice": "Ти знаеш повече, отколкото си мислиш. Довери се на вътрешния си глас."
+  },
+  {
+    "reading_id": "fool_empress",
+    "reading_name": "Творческо начало",
+    "reading_cards": "Глупак + Императрица",
+    "reading_combination": ["fool", "empress"],
+    "reading_meaning": "Нов проект се ражда",
+    "reading_description": "Започваш нещо ново, свързано с творчество, красота или създаване. Идея, която носи плод.",
+    "reading_advice": "Отгледай идеята си с любов и търпение."
+  },
+  {
+    "reading_id": "fool_emperor",
+    "reading_name": "Структурирано начало",
+    "reading_cards": "Глупак + Император",
+    "reading_combination": ["fool", "emperor"],
+    "reading_meaning": "Ново начало с правила",
+    "reading_description": "Започваш нещо ново, но този път имаш план и структура. Не е просто хвърляне в неизвестното.",
+    "reading_advice": "Добрата организация е основата на успеха."
+  },
+  {
+    "reading_id": "fool_hierophant",
+    "reading_name": "Традиционно начало",
+    "reading_cards": "Глупак + Йерофант",
+    "reading_combination": ["fool", "hierophant"],
+    "reading_meaning": "Ново начало по правилата",
+    "reading_description": "Започваш нещо ново, следвайки установени традиции и норми. Учиш се от опита на другите.",
+    "reading_advice": "Понякога най-добрият начин да започнеш е да следваш вече утъпкания път."
+  },
+  {
+    "reading_id": "fool_lovers",
+    "reading_name": "Любовно начало",
+    "reading_cards": "Глупак + Влюбените",
+    "reading_combination": ["fool", "lovers"],
+    "reading_meaning": "Нова любов",
+    "reading_description": "Започваш нова връзка или любовно приключение. Сърцето ти е отворено и готово да рискува.",
+    "reading_advice": "Следвай сърцето си, но не забравяй и главата."
+  },
+  {
+    "reading_id": "fool_chariot",
+    "reading_name": "Пътешествие",
+    "reading_cards": "Глупак + Колесница",
+    "reading_combination": ["fool", "chariot"],
+    "reading_meaning": "Тръгваш на път",
+    "reading_description": "Предстои ти пътуване или преместване. Нови хоризонти, нови места, нови срещи.",
+    "reading_advice": "Хвани волана здраво и се наслаждавай на пътешествието."
+  },
+  {
+    "reading_id": "fool_strength",
+    "reading_name": "Смело начало",
+    "reading_cards": "Глупак + Сила",
+    "reading_combination": ["fool", "strength"],
+    "reading_meaning": "Започваш със смелост",
+    "reading_description": "Новото начало изисква смелост и вътрешна сила. Ти ги имаш. Не се страхувай.",
+    "reading_advice": "Смелостта не е липса на страх, а действие въпреки страха."
+  },
+  {
+    "reading_id": "fool_hermit",
+    "reading_name": "Самотно начало",
+    "reading_cards": "Глупак + Отшелник",
+    "reading_combination": ["fool", "hermit"],
+    "reading_meaning": "Започваш сам",
+    "reading_description": "Новото начало изисква да се оттеглиш и да потърсиш себе си. Самота, която лекува и води напред.",
+    "reading_advice": "Понякога трябва да си сам, за да откриеш себе си."
+  },
+  {
+    "reading_id": "fool_wheel",
+    "reading_name": "Съдбовно начало",
+    "reading_cards": "Глупак + Колело на съдбата",
+    "reading_combination": ["fool", "wheel_of_fortune"],
+    "reading_meaning": "Съдбата ти дава шанс",
+    "reading_description": "Новото начало не е случайно - то е писано в звездите. Съдбовен момент, който не бива да пропускаш.",
+    "reading_advice": "Хвани съдбата за ръка и я последвай."
+  },
+  {
+    "reading_id": "fool_justice",
+    "reading_name": "Справедливо начало",
+    "reading_cards": "Глупак + Справедливост",
+    "reading_combination": ["fool", "justice"],
+    "reading_meaning": "Започваш с чисто досие",
+    "reading_description": "Новото начало идва след като старите сметки са изчистени. Чист лист, справедлив старт.",
+    "reading_advice": "Преди да започнеш нещо ново, приключи старото."
+  },
+  {
+    "reading_id": "fool_hanged",
+    "reading_name": "Несигурно начало",
+    "reading_cards": "Глупак + Обесен",
+    "reading_combination": ["fool", "hanged_man"],
+    "reading_meaning": "Започваш, без да знаеш посоката",
+    "reading_description": "Започваш нещо ново, но не си сигурен накъде отиваш. Предаване на течението.",
+    "reading_advice": "Понякога трябва да спреш, за да видиш посоката."
+  },
+  {
+    "reading_id": "fool_death",
+    "reading_name": "Трансформация",
+    "reading_cards": "Глупак + Смърт",
+    "reading_combination": ["fool", "death"],
+    "reading_meaning": "Краят води до начало",
+    "reading_description": "Нещо старо приключва, за да започне нещо ново. Феникс, който се издига от пепелта.",
+    "reading_advice": "Пусни старото, за да посрещнеш новото."
+  },
+  {
+    "reading_id": "fool_temperance",
+    "reading_name": "Балансирано начало",
+    "reading_cards": "Глупак + Умереност",
+    "reading_combination": ["fool", "temperance"],
+    "reading_meaning": "Започваш с мярка",
+    "reading_description": "Започваш нещо ново, но без да изгаряш мостовете. Баланс между старо и ново.",
+    "reading_advice": "Върви напред, но помни откъде идваш."
+  },
+  {
+    "reading_id": "fool_devil",
+    "reading_name": "Рисковано начало",
+    "reading_cards": "Глупак + Дявол",
+    "reading_combination": ["fool", "devil"],
+    "reading_meaning": "Започваш нещо опасно",
+    "reading_description": "Новото начало е примамливо, но крие рискове от зависимост или изкушение. Внимавай.",
+    "reading_advice": "Убеди се, че не скачаш в капан, а в свобода."
+  },
+  {
+    "reading_id": "fool_tower",
+    "reading_name": "Внезапно начало",
+    "reading_cards": "Глупак + Кула",
+    "reading_combination": ["fool", "tower"],
+    "reading_meaning": "Започваш след срив",
+    "reading_description": "Новото начало идва внезапно, след като нещо старо се срути. Непланирано, но неизбежно.",
+    "reading_advice": "Понякога трябва да рухнеш, за да се издигнеш отново."
+  },
+  {
+    "reading_id": "fool_star",
+    "reading_name": "Надеждно начало",
+    "reading_cards": "Глупак + Звезда",
+    "reading_combination": ["fool", "star"],
+    "reading_meaning": "Започваш с надежда",
+    "reading_description": "Новото начало носи надежда и оптимизъм. Вярваш, че всичко ще се нареди по най-добрия начин.",
+    "reading_advice": "Надеждата е компасът в несигурните времена."
+  },
+  {
+    "reading_id": "fool_moon",
+    "reading_name": "Неясно начало",
+    "reading_cards": "Глупак + Луна",
+    "reading_combination": ["fool", "moon"],
+    "reading_meaning": "Започваш в мъгла",
+    "reading_description": "Започваш нещо ново, без да виждаш ясно пътя. Страхове, илюзии, несигурност.",
+    "reading_advice": "Понякога трябва да вървиш, дори когато не виждаш."
+  },
+  {
+    "reading_id": "fool_sun",
+    "reading_name": "Слънчево начало",
+    "reading_cards": "Глупак + Слънце",
+    "reading_combination": ["fool", "sun"],
+    "reading_meaning": "Щастливо начало",
+    "reading_description": "Започваш нещо ново, изпълнен с радост и оптимизъм. Всичко ти се усмихва.",
+    "reading_advice": "Наслаждавай се на момента. Той е специален."
+  },
+  {
+    "reading_id": "fool_judgement",
+    "reading_name": "Пробудено начало",
+    "reading_cards": "Глупак + Съд",
+    "reading_combination": ["fool", "judgement"],
+    "reading_meaning": "Започваш след пробуждане",
+    "reading_description": "Новото начало идва след дълбоко вътрешно пробуждане. Прераждане, ново себеусещане.",
+    "reading_advice": "Чуй зова на душата си и я последвай."
+  },
+  {
+    "reading_id": "fool_world",
+    "reading_name": "Завършено начало",
+    "reading_cards": "Глупак + Свят",
+    "reading_combination": ["fool", "world"],
+    "reading_meaning": "Нов цикъл започва",
+    "reading_description": "Започваш нов цикъл, след като предишният е завършен. Пълнота и ново начало едновременно.",
+    "reading_advice": "Светът е пред теб. Отправи се на път."
+  },
+  {
+    "reading_id": "magician_high_priestess",
+    "reading_name": "Сила и мъдрост",
+    "reading_cards": "Магьосник + Върховна жрица",
+    "reading_combination": ["magician", "high_priestess"],
+    "reading_meaning": "Действие и интуиция",
+    "reading_description": "Съчетаваш активното действие с дълбока интуиция. Знаеш как да действаш и кога да мълчиш.",
+    "reading_advice": "Довери се на вътрешния си глас, докато действаш външно."
+  },
+  {
+    "reading_id": "magician_empress",
+    "reading_name": "Творческа сила",
+    "reading_cards": "Магьосник + Императрица",
+    "reading_combination": ["magician", "empress"],
+    "reading_meaning": "Създаване",
+    "reading_description": "Имаш всички инструменти да създадеш нещо ново и красиво. Творчество, което носи плод.",
+    "reading_advice": "Твори без страх. Светът има нужда от това, което само ти можеш да създадеш."
+  },
+  {
+    "reading_id": "magician_emperor",
+    "reading_name": "Власт и умения",
+    "reading_cards": "Магьосник + Император",
+    "reading_combination": ["magician", "emperor"],
+    "reading_meaning": "Лидер с умения",
+    "reading_description": "Съчетаваш лидерски качества с умения и знания. Воден от разум и компетентност.",
+    "reading_advice": "Води с пример и знание, не само с власт."
+  },
+  {
+    "reading_id": "magician_hierophant",
+    "reading_name": "Учител",
+    "reading_cards": "Магьосник + Йерофант",
+    "reading_combination": ["magician", "hierophant"],
+    "reading_meaning": "Предаване на знания",
+    "reading_description": "Имаш знания и умения, които можеш да предадеш на другите. Учител, наставник, гид.",
+    "reading_advice": "Споделяй щедро. Знанието расте, когато се споделя."
+  },
+  {
+    "reading_id": "magician_lovers",
+    "reading_name": "Любовна магия",
+    "reading_cards": "Магьосник + Влюбените",
+    "reading_combination": ["magician", "lovers"],
+    "reading_meaning": "Създаваш любов",
+    "reading_description": "Имаш силата да привлечеш любов или да задълбочиш съществуваща връзка. Харизма и увереност.",
+    "reading_advice": "Бъди искрен в намеренията си. Истинската магия идва от сърцето."
+  },
+  {
+    "reading_id": "magician_chariot",
+    "reading_name": "Контролирано пътуване",
+    "reading_cards": "Магьосник + Колесница",
+    "reading_combination": ["magician", "chariot"],
+    "reading_meaning": "Управляваш посоката",
+    "reading_description": "Имаш контрол върху живота си и посоката, в която се движиш. Ти си на волана.",
+    "reading_advice": "Дръж волана здраво, но не забравяй да се наслаждаваш на пътя."
+  },
+  {
+    "reading_id": "magician_strength",
+    "reading_name": "Вътрешна мощ",
+    "reading_cards": "Магьосник + Сила",
+    "reading_combination": ["magician", "strength"],
+    "reading_meaning": "Сила на духа",
+    "reading_description": "Съчетаваш умения с вътрешна сила и смелост. Нищо не може да те спре.",
+    "reading_advice": "Вярвай в себе си, дори когато другите се съмняват."
+  },
+  {
+    "reading_id": "magician_hermit",
+    "reading_name": "Мъдър самотник",
+    "reading_cards": "Магьосник + Отшелник",
+    "reading_combination": ["magician", "hermit"],
+    "reading_meaning": "Знание в самота",
+    "reading_description": "Притежаваш знания и умения, които си развил в самота. Време е да ги споделиш?",
+    "reading_advice": "Знанието, което не се споделя, изсъхва."
+  },
+  {
+    "reading_id": "magician_wheel",
+    "reading_name": "Късметлия",
+    "reading_cards": "Магьосник + Колело на съдбата",
+    "reading_combination": ["magician", "wheel_of_fortune"],
+    "reading_meaning": "Късмет и умения",
+    "reading_description": "Съчетаваш късмет с умения. Това е печеливша комбинация, която носи успех.",
+    "reading_advice": "Използвай късмета си, но не разчитай само на него."
+  },
+  {
+    "reading_id": "magician_justice",
+    "reading_name": "Справедлив магьосник",
+    "reading_cards": "Магьосник + Справедливост",
+    "reading_combination": ["magician", "justice"],
+    "reading_meaning": "Използваш силата си справедливо",
+    "reading_description": "Имаш сила и власт, но ги използваш с чувство за справедливост и морал.",
+    "reading_advice": "Силата изисква отговорност. Не я използвай за егоистични цели."
+  },
+  {
+    "reading_id": "magician_hanged",
+    "reading_name": "Блокиран магьосник",
+    "reading_cards": "Магьосник + Обесен",
+    "reading_combination": ["magician", "hanged_man"],
+    "reading_meaning": "Имаш сила, но не можеш да действаш",
+    "reading_description": "Притежаваш умения и ресурси, но нещо те блокира. Време за предъвкване.",
+    "reading_advice": "Понякога трябва да спреш, за да продължиш."
+  },
+  {
+    "reading_id": "magician_death",
+    "reading_name": "Трансформация на силата",
+    "reading_cards": "Магьосник + Смърт",
+    "reading_combination": ["magician", "death"],
+    "reading_meaning": "Старите методи отмират",
+    "reading_description": "Това, което знаеш и умееш, вече не работи. Трябва да се промениш и обновиш.",
+    "reading_advice": "Не се вкопчвай в старите умения. Научи нови."
+  },
+  {
+    "reading_id": "magician_temperance",
+    "reading_name": "Балансирана сила",
+    "reading_cards": "Магьосник + Умереност",
+    "reading_combination": ["magician", "temperance"],
+    "reading_meaning": "Използваш силата си с мярка",
+    "reading_description": "Умееш да използваш силата и уменията си в точната мярка. Без крайности.",
+    "reading_advice": "Всичко с мярка, дори и силата."
+  },
+  {
+    "reading_id": "magician_devil",
+    "reading_name": "Черна магия",
+    "reading_cards": "Магьосник + Дявол",
+    "reading_combination": ["magician", "devil"],
+    "reading_meaning": "Използваш силата си за его",
+    "reading_description": "Използваш уменията си за манипулация, контрол или егоистични цели. Внимавай - има цена.",
+    "reading_advice": "Силата, използвана за зло, винаги се връща при този, който я използва."
+  },
+  {
+    "reading_id": "magician_tower",
+    "reading_name": "Срив на илюзиите",
+    "reading_cards": "Магьосник + Кула",
+    "reading_combination": ["magician", "tower"],
+    "reading_meaning": "Силата ти се срива",
+    "reading_description": "Всичко, в което си вярвал като свои умения и сила, се срива. Илюзиите падат.",
+    "reading_advice": "Понякога трябва да загубиш всичко, за да откриеш истинската си сила."
+  },
+  {
+    "reading_id": "magician_star",
+    "reading_name": "Надежда и умения",
+    "reading_cards": "Магьосник + Звезда",
+    "reading_combination": ["magician", "star"],
+    "reading_meaning": "Вдъхновен творец",
+    "reading_description": "Съчетаваш умения с вдъхновение и надежда. Твориш с вяра в бъдещето.",
+    "reading_advice": "Продължавай да вярваш. Най-доброто тепърва предстои."
+  },
+  {
+    "reading_id": "magician_moon",
+    "reading_name": "Магьосник в мъгла",
+    "reading_cards": "Магьосник + Луна",
+    "reading_combination": ["magician", "moon"],
+    "reading_meaning": "Не виждаш ясно",
+    "reading_description": "Имаш умения, но не виждаш ясно ситуацията. Страхове и илюзии замъгляват преценката ти.",
+    "reading_advice": "Изчакай мъглата да се вдигне, преди да действаш."
+  },
+  {
+    "reading_id": "magician_sun",
+    "reading_name": "Блестящ магьосник",
+    "reading_cards": "Магьосник + Слънце",
+    "reading_combination": ["magician", "sun"],
+    "reading_meaning": "Успех и признание",
+    "reading_description": "Уменията ти блестят и получават признание. Успех, радост, удовлетворение.",
+    "reading_advice": "Наслади се на светлината. Ти я заслужи."
+  },
+  {
+    "reading_id": "magician_judgement",
+    "reading_name": "Пробуден магьосник",
+    "reading_cards": "Магьосник + Съд",
+    "reading_combination": ["magician", "judgement"],
+    "reading_meaning": "Ново ниво на умения",
+    "reading_description": "Пробуждане на нови способности. Откриваш, че можеш повече, отколкото си мислел.",
+    "reading_advice": "Откликни на зова. Новите ти умения чакат да бъдат развити."
+  },
+  {
+    "reading_id": "magician_world",
+    "reading_name": "Съвършен магьосник",
+    "reading_cards": "Магьосник + Свят",
+    "reading_combination": ["magician", "world"],
+    "reading_meaning": "Върховно майсторство",
+    "reading_description": "Достигнал си върха в своята област. Всичко, което правиш, носи завършеност и хармония.",
+    "reading_advice": "Наслади се на върха, но не спирай да се развиваш."
+  },
+  {
+    "reading_id": "high_priestess_empress",
+    "reading_name": "Мъдра майка",
+    "reading_cards": "Върховна жрица + Императрица",
+    "reading_combination": ["high_priestess", "empress"],
+    "reading_meaning": "Интуитивно създаване",
+    "reading_description": "Съчетаваш дълбока интуиция с творческа сила. Това, което създаваш, носи мъдрост и красота.",
+    "reading_advice": "Довери се на интуицията си, докато твориш."
+  },
+  {
+    "reading_id": "high_priestess_emperor",
+    "reading_name": "Мъдър владетел",
+    "reading_cards": "Върховна жрица + Император",
+    "reading_combination": ["high_priestess", "emperor"],
+    "reading_meaning": "Интуитивно управление",
+    "reading_description": "Управляваш с мъдрост и интуиция, не само с разум и правила. Слушаш вътрешния си глас.",
+    "reading_advice": "Най-добрият лидер е този, който слуша и разума, и сърцето."
+  },
+  {
+    "reading_id": "high_priestess_hierophant",
+    "reading_name": "Духовен учител",
+    "reading_cards": "Върховна жрица + Йерофант",
+    "reading_combination": ["high_priestess", "hierophant"],
+    "reading_meaning": "Предаване на тайни знания",
+    "reading_description": "Ти си пазител на древни тайни и знания. Време е да ги предадеш на достойни ученици.",
+    "reading_advice": "Споделяй мъдростта си, но само с тези, които са готови да я приемат."
+  },
+  {
+    "reading_id": "high_priestess_lovers",
+    "reading_name": "Интуитивна любов",
+    "reading_cards": "Върховна жрица + Влюбените",
+    "reading_combination": ["high_priestess", "lovers"],
+    "reading_meaning": "Любов, водена от интуиция",
+    "reading_description": "Изборът в любовта идва не от разума, а от дълбоко вътрешно познание. Сърцето знае.",
+    "reading_advice": "Слушай какво ти казва вътрешният глас за любовта."
+  },
+  {
+    "reading_id": "high_priestess_chariot",
+    "reading_name": "Интуитивно пътуване",
+    "reading_cards": "Върховна жрица + Колесница",
+    "reading_combination": ["high_priestess", "chariot"],
+    "reading_meaning": "Воден от вътрешен компас",
+    "reading_description": "Дори да не виждаш ясно пътя, интуицията ти знае посоката. Следвай я.",
+    "reading_advice": "Понякога най-добрият навигатор е вътрешният ти глас."
+  },
+  {
+    "reading_id": "high_priestess_strength",
+    "reading_name": "Вътрешна сила",
+    "reading_cards": "Върховна жрица + Сила",
+    "reading_combination": ["high_priestess", "strength"],
+    "reading_meaning": "Силата на духа",
+    "reading_description": "Истинската сила идва отвътре. Ти знаеш това и черпиш от дълбокия си вътрешен извор.",
+    "reading_advice": "Най-голямата сила е тази, която не се вижда с просто око."
+  },
+  {
+    "reading_id": "high_priestess_hermit",
+    "reading_name": "Дълбока медитация",
+    "reading_cards": "Върховна жрица + Отшелник",
+    "reading_combination": ["high_priestess", "hermit"],
+    "reading_meaning": "Вглъбяване",
+    "reading_description": "Оттегляш се в дълбока медитация и самота. Търсиш отговори в себе си.",
+    "reading_advice": "В тишината ще намериш най-силните отговори."
+  },
+  {
+    "reading_id": "high_priestess_wheel",
+    "reading_name": "Съдбовно прозрение",
+    "reading_cards": "Върховна жрица + Колело на съдбата",
+    "reading_combination": ["high_priestess", "wheel_of_fortune"],
+    "reading_meaning": "Разбираш съдбата",
+    "reading_description": "Прозрение за житейския ти път и съдба. Виждаш по-голямата картина.",
+    "reading_advice": "Всичко се случва с причина. Сега разбираш защо."
+  },
+  {
+    "reading_id": "high_priestess_justice",
+    "reading_name": "Интуитивна справедливост",
+    "reading_cards": "Върховна жрица + Справедливост",
+    "reading_combination": ["high_priestess", "justice"],
+    "reading_meaning": "Знаеш какво е справедливо",
+    "reading_description": "Имаш вродено чувство за справедливост, което не се нуждае от закони. Сърцето ти знае.",
+    "reading_advice": "Следвай вътрешното си чувство за правилно и грешно."
+  },
+  {
+    "reading_id": "high_priestess_hanged",
+    "reading_name": "Интуитивно чакане",
+    "reading_cards": "Върховна жрица + Обесен",
+    "reading_combination": ["high_priestess", "hanged_man"],
+    "reading_meaning": "Знаеш, но чакаш",
+    "reading_description": "Интуицията ти казва какво ще се случи, но трябва да изчакаш правилния момент.",
+    "reading_advice": "Търпението е част от мъдростта."
+  },
+  {
+    "reading_id": "high_priestess_death",
+    "reading_name": "Интуитивен край",
+    "reading_cards": "Върховна жрица + Смърт",
+    "reading_combination": ["high_priestess", "death"],
+    "reading_meaning": "Усещаш края",
+    "reading_description": "Усещаш, че нещо приключва, дори преди да се случи. Интуицията те подготвя.",
+    "reading_advice": "Довери се на усещането си. То те подготвя за промяна."
+  },
+  {
+    "reading_id": "high_priestess_temperance",
+    "reading_name": "Духовен баланс",
+    "reading_cards": "Върховна жрица + Умереност",
+    "reading_combination": ["high_priestess", "temperance"],
+    "reading_meaning": "Хармония на духа",
+    "reading_description": "Духовният ти живот е в хармония и баланс. Всичко тече както трябва.",
+    "reading_advice": "Пази този баланс. Той е ключът към вътрешния мир."
+  },
+  {
+    "reading_id": "high_priestess_devil",
+    "reading_name": "Тъмна интуиция",
+    "reading_cards": "Върховна жрица + Дявол",
+    "reading_combination": ["high_priestess", "devil"],
+    "reading_meaning": "Интуиция, използвана за контрол",
+    "reading_description": "Използваш интуицията си да манипулираш или контролираш другите. Тъмната страна на силата.",
+    "reading_advice": "Интуицията е дар. Не я използвай за егоистични цели."
+  },
+  {
+    "reading_id": "high_priestess_tower",
+    "reading_name": "Срив на интуицията",
+    "reading_cards": "Върховна жрица + Кула",
+    "reading_combination": ["high_priestess", "tower"],
+    "reading_meaning": "Всичко, в което си вярвал, се срива",
+    "reading_description": "Интуицията ти се оказва грешна или всичко, което си чувствал като истина, се срива.",
+    "reading_advice": "Понякога трябва да загубиш вярата си, за да намериш по-истинска."
+  },
+  {
+    "reading_id": "high_priestess_star",
+    "reading_name": "Интуитивна надежда",
+    "reading_cards": "Върховна жрица + Звезда",
+    "reading_combination": ["high_priestess", "star"],
+    "reading_meaning": "Дълбока вяра",
+    "reading_description": "Дори когато не виждаш пътя, интуицията ти подсказва, че всичко ще бъде наред.",
+    "reading_advice": "Вярвай, дори когато не виждаш."
+  },
+  {
+    "reading_id": "high_priestess_moon",
+    "reading_name": "Двойна интуиция",
+    "reading_cards": "Върховна жрица + Луна",
+    "reading_combination": ["high_priestess", "moon"],
+    "reading_meaning": "Свръхчувствителност",
+    "reading_description": "Интуицията ти е изключително силна, но може да бъде замъглена от страхове и илюзии. Внимавай.",
+    "reading_advice": "Проверявай интуицията си с реалността, преди да действаш."
+  },
+  {
+    "reading_id": "high_priestess_sun",
+    "reading_name": "Просветлена",
+    "reading_cards": "Върховна жрица + Слънце",
+    "reading_combination": ["high_priestess", "sun"],
+    "reading_meaning": "Интуиция и яснота",
+    "reading_description": "Интуицията ти е кристално ясна. Виждаш истината без страхове и илюзии.",
+    "reading_advice": "Наслади се на тази яснота. Тя е рядък дар."
+  },
+  {
+    "reading_id": "high_priestess_judgement",
+    "reading_name": "Духовно пробуждане",
+    "reading_cards": "Върховна жрица + Съд",
+    "reading_combination": ["high_priestess", "judgement"],
+    "reading_meaning": "Пробуждане на интуицията",
+    "reading_description": "Интуитивните ти способности се пробуждат на ново ниво. Чуваш вътрешния си глас по-ясно от всякога.",
+    "reading_advice": "Откликни на този зов. Той води към по-висше Аз."
+  },
+  {
+    "reading_id": "high_priestess_world",
+    "reading_name": "Вселенска мъдрост",
+    "reading_cards": "Върховна жрица + Свят",
+    "reading_combination": ["high_priestess", "world"],
+    "reading_meaning": "Пълна хармония",
+    "reading_description": "Интуицията ти е в хармония с вселената. Знаеш всичко, което трябва да знаеш.",
+    "reading_advice": "Ти си в унисон с космоса. Наслаждавай се на този момент на пълнота."
+  },
+  {
+    "reading_id": "empress_emperor",
+    "reading_name": "Кралска двойка",
+    "reading_cards": "Императрица + Император",
+    "reading_combination": ["empress", "emperor"],
+    "reading_meaning": "Съвършен съюз",
+    "reading_description": "Съчетание на мъжка и женска енергия в хармония. Творчество и структура, грижа и ред.",
+    "reading_advice": "Заедно сте по-силни. Ценете различията си."
+  },
+  {
+    "reading_id": "empress_hierophant",
+    "reading_name": "Духовна майка",
+    "reading_cards": "Императрица + Йерофант",
+    "reading_combination": ["empress", "hierophant"],
+    "reading_meaning": "Учителка и закрилница",
+    "reading_description": "Съчетаваш майчинската грижа с духовното наставничество. Водиш другите с любов и мъдрост.",
+    "reading_advice": "Грижи се за духовните си чеда, но им давай свобода."
+  },
+  {
+    "reading_id": "empress_lovers",
+    "reading_name": "Любов и плодородие",
+    "reading_cards": "Императрица + Влюбените",
+    "reading_combination": ["empress", "lovers"],
+    "reading_meaning": "Любов, която ражда",
+    "reading_description": "Любовта в живота ти носи плодове - деца, творчество, изобилие. Пълнота и радост.",
+    "reading_advice": "Наслаждавай се на любовта, която създава живот."
+  },
+  {
+    "reading_id": "empress_chariot",
+    "reading_name": "Творческо пътуване",
+    "reading_cards": "Императрица + Колесница",
+    "reading_combination": ["empress", "chariot"],
+    "reading_meaning": "Творчество в движение",
+    "reading_description": "Носиш творческата си енергия на път. Вдъхновение, което те води напред.",
+    "reading_advice": "Пътувай и твори. Светът е твоето студио."
+  },
+  {
+    "reading_id": "empress_strength",
+    "reading_name": "Нежна сила",
+    "reading_cards": "Императрица + Сила",
+    "reading_combination": ["empress", "strength"],
+    "reading_meaning": "Силата на грижата",
+    "reading_description": "Истинската ти сила идва от способността да обичаш и да се грижиш. Това не е слабост.",
+    "reading_advice": "Бъди нежна, но непоклатима в любовта си."
+  },
+  {
+    "reading_id": "empress_hermit",
+    "reading_name": "Самотна майка",
+    "reading_cards": "Императрица + Отшелник",
+    "reading_combination": ["empress", "hermit"],
+    "reading_meaning": "Грижа в самота",
+    "reading_description": "Грижиш се за другите, докато самата ти се чувстваш самотна. Време е и за теб.",
+    "reading_advice": "Не забравяй да се грижиш и за себе си."
+  },
+  {
+    "reading_id": "empress_wheel",
+    "reading_name": "Съдбовно майчинство",
+    "reading_cards": "Императрица + Колело на съдбата",
+    "reading_combination": ["empress", "wheel_of_fortune"],
+    "reading_meaning": "Съдбата води към майчинство",
+    "reading_description": "Майчинството или творчеството ти е писано от съдбата. Точното време, точното място.",
+    "reading_advice": "Довери се, че всичко идва в точното време."
+  },
+  {
+    "reading_id": "empress_justice",
+    "reading_name": "Справедлива майка",
+    "reading_cards": "Императрица + Справедливост",
+    "reading_combination": ["empress", "justice"],
+    "reading_meaning": "Грижа и справедливост",
+    "reading_description": "Грижиш се за всички еднакво, без предпочитания. Майка, която съди безпристрастно.",
+    "reading_advice": "Любовта изисква и справедливост, не само прошка."
+  },
+  {
+    "reading_id": "empress_hanged",
+    "reading_name": "Чакаща майка",
+    "reading_cards": "Императрица + Обесен",
+    "reading_combination": ["empress", "hanged_man"],
+    "reading_meaning": "Творчество в застой",
+    "reading_description": "Творческата ти енергия е блокирана или в изчакване. Нещо не позволява да се изявиш.",
+    "reading_advice": "Понякога трябва да изчакаш, преди да родиш."
+  },
+  {
+    "reading_id": "empress_death",
+    "reading_name": "Край на плодородието",
+    "reading_cards": "Императрица + Смърт",
+    "reading_combination": ["empress", "death"],
+    "reading_meaning": "Край на цикъл",
+    "reading_description": "Един творчески цикъл приключва. Менопауза, край на проект, затваряне на врата.",
+    "reading_advice": "Приеми края като част от естествения цикъл на живота."
+  },
+  {
+    "reading_id": "empress_temperance",
+    "reading_name": "Балансирано творчество",
+    "reading_cards": "Императрица + Умереност",
+    "reading_combination": ["empress", "temperance"],
+    "reading_meaning": "Творчество с мярка",
+    "reading_description": "Твориш без да се изтощаваш. Баланс между даване и получаване, между грижа и свобода.",
+    "reading_advice": "Пази баланса, за да можеш да твориш дълго."
+  },
+  {
+    "reading_id": "empress_devil",
+    "reading_name": "Обсебваща майка",
+    "reading_cards": "Императрица + Дявол",
+    "reading_combination": ["empress", "devil"],
+    "reading_meaning": "Прекалена привързаност",
+    "reading_description": "Грижата ти се превръща в контрол и обладаване. Не пускаш децата или проектите си.",
+    "reading_advice": "Любовта не е притежание. Пусни, за да расте."
+  },
+  {
+    "reading_id": "empress_tower",
+    "reading_name": "Срив в семейството",
+    "reading_cards": "Императрица + Кула",
+    "reading_combination": ["empress", "tower"],
+    "reading_meaning": "Разрушение на дома",
+    "reading_description": "Семейството или домът ти преживява внезапен срив. Загуба, болест, раздяла.",
+    "reading_advice": "След разрушението идва ново начало."
+  },
+  {
+    "reading_id": "empress_star",
+    "reading_name": "Надежда за майката",
+    "reading_cards": "Императрица + Звезда",
+    "reading_combination": ["empress", "star"],
+    "reading_meaning": "Вяра в бъдещето",
+    "reading_description": "Вярваш в бъдещето на децата си или на проектите си. Надежда и оптимизъм.",
+    "reading_advice": "Надеждата е най-добрият подарък, който можеш да дадеш."
+  },
+  {
+    "reading_id": "empress_moon",
+    "reading_name": "Майка и интуиция",
+    "reading_cards": "Императрица + Луна",
+    "reading_combination": ["empress", "moon"],
+    "reading_meaning": "Майчинска интуиция",
+    "reading_description": "Интуицията ти като майка е изключително силна. Усещаш какво се случва с близките ти, дори от разстояние.",
+    "reading_advice": "Довери се на майчинската си интуиция. Тя рядко греши."
+  },
+  {
+    "reading_id": "empress_sun",
+    "reading_name": "Щастлива майка",
+    "reading_cards": "Императрица + Слънце",
+    "reading_combination": ["empress", "sun"],
+    "reading_meaning": "Радост и изобилие",
+    "reading_description": "Майчинството или творчеството ти носи огромна радост. Щастие, топлина, изобилие.",
+    "reading_advice": "Наслаждавай се на този златен период."
+  },
+  {
+    "reading_id": "empress_judgement",
+    "reading_name": "Пробудена майка",
+    "reading_cards": "Императрица + Съд",
+    "reading_combination": ["empress", "judgement"],
+    "reading_meaning": "Ново ниво на майчинство",
+    "reading_description": "Пробуждане в ролята ти на майка или творец. Виждаш нещата от нова перспектива.",
+    "reading_advice": "Приеми новото си ниво на съзнание."
+  },
+  {
+    "reading_id": "empress_world",
+    "reading_name": "Световна майка",
+    "reading_cards": "Императрица + Свят",
+    "reading_combination": ["empress", "world"],
+    "reading_meaning": "Пълнота и завършеност",
+    "reading_description": "Творческият ти път е завършен. Постигнала си всичко, за което си мечтала. Пълнота и хармония.",
+    "reading_advice": "Наслади се на успеха. Ти завърши цикъла."
+  },
+  {
+    "reading_id": "emperor_hierophant",
+    "reading_name": "Духовен водач",
+    "reading_cards": "Император + Йерофант",
+    "reading_combination": ["emperor", "hierophant"],
+    "reading_meaning": "Власт и традиция",
+    "reading_description": "Управляваш според традициите и духовните закони. Титла, която носи отговорност.",
+    "reading_advice": "Води с мъдростта на вековете."
+  },
+  {
+    "reading_id": "emperor_lovers",
+    "reading_name": "Любов и власт",
+    "reading_cards": "Император + Влюбените",
+    "reading_combination": ["emperor", "lovers"],
+    "reading_meaning": "Избор между сърце и дълг",
+    "reading_description": "Изправен си пред избор между любовта и отговорностите. Кое ще надделее?",
+    "reading_advice": "Най-трудният избор е между това, което искаш, и това, което трябва."
+  },
+  {
+    "reading_id": "emperor_chariot",
+    "reading_name": "Водач на път",
+    "reading_cards": "Император + Колесница",
+    "reading_combination": ["emperor", "chariot"],
+    "reading_meaning": "Контрол и посока",
+    "reading_description": "Управляваш живота си и този на другите с твърда ръка. Ясна посока, силен контрол.",
+    "reading_advice": "Дръж волана, но не забравяй да се наслаждаваш на пътя."
+  },
+  {
+    "reading_id": "emperor_strength",
+    "reading_name": "Силен владетел",
+    "reading_cards": "Император + Сила",
+    "reading_combination": ["emperor", "strength"],
+    "reading_meaning": "Управление със сила",
+    "reading_description": "Управляваш с вътрешна сила и смелост. Не се страхуваш да вземаш трудни решения.",
+    "reading_advice": "Истинската сила е в контрола над себе си, не над другите."
+  },
+  {
+    "reading_id": "emperor_hermit",
+    "reading_name": "Мъдър старец",
+    "reading_cards": "Император + Отшелник",
+    "reading_combination": ["emperor", "hermit"],
+    "reading_meaning": "Власт в самота",
+    "reading_description": "Управляваш сам, далеч от хората. Мъдрост, извоювана с години самота и размисъл.",
+    "reading_advice": "Понякога най-мъдрият владетел е този, който се оттегля."
+  },
+  {
+    "reading_id": "emperor_wheel",
+    "reading_name": "Съдбовен владетел",
+    "reading_cards": "Император + Колело на съдбата",
+    "reading_combination": ["emperor", "wheel_of_fortune"],
+    "reading_meaning": "Съдбата те води",
+    "reading_description": "Съдбата ти е отредила да управляваш. Приеми я и носи отговорността.",
+    "reading_advice": "Властта не е случайна. Ти си избраният."
+  },
+  {
+    "reading_id": "emperor_justice",
+    "reading_name": "Справедлив владетел",
+    "reading_cards": "Император + Справедливост",
+    "reading_combination": ["emperor", "justice"],
+    "reading_meaning": "Цар и съдия",
+    "reading_description": "Управляваш с чувство за справедливост и равенство. Законът е еднакъв за всички.",
+    "reading_advice": "Бъди твърд, но справедлив. Това е белегът на истинския владетел."
+  },
+  {
+    "reading_id": "emperor_hanged",
+    "reading_name": "Безсилен владетел",
+    "reading_cards": "Император + Обесен",
+    "reading_combination": ["emperor", "hanged_man"],
+    "reading_meaning": "Властта е блокирана",
+    "reading_description": "Имаш титла и власт, но не можеш да действаш. Блокиран, в капан, безпомощен.",
+    "reading_advice": "Понякога трябва да спреш, за да преосмислиш посоката."
+  },
+  {
+    "reading_id": "emperor_death",
+    "reading_name": "Край на управление",
+    "reading_cards": "Император + Смърт",
+    "reading_combination": ["emperor", "death"],
+    "reading_meaning": "Властта свършва",
+    "reading_description": "Цикълът на властта ти приключва. Сваляне, оставка, край на мандат.",
+    "reading_advice": "Приеми края с достойнство. Всичко има свое време."
+  },
+  {
+    "reading_id": "emperor_temperance",
+    "reading_name": "Балансиран лидер",
+    "reading_cards": "Император + Умереност",
+    "reading_combination": ["emperor", "temperance"],
+    "reading_meaning": "Управление с мярка",
+    "reading_description": "Управляваш с баланс и хармония. Без крайности, без пристрастия.",
+    "reading_advice": "Златната среда е най-мъдрият път."
+  },
+  {
+    "reading_id": "emperor_devil",
+    "reading_name": "Тиран",
+    "reading_cards": "Император + Дявол",
+    "reading_combination": ["emperor", "devil"],
+    "reading_meaning": "Власт, която покварява",
+    "reading_description": "Властта те е покварила. Управляваш със страх, контрол и манипулация.",
+    "reading_advice": "Власт без морал води до гибел. Смени посоката."
+  },
+  {
+    "reading_id": "emperor_tower",
+    "reading_name": "Срив на властта",
+    "reading_cards": "Император + Кула",
+    "reading_combination": ["emperor", "tower"],
+    "reading_meaning": "Царството рухва",
+    "reading_description": "Всичко, което си построил, се срива. Загуба на власт, позиция, уважение.",
+    "reading_advice": "Понякога трябва да рухнеш, за да се изправиш отново."
+  },
+  {
+    "reading_id": "emperor_star",
+    "reading_name": "Надежда за владетеля",
+    "reading_cards": "Император + Звезда",
+    "reading_combination": ["emperor", "star"],
+    "reading_meaning": "Вяра в бъдещето",
+    "reading_description": "Дори в трудни времена вярваш, че ще се справиш. Надежда и оптимизъм.",
+    "reading_advice": "Надеждата е последното, което умира. Дръж се за нея."
+  },
+  {
+    "reading_id": "emperor_moon",
+    "reading_name": "Владетел в мъгла",
+    "reading_cards": "Император + Луна",
+    "reading_combination": ["emperor", "moon"],
+    "reading_meaning": "Несигурно управление",
+    "reading_description": "Управляваш в несигурност и объркване. Не виждаш ясно враговете и заплахите.",
+    "reading_advice": "Потърси светлина, преди да водиш другите."
+  },
+  {
+    "reading_id": "emperor_sun",
+    "reading_name": "Светъл владетел",
+    "reading_cards": "Император + Слънце",
+    "reading_combination": ["emperor", "sun"],
+    "reading_meaning": "Успешен лидер",
+    "reading_description": "Управляваш с мъдрост и светлина. Хората те уважават и следват.",
+    "reading_advice": "Наслади се на признанието. Ти го заслужи."
+  },
+  {
+    "reading_id": "emperor_judgement",
+    "reading_name": "Пробуден владетел",
+    "reading_cards": "Император + Съд",
+    "reading_combination": ["emperor", "judgement"],
+    "reading_meaning": "Ново ниво на власт",
+    "reading_description": "Пробуждане в ролята ти на лидер. Виждаш отговорността си в нова светлина.",
+    "reading_advice": "Откликни на зова за по-висша цел."
+  },
+  {
+    "reading_id": "emperor_world",
+    "reading_name": "Владетел на света",
+    "reading_cards": "Император + Свят",
+    "reading_combination": ["emperor", "world"],
+    "reading_meaning": "Върховна власт",
+    "reading_description": "Постигнал си върха в своята област. Власт, признание, завършеност.",
+    "reading_advice": "Наслади се на успеха, но не спирай да се развиваш."
+  },
+  {
+    "reading_id": "hierophant_lovers",
+    "reading_name": "Свещен съюз",
+    "reading_cards": "Йерофант + Влюбените",
+    "reading_combination": ["hierophant", "lovers"],
+    "reading_meaning": "Брак",
+    "reading_description": "Любов, благословена от традицията и обществото. Брак, годеж, официално обвързване.",
+    "reading_advice": "Почитайте традициите, но следвайте сърцето си."
+  },
+  {
+    "reading_id": "hierophant_chariot",
+    "reading_name": "Духовно пътуване",
+    "reading_cards": "Йерофант + Колесница",
+    "reading_combination": ["hierophant", "chariot"],
+    "reading_meaning": "Поклонничество",
+    "reading_description": "Пътуване със spiritual цел - поклонение, ретрийт, търсене на истината.",
+    "reading_advice": "Пътят към себе си минава и през физическо пътуване."
+  },
+  {
+    "reading_id": "hierophant_strength",
+    "reading_name": "Сила на вярата",
+    "reading_cards": "Йерофант + Сила",
+    "reading_combination": ["hierophant", "strength"],
+    "reading_meaning": "Вяра, която движи планини",
+    "reading_description": "Вярата ти дава сила да преодоляваш всяко препятствие. Духовна мощ.",
+    "reading_advice": "Вяра без дела е мъртва. Прилагай я в живота си."
+  },
+  {
+    "reading_id": "hierophant_hermit",
+    "reading_name": "Отшелник учител",
+    "reading_cards": "Йерофант + Отшелник",
+    "reading_combination": ["hierophant", "hermit"],
+    "reading_meaning": "Мъдрец в планината",
+    "reading_description": "Учител, който се е оттеглил от света. Мъдрост, извоювана в самота.",
+    "reading_advice": "Търси мъдростта в тишината."
+  },
+  {
+    "reading_id": "hierophant_wheel",
+    "reading_name": "Съдбовна среща с учител",
+    "reading_cards": "Йерофант + Колело на съдбата",
+    "reading_combination": ["hierophant", "wheel_of_fortune"],
+    "reading_meaning": "Учителят идва в точното време",
+    "reading_description": "Срещаш духовен учител точно когато имаш нужда. Съдбовна среща.",
+    "reading_advice": "Когато ученикът е готов, учителят се появява."
+  },
+  {
+    "reading_id": "hierophant_justice",
+    "reading_name": "Духовен съдия",
+    "reading_cards": "Йерофант + Справедливост",
+    "reading_combination": ["hierophant", "justice"],
+    "reading_meaning": "Божи съд",
+    "reading_description": "Справедливост според висшите закони. Карма, божествена справедливост.",
+    "reading_advice": "Каквото посееш, това ще пожънеш."
+  },
+  {
+    "reading_id": "hierophant_hanged",
+    "reading_name": "Духовно изпитание",
+    "reading_cards": "Йерофант + Обесен",
+    "reading_combination": ["hierophant", "hanged_man"],
+    "reading_meaning": "Вярата се изпитва",
+    "reading_description": "Вярата ти преминава през изпитание. Съмнения, криза, търсене.",
+    "reading_advice": "Понякога трябва да загубиш вярата, за да намериш по-истинска."
+  },
+  {
+    "reading_id": "hierophant_death",
+    "reading_name": "Край на духовен път",
+    "reading_cards": "Йерофант + Смърт",
+    "reading_combination": ["hierophant", "death"],
+    "reading_meaning": "Трансформация на вярата",
+    "reading_description": "Старата ти вяра или духовен път умира. Ново разбиране, ново ниво.",
+    "reading_advice": "Отърси се от догмите, намери истината."
+  },
+  {
+    "reading_id": "hierophant_temperance",
+    "reading_name": "Духовен баланс",
+    "reading_cards": "Йерофант + Умереност",
+    "reading_combination": ["hierophant", "temperance"],
+    "reading_meaning": "Златна среда във вярата",
+    "reading_description": "Вяра без фанатизъм. Духовност, която не отрича реалността.",
+    "reading_advice": "Всичко с мярка, дори и вярата."
+  },
+  {
+    "reading_id": "hierophant_devil",
+    "reading_name": "Лъжепророк",
+    "reading_cards": "Йерофант + Дявол",
+    "reading_combination": ["hierophant", "devil"],
+    "reading_meaning": "Фалшив учител",
+    "reading_description": "Попаднал си на фалшив духовен учител или секта. Манипулация, контрол, измама.",
+    "reading_advice": "Разпознай истината от лъжата. Не всичко, което блести, е злато."
+  },
+  {
+    "reading_id": "hierophant_tower",
+    "reading_name": "Срив на вярата",
+    "reading_cards": "Йерофант + Кула",
+    "reading_combination": ["hierophant", "tower"],
+    "reading_meaning": "Вярата се срутва",
+    "reading_description": "Всичко, в което си вярвал, се оказва лъжа. Духовен срив, криза.",
+    "reading_advice": "Понякога трябва да рухнеш, за да откриеш истинската си вяра."
+  },
+  {
+    "reading_id": "hierophant_star",
+    "reading_name": "Надежда във вярата",
+    "reading_cards": "Йерофант + Звезда",
+    "reading_combination": ["hierophant", "star"],
+    "reading_meaning": "Духовна надежда",
+    "reading_description": "Вярата ти дава надежда дори в най-тъмните моменти. Светлина в тунела.",
+    "reading_advice": "Вярвай, дори когато не виждаш."
+  },
+  {
+    "reading_id": "hierophant_moon",
+    "reading_name": "Заблудена вяра",
+    "reading_cards": "Йерофант + Луна",
+    "reading_combination": ["hierophant", "moon"],
+    "reading_meaning": "Религиозен страх",
+    "reading_description": "Вяра, основана на страх и суеверия, не на любов. Тъмна страна на религията.",
+    "reading_advice": "Истинската вяра не се страхува, а обича."
+  },
+  {
+    "reading_id": "hierophant_sun",
+    "reading_name": "Просветлен учител",
+    "reading_cards": "Йерофант + Слънце",
+    "reading_combination": ["hierophant", "sun"],
+    "reading_meaning": "Истински духовен водач",
+    "reading_description": "Срещаш или ставаш истински духовен учител, който носи светлина на другите.",
+    "reading_advice": "Светлината, която носиш, огрява пътя на мнозина."
+  },
+  {
+    "reading_id": "hierophant_judgement",
+    "reading_name": "Духовно пробуждане",
+    "reading_cards": "Йерофант + Съд",
+    "reading_combination": ["hierophant", "judgement"],
+    "reading_meaning": "Призив отгоре",
+    "reading_description": "Чуваш зов за по-дълбока духовност. Пробуждане, посвещение, призвание.",
+    "reading_advice": "Откликни на зова. Той води към истинската ти същност."
+  },
+  {
+    "reading_id": "hierophant_world",
+    "reading_name": "Вселенска мъдрост",
+    "reading_cards": "Йерофант + Свят",
+    "reading_combination": ["hierophant", "world"],
+    "reading_meaning": "Завършен духовен път",
+    "reading_description": "Духовното ти търсене е завършено. Намерил си отговорите, постигнал си мир.",
+    "reading_advice": "Наслади се на пълнотата. Ти завърши кръга."
+  },
+  {
+    "reading_id": "lovers_chariot",
+    "reading_name": "Любовно пътуване",
+    "reading_cards": "Влюбените + Колесница",
+    "reading_combination": ["lovers", "chariot"],
+    "reading_meaning": "Пътуване за двама",
+    "reading_description": "Предстои ви пътуване заедно. Меден месец, ваканция, приключение като двойка.",
+    "reading_advice": "Пътувайте заедно, откривайте света ръка за ръка."
+  },
+  {
+    "reading_id": "lovers_strength",
+    "reading_name": "Сила на любовта",
+    "reading_cards": "Влюбените + Сила",
+    "reading_combination": ["lovers", "strength"],
+    "reading_meaning": "Любовта дава сила",
+    "reading_description": "Любовта ти дава невероятна сила да преодоляваш препятствия. Заедно сте непобедими.",
+    "reading_advice": "Любовта е най-голямата сила във вселената."
+  },
+  {
+    "reading_id": "lovers_hermit",
+    "reading_name": "Любов и самота",
+    "reading_cards": "Влюбените + Отшелник",
+    "reading_combination": ["lovers", "hermit"],
+    "reading_meaning": "Любов от разстояние",
+    "reading_description": "Обичаш, но сте разделени или единият се чувства самотен във връзката.",
+    "reading_advice": "Понякога любовта изисква и време за себе си."
+  },
+  {
+    "reading_id": "lovers_wheel",
+    "reading_name": "Съдбовна любов",
+    "reading_cards": "Влюбените + Колело на съдбата",
+    "reading_combination": ["lovers", "wheel_of_fortune"],
+    "reading_meaning": "Любов, писана в звездите",
+    "reading_description": "Връзка, която е предопределена. Среща, която не е случайна.",
+    "reading_advice": "Съдбата ви събра. Сега зависи от вас."
+  },
+  {
+    "reading_id": "lovers_justice",
+    "reading_name": "Любовен договор",
+    "reading_cards": "Влюбените + Справедливост",
+    "reading_combination": ["lovers", "justice"],
+    "reading_meaning": "Брачен договор",
+    "reading_description": "Любовта преминава в официална форма - брак, договор, съвместни финанси.",
+    "reading_advice": "Любовта има нужда и от правила, за да оцелее."
+  },
+  {
+    "reading_id": "lovers_hanged",
+    "reading_name": "Любов в застой",
+    "reading_cards": "Влюбените + Обесен",
+    "reading_combination": ["lovers", "hanged_man"],
+    "reading_meaning": "Връзка, която не мърда",
+    "reading_description": "Любовта е в застой. Чакате нещо, но нищо не се случва.",
+    "reading_advice": "Понякога трябва да спреш, за да преосмислиш връзката."
+  },
+  {
+    "reading_id": "lovers_death",
+    "reading_name": "Край на любовта",
+    "reading_cards": "Влюбените + Смърт",
+    "reading_combination": ["lovers", "death"],
+    "reading_meaning": "Любовта умира",
+    "reading_description": "Връзката приключва. Любов, която си отива, за да освободи място за нова.",
+    "reading_advice": "Пусни, ако обичаш. Понякога любовта е да освободиш."
+  },
+  {
+    "reading_id": "lovers_temperance",
+    "reading_name": "Баланс в любовта",
+    "reading_cards": "Влюбените + Умереност",
+    "reading_combination": ["lovers", "temperance"],
+    "reading_meaning": "Хармонична връзка",
+    "reading_description": "Любов, в която има баланс и хармония. Без крайности, без драма.",
+    "reading_advice": "Пази този баланс. Той е ключът към дълга връзка."
+  },
+  {
+    "reading_id": "lovers_devil",
+    "reading_name": "Обсебваща любов",
+    "reading_cards": "Влюбените + Дявол",
+    "reading_combination": ["lovers", "devil"],
+    "reading_meaning": "Любов-зависимост",
+    "reading_description": "Връзка, основана на зависимост, не на любов. Страст, която унищожава.",
+    "reading_advice": "Освободи се от веригите. Това не е любов."
+  },
+  {
+    "reading_id": "lovers_tower",
+    "reading_name": "Любовен срив",
+    "reading_cards": "Влюбените + Кула",
+    "reading_combination": ["lovers", "tower"],
+    "reading_meaning": "Внезапна раздяла",
+    "reading_description": "Любовта се срива внезапно. Изневяра, предателство, скандал, който разрушава всичко.",
+    "reading_advice": "След разрухата идва ново начало. Дай си време."
+  },
+  {
+    "reading_id": "lovers_star",
+    "reading_name": "Надежда за любовта",
+    "reading_cards": "Влюбените + Звезда",
+    "reading_combination": ["lovers", "star"],
+    "reading_meaning": "Вяра в любовта",
+    "reading_description": "Вярваш, че любовта ще се получи. Надежда и оптимизъм за връзката.",
+    "reading_advice": "Вярвай, но и работи за любовта."
+  },
+  {
+    "reading_id": "lovers_moon",
+    "reading_name": "Любовни илюзии",
+    "reading_cards": "Влюбените + Луна",
+    "reading_combination": ["lovers", "moon"],
+    "reading_meaning": "Не виждаш ясно връзката",
+    "reading_description": "Виждаш връзката през розови очила или се страхуваш от нещо, което го няма.",
+    "reading_advice": "Свали розовите очила. Истината е важна."
+  },
+  {
+    "reading_id": "lovers_sun",
+    "reading_name": "Слънчева любов",
+    "reading_cards": "Влюбените + Слънце",
+    "reading_combination": ["lovers", "sun"],
+    "reading_meaning": "Щастлива любов",
+    "reading_description": "Любов, която те кара да се чувстваш жив. Радост, топлина, щастие.",
+    "reading_advice": "Наслаждавай се на всеки миг от тази любов."
+  },
+  {
+    "reading_id": "lovers_judgement",
+    "reading_name": "Пробуждане в любовта",
+    "reading_cards": "Влюбените + Съд",
+    "reading_combination": ["lovers", "judgement"],
+    "reading_meaning": "Ново ниво във връзката",
+    "reading_description": "Връзката достига ново ниво на осъзнатост. Прошка, разбиране, задълбочаване.",
+    "reading_advice": "Чуйте зова за по-дълбока връзка."
+  },
+  {
+    "reading_id": "lovers_world",
+    "reading_name": "Съвършена любов",
+    "reading_cards": "Влюбените + Свят",
+    "reading_combination": ["lovers", "world"],
+    "reading_meaning": "Любовта е завършена",
+    "reading_description": "Намерил си любовта, която те прави цялостен. Пълнота, хармония, завършеност.",
+    "reading_advice": "Ти намери своята сродна душа. Цени този дар."
+  },
+  {
+    "reading_id": "chariot_strength",
+    "reading_name": "Контролирана сила",
+    "reading_cards": "Колесница + Сила",
+    "reading_combination": ["chariot", "strength"],
+    "reading_meaning": "Управляваш силата си",
+    "reading_description": "Имаш сила и контрол едновременно. Управляваш енергията си с ум.",
+    "reading_advice": "Най-голямата сила е тази, която умееш да контролираш."
+  },
+  {
+    "reading_id": "chariot_hermit",
+    "reading_name": "Самотно пътуване",
+    "reading_cards": "Колесница + Отшелник",
+    "reading_combination": ["chariot", "hermit"],
+    "reading_meaning": "Пътуваш сам",
+    "reading_description": "Пътуване, което предприемаш сам. Търсене на себе си през движението.",
+    "reading_advice": "Понякога най-добрият спътник си ти самият."
+  },
+  {
+    "reading_id": "chariot_wheel",
+    "reading_name": "Съдбовно пътуване",
+    "reading_cards": "Колесница + Колело на съдбата",
+    "reading_combination": ["chariot", "wheel_of_fortune"],
+    "reading_meaning": "Пътуване, което променя съдбата",
+    "reading_description": "Пътуване, което ще промени живота ти. Срещи, събития, които не са случайни.",
+    "reading_advice": "Отвори се за изненадите на пътя."
+  },
+  {
+    "reading_id": "chariot_justice",
+    "reading_name": "Път към справедливост",
+    "reading_cards": "Колесница + Справедливост",
+    "reading_combination": ["chariot", "justice"],
+    "reading_meaning": "Търсиш правда",
+    "reading_description": "Пътуване, свързано с правни въпроси. Съд, документи, официални дела.",
+    "reading_advice": "Истината ще излезе наяве. Бъди търпелив."
+  },
+  {
+    "reading_id": "chariot_hanged",
+    "reading_name": "Блокирано пътуване",
+    "reading_cards": "Колесница + Обесен",
+    "reading_combination": ["chariot", "hanged_man"],
+    "reading_meaning": "Пътуването се отлага",
+    "reading_description": "Пътуването ти се отлага или блокира. Забавяне, промяна на планове.",
+    "reading_advice": "Понякога забавянето идва, за да те предпази."
+  },
+  {
+    "reading_id": "chariot_death",
+    "reading_name": "Край на пътуване",
+    "reading_cards": "Колесница + Смърт",
+    "reading_combination": ["chariot", "death"],
+    "reading_meaning": "Пътуването приключва",
+    "reading_description": "Едно пътуване или период на движение приключва. Време за ново начало.",
+    "reading_advice": "Приеми края като естествен завършек."
+  },
+  {
+    "reading_id": "chariot_temperance",
+    "reading_name": "Балансирано пътуване",
+    "reading_cards": "Колесница + Умереност",
+    "reading_combination": ["chariot", "temperance"],
+    "reading_meaning": "Пътуване с мярка",
+    "reading_description": "Пътуваш, без да прекаляваш. Баланс между движение и почивка.",
+    "reading_advice": "Наслаждавай се на пътя, не само на дестинацията."
+  },
+  {
+    "reading_id": "chariot_devil",
+    "reading_name": "Път към ада",
+    "reading_cards": "Колесница + Дявол",
+    "reading_combination": ["chariot", "devil"],
+    "reading_meaning": "Пътуване, което води към зависимост",
+    "reading_description": "Пътуване, свързано с лоши компании, зависимости или рискове. Внимавай.",
+    "reading_advice": "Провери добре с кого и накъде пътуваш."
+  },
+  {
+    "reading_id": "chariot_tower",
+    "reading_name": "Катастрофа",
+    "reading_cards": "Колесница + Кула",
+    "reading_combination": ["chariot", "tower"],
+    "reading_meaning": "Пътен инцидент",
+    "reading_description": "Риск от пътен инцидент или внезапен проблем с пътуване. Внимавай на пътя.",
+    "reading_advice": "Карай внимателно и провери техническото състояние на превозното средство."
+  },
+  {
+    "reading_id": "chariot_star",
+    "reading_name": "Надеждно пътуване",
+    "reading_cards": "Колесница + Звезда",
+    "reading_combination": ["chariot", "star"],
+    "reading_meaning": "Пътуване с надежда",
+    "reading_description": "Пътуване, което носи надежда и нови възможности. Светло бъдеще те очаква.",
+    "reading_advice": "Гледай напред с надежда и оптимизъм."
+  },
+  {
+    "reading_id": "chariot_moon",
+    "reading_name": "Пътуване в мъгла",
+    "reading_cards": "Колесница + Луна",
+    "reading_combination": ["chariot", "moon"],
+    "reading_meaning": "Несигурно пътуване",
+    "reading_description": "Пътуваш, без да знаеш точно накъде. Несигурност, страх, объркване.",
+    "reading_advice": "Понякога трябва да вървиш, дори когато не виждаш."
+  },
+  {
+    "reading_id": "chariot_sun",
+    "reading_name": "Слънчево пътуване",
+    "reading_cards": "Колесница + Слънце",
+    "reading_combination": ["chariot", "sun"],
+    "reading_meaning": "Прекрасно пътуване",
+    "reading_description": "Пътуване, което носи радост и щастие. Ваканция, почивка, приятни преживявания.",
+    "reading_advice": "Наслаждавай се на всеки миг."
+  },
+  {
+    "reading_id": "chariot_judgement",
+    "reading_name": "Пробудено пътуване",
+    "reading_cards": "Колесница + Съд",
+    "reading_combination": ["chariot", "judgement"],
+    "reading_meaning": "Пътуване към себе си",
+    "reading_description": "Пътуване, което води до дълбоко себепознание. Връщане към същността.",
+    "reading_advice": "Чуй зова на душата си по пътя."
+  },
+  {
+    "reading_id": "chariot_world",
+    "reading_name": "Околосветско пътуване",
+    "reading_cards": "Колесница + Свят",
+    "reading_combination": ["chariot", "world"],
+    "reading_meaning": "Голямо пътуване",
+    "reading_description": "Предстои ти голямо пътуване - в чужбина, около света. Нови хоризонти.",
+    "reading_advice": "Светът те очаква. Отправи се на път."
+  },
+  {
+    "reading_id": "strength_hermit",
+    "reading_name": "Самотна сила",
+    "reading_cards": "Сила + Отшелник",
+    "reading_combination": ["strength", "hermit"],
+    "reading_meaning": "Сила в самота",
+    "reading_description": "Черпиш сила от самотата и тишината. Там намираш себе си.",
+    "reading_advice": "Не се страхувай да бъдеш сам. Там е силата ти."
+  },
+  {
+    "reading_id": "strength_wheel",
+    "reading_name": "Късмет и сила",
+    "reading_cards": "Сила + Колело на съдбата",
+    "reading_combination": ["strength", "wheel_of_fortune"],
+    "reading_meaning": "Силният има късмет",
+    "reading_description": "Съчетание на вътрешна сила и благоприятна съдба. Късметът обича смелите.",
+    "reading_advice": "Късметът идва при тези, които са готови да го посрещнат."
+  },
+  {
+    "reading_id": "strength_justice",
+    "reading_name": "Справедлива сила",
+    "reading_cards": "Сила + Справедливост",
+    "reading_combination": ["strength", "justice"],
+    "reading_meaning": "Сила за справедливост",
+    "reading_description": "Използваш силата си, за да възтържествува справедливостта. Борец за правда.",
+    "reading_advice": "Силата без справедливост е тирания."
+  },
+  {
+    "reading_id": "strength_hanged",
+    "reading_name": "Блокирана сила",
+    "reading_cards": "Сила + Обесен",
+    "reading_combination": ["strength", "hanged_man"],
+    "reading_meaning": "Силата ти е в капан",
+    "reading_description": "Имаш сила, но не можеш да я използваш. Блокиран, в капан, безпомощен.",
+    "reading_advice": "Понякога трябва да спреш, за да презаредиш."
+  },
+  {
+    "reading_id": "strength_death",
+    "reading_name": "Трансформация на силата",
+    "reading_cards": "Сила + Смърт",
+    "reading_combination": ["strength", "death"],
+    "reading_meaning": "Старата сила умира",
+    "reading_description": "Начинът, по който използваш силата си, се променя коренно. Ново ниво.",
+    "reading_advice": "Позволи на старата сила да умре, за да се роди нова."
+  },
+  {
+    "reading_id": "strength_temperance",
+    "reading_name": "Балансирана сила",
+    "reading_cards": "Сила + Умереност",
+    "reading_combination": ["strength", "temperance"],
+    "reading_meaning": "Сила с мярка",
+    "reading_description": "Използваш силата си, без да прекаляваш. Контрол и хармония.",
+    "reading_advice": "Истинската сила е в баланса."
+  },
+  {
+    "reading_id": "strength_devil",
+    "reading_name": "Сила, използвана за зло",
+    "reading_cards": "Сила + Дявол",
+    "reading_combination": ["strength", "devil"],
+    "reading_meaning": "Злоупотреба със сила",
+    "reading_description": "Използваш силата си, за да манипулираш и контролираш. Тъмна страна.",
+    "reading_advice": "Силата, използвана за его, винаги се връща като бумеранг."
+  },
+  {
+    "reading_id": "strength_tower",
+    "reading_name": "Силата се срива",
+    "reading_cards": "Сила + Кула",
+    "reading_combination": ["strength", "tower"],
+    "reading_meaning": "Загуба на сила",
+    "reading_description": "Всичко, в което си вярвал като своя сила, се срива. Безпомощност.",
+    "reading_advice": "Понякога трябва да загубиш силата, за да откриеш истинската."
+  },
+  {
+    "reading_id": "strength_star",
+    "reading_name": "Надеждна сила",
+    "reading_cards": "Сила + Звезда",
+    "reading_combination": ["strength", "star"],
+    "reading_meaning": "Сила и надежда",
+    "reading_description": "Силата ти идва от надеждата и вярата в бъдещето. Оптимизъм и мощ.",
+    "reading_advice": "Надеждата дава сила. Никога не я губи."
+  },
+  {
+    "reading_id": "strength_moon",
+    "reading_name": "Страх и сила",
+    "reading_cards": "Сила + Луна",
+    "reading_combination": ["strength", "moon"],
+    "reading_meaning": "Бориш се със страховете",
+    "reading_description": "Използваш силата си, за да преодолееш страховете и илюзиите. Смелост.",
+    "reading_advice": "Смелостта не е липса на страх, а действие въпреки него."
+  },
+  {
+    "reading_id": "strength_sun",
+    "reading_name": "Сияйна сила",
+    "reading_cards": "Сила + Слънце",
+    "reading_combination": ["strength", "sun"],
+    "reading_meaning": "Триумф на силата",
+    "reading_description": "Силата ти блести и получава признание. Успех, радост, удовлетворение.",
+    "reading_advice": "Ти си победител. Наслади се на успеха."
+  },
+  {
+    "reading_id": "strength_judgement",
+    "reading_name": "Пробудена сила",
+    "reading_cards": "Сила + Съд",
+    "reading_combination": ["strength", "judgement"],
+    "reading_meaning": "Ново ниво на сила",
+    "reading_description": "Пробуждане на нови измерения на силата ти. Откриваш, че можеш повече.",
+    "reading_advice": "Откликни на зова за по-голяма сила."
+  },
+  {
+    "reading_id": "strength_world",
+    "reading_name": "Върховна сила",
+    "reading_cards": "Сила + Свят",
+    "reading_combination": ["strength", "world"],
+    "reading_meaning": "Пълна сила",
+    "reading_description": "Постигнал си пълна хармония със силата си. Увереност, завършеност, съвършенство.",
+    "reading_advice": "Ти си върхът. Наслади се на постижението."
+  },
+  {
+    "reading_id": "hermit_wheel",
+    "reading_name": "Съдбовна самота",
+    "reading_cards": "Отшелник + Колело на съдбата",
+    "reading_combination": ["hermit", "wheel_of_fortune"],
+    "reading_meaning": "Съдбата те води в самота",
+    "reading_description": "Съдбата ти е отредила период на самота и уединение. Приеми го.",
+    "reading_advice": "В самотата ще намериш отговорите, които търсиш."
+  },
+  {
+    "reading_id": "hermit_justice",
+    "reading_name": "Справедлива самота",
+    "reading_cards": "Отшелник + Справедливост",
+    "reading_combination": ["hermit", "justice"],
+    "reading_meaning": "Самота, за да осмислиш",
+    "reading_description": "Оттегляш се, за да осмислиш справедливостта на случилото се. Време за равносметка.",
+    "reading_advice": "В тишината ще намериш справедливостта, която търсиш."
+  },
+  {
+    "reading_id": "hermit_hanged",
+    "reading_name": "Двойна самота",
+    "reading_cards": "Отшелник + Обесен",
+    "reading_combination": ["hermit", "hanged_man"],
+    "reading_meaning": "Дълбоко уединение",
+    "reading_description": "Период на много дълбока самота и изолация. Почти пълно оттегляне от света.",
+    "reading_advice": "Понякога трябва да слезеш в дълбините, за да се издигнеш."
+  },
+  {
+    "reading_id": "hermit_death",
+    "reading_name": "Край на самотата",
+    "reading_cards": "Отшелник + Смърт",
+    "reading_combination": ["hermit", "death"],
+    "reading_meaning": "Самотният период приключва",
+    "reading_description": "Периодът на уединение свършва. Време е да се върнеш в света.",
+    "reading_advice": "Излезе от пещерата. Светът те очаква."
+  },
+  {
+    "reading_id": "hermit_temperance",
+    "reading_name": "Балансирана самота",
+    "reading_cards": "Отшелник + Умереност",
+    "reading_combination": ["hermit", "temperance"],
+    "reading_meaning": "Самота с мярка",
+    "reading_description": "Умееш да балансираш между самота и социален живот. Здравословно оттегляне.",
+    "reading_advice": "Самотата е добра, но с мярка."
+  },
+  {
+    "reading_id": "hermit_devil",
+    "reading_name": "Тъмна самота",
+    "reading_cards": "Отшелник + Дявол",
+    "reading_combination": ["hermit", "devil"],
+    "reading_meaning": "Самота, която те заробва",
+    "reading_description": "Самотата се превръща в затвор. Изолация, депресия, тъмнина.",
+    "reading_advice": "Потърси помощ. Не е нужно да си сам в тъмнината."
+  },
+  {
+    "reading_id": "hermit_tower",
+    "reading_name": "Самота след срив",
+    "reading_cards": "Отшелник + Кула",
+    "reading_combination": ["hermit", "tower"],
+    "reading_meaning": "Оттегляне след разруха",
+    "reading_description": "След тежък срив се оттегляш да лекуваш раните си. Необходима самота.",
+    "reading_advice": "Лекувай се в тишина, после се върни."
+  },
+  {
+    "reading_id": "hermit_star",
+    "reading_name": "Надежда в самота",
+    "reading_cards": "Отшелник + Звезда",
+    "reading_combination": ["hermit", "star"],
+    "reading_meaning": "Самота с надежда",
+    "reading_description": "Дори в самотата не губиш надежда. Вярваш, че ще дойдат по-добри дни.",
+    "reading_advice": "Звездата свети дори в най-тъмната нощ."
+  },
+  {
+    "reading_id": "hermit_moon",
+    "reading_name": "Сам със страховете",
+    "reading_cards": "Отшелник + Луна",
+    "reading_combination": ["hermit", "moon"],
+    "reading_meaning": "Самота и страхове",
+    "reading_description": "В самотата страховете и илюзиите стават по-големи. Изправяш се сам с тях.",
+    "reading_advice": "Страховете в самота са най-големи. Потърси светлина."
+  },
+  {
+    "reading_id": "hermit_sun",
+    "reading_name": "Просветлен в самота",
+    "reading_cards": "Отшелник + Слънце",
+    "reading_combination": ["hermit", "sun"],
+    "reading_meaning": "Самота, която просветлява",
+    "reading_description": "В самотата намираш просветление и яснота. Радост от уединението.",
+    "reading_advice": "Наслади се на светлината, която намираш в себе си."
+  },
+  {
+    "reading_id": "hermit_judgement",
+    "reading_name": "Пробуждане в самота",
+    "reading_cards": "Отшелник + Съд",
+    "reading_combination": ["hermit", "judgement"],
+    "reading_meaning": "Самота, която пробужда",
+    "reading_description": "В уединението чуваш зова на душата си. Пробуждане, ново начало.",
+    "reading_advice": "Чуй гласа си в тишината."
+  },
+  {
+    "reading_id": "hermit_world",
+    "reading_name": "Самота и завършеност",
+    "reading_cards": "Отшелник + Свят",
+    "reading_combination": ["hermit", "world"],
+    "reading_meaning": "Пълнота в самота",
+    "reading_description": "В самотата намираш пълнота и хармония. Не ти трябва никой друг, за да си цялостен.",
+    "reading_advice": "Ти си цял сам. Това е най-голямата свобода."
+  },
+  {
+    "reading_id": "wheel_justice",
+    "reading_name": "Съдбовна справедливост",
+    "reading_cards": "Колело на съдбата + Справедливост",
+    "reading_combination": ["wheel_of_fortune", "justice"],
+    "reading_meaning": "Кармата се връща",
+    "reading_description": "Справедливостта идва от съдбата. Кармично възмездие или награда.",
+    "reading_advice": "Каквото посееш, това ще пожънеш. Това е закон."
+  },
+  {
+    "reading_id": "wheel_hanged",
+    "reading_name": "Съдбовно изчакване",
+    "reading_cards": "Колело на съдбата + Обесен",
+    "reading_combination": ["wheel_of_fortune", "hanged_man"],
+    "reading_meaning": "Съдбата те кара да чакаш",
+    "reading_description": "Съдбата ти казва да изчакаш. Не сега, не още. Търпение.",
+    "reading_advice": "Когато дойде времето, ще разбереш защо е трябвало да чакаш."
+  },
+  {
+    "reading_id": "wheel_death",
+    "reading_name": "Съдбовен край",
+    "reading_cards": "Колело на съдбата + Смърт",
+    "reading_combination": ["wheel_of_fortune", "death"],
+    "reading_meaning": "Краят е предопределен",
+    "reading_description": "Този край не е случаен - той е част от по-голям план. Приеми го.",
+    "reading_advice": "Всичко, което започва, има и край. Така е писано."
+  },
+  {
+    "reading_id": "wheel_temperance",
+    "reading_name": "Баланс на съдбата",
+    "reading_cards": "Колело на съдбата + Умереност",
+    "reading_combination": ["wheel_of_fortune", "temperance"],
+    "reading_meaning": "Съдбата носи баланс",
+    "reading_description": "Съдбата възстановява баланса в живота ти. Всичко се нарежда.",
+    "reading_advice": "Довери се, че вселената знае какво прави."
+  },
+  {
+    "reading_id": "wheel_devil",
+    "reading_name": "Съдбовна зависимост",
+    "reading_cards": "Колело на съдбата + Дявол",
+    "reading_combination": ["wheel_of_fortune", "devil"],
+    "reading_meaning": "Съдбата те заробва",
+    "reading_description": "Попадаш в капан, който изглежда предопределен. Трудно за разплитане.",
+    "reading_advice": "Съдбата може да те води, но ти избираш пътя."
+  },
+  {
+    "reading_id": "wheel_tower",
+    "reading_name": "Съдбовен срив",
+    "reading_cards": "Колело на съдбата + Кула",
+    "reading_combination": ["wheel_of_fortune", "tower"],
+    "reading_meaning": "Разруха, писана в звездите",
+    "reading_description": "Сривът е неизбежен, предопределен. Трябваше да се случи.",
+    "reading_advice": "Приеми разрухата като част от плана. След нея идва ново начало."
+  },
+  {
+    "reading_id": "wheel_star",
+    "reading_name": "Съдбовна надежда",
+    "reading_cards": "Колело на съдбата + Звезда",
+    "reading_combination": ["wheel_of_fortune", "star"],
+    "reading_meaning": "Съдбата носи надежда",
+    "reading_description": "Звездите ти казват, че всичко ще бъде наред. Съдбата ти се усмихва.",
+    "reading_advice": "Вярвай, че най-доброто тепърва предстои."
+  },
+  {
+    "reading_id": "wheel_moon",
+    "reading_name": "Съдбовна илюзия",
+    "reading_cards": "Колело на съдбата + Луна",
+    "reading_combination": ["wheel_of_fortune", "moon"],
+    "reading_meaning": "Съдбата е замъглена",
+    "reading_description": "Не виждаш ясно съдбата си. Илюзии, страхове, несигурност.",
+    "reading_advice": "Понякога трябва да приемеш, че не знаеш."
+  },
+  {
+    "reading_id": "wheel_sun",
+    "reading_name": "Щастлива съдба",
+    "reading_cards": "Колело на съдбата + Слънце",
+    "reading_combination": ["wheel_of_fortune", "sun"],
+    "reading_meaning": "Съдбата ти се усмихва",
+    "reading_description": "Късмет, щастие, успех - всичко идва от съдбата. Благоприятен момент.",
+    "reading_advice": "Хвани вълната на късмета и я язди."
+  },
+  {
+    "reading_id": "wheel_judgement",
+    "reading_name": "Съдбовно пробуждане",
+    "reading_cards": "Колело на съдбата + Съд",
+    "reading_combination": ["wheel_of_fortune", "judgement"],
+    "reading_meaning": "Съдбата те буди",
+    "reading_description": "Съдбата ти изпраща сигнал, че е време за промяна. Чуй го.",
+    "reading_advice": "Откликни на зова на съдбата."
+  },
+  {
+    "reading_id": "wheel_world",
+    "reading_name": "Съдбовен завършек",
+    "reading_cards": "Колело на съдбата + Свят",
+    "reading_combination": ["wheel_of_fortune", "world"],
+    "reading_meaning": "Цикълът завършва",
+    "reading_description": "Съдбовен момент на завършване. Един цикъл приключва, както е било писано.",
+    "reading_advice": "Приеми завършека с благодарност."
+  },
+  {
+    "reading_id": "justice_hanged",
+    "reading_name": "Справедливо чакане",
+    "reading_cards": "Справедливост + Обесен",
+    "reading_combination": ["justice", "hanged_man"],
+    "reading_meaning": "Чакаш справедливост",
+    "reading_description": "Чакаш правдата да възтържествува, но тя се бави. Търпение.",
+    "reading_advice": "Справедливостта идва бавно, но сигурно."
+  },
+  {
+    "reading_id": "justice_death",
+    "reading_name": "Край на справедливостта",
+    "reading_cards": "Справедливост + Смърт",
+    "reading_combination": ["justice", "death"],
+    "reading_meaning": "Приключва съдебен процес",
+    "reading_description": "Съдебно дело или правен въпрос приключва. Край на дълъг процес.",
+    "reading_advice": "Приеми решението и продължи напред."
+  },
+  {
+    "reading_id": "justice_temperance",
+    "reading_name": "Балансирана справедливост",
+    "reading_cards": "Справедливост + Умереност",
+    "reading_combination": ["justice", "temperance"],
+    "reading_meaning": "Справедливост с мярка",
+    "reading_description": "Търсиш балансирано решение, което да удовлетвори всички страни. Мъдрост.",
+    "reading_advice": "Най-добрата справедливост е тази, която възстановява хармонията."
+  },
+  {
+    "reading_id": "justice_devil",
+    "reading_name": "Несправедливост",
+    "reading_cards": "Справедливост + Дявол",
+    "reading_combination": ["justice", "devil"],
+    "reading_meaning": "Правосъдието е покварено",
+    "reading_description": "Справедливостта е манипулирана. Някой използва властта си нечестно.",
+    "reading_advice": "Истината ще излезе наяве, дори и да изглежда, че невинният губи."
+  },
+  {
+    "reading_id": "justice_tower",
+    "reading_name": "Срив на справедливостта",
+    "reading_cards": "Справедливост + Кула",
+    "reading_combination": ["justice", "tower"],
+    "reading_meaning": "Съдебна грешка",
+    "reading_description": "Справедливостта не възтържествува. Несправедливо решение, грешка, нечестност.",
+    "reading_advice": "Понякога трябва да приемеш, че справедливостта на този свят е несъвършена."
+  },
+  {
+    "reading_id": "justice_star",
+    "reading_name": "Надежда за справедливост",
+    "reading_cards": "Справедливост + Звезда",
+    "reading_combination": ["justice", "star"],
+    "reading_meaning": "Вярваш, че правдата ще възтържествува",
+    "reading_description": "Дори когато изглежда невъзможно, вярваш, че справедливостта ще победи.",
+    "reading_advice": "Надеждата за справедливост държи света жив."
+  },
+  {
+    "reading_id": "justice_moon",
+    "reading_name": "Неясна справедливост",
+    "reading_cards": "Справедливост + Луна",
+    "reading_combination": ["justice", "moon"],
+    "reading_meaning": "Не знаеш кое е справедливо",
+    "reading_description": "Ситуацията е толкова замъглена, че не можеш да прецениш кое е правилно.",
+    "reading_advice": "Изчакай мъглата да се вдигне, преди да съдиш."
+  },
+  {
+    "reading_id": "justice_sun",
+    "reading_name": "Справедливостта възтържествува",
+    "reading_cards": "Справедливост + Слънце",
+    "reading_combination": ["justice", "sun"],
+    "reading_meaning": "Истината излиза наяве",
+    "reading_description": "Правдата най-после възтържествува. Истината излиза на светло.",
+    "reading_advice": "Радвай се, че доброто победи."
+  },
+  {
+    "reading_id": "justice_judgement",
+    "reading_name": "Пробуждане на справедливостта",
+    "reading_cards": "Справедливост + Съд",
+    "reading_combination": ["justice", "judgement"],
+    "reading_meaning": "Висша справедливост",
+    "reading_description": "Справедливост от по-висше ниво. Кармично възмездие, божи съд.",
+    "reading_advice": "Има правда отвъд човешките закони."
+  },
+  {
+    "reading_id": "justice_world",
+    "reading_name": "Съвършена справедливост",
+    "reading_cards": "Справедливост + Свят",
+    "reading_combination": ["justice", "world"],
+    "reading_meaning": "Справедливост за всички",
+    "reading_description": "Постигната е справедливост, която удовлетворява всички. Хармония и баланс.",
+    "reading_advice": "Това е моментът, в който всичко си идва на мястото."
+  },
+  {
+    "reading_id": "hanged_death",
+    "reading_name": "Чакане на края",
+    "reading_cards": "Обесен + Смърт",
+    "reading_combination": ["hanged_man", "death"],
+    "reading_meaning": "В застой преди край",
+    "reading_description": "Чакаш нещо да приключи, но то се бави. Мъчително изчакване.",
+    "reading_advice": "Краят ще дойде, когато трябва. Бъди търпелив."
+  },
+  {
+    "reading_id": "hanged_temperance",
+    "reading_name": "Балансирано чакане",
+    "reading_cards": "Обесен + Умереност",
+    "reading_combination": ["hanged_man", "temperance"],
+    "reading_meaning": "Чакаш с мярка",
+    "reading_description": "Умееш да чакаш, без да се отчайваш. Търпение и хармония.",
+    "reading_advice": "Чакането също е изкуство."
+  },
+  {
+    "reading_id": "hanged_devil",
+    "reading_name": "Блокиран в зависимост",
+    "reading_cards": "Обесен + Дявол",
+    "reading_combination": ["hanged_man", "devil"],
+    "reading_meaning": "В капан и не можеш да мръднеш",
+    "reading_description": "Зависимост или токсична ситуация те държи в плен и не можеш да излезеш.",
+    "reading_advice": "Първата стъпка е да осъзнаеш, че си в капан."
+  },
+  {
+    "reading_id": "hanged_tower",
+    "reading_name": "Чакането свършва със срив",
+    "reading_cards": "Обесен + Кула",
+    "reading_combination": ["hanged_man", "tower"],
+    "reading_meaning": "Блокът се разрушава",
+    "reading_description": "След дълго чакане идва внезапен срив, който слага край на застоя.",
+    "reading_advice": "Понякога разрухата е освобождение."
+  },
+  {
+    "reading_id": "hanged_star",
+    "reading_name": "Надежда в застоя",
+    "reading_cards": "Обесен + Звезда",
+    "reading_combination": ["hanged_man", "star"],
+    "reading_meaning": "Чакаш с надежда",
+    "reading_description": "Дори в застой не губиш надежда. Вярваш, че ще дойде по-добро.",
+    "reading_advice": "Надеждата прави чакането поносимо."
+  },
+  {
+    "reading_id": "hanged_moon",
+    "reading_name": "Страх в застоя",
+    "reading_cards": "Обесен + Луна",
+    "reading_combination": ["hanged_man", "moon"],
+    "reading_meaning": "Блокиран от страхове",
+    "reading_description": "Страховете и илюзиите те държат в застой. Не можеш да мръднеш от тях.",
+    "reading_advice": "Страхът е най-големият затвор."
+  },
+  {
+    "reading_id": "hanged_sun",
+    "reading_name": "Застоят свършва",
+    "reading_cards": "Обесен + Слънце",
+    "reading_combination": ["hanged_man", "sun"],
+    "reading_meaning": "Край на чакането",
+    "reading_description": "Периодът на изчакване най-после приключва. Радост и облекчение.",
+    "reading_advice": "Дойде време за действие."
+  },
+  {
+    "reading_id": "hanged_judgement",
+    "reading_name": "Пробуждане от застоя",
+    "reading_cards": "Обесен + Съд",
+    "reading_combination": ["hanged_man", "judgement"],
+    "reading_meaning": "Зов сред застоя",
+    "reading_description": "Дори в блокажа чуваш зов за промяна. Той те кара да се раздвижиш.",
+    "reading_advice": "Чуй гласа, който те буди от застоя."
+  },
+  {
+    "reading_id": "hanged_world",
+    "reading_name": "Завършек на застоя",
+    "reading_cards": "Обесен + Свят",
+    "reading_combination": ["hanged_man", "world"],
+    "reading_meaning": "Периодът на чакане завършва",
+    "reading_description": "Застоят приключва и всичко си идва на мястото. Завършеност и хармония.",
+    "reading_advice": "Чакането си заслужаваше."
+  },
+  {
+    "reading_id": "death_temperance",
+    "reading_name": "Балансиран край",
+    "reading_cards": "Смърт + Умереност",
+    "reading_combination": ["death", "temperance"],
+    "reading_meaning": "Край с мярка",
+    "reading_description": "Краят идва плавно, без внезапни сътресения. Естествен завършек.",
+    "reading_advice": "Приеми края като част от цикъла."
+  },
+  {
+    "reading_id": "death_devil",
+    "reading_name": "Край на зависимост",
+    "reading_cards": "Смърт + Дявол",
+    "reading_combination": ["death", "devil"],
+    "reading_meaning": "Освобождение от окови",
+    "reading_description": "Зависимост или токсична връзка приключва. Край, който носи свобода.",
+    "reading_advice": "Смъртта на зависимостта е раждане на свободата."
+  },
+  {
+    "reading_id": "death_tower",
+    "reading_name": "Тотален срив",
+    "reading_cards": "Смърт + Кула",
+    "reading_combination": ["death", "tower"],
+    "reading_meaning": "Пълен край",
+    "reading_description": "Всичко се срива напълно. Край, от който няма връщане назад.",
+    "reading_advice": "Понякога трябва всичко да рухне, за да започнеш отначало."
+  },
+  {
+    "reading_id": "death_star",
+    "reading_name": "Край и ново начало",
+    "reading_cards": "Смърт + Звезда",
+    "reading_combination": ["death", "star"],
+    "reading_meaning": "След края идва надежда",
+    "reading_description": "След приключването идва надежда за ново начало. Феникс от пепелта.",
+    "reading_advice": "Когато една врата се затваря, друга се отваря."
+  },
+  {
+    "reading_id": "death_moon",
+    "reading_name": "Край в мъгла",
+    "reading_cards": "Смърт + Луна",
+    "reading_combination": ["death", "moon"],
+    "reading_meaning": "Краят е неясен",
+    "reading_description": "Нещо приключва, но не виждаш ясно какво и защо. Объркване и страх.",
+    "reading_advice": "Светлината ще дойде, когато си готов."
+  },
+  {
+    "reading_id": "death_sun",
+    "reading_name": "Щастлив край",
+    "reading_cards": "Смърт + Слънце",
+    "reading_combination": ["death", "sun"],
+    "reading_meaning": "Краят носи радост",
+    "reading_description": "Приключване, което носи облекчение и радост. Край на тежък период.",
+    "reading_advice": "Радвай се, че този цикъл приключи."
+  },
+  {
+    "reading_id": "death_judgement",
+    "reading_name": "Смърт и възкресение",
+    "reading_cards": "Смърт + Съд",
+    "reading_combination": ["death", "judgement"],
+    "reading_meaning": "Краят води до ново раждане",
+    "reading_description": "След смъртта идва възкресение. Прераждане, ново начало, нова същност.",
+    "reading_advice": "Умри за старото, за да се родиш отново."
+  },
+  {
+    "reading_id": "death_world",
+    "reading_name": "Пълен завършек",
+    "reading_cards": "Смърт + Свят",
+    "reading_combination": ["death", "world"],
+    "reading_meaning": "Цикълът завършва напълно",
+    "reading_description": "Един голям цикъл приключва напълно. Край, който носи завършеност.",
+    "reading_advice": "Ти завърши един кръг. Почини си, после започни нов."
+  },
+  {
+    "reading_id": "temperance_devil",
+    "reading_name": "Баланс и зависимост",
+    "reading_cards": "Умереност + Дявол",
+    "reading_combination": ["temperance", "devil"],
+    "reading_meaning": "Бориш се със зависимост",
+    "reading_description": "Опитваш се да намериш баланс, докато се бориш със зависимост или лош навик.",
+    "reading_advice": "Балансът е първата стъпка към свободата."
+  },
+  {
+    "reading_id": "temperance_tower",
+    "reading_name": "Балансът се срива",
+    "reading_cards": "Умереност + Кула",
+    "reading_combination": ["temperance", "tower"],
+    "reading_meaning": "Загуба на равновесие",
+    "reading_description": "Хармонията и балансът, които си постигнал, се сриват внезапно.",
+    "reading_advice": "След срива ще намериш нов баланс."
+  },
+  {
+    "reading_id": "temperance_star",
+    "reading_name": "Баланс и надежда",
+    "reading_cards": "Умереност + Звезда",
+    "reading_combination": ["temperance", "star"],
+    "reading_meaning": "Хармонична надежда",
+    "reading_description": "Надеждата ти е балансирана и спокойна. Нито прекален оптимизъм, нито песимизъм.",
+    "reading_advice": "Вярвай, но с мярка."
+  },
+  {
+    "reading_id": "temperance_moon",
+    "reading_name": "Баланс сред илюзии",
+    "reading_cards": "Умереност + Луна",
+    "reading_combination": ["temperance", "moon"],
+    "reading_meaning": "Опитваш се да запазиш баланс сред хаоса",
+    "reading_description": "Страховете и илюзиите заплашват да те извадят от равновесие. Държиш се.",
+    "reading_advice": "Дръж се за баланса си. Той е спасителен пояс."
+  },
+  {
+    "reading_id": "temperance_sun",
+    "reading_name": "Слънчев баланс",
+    "reading_cards": "Умереност + Слънце",
+    "reading_combination": ["temperance", "sun"],
+    "reading_meaning": "Перфектна хармония",
+    "reading_description": "Всичко в живота ти е в идеален баланс. Радост и хармония заедно.",
+    "reading_advice": "Наслаждавай се на този рядък момент."
+  },
+  {
+    "reading_id": "temperance_judgement",
+    "reading_name": "Пробуден баланс",
+    "reading_cards": "Умереност + Съд",
+    "reading_combination": ["temperance", "judgement"],
+    "reading_meaning": "Балансът се пробужда",
+    "reading_description": "Осъзнаваш важността на баланса в живота си на ново ниво.",
+    "reading_advice": "Чуй зова за по-голяма хармония."
+  },
+  {
+    "reading_id": "temperance_world",
+    "reading_name": "Съвършен баланс",
+    "reading_cards": "Умереност + Свят",
+    "reading_combination": ["temperance", "world"],
+    "reading_meaning": "Пълна хармония",
+    "reading_description": "Постигнал си съвършен баланс във всички области на живота. Пълнота и завършеност.",
+    "reading_advice": "Ти си в хармония с вселената. Наслаждавай се."
+  },
+  {
+    "reading_id": "devil_tower",
+    "reading_name": "Срив на зависимост",
+    "reading_cards": "Дявол + Кула",
+    "reading_combination": ["devil", "tower"],
+    "reading_meaning": "Принудително освобождение",
+    "reading_description": "Зависимост или токсична ситуация приключва внезапно и насилствено.",
+    "reading_advice": "Понякога трябва да рухнеш, за да се освободиш."
+  },
+  {
+    "reading_id": "devil_star",
+    "reading_name": "Надежда след зависимост",
+    "reading_cards": "Дявол + Звезда",
+    "reading_combination": ["devil", "star"],
+    "reading_meaning": "Вяра в изцеление",
+    "reading_description": "Дори в най-тъмния момент на зависимост има надежда за изцеление.",
+    "reading_advice": "Никога не е твърде късно да започнеш отново."
+  },
+  {
+    "reading_id": "devil_moon",
+    "reading_name": "Страх и зависимост",
+    "reading_cards": "Дявол + Луна",
+    "reading_combination": ["devil", "moon"],
+    "reading_meaning": "Тъмна нощ на душата",
+    "reading_description": "Зависимост, подхранвана от страхове и илюзии. Най-тежката комбинация.",
+    "reading_advice": "Потърси светлина. Има я, дори да не я виждаш."
+  },
+  {
+    "reading_id": "devil_sun",
+    "reading_name": "Освобождение от зависимост",
+    "reading_cards": "Дявол + Слънце",
+    "reading_combination": ["devil", "sun"],
+    "reading_meaning": "Светлина след тъмнина",
+    "reading_description": "Успяваш да се освободиш от зависимост или токсична ситуация. Радост и свобода.",
+    "reading_advice": "Ти победи демоните си. Наслади се на свободата."
+  },
+  {
+    "reading_id": "devil_judgement",
+    "reading_name": "Пробуждане от зависимост",
+    "reading_cards": "Дявол + Съд",
+    "reading_combination": ["devil", "judgement"],
+    "reading_meaning": "Зов за освобождение",
+    "reading_description": "Чуваш вътрешен глас, който те кара да се освободиш от зависимостите.",
+    "reading_advice": "Чуй зова. Той идва, за да те спаси."
+  },
+  {
+    "reading_id": "devil_world",
+    "reading_name": "Край на зависимост",
+    "reading_cards": "Дявол + Свят",
+    "reading_combination": ["devil", "world"],
+    "reading_meaning": "Цикълът на зависимост приключва",
+    "reading_description": "Успяваш да затвориш главата със зависимостите. Завършек и свобода.",
+    "reading_advice": "Ти завърши този тежък цикъл. Гордей се."
+  },
+  {
+    "reading_id": "tower_star",
+    "reading_name": "След срива идва надежда",
+    "reading_cards": "Кула + Звезда",
+    "reading_combination": ["tower", "star"],
+    "reading_meaning": "Разрушение и изцеление",
+    "reading_description": "След внезапния срив идва надежда и изцеление. Феникс от пепелта.",
+    "reading_advice": "След бурята винаги идва слънце."
+  },
+  {
+    "reading_id": "tower_moon",
+    "reading_name": "Срив сред страхове",
+    "reading_cards": "Кула + Луна",
+    "reading_combination": ["tower", "moon"],
+    "reading_meaning": "Разруха и объркване",
+    "reading_description": "Срив, който те оставя объркан и изплашен. Не виждаш изход.",
+    "reading_advice": "Страхът е нормален след срив. Дай си време."
+  },
+  {
+    "reading_id": "tower_sun",
+    "reading_name": "След срива идва светлина",
+    "reading_cards": "Кула + Слънце",
+    "reading_combination": ["tower", "sun"],
+    "reading_meaning": "Разрушение и ново начало",
+    "reading_description": "След като всичко рухва, идва светлина и ново начало. Красиво възраждане.",
+    "reading_advice": "Понякога трябва да загубиш всичко, за да получиш всичко."
+  },
+  {
+    "reading_id": "tower_judgement",
+    "reading_name": "Срив и пробуждане",
+    "reading_cards": "Кула + Съд",
+    "reading_combination": ["tower", "judgement"],
+    "reading_meaning": "Разруха, която буди",
+    "reading_description": "Сривът те събужда от дълъг сън. Виждаш нещата по нов начин.",
+    "reading_advice": "Понякога трябва да рухнеш, за да се събудиш."
+  },
+  {
+    "reading_id": "tower_world",
+    "reading_name": "Край на един свят",
+    "reading_cards": "Кула + Свят",
+    "reading_combination": ["tower", "world"],
+    "reading_meaning": "Цял свят се срива",
+    "reading_description": "Всичко, което познаваш, се срива. Един цял свят приключва.",
+    "reading_advice": "Когато един свят свършва, друг започва."
+  },
+  {
+    "reading_id": "star_moon",
+    "reading_name": "Надежда сред страхове",
+    "reading_cards": "Звезда + Луна",
+    "reading_combination": ["star", "moon"],
+    "reading_meaning": "Вяра въпреки страха",
+    "reading_description": "Дори когато се страхуваш и не виждаш ясно, запазваш надежда.",
+    "reading_advice": "Вярата е най-силна, когато не виждаш."
+  },
+  {
+    "reading_id": "star_sun",
+    "reading_name": "Надежда и щастие",
+    "reading_cards": "Звезда + Слънце",
+    "reading_combination": ["star", "sun"],
+    "reading_meaning": "Изпълнена надежда",
+    "reading_description": "Надеждата ти се сбъдва. Щастие, радост, изцеление.",
+    "reading_advice": "Наслади се на светлината. Ти вярва и тя идва."
+  },
+  {
+    "reading_id": "star_judgement",
+    "reading_name": "Пробудена надежда",
+    "reading_cards": "Звезда + Съд",
+    "reading_combination": ["star", "judgement"],
+    "reading_meaning": "Надеждата се пробужда",
+    "reading_description": "След период без надежда, тя се възражда отново. Ново ниво на вяра.",
+    "reading_advice": "Чуй зова на надеждата."
+  },
+  {
+    "reading_id": "star_world",
+    "reading_name": "Вселенска надежда",
+    "reading_cards": "Звезда + Свят",
+    "reading_combination": ["star", "world"],
+    "reading_meaning": "Надежда за всичко",
+    "reading_description": "Надежда, която обхваща всички аспекти на живота ти. Пълна вяра в бъдещето.",
+    "reading_advice": "Вярвай, че всичко ще бъде наред. Вселената е с теб."
+  },
+  {
+    "reading_id": "moon_sun",
+    "reading_name": "От мрак към светлина",
+    "reading_cards": "Луна + Слънце",
+    "reading_combination": ["moon", "sun"],
+    "reading_meaning": "Страховете отстъпват",
+    "reading_description": "След период на страхове и объркване идва яснота и светлина.",
+    "reading_advice": "Светлината винаги побеждава мрака."
+  },
+  {
+    "reading_id": "moon_judgement",
+    "reading_name": "Пробуждане от илюзии",
+    "reading_cards": "Луна + Съд",
+    "reading_combination": ["moon", "judgement"],
+    "reading_meaning": "Събуждане от кошмар",
+    "reading_description": "Страховете и илюзиите се разсейват. Виждаш истината.",
+    "reading_advice": "Събуди се. Страховете бяха само сън."
+  },
+  {
+    "reading_id": "moon_world",
+    "reading_name": "Край на илюзиите",
+    "reading_cards": "Луна + Свят",
+    "reading_combination": ["moon", "world"],
+    "reading_meaning": "Завършек на неясен период",
+    "reading_description": "Периодът на объркване и страхове приключва. Всичко си идва на мястото.",
+    "reading_advice": "Мъглата се вдигна. Виждаш ясно."
+  },
+  {
+    "reading_id": "sun_judgement",
+    "reading_name": "Пробудена светлина",
+    "reading_cards": "Слънце + Съд",
+    "reading_combination": ["sun", "judgement"],
+    "reading_meaning": "Просветление",
+    "reading_description": "Светлина и пробуждане заедно. Момент на висша яснота и разбиране.",
+    "reading_advice": "Ти видя светлината. Следвай я."
+  },
+  {
+    "reading_id": "sun_world",
+    "reading_name": "Съвършено щастие",
+    "reading_cards": "Слънце + Свят",
+    "reading_combination": ["sun", "world"],
+    "reading_meaning": "Върховна радост",
+    "reading_description": "Пълно щастие и завършеност. Всичко, за което си мечтал, се сбъдва.",
+    "reading_advice": "Ти си в рая. Наслаждавай се на всеки миг."
+  },
+  {
+    "reading_id": "judgement_world",
+    "reading_name": "Пробуждане и завършек",
+    "reading_cards": "Съд + Свят",
+    "reading_combination": ["judgement", "world"],
+    "reading_meaning": "Краят на търсенето",
+    "reading_description": "Пробуждаш се и виждаш, че си завършил дълъг път. Пълнота и разбиране.",
+    "reading_advice": "Ти намери себе си. Сега живей."
   }
 ];
+  
+
 
 
