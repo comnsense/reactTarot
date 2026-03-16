@@ -10444,7 +10444,7 @@ export const readings = [
     "reading_combination": ["fool", "ten_wands"],
     "reading_meaning": "Поемаш твърде много",
     "reading_description": "С ентусиазъм си поел твърде много отговорности и сега се давиш в тях. Не си пресметнал силите си.",
-    "reading_advice": "Научи се да казваш "не". Не можеш да носиш всичко сам."
+    "reading_advice": "Научи се да казваш не. Не можеш да носиш всичко сам."
   },
   {
     "reading_id": "fool_ace_cups",
@@ -12401,3 +12401,5 @@ export const readings = [
   }
 ];
   
+
+     
