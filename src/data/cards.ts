@@ -13426,10 +13426,7 @@ export const readings = [
 "reading_description": "Бремето, което си носил, най-после приключва. Завършек на тежък период.",
 "reading_advice": "Пусни бремето. Ти завърши."
 },
-
-
-export const readings = [
-  {
+{
     "reading_id": "fated_love",
     "reading_name": "Съдбовна любов",
     "reading_cards": "Влюбените + 2 Чаши + Асо Чаши",
