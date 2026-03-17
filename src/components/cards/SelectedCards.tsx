@@ -5,7 +5,7 @@ interface SelectedCardsProps {
   selectedCards: Card[];
   onClear: () => void;
   onRemoveCard: (cardId: string) => void;
-  foundReadings: Reading[]; // Променено от foundReading на масив
+  foundReadings: Reading[];
   onScrollToInterpretations: () => void;
 }
 
@@ -62,7 +62,7 @@ const SelectedCards: React.FC<SelectedCardsProps> = ({
         ))}
       </div>
 
-      {/* Открити комбинации - вече може да са няколко */}
+      {/* Открити комбинации */}
       {foundReadings.length > 0 && (
         <div className="found-readings-container">
           <h3 className="found-readings-title">
