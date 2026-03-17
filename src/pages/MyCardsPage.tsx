@@ -71,12 +71,14 @@ const MyCardsPage: React.FC = () => {
 
     const sortedIds = [...ids].sort();
     
-    const matchingReadings = readings.filter(r => {
-      // Проверка дали reading_combination съществува и е масив
-      if (!r.reading_combination || !Array.isArray(r.reading_combination)) {
-        return false;
-      }
-      
+    // Филтрираме само комбинациите, които имат reading_combination
+    const validReadings = readings.filter(r => 
+      r.reading_combination && 
+      Array.isArray(r.reading_combination) && 
+      r.reading_combination.length > 0
+    ) as Reading[];
+    
+    const matchingReadings = validReadings.filter(r => {
       const sortedReadingIds = [...r.reading_combination].sort();
       
       // Точно съвпадение
@@ -111,7 +113,6 @@ const MyCardsPage: React.FC = () => {
         Изберете до 10 карти, за да получите тълкувание и да откриете специални комбинации
       </p>
       
-      {/* Selected Cards Component */}
       <SelectedCards 
         selectedCards={selectedCards}
         onClear={clearSelected}
