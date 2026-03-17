@@ -14127,6 +14127,1662 @@ export const readings = [
     "reading_meaning": "Чиста земя, чиста материя",
     "reading_description": "Фокус върху пари, здраве, работа, дом. Материалната сигурност е важна, но може би пренебрегваш емоциите, връзките, духовното.",
     "reading_advice": "Парите и сигурността са важни, но не са всичко. Отвори сърцето си за хората."
+  },
+
+   {
+    "reading_id": "ace_wands_page_wands",
+    "reading_name": "Новаторски ентусиазъм",
+    "reading_cards": "Асо Жезли + Паж Жезли",
+    "reading_combination": ["ace_wands", "page_wands"],
+    "reading_meaning": "Младежка енергия за нов проект",
+    "reading_description": "Нова идея идва с младежки ентусиазъм. Пажът носи новини за възможност, която ще те запали.",
+    "reading_advice": "Приеми новината с отворено сърце и действай веднага."
+  },
+  {
+    "reading_id": "ace_wands_knight_wands",
+    "reading_name": "Страстен старт",
+    "reading_cards": "Асо Жезли + Рицар Жезли",
+    "reading_combination": ["ace_wands", "knight_wands"],
+    "reading_meaning": "Бързо и страстно начало",
+    "reading_description": "Започваш нещо с огромна страст и скорост. Рицарят носи импулс да действаш без забавяне.",
+    "reading_advice": "Действай бързо, но не изгаряй мостовете си."
+  },
+  {
+    "reading_id": "ace_wands_queen_wands",
+    "reading_name": "Творческо лидерство",
+    "reading_cards": "Асо Жезли + Кралица Жезли",
+    "reading_combination": ["ace_wands", "queen_wands"],
+    "reading_meaning": "Вдъхновение и лидерство",
+    "reading_description": "Нова идея идва с увереността на Кралицата. Имаш харизмата да поведеш другите.",
+    "reading_advice": "Води с вдъхновение, не със заповеди."
+  },
+  {
+    "reading_id": "ace_wands_king_wands",
+    "reading_name": "Властно начало",
+    "reading_cards": "Асо Жезли + Цар Жезли",
+    "reading_combination": ["ace_wands", "king_wands"],
+    "reading_meaning": "Старт с авторитет",
+    "reading_description": "Започваш нов проект с власт и авторитет. Имаш контрол и визия.",
+    "reading_advice": "Използвай властта си, за да създаваш, не да контролираш."
+  },
+  {
+    "reading_id": "two_wands_page_wands",
+    "reading_name": "Млад съветник",
+    "reading_cards": "2 Жезли + Паж Жезли",
+    "reading_combination": ["two_wands", "page_wands"],
+    "reading_meaning": "Новини за избор",
+    "reading_description": "Получаваш новина, която ще ти помогне да вземеш решение. Млад човек носи важна информация.",
+    "reading_advice": "Слушай какво ти казват младите - те виждат неща, които ти не виждаш."
+  },
+  {
+    "reading_id": "two_wands_knight_wands",
+    "reading_name": "Бързо решение",
+    "reading_cards": "2 Жезли + Рицар Жезли",
+    "reading_combination": ["two_wands", "knight_wands"],
+    "reading_meaning": "Решение под напрежение",
+    "reading_description": "Трябва да вземеш решение бързо. Рицарят носи спешност и импулсивност.",
+    "reading_advice": "Вземи решение, но не бъди прекалено импулсивен."
+  },
+  {
+    "reading_id": "two_wands_queen_wands",
+    "reading_name": "Мъдър избор",
+    "reading_cards": "2 Жезли + Кралица Жезли",
+    "reading_combination": ["two_wands", "queen_wands"],
+    "reading_meaning": "Избор с интуиция",
+    "reading_description": "Кралицата ти помага да избереш правилно с интуиция и топлота. Слушай сърцето си.",
+    "reading_advice": "Най-добрият избор е този, който идва от сърцето."
+  },
+  {
+    "reading_id": "two_wands_king_wands",
+    "reading_name": "Решителност",
+    "reading_cards": "2 Жезли + Цар Жезли",
+    "reading_combination": ["two_wands", "king_wands"],
+    "reading_meaning": "Избор с власт",
+    "reading_description": "Вземаш решение с увереност и авторитет. Царят ти дава сила да отстояваш избора си.",
+    "reading_advice": "Избра веднъж - не се обръщай назад."
+  },
+  {
+    "reading_id": "three_wands_page_wands",
+    "reading_name": "Млад пратеник",
+    "reading_cards": "3 Жезли + Паж Жезли",
+    "reading_combination": ["three_wands", "page_wands"],
+    "reading_meaning": "Новини за резултати",
+    "reading_description": "Очакваш резултати и получаваш новини от млад човек. Нещо се задава на хоризонта.",
+    "reading_advice": "Бъди търпелив - добрите новини идват при тези, които чакат."
+  },
+  {
+    "reading_id": "three_wands_knight_wands",
+    "reading_name": "Бърз напредък",
+    "reading_cards": "3 Жезли + Рицар Жезли",
+    "reading_combination": ["three_wands", "knight_wands"],
+    "reading_meaning": "Ускорено развитие",
+    "reading_description": "Това, което очакваш, ще дойде по-бързо от очакваното. Рицарят носи ускорение.",
+    "reading_advice": "Приготви се - нещата ще се случат светкавично."
+  },
+  {
+    "reading_id": "three_wands_queen_wands",
+    "reading_name": "Търпелива кралица",
+    "reading_cards": "3 Жезли + Кралица Жезли",
+    "reading_combination": ["three_wands", "queen_wands"],
+    "reading_meaning": "Чакане с достойнство",
+    "reading_description": "Чакаш резултати, но с увереността на Кралицата. Знаеш, че всичко идва в точното време.",
+    "reading_advice": "Чакай с достойнство и вяра."
+  },
+  {
+    "reading_id": "three_wands_king_wands",
+    "reading_name": "Властно очакване",
+    "reading_cards": "3 Жезли + Цар Жезли",
+    "reading_combination": ["three_wands", "king_wands"],
+    "reading_meaning": "Контрол в очакването",
+    "reading_description": "Дори докато чакаш, запазваш контрол. Царят ти дава търпение и власт.",
+    "reading_advice": "Истинската сила е в търпението."
+  },
+  {
+    "reading_id": "four_wands_page_wands",
+    "reading_name": "Млад гост",
+    "reading_cards": "4 Жезли + Паж Жезли",
+    "reading_combination": ["four_wands", "page_wands"],
+    "reading_meaning": "Млад гост на празник",
+    "reading_description": "Млад човек идва на твоето тържество или празник. Радост и младежка енергия.",
+    "reading_advice": "Посрещни младите с отворено сърце - те носят нова енергия."
+  },
+  {
+    "reading_id": "four_wands_knight_wands",
+    "reading_name": "Бърз празник",
+    "reading_cards": "4 Жезли + Рицар Жезли",
+    "reading_combination": ["four_wands", "knight_wands"],
+    "reading_meaning": "Празник, който идва бързо",
+    "reading_description": "Празник или събитие, което се организира бързо и импулсивно. Спонтанна радост.",
+    "reading_advice": "Понякога най-хубавите празници са непланираните."
+  },
+  {
+    "reading_id": "four_wands_queen_wands",
+    "reading_name": "Домакиня",
+    "reading_cards": "4 Жезли + Кралица Жезли",
+    "reading_combination": ["four_wands", "queen_wands"],
+    "reading_meaning": "Жена, която посреща гости",
+    "reading_description": "Жена в ролята на домакиня, която посреща гости с топлота и радушие. Празник в дома.",
+    "reading_advice": "Бъди добра домакиня - гостите ти заслужават топлина."
+  },
+  {
+    "reading_id": "four_wands_king_wands",
+    "reading_name": "Домакин",
+    "reading_cards": "4 Жезли + Цар Жезли",
+    "reading_combination": ["four_wands", "king_wands"],
+    "reading_meaning": "Мъж, който посреща гости",
+    "reading_description": "Мъж в ролята на домакин, който организира празник и посреща гости с достойнство.",
+    "reading_advice": "Бъди щедър домакин - празникът е за споделяне."
+  },
+  {
+    "reading_id": "five_wands_page_wands",
+    "reading_name": "Млад бунтар",
+    "reading_cards": "5 Жезли + Паж Жезли",
+    "reading_combination": ["five_wands", "page_wands"],
+    "reading_meaning": "Млад човек в конфликт",
+    "reading_description": "Млад човек е въвлечен в конфликт или спортно състезание. Бунтарска енергия.",
+    "reading_advice": "Насочвай младежката енергия в градивна посока."
+  },
+  {
+    "reading_id": "five_wands_knight_wands",
+    "reading_name": "Рицар в битка",
+    "reading_cards": "5 Жезли + Рицар Жезли",
+    "reading_combination": ["five_wands", "knight_wands"],
+    "reading_meaning": "Бърз конфликт",
+    "reading_description": "Бърз и интензивен конфликт, който изисква моментална реакция. Рицарят атакува.",
+    "reading_advice": "Избери битките си мъдро - не всяка битка си струва."
+  },
+  {
+    "reading_id": "five_wands_queen_wands",
+    "reading_name": "Жена в конфликт",
+    "reading_cards": "5 Жезли + Кралица Жезли",
+    "reading_combination": ["five_wands", "queen_wands"],
+    "reading_meaning": "Жена, която защитава позиция",
+    "reading_description": "Жена, която трябва да защитава своята територия или позиция. Силна и решителна.",
+    "reading_advice": "Защитавай се, но не губи женствеността си."
+  },
+  {
+    "reading_id": "five_wands_king_wands",
+    "reading_name": "Мъж в конфликт",
+    "reading_cards": "5 Жезли + Цар Жезли",
+    "reading_combination": ["five_wands", "king_wands"],
+    "reading_meaning": "Лидер в битка",
+    "reading_description": "Лидер, който води своята армия в конфликт. Власт и решителност в битката.",
+    "reading_advice": "Води с пример, не само със заповеди."
+  },
+  {
+    "reading_id": "six_wands_page_wands",
+    "reading_name": "Млад победител",
+    "reading_cards": "6 Жезли + Паж Жезли",
+    "reading_combination": ["six_wands", "page_wands"],
+    "reading_meaning": "Млад успех",
+    "reading_description": "Млад човек, който празнува първия си голям успех. Гордост и радост.",
+    "reading_advice": "Празнувай успеха си, но остани смирен."
+  },
+  {
+    "reading_id": "six_wands_knight_wands",
+    "reading_name": "Победител на кон",
+    "reading_cards": "6 Жезли + Рицар Жезли",
+    "reading_combination": ["six_wands", "knight_wands"],
+    "reading_meaning": "Бърза победа",
+    "reading_description": "Победа, която идва бързо и ефектно. Рицарят се завръща с трофей.",
+    "reading_advice": "Наслади се на победата, но утре те чакат нови битки."
+  },
+  {
+    "reading_id": "six_wands_queen_wands",
+    "reading_name": "Кралица победителка",
+    "reading_cards": "6 Жезли + Кралица Жезли",
+    "reading_combination": ["six_wands", "queen_wands"],
+    "reading_meaning": "Жена с успех",
+    "reading_description": "Жена, която е постигнала голям успех и получава признание. Гордост и достойнство.",
+    "reading_advice": "Приеми признанието с благодарност и го сподели."
+  },
+  {
+    "reading_id": "six_wands_king_wands",
+    "reading_name": "Цар победител",
+    "reading_cards": "6 Жезли + Цар Жезли",
+    "reading_combination": ["six_wands", "king_wands"],
+    "reading_meaning": "Лидер с победа",
+    "reading_description": "Лидер, чиято армия е победила. Триумф и признание за управлението.",
+    "reading_advice": "Победата е на всички, не само на теб. Благодари на хората си."
+  },
+  {
+    "reading_id": "seven_wands_page_wands",
+    "reading_name": "Млад защитник",
+    "reading_cards": "7 Жезли + Паж Жезли",
+    "reading_combination": ["seven_wands", "page_wands"],
+    "reading_meaning": "Млад човек в защита",
+    "reading_description": "Млад човек, който защитава своята позиция или идея. Смелост и упоритост.",
+    "reading_advice": "Защитавай идеите си, но бъди отворен за учене."
+  },
+  {
+    "reading_id": "seven_wands_knight_wands",
+    "reading_name": "Рицар защитник",
+    "reading_cards": "7 Жезли + Рицар Жезли",
+    "reading_combination": ["seven_wands", "knight_wands"],
+    "reading_meaning": "Бърза защита",
+    "reading_description": "Трябва бързо да защитиш позицията си. Рицарят реагира светкавично.",
+    "reading_advice": "Защитавай се, но не атакувай пръв."
+  },
+  {
+    "reading_id": "seven_wands_queen_wands",
+    "reading_name": "Кралица защитница",
+    "reading_cards": "7 Жезли + Кралица Жезли",
+    "reading_combination": ["seven_wands", "queen_wands"],
+    "reading_meaning": "Жена защитава територия",
+    "reading_description": "Жена, която защитава своя дом, семейство или позиция. Силна и непоклатима.",
+    "reading_advice": "Защитавай това, което обичаш, с цялата си сила."
+  },
+  {
+    "reading_id": "seven_wands_king_wands",
+    "reading_name": "Цар защитник",
+    "reading_cards": "7 Жезли + Цар Жезли",
+    "reading_combination": ["seven_wands", "king_wands"],
+    "reading_meaning": "Лидер в защита",
+    "reading_description": "Лидер, който защитава своето царство от нашественици. Твърд и непоколебим.",
+    "reading_advice": "Защитавай поданиците си, те разчитат на теб."
+  },
+  {
+    "reading_id": "eight_wands_page_wands",
+    "reading_name": "Бързи новини",
+    "reading_cards": "8 Жезли + Паж Жезли",
+    "reading_combination": ["eight_wands", "page_wands"],
+    "reading_meaning": "Млад пратеник бърза",
+    "reading_description": "Млад пратеник носи важни новини бързо. Съобщение, което идва светкавично.",
+    "reading_advice": "Отвори съобщението веднага - то е важно."
+  },
+  {
+    "reading_id": "eight_wands_knight_wands",
+    "reading_name": "Бърз рицар",
+    "reading_cards": "8 Жезли + Рицар Жезли",
+    "reading_combination": ["eight_wands", "knight_wands"],
+    "reading_meaning": "Максимална скорост",
+    "reading_description": "Всичко се случва с максимална скорост. Рицарят препуска с пълна газ.",
+    "reading_advice": "Язди вятъра, но не изпускай контрол."
+  },
+  {
+    "reading_id": "eight_wands_queen_wands",
+    "reading_name": "Бърза кралица",
+    "reading_cards": "8 Жезли + Кралица Жезли",
+    "reading_combination": ["eight_wands", "queen_wands"],
+    "reading_meaning": "Жена в движение",
+    "reading_description": "Жена, която се движи бързо към целите си. Енергична и устремена.",
+    "reading_advice": "Движи се бързо, но не забравяй да спираш за почивка."
+  },
+  {
+    "reading_id": "eight_wands_king_wands",
+    "reading_name": "Бърз цар",
+    "reading_cards": "8 Жезли + Цар Жезли",
+    "reading_combination": ["eight_wands", "king_wands"],
+    "reading_meaning": "Власт в движение",
+    "reading_description": "Лидер, който взема бързи решения и действа светкавично. Ефективност и скорост.",
+    "reading_advice": "Бързината е важна, но не за сметка на мъдростта."
+  },
+  {
+    "reading_id": "nine_wands_page_wands",
+    "reading_name": "Уморен младеж",
+    "reading_cards": "9 Жезли + Паж Жезли",
+    "reading_combination": ["nine_wands", "page_wands"],
+    "reading_meaning": "Млад, но изтощен",
+    "reading_description": "Млад човек, който вече е изтощен от битките на живота. Рано остарял.",
+    "reading_advice": "Почини си, младостта не е вечна."
+  },
+  {
+    "reading_id": "nine_wands_knight_wands",
+    "reading_name": "Уморен рицар",
+    "reading_cards": "9 Жезли + Рицар Жезли",
+    "reading_combination": ["nine_wands", "knight_wands"],
+    "reading_meaning": "Рицар след битка",
+    "reading_description": "Рицар, който е водил много битки и вече е изтощен. Последна защита.",
+    "reading_advice": "Дръж се още малко. Скоро ще има мир."
+  },
+  {
+    "reading_id": "nine_wands_queen_wands",
+    "reading_name": "Уморена кралица",
+    "reading_cards": "9 Жезли + Кралица Жезли",
+    "reading_combination": ["nine_wands", "queen_wands"],
+    "reading_meaning": "Жена, изтощена от защита",
+    "reading_description": "Жена, която дълго е защитавала семейството и позициите си. Умора и нужда от почивка.",
+    "reading_advice": "Дори кралиците имат нужда от почивка."
+  },
+  {
+    "reading_id": "nine_wands_king_wands",
+    "reading_name": "Уморен цар",
+    "reading_cards": "9 Жезли + Цар Жезли",
+    "reading_combination": ["nine_wands", "king_wands"],
+    "reading_meaning": "Лидер в изтощение",
+    "reading_description": "Лидер, който дълго е водил войни и управлявал. Изтощение и нужда от подкрепа.",
+    "reading_advice": "Дори силните имат нужда от почивка. Делегирай."
+  },
+  {
+    "reading_id": "ten_wands_page_wands",
+    "reading_name": "Млад носач",
+    "reading_cards": "10 Жезли + Паж Жезли",
+    "reading_combination": ["ten_wands", "page_wands"],
+    "reading_meaning": "Млад човек с бреме",
+    "reading_description": "Млад човек, който носи твърде много отговорности. Претоварен младеж.",
+    "reading_advice": "Не поемай толкова много, млад си. Има време."
+  },
+  {
+    "reading_id": "ten_wands_knight_wands",
+    "reading_name": "Рицар с бреме",
+    "reading_cards": "10 Жезли + Рицар Жезли",
+    "reading_combination": ["ten_wands", "knight_wands"],
+    "reading_meaning": "Бързо, но претоварен",
+    "reading_description": "Рицар, който се движи бързо, но носи твърде много. Скорост и тежест.",
+    "reading_advice": "Освободи се от багажа, ако искаш да летиш."
+  },
+  {
+    "reading_id": "ten_wands_queen_wands",
+    "reading_name": "Кралица с бреме",
+    "reading_cards": "10 Жезли + Кралица Жезли",
+    "reading_combination": ["ten_wands", "queen_wands"],
+    "reading_meaning": "Жена, претоварена с грижи",
+    "reading_description": "Жена, която носи тежестта на семейството и дома сама. Претоварване.",
+    "reading_advice": "Потърси помощ. Не е нужно да носиш всичко сама."
+  },
+  {
+    "reading_id": "ten_wands_king_wands",
+    "reading_name": "Цар с бреме",
+    "reading_cards": "10 Жезли + Цар Жезли",
+    "reading_combination": ["ten_wands", "king_wands"],
+    "reading_meaning": "Лидер под напрежение",
+    "reading_description": "Лидер, който носи тежестта на управлението сам. Претоварване и стрес.",
+    "reading_advice": "Добрият лидер делегира. Не носи всичко сам."
+  },
+  {
+    "reading_id": "ace_cups_page_cups",
+    "reading_name": "Млада любов",
+    "reading_cards": "Асо Чаши + Паж Чаши",
+    "reading_combination": ["ace_cups", "page_cups"],
+    "reading_meaning": "Нова, невинна любов",
+    "reading_description": "Нова любов, която идва с невинност и чистота. Млад човек носи нови чувства.",
+    "reading_advice": "Отвори сърцето си за невинната любов."
+  },
+  {
+    "reading_id": "ace_cups_knight_cups",
+    "reading_name": "Романтично предложение",
+    "reading_cards": "Асо Чаши + Рицар Чаши",
+    "reading_combination": ["ace_cups", "knight_cups"],
+    "reading_meaning": "Романтичен жест",
+    "reading_description": "Романтично предложение или жест идва бързо. Рицарят носи любов на бял кон.",
+    "reading_advice": "Приеми романтиката с отворено сърце."
+  },
+  {
+    "reading_id": "ace_cups_queen_cups",
+    "reading_name": "Любяща жена",
+    "reading_cards": "Асо Чаши + Кралица Чаши",
+    "reading_combination": ["ace_cups", "queen_cups"],
+    "reading_meaning": "Жена с нови чувства",
+    "reading_description": "Жена, която отваря сърцето си за нова любов. Емоционална и чувствителна.",
+    "reading_advice": "Любовта те прави по-красива. Отвори се."
+  },
+  {
+    "reading_id": "ace_cups_king_cups",
+    "reading_name": "Любящ мъж",
+    "reading_cards": "Асо Чаши + Цар Чаши",
+    "reading_combination": ["ace_cups", "king_cups"],
+    "reading_meaning": "Мъж с нови чувства",
+    "reading_description": "Мъж, който отваря сърцето си за любов. Емоционална зрялост и топлота.",
+    "reading_advice": "Любовта не те прави по-слаб, а по-човечен."
+  },
+  {
+    "reading_id": "two_cups_page_cups",
+    "reading_name": "Млада двойка",
+    "reading_cards": "2 Чаши + Паж Чаши",
+    "reading_combination": ["two_cups", "page_cups"],
+    "reading_meaning": "Млади влюбени",
+    "reading_description": "Двама млади хора, които се обичат. Първа любов, невинност и чистота.",
+    "reading_advice": "Ценете тези моменти - те няма да се повторят."
+  },
+  {
+    "reading_id": "two_cups_knight_cups",
+    "reading_name": "Рицарят и любимата",
+    "reading_cards": "2 Чаши + Рицар Чаши",
+    "reading_combination": ["two_cups", "knight_cups"],
+    "reading_meaning": "Романтична среща",
+    "reading_description": "Романтична среща между Рицаря и неговата любима. Страст и идеализъм.",
+    "reading_advice": "Бъди романтик, но не изпускай реалността."
+  },
+  {
+    "reading_id": "two_cups_queen_cups",
+    "reading_name": "Две жени",
+    "reading_cards": "2 Чаши + Кралица Чаши",
+    "reading_combination": ["two_cups", "queen_cups"],
+    "reading_meaning": "Женска връзка",
+    "reading_description": "Дълбока емоционална връзка между две жени. Приятелки, сестри, майка и дъщеря.",
+    "reading_advice": "Ценете женската си връзка. Тя е специална."
+  },
+  {
+    "reading_id": "two_cups_king_cups",
+    "reading_name": "Мъж и жена",
+    "reading_cards": "2 Чаши + Цар Чаши",
+    "reading_combination": ["two_cups", "king_cups"],
+    "reading_meaning": "Зряла връзка",
+    "reading_description": "Зряла връзка между мъж и жена. Емоционална зрялост и баланс.",
+    "reading_advice": "Любовта в зряла възраст е по-дълбока и спокойна."
+  },
+  {
+    "reading_id": "three_cups_page_cups",
+    "reading_name": "Млад празник",
+    "reading_cards": "3 Чаши + Паж Чаши",
+    "reading_combination": ["three_cups", "page_cups"],
+    "reading_meaning": "Младежки купон",
+    "reading_description": "Празник с млади хора. Радост, безгрижие, смях и забавление.",
+    "reading_advice": "Наслаждавай се на младостта, но помни границите си."
+  },
+  {
+    "reading_id": "three_cups_knight_cups",
+    "reading_name": "Рицарят на празник",
+    "reading_cards": "3 Чаши + Рицар Чаши",
+    "reading_combination": ["three_cups", "knight_cups"],
+    "reading_meaning": "Весел рицар",
+    "reading_description": "Рицар, който празнува и се забавлява. Животът не е само битки.",
+    "reading_advice": "Понякога и рицарите имат нужда да се забавляват."
+  },
+  {
+    "reading_id": "three_cups_queen_cups",
+    "reading_name": "Кралицата домакиня",
+    "reading_cards": "3 Чаши + Кралица Чаши",
+    "reading_combination": ["three_cups", "queen_cups"],
+    "reading_meaning": "Жена организира празник",
+    "reading_description": "Жена, която организира тържество и посреща гости. Топлота и радушие.",
+    "reading_advice": "Празниците, организирани с любов, се помнят цял живот."
+  },
+  {
+    "reading_id": "three_cups_king_cups",
+    "reading_name": "Царят на празник",
+    "reading_cards": "3 Чаши + Цар Чаши",
+    "reading_combination": ["three_cups", "king_cups"],
+    "reading_meaning": "Мъж празнува",
+    "reading_description": "Мъж, който се радва на живота и празнува с близки. Емоционална откритост.",
+    "reading_advice": "Не се страхувай да покажеш радостта си."
+  },
+  {
+    "reading_id": "four_cups_page_cups",
+    "reading_name": "Млад мечтател",
+    "reading_cards": "4 Чаши + Паж Чаши",
+    "reading_combination": ["four_cups", "page_cups"],
+    "reading_meaning": "Млад и неудовлетворен",
+    "reading_description": "Млад човек, който не вижда възможностите около себе си. Мечтател, който пропуска реалността.",
+    "reading_advice": "Вдигни очи от телефона. Животът е пред теб."
+  },
+  {
+    "reading_id": "four_cups_knight_cups",
+    "reading_name": "Рицар в скука",
+    "reading_cards": "4 Чаши + Рицар Чаши",
+    "reading_combination": ["four_cups", "knight_cups"],
+    "reading_meaning": "Рицар търси приключение",
+    "reading_description": "Рицар, който е неудовлетворен от сегашното си положение. Търси нови битки.",
+    "reading_advice": "Понякога мирът е по-добър от войната."
+  },
+  {
+    "reading_id": "four_cups_queen_cups",
+    "reading_name": "Кралица в скука",
+    "reading_cards": "4 Чаши + Кралица Чаши",
+    "reading_combination": ["four_cups", "queen_cups"],
+    "reading_meaning": "Жена, която търси повече",
+    "reading_description": "Жена, която има всичко, но търси нещо повече. Неудовлетворение от живота.",
+    "reading_advice": "Погледни навътре, не навън. Отговорът е в теб."
+  },
+  {
+    "reading_id": "four_cups_king_cups",
+    "reading_name": "Цар в скука",
+    "reading_cards": "4 Чаши + Цар Чаши",
+    "reading_combination": ["four_cups", "king_cups"],
+    "reading_meaning": "Мъж, който търси смисъл",
+    "reading_description": "Мъж, който е постигнал всичко, но търси нов смисъл. Екзистенциална криза.",
+    "reading_advice": "Истинският смисъл не е във властта, а в сърцето."
+  },
+  {
+    "reading_id": "five_cups_page_cups",
+    "reading_name": "Млада тъга",
+    "reading_cards": "5 Чаши + Паж Чаши",
+    "reading_combination": ["five_cups", "page_cups"],
+    "reading_meaning": "Млад и тъжен",
+    "reading_description": "Млад човек, който преживява първата си голяма загуба или разочарование. Болка и сълзи.",
+    "reading_advice": "Първите рани болят най-силно, но и лекуват най-бързо."
+  },
+  {
+    "reading_id": "five_cups_knight_cups",
+    "reading_name": "Рицар в траур",
+    "reading_cards": "5 Чаши + Рицар Чаши",
+    "reading_combination": ["five_cups", "knight_cups"],
+    "reading_meaning": "Рицар скърби",
+    "reading_description": "Рицар, който е загубил любимата си или важна битка. Тъга и униние.",
+    "reading_advice": "Скърби, но после се изправи. Светът има нужда от теб."
+  },
+  {
+    "reading_id": "five_cups_queen_cups",
+    "reading_name": "Тъжна кралица",
+    "reading_cards": "5 Чаши + Кралица Чаши",
+    "reading_combination": ["five_cups", "queen_cups"],
+    "reading_meaning": "Жена в скръб",
+    "reading_description": "Жена, която скърби за загуба. Емоционална болка, която не може да скрие.",
+    "reading_advice": "Позволи си да плачеш. Сълзите лекуват."
+  },
+  {
+    "reading_id": "five_cups_king_cups",
+    "reading_name": "Тъжен цар",
+    "reading_cards": "5 Чаши + Цар Чаши",
+    "reading_combination": ["five_cups", "king_cups"],
+    "reading_meaning": "Мъж в скръб",
+    "reading_description": "Мъж, който скърби, но се опитва да го скрие. Емоции, които тежат.",
+    "reading_advice": "Дори царете плачат. Позволи си да бъдеш човек."
+  },
+  {
+    "reading_id": "six_cups_page_cups",
+    "reading_name": "Млад спомен",
+    "reading_cards": "6 Чаши + Паж Чаши",
+    "reading_combination": ["six_cups", "page_cups"],
+    "reading_meaning": "Спомен от детството",
+    "reading_description": "Спомен за млад човек от миналото. Носталгия по детството и невинността.",
+    "reading_advice": "Спомняй си с топлота, но не живей в миналото."
+  },
+  {
+    "reading_id": "six_cups_knight_cups",
+    "reading_name": "Рицар от миналото",
+    "reading_cards": "6 Чаши + Рицар Чаши",
+    "reading_combination": ["six_cups", "knight_cups"],
+    "reading_meaning": "Бивш се завръща",
+    "reading_description": "Някой от миналото се завръща. Рицар, който идва да възстанови стара връзка.",
+    "reading_advice": "Помни защо си се разделили. Понякога миналото трябва да си остане минало."
+  },
+  {
+    "reading_id": "six_cups_queen_cups",
+    "reading_name": "Майка",
+    "reading_cards": "6 Чаши + Кралица Чаши",
+    "reading_combination": ["six_cups", "queen_cups"],
+    "reading_meaning": "Майка и дете",
+    "reading_description": "Връзка между майка и дете. Носталгия по майчината обич и грижа.",
+    "reading_advice": "Обади се на майка си. Тя те обича."
+  },
+  {
+    "reading_id": "six_cups_king_cups",
+    "reading_name": "Баща",
+    "reading_cards": "6 Чаши + Цар Чаши",
+    "reading_combination": ["six_cups", "king_cups"],
+    "reading_meaning": "Баща и дете",
+    "reading_description": "Връзка между баща и дете. Спомени за бащината защита и подкрепа.",
+    "reading_advice": "Цени времето с баща си. То е безценно."
+  },
+  {
+    "reading_id": "seven_cups_page_cups",
+    "reading_name": "Млад мечтател",
+    "reading_cards": "7 Чаши + Паж Чаши",
+    "reading_combination": ["seven_cups", "page_cups"],
+    "reading_meaning": "Млад фантазьор",
+    "reading_description": "Млад човек, който живее в свои фантазии и мечти. Бягство от реалността.",
+    "reading_advice": "Мечтите са хубави, но животът е тук и сега."
+  },
+  {
+    "reading_id": "seven_cups_knight_cups",
+    "reading_name": "Рицар фантазьор",
+    "reading_cards": "7 Чаши + Рицар Чаши",
+    "reading_combination": ["seven_cups", "knight_cups"],
+    "reading_meaning": "Илюзорен рицар",
+    "reading_description": "Рицар, който преследва илюзорни цели или идеали. Мечта, която никога няма да се сбъдне.",
+    "reading_advice": "Слез от облаците. Има битки и в реалността."
+  },
+  {
+    "reading_id": "seven_cups_queen_cups",
+    "reading_name": "Кралица илюзии",
+    "reading_cards": "7 Чаши + Кралица Чаши",
+    "reading_combination": ["seven_cups", "queen_cups"],
+    "reading_meaning": "Жена в заблуда",
+    "reading_description": "Жена, която живее в илюзии за любов или живот. Самоизмама.",
+    "reading_advice": "Истината боли, но лекува. Свали розовите очила."
+  },
+  {
+    "reading_id": "seven_cups_king_cups",
+    "reading_name": "Цар илюзии",
+    "reading_cards": "7 Чаши + Цар Чаши",
+    "reading_combination": ["seven_cups", "king_cups"],
+    "reading_meaning": "Мъж в заблуда",
+    "reading_description": "Мъж, който вярва в нереалистични неща. Илюзии за власт, пари или любов.",
+    "reading_advice": "Проверявай реалността. Тя е единственият истински съветник."
+  },
+  {
+    "reading_id": "eight_cups_page_cups",
+    "reading_name": "Млад пътник",
+    "reading_cards": "8 Чаши + Паж Чаши",
+    "reading_combination": ["eight_cups", "page_cups"],
+    "reading_meaning": "Млад тръгва на път",
+    "reading_description": "Млад човек, който оставя всичко и тръгва да търси себе си. Път към себепознание.",
+    "reading_advice": "Тръгни смело. Светът те очаква."
+  },
+  {
+    "reading_id": "eight_cups_knight_cups",
+    "reading_name": "Рицар напуска",
+    "reading_cards": "8 Чаши + Рицар Чаши",
+    "reading_combination": ["eight_cups", "knight_cups"],
+    "reading_meaning": "Рицар оставя всичко",
+    "reading_description": "Рицар, който напуска битките и тръгва да търси нов смисъл. Отказ от слава.",
+    "reading_advice": "Понякога най-голямата победа е да се откажеш."
+  },
+  {
+    "reading_id": "eight_cups_queen_cups",
+    "reading_name": "Кралица напуска",
+    "reading_cards": "8 Чаши + Кралица Чаши",
+    "reading_combination": ["eight_cups", "queen_cups"],
+    "reading_meaning": "Жена тръгва сама",
+    "reading_description": "Жена, която оставя всичко и тръгва сама. Търсене на себе си.",
+    "reading_advice": "Самотата не е лоша. Понякога е най-добрият спътник."
+  },
+  {
+    "reading_id": "eight_cups_king_cups",
+    "reading_name": "Цар абдикира",
+    "reading_cards": "8 Чаши + Цар Чаши",
+    "reading_combination": ["eight_cups", "king_cups"],
+    "reading_meaning": "Мъж напуска властта",
+    "reading_description": "Мъж, който доброволно напуска властта и позициите си. Търсене на истински смисъл.",
+    "reading_advice": "Истинската свобода е да се откажеш от властта."
+  },
+  {
+    "reading_id": "nine_cups_page_cups",
+    "reading_name": "Млад щастливец",
+    "reading_cards": "9 Чаши + Паж Чаши",
+    "reading_combination": ["nine_cups", "page_cups"],
+    "reading_meaning": "Млад и доволен",
+    "reading_description": "Млад човек, който е постигнал желанията си. Щастие и удовлетворение.",
+    "reading_advice": "Радвай се на успеха, но гледай напред."
+  },
+  {
+    "reading_id": "nine_cups_knight_cups",
+    "reading_name": "Щастлив рицар",
+    "reading_cards": "9 Чаши + Рицар Чаши",
+    "reading_combination": ["nine_cups", "knight_cups"],
+    "reading_meaning": "Рицар постига мечта",
+    "reading_description": "Рицар, който най-после постига това, за което е мечтал. Радост и гордост.",
+    "reading_advice": "Наслади се на момента, но не спирай да мечтаеш."
+  },
+  {
+    "reading_id": "nine_cups_queen_cups",
+    "reading_name": "Щастлива кралица",
+    "reading_cards": "9 Чаши + Кралица Чаши",
+    "reading_combination": ["nine_cups", "queen_cups"],
+    "reading_meaning": "Жена постига мечтите си",
+    "reading_description": "Жена, която сбъдва мечтите си. Удовлетворение и благодарност.",
+    "reading_advice": "Ти заслужи този момент. Наслаждавай му се."
+  },
+  {
+    "reading_id": "nine_cups_king_cups",
+    "reading_name": "Щастлив цар",
+    "reading_cards": "9 Чаши + Цар Чаши",
+    "reading_combination": ["nine_cups", "king_cups"],
+    "reading_meaning": "Мъж постига желанията си",
+    "reading_description": "Мъж, който постига това, което иска. Успех и удовлетворение.",
+    "reading_advice": "Сподели успеха си с другите. Истинското щастие е в споделянето."
+  },
+  {
+    "reading_id": "ten_cups_page_cups",
+    "reading_name": "Млад в семейството",
+    "reading_cards": "10 Чаши + Паж Чаши",
+    "reading_combination": ["ten_cups", "page_cups"],
+    "reading_meaning": "Нов член в семейството",
+    "reading_description": "Млад човек се присъединява към семейството. Дете, внук, племенник.",
+    "reading_advice": "Посрещни новия член с отворено сърце."
+  },
+  {
+    "reading_id": "ten_cups_knight_cups",
+    "reading_name": "Рицарят се завръща",
+    "reading_cards": "10 Чаши + Рицар Чаши",
+    "reading_combination": ["ten_cups", "knight_cups"],
+    "reading_meaning": "Рицар се прибира у дома",
+    "reading_description": "Рицар, който се завръща у дома след дълги битки. Семейство и мир.",
+    "reading_advice": "Няма по-хубаво място от дома."
+  },
+  {
+    "reading_id": "ten_cups_queen_cups",
+    "reading_name": "Майка и семейство",
+    "reading_cards": "10 Чаши + Кралица Чаши",
+    "reading_combination": ["ten_cups", "queen_cups"],
+    "reading_meaning": "Жена и семейство",
+    "reading_description": "Жена, която създава топъл дом и щастливо семейство. Майка и съпруга.",
+    "reading_advice": "Ти си сърцето на семейството. Благодарим ти."
+  },
+  {
+    "reading_id": "ten_cups_king_cups",
+    "reading_name": "Баща и семейство",
+    "reading_cards": "10 Чаши + Цар Чаши",
+    "reading_combination": ["ten_cups", "king_cups"],
+    "reading_meaning": "Мъж и семейство",
+    "reading_description": "Мъж, който осигурява и защитава семейството си. Баща и съпруг.",
+    "reading_advice": "Ти си опората на семейството. Бъди силен."
+  },
+  {
+    "reading_id": "ace_swords_page_swords",
+    "reading_name": "Млад ум",
+    "reading_cards": "Асо Мечове + Паж Мечове",
+    "reading_combination": ["ace_swords", "page_swords"],
+    "reading_meaning": "Нова идея от млад човек",
+    "reading_description": "Млад човек носи нова идея или прозрение. Интелигентност и любопитство.",
+    "reading_advice": "Слушай младите - те виждат света с други очи."
+  },
+  {
+    "reading_id": "ace_swords_knight_swords",
+    "reading_name": "Бърз ум",
+    "reading_cards": "Асо Мечове + Рицар Мечове",
+    "reading_combination": ["ace_swords", "knight_swords"],
+    "reading_meaning": "Бързо прозрение",
+    "reading_description": "Прозрение, което идва светкавично. Рицарят носи истината с бързина.",
+    "reading_advice": "Истината изисква бърза реакция. Не отлагай."
+  },
+  {
+    "reading_id": "ace_swords_queen_swords",
+    "reading_name": "Мъдра жена",
+    "reading_cards": "Асо Мечове + Кралица Мечове",
+    "reading_combination": ["ace_swords", "queen_swords"],
+    "reading_meaning": "Жена с прозрение",
+    "reading_description": "Жена, която вижда истината ясно и без страх. Интелигентност и проницателност.",
+    "reading_advice": "Използвай ума си, но не забравяй сърцето."
+  },
+  {
+    "reading_id": "ace_swords_king_swords",
+    "reading_name": "Мъдър мъж",
+    "reading_cards": "Асо Мечове + Цар Мечове",
+    "reading_combination": ["ace_swords", "king_swords"],
+    "reading_meaning": "Мъж с прозрение",
+    "reading_description": "Мъж, който вижда истината и има властта да действа според нея. Интелект и лидерство.",
+    "reading_advice": "Истината е сила. Използвай я мъдро."
+  },
+  {
+    "reading_id": "two_swords_page_swords",
+    "reading_name": "Млад в съмнение",
+    "reading_cards": "2 Мечове + Паж Мечове",
+    "reading_combination": ["two_swords", "page_swords"],
+    "reading_meaning": "Млад човек не може да избере",
+    "reading_description": "Млад човек, който е изправен пред труден избор. Нерешителност и объркване.",
+    "reading_advice": "Понякога е по-добре да изчакаш, отколкото да избереш грешно."
+  },
+  {
+    "reading_id": "two_swords_knight_swords",
+    "reading_name": "Рицар в нерешителност",
+    "reading_cards": "2 Мечове + Рицар Мечове",
+    "reading_combination": ["two_swords", "knight_swords"],
+    "reading_meaning": "Рицар не знае накъде да тръгне",
+    "reading_description": "Рицар, който е спрял на кръстопът и не знае коя посока да избере.",
+    "reading_advice": "Слушай вътрешния си глас. Той знае посоката."
+  },
+  {
+    "reading_id": "two_swords_queen_swords",
+    "reading_name": "Кралица в съмнение",
+    "reading_cards": "2 Мечове + Кралица Мечове",
+    "reading_combination": ["two_swords", "queen_swords"],
+    "reading_meaning": "Жена пред избор",
+    "reading_description": "Жена, която не може да вземе решение. Съмнения и колебания.",
+    "reading_advice": "Понякога най-добрият избор е да не избираш веднага."
+  },
+  {
+    "reading_id": "two_swords_king_swords",
+    "reading_name": "Цар в съмнение",
+    "reading_cards": "2 Мечове + Цар Мечове",
+    "reading_combination": ["two_swords", "king_swords"],
+    "reading_meaning": "Лидер пред избор",
+    "reading_description": "Лидер, който трябва да вземе важно решение, но се колебае. Тежест на отговорността.",
+    "reading_advice": "Вземи решение, дори да не е идеално. Лидерството изисква решителност."
+  },
+  {
+    "reading_id": "three_swords_page_swords",
+    "reading_name": "Млада болка",
+    "reading_cards": "3 Мечове + Паж Мечове",
+    "reading_combination": ["three_swords", "page_swords"],
+    "reading_meaning": "Млад човек страда",
+    "reading_description": "Млад човек преживява първото си голямо разочарование или предателство. Болка и сълзи.",
+    "reading_advice": "Първите рани болят най-силно, но те правят по-силен."
+  },
+  {
+    "reading_id": "three_swords_knight_swords",
+    "reading_name": "Рицар наранен",
+    "reading_cards": "3 Мечове + Рицар Мечове",
+    "reading_combination": ["three_swords", "knight_swords"],
+    "reading_meaning": "Рицар предаден",
+    "reading_description": "Рицар, който е предаден или наранен в битка. Болка и разочарование.",
+    "reading_advice": "Дори рицарите плачат. Позволи си да скърбиш."
+  },
+  {
+    "reading_id": "three_swords_queen_swords",
+    "reading_name": "Наранена жена",
+    "reading_cards": "3 Мечове + Кралица Мечове",
+    "reading_combination": ["three_swords", "queen_swords"],
+    "reading_meaning": "Жена с разбито сърце",
+    "reading_description": "Жена, която страда от предателство или раздяла. Сълзи и болка.",
+    "reading_advice": "Сълзите лекуват. Плачи, после стани и продължи."
+  },
+  {
+    "reading_id": "three_swords_king_swords",
+    "reading_name": "Наранен мъж",
+    "reading_cards": "3 Мечове + Цар Мечове",
+    "reading_combination": ["three_swords", "king_swords"],
+    "reading_meaning": "Мъж с болка",
+    "reading_description": "Мъж, който страда, но крие болката си. Вътрешна рана, която не се вижда.",
+    "reading_advice": "Дори царете имат право да страдат. Не крий болката си."
+  },
+  {
+    "reading_id": "four_swords_page_swords",
+    "reading_name": "Млад в почивка",
+    "reading_cards": "4 Мечове + Паж Мечове",
+    "reading_combination": ["four_swords", "page_swords"],
+    "reading_meaning": "Млад почива",
+    "reading_description": "Млад човек, който си почива след усилие. Възстановяване и мир.",
+    "reading_advice": "Почивай, докато си млад. Ще има време за работа."
+  },
+  {
+    "reading_id": "four_swords_knight_swords",
+    "reading_name": "Рицар в покой",
+    "reading_cards": "4 Мечове + Рицар Мечове",
+    "reading_combination": ["four_swords", "knight_swords"],
+    "reading_meaning": "Рицар почива",
+    "reading_description": "Рицар, който е оставил оръжията и почива след битка. Мир и тишина.",
+    "reading_advice": "Заслужена почивка. Наслади се на мира."
+  },
+  {
+    "reading_id": "four_swords_queen_swords",
+    "reading_name": "Кралица в покой",
+    "reading_cards": "4 Мечове + Кралица Мечове",
+    "reading_combination": ["four_swords", "queen_swords"],
+    "reading_meaning": "Жена почива",
+    "reading_description": "Жена, която си почива от грижите и задълженията. Медитация и спокойствие.",
+    "reading_advice": "Грижи се за себе си. Почивката е важна."
+  },
+  {
+    "reading_id": "four_swords_king_swords",
+    "reading_name": "Цар в покой",
+    "reading_cards": "4 Мечове + Цар Мечове",
+    "reading_combination": ["four_swords", "king_swords"],
+    "reading_meaning": "Лидер почива",
+    "reading_description": "Лидер, който оставя властта за момент и си почива. Необходима пауза.",
+    "reading_advice": "Дори лидерите имат нужда от почивка."
+  },
+  {
+    "reading_id": "five_swords_page_swords",
+    "reading_name": "Млад победител",
+    "reading_cards": "5 Мечове + Паж Мечове",
+    "reading_combination": ["five_swords", "page_swords"],
+    "reading_meaning": "Млад печели битка",
+    "reading_description": "Млад човек, който печели конфликт, но по горчив начин. Победа с цена.",
+    "reading_advice": "Понякога да загубиш е по-добре, отколкото да спечелиш по грешен начин."
+  },
+  {
+    "reading_id": "five_swords_knight_swords",
+    "reading_name": "Рицар победител",
+    "reading_cards": "5 Мечове + Рицар Мечове",
+    "reading_combination": ["five_swords", "knight_swords"],
+    "reading_meaning": "Рицар печели битка",
+    "reading_description": "Рицар, който печели битка, но оставя победените унижени. Пирова победа.",
+    "reading_advice": "Победата не е всичко. Понякога мирът е по-ценен."
+  },
+  {
+    "reading_id": "five_swords_queen_swords",
+    "reading_name": "Жена побеждава",
+    "reading_cards": "5 Мечове + Кралица Мечове",
+    "reading_combination": ["five_swords", "queen_swords"],
+    "reading_meaning": "Жена печели конфликт",
+    "reading_description": "Жена, която печели конфликт, но с цената на взаимоотношения. Горчив вкус.",
+    "reading_advice": "Понякога да отстъпиш е по-мъдро, отколкото да спечелиш."
+  },
+  {
+    "reading_id": "five_swords_king_swords",
+    "reading_name": "Цар победител",
+    "reading_cards": "5 Мечове + Цар Мечове",
+    "reading_combination": ["five_swords", "king_swords"],
+    "reading_meaning": "Лидер печели война",
+    "reading_description": "Лидер, който печели война, но губи мира. Победа, която носи нови проблеми.",
+    "reading_advice": "Истинската победа е тази, която носи мир."
+  },
+  {
+    "reading_id": "six_swords_page_swords",
+    "reading_name": "Млад пътник",
+    "reading_cards": "6 Мечове + Паж Мечове",
+    "reading_combination": ["six_swords", "page_swords"],
+    "reading_meaning": "Млад тръгва на път",
+    "reading_description": "Млад човек, който напуска родното място и тръгва към ново бъдеще. Преместване.",
+    "reading_advice": "Тръгни смело. Новият свят те очаква."
+  },
+  {
+    "reading_id": "six_swords_knight_swords",
+    "reading_name": "Рицар напуска",
+    "reading_cards": "6 Мечове + Рицар Мечове",
+    "reading_combination": ["six_swords", "knight_swords"],
+    "reading_meaning": "Рицар тръгва на път",
+    "reading_description": "Рицар, който напуска родния край и тръгва на дълъг път. Търсене на нови битки.",
+    "reading_advice": "Пътят е дълъг, но дестинацията си заслужава."
+  },
+  {
+    "reading_id": "six_swords_queen_swords",
+    "reading_name": "Кралица пътува",
+    "reading_cards": "6 Мечове + Кралица Мечове",
+    "reading_combination": ["six_swords", "queen_swords"],
+    "reading_meaning": "Жена на път",
+    "reading_description": "Жена, която напуска дома и тръгва на път. Емиграция, преместване, пътуване.",
+    "reading_advice": "Носи спомените със себе си, но гледай напред."
+  },
+  {
+    "reading_id": "six_swords_king_swords",
+    "reading_name": "Цар пътува",
+    "reading_cards": "6 Мечове + Цар Мечове",
+    "reading_combination": ["six_swords", "king_swords"],
+    "reading_meaning": "Лидер на път",
+    "reading_description": "Лидер, който напуска страната си или позицията си. Пътуване, изгнание, командировка.",
+    "reading_advice": "Дори царете пътуват. Светът е голям."
+  },
+  {
+    "reading_id": "seven_swords_page_swords",
+    "reading_name": "Млад хитрец",
+    "reading_cards": "7 Мечове + Паж Мечове",
+    "reading_combination": ["seven_swords", "page_swords"],
+    "reading_meaning": "Млад измамник",
+    "reading_description": "Млад човек, който опитва да измами или излъже. Хитрост и нечестност.",
+    "reading_advice": "Измамата винаги излиза наяве. Бъди честен."
+  },
+  {
+    "reading_id": "seven_swords_knight_swords",
+    "reading_name": "Рицар крадец",
+    "reading_cards": "7 Мечове + Рицар Мечове",
+    "reading_combination": ["seven_swords", "knight_swords"],
+    "reading_meaning": "Рицар измамник",
+    "reading_description": "Рицар, който използва хитрост вместо честна битка. Нечестна победа.",
+    "reading_advice": "Истинският рицар е честен. Преосмисли методите си."
+  },
+  {
+    "reading_id": "seven_swords_queen_swords",
+    "reading_name": "Хитра жена",
+    "reading_cards": "7 Мечове + Кралица Мечове",
+    "reading_combination": ["seven_swords", "queen_swords"],
+    "reading_meaning": "Жена, която мами",
+    "reading_description": "Жена, която използва хитрост и измама, за да постигне целите си. Интригантка.",
+    "reading_advice": "Измамата те прави сама. Истинските приятели се печелят с честност."
+  },
+  {
+    "reading_id": "seven_swords_king_swords",
+    "reading_name": "Хитър цар",
+    "reading_cards": "7 Мечове + Цар Мечове",
+    "reading_combination": ["seven_swords", "king_swords"],
+    "reading_meaning": "Лидер измамник",
+    "reading_description": "Лидер, който управлява с хитрост и измама, не с честност. Макиавелист.",
+    "reading_advice": "Управлението със страх води до падане. Управлявай с честност."
+  },
+  {
+    "reading_id": "eight_swords_page_swords",
+    "reading_name": "Млад в капан",
+    "reading_cards": "8 Мечове + Паж Мечове",
+    "reading_combination": ["eight_swords", "page_swords"],
+    "reading_meaning": "Млад човек в плен",
+    "reading_description": "Млад човек, който се чувства в капан - от страхове, от обстоятелства, от хора.",
+    "reading_advice": "Капанът често е в ума ти. Освободи мислите си."
+  },
+  {
+    "reading_id": "eight_swords_knight_swords",
+    "reading_name": "Рицар в плен",
+    "reading_cards": "8 Мечове + Рицар Мечове",
+    "reading_combination": ["eight_swords", "knight_swords"],
+    "reading_meaning": "Рицар пленен",
+    "reading_description": "Рицар, който е пленен или блокиран. Не може да се движи свободно.",
+    "reading_advice": "Дори рицарите биват пленявани. Търпи и чакай."
+  },
+  {
+    "reading_id": "eight_swords_queen_swords",
+    "reading_name": "Кралица в плен",
+    "reading_cards": "8 Мечове + Кралица Мечове",
+    "reading_combination": ["eight_swords", "queen_swords"],
+    "reading_meaning": "Жена в капан",
+    "reading_description": "Жена, която се чувства в капан - в брак, в работа, в живот. Блокаж и невъзможност.",
+    "reading_advice": "Ти имаш силата да се освободиш. Страхът е единственият пазач."
+  },
+  {
+    "reading_id": "eight_swords_king_swords",
+    "reading_name": "Цар в плен",
+    "reading_cards": "8 Мечове + Цар Мечове",
+    "reading_combination": ["eight_swords", "king_swords"],
+    "reading_meaning": "Лидер в капан",
+    "reading_description": "Лидер, който е загубил свободата си. В плен на обстоятелства, хора или собствени решения.",
+    "reading_advice": "Истинският лидер намира свобода дори в плен."
+  },
+  {
+    "reading_id": "nine_swords_page_swords",
+    "reading_name": "Млад с тревоги",
+    "reading_cards": "9 Мечове + Паж Мечове",
+    "reading_combination": ["nine_swords", "page_swords"],
+    "reading_meaning": "Млад човек с безсъние",
+    "reading_description": "Млад човек, който страда от тревоги и безсъние. Стрес и притеснения.",
+    "reading_advice": "Тревогите са нормални, но не позволявай да те завладеят."
+  },
+  {
+    "reading_id": "nine_swords_knight_swords",
+    "reading_name": "Рицар с кошмари",
+    "reading_cards": "9 Мечове + Рицар Мечове",
+    "reading_combination": ["nine_swords", "knight_swords"],
+    "reading_meaning": "Рицар в безсъние",
+    "reading_description": "Рицар, който не може да спи от спомени за битки и загуби. Посттравматичен стрес.",
+    "reading_advice": "Потърси мир в себе си. Битките свършиха."
+  },
+  {
+    "reading_id": "nine_swords_queen_swords",
+    "reading_name": "Кралица в тревога",
+    "reading_cards": "9 Мечове + Кралица Мечове",
+    "reading_combination": ["nine_swords", "queen_swords"],
+    "reading_meaning": "Жена с притеснения",
+    "reading_description": "Жена, която се тревожи прекалено много. Безсъние и нервност.",
+    "reading_advice": "Повечето неща, за които се тревожиш, никога не се случват."
+  },
+  {
+    "reading_id": "nine_swords_king_swords",
+    "reading_name": "Цар в тревога",
+    "reading_cards": "9 Мечове + Цар Мечове",
+    "reading_combination": ["nine_swords", "king_swords"],
+    "reading_meaning": "Лидер с притеснения",
+    "reading_description": "Лидер, който носи тежестта на решенията си и не спи от притеснение. Самотен във властта.",
+    "reading_advice": "Добрият лидер знае кога да потърси съвет и подкрепа."
+  },
+  {
+    "reading_id": "ten_swords_page_swords",
+    "reading_name": "Млад в края",
+    "reading_cards": "10 Мечове + Паж Мечове",
+    "reading_combination": ["ten_swords", "page_swords"],
+    "reading_meaning": "Край за млад човек",
+    "reading_description": "Млад човек преживява тежък край - на връзка, на надежда, на период. Болка и сълзи.",
+    "reading_advice": "Това не е краят, а началото. Млад си, ще се вдигнеш."
+  },
+  {
+    "reading_id": "ten_swords_knight_swords",
+    "reading_name": "Рицар паднал",
+    "reading_cards": "10 Мечове + Рицар Мечове",
+    "reading_combination": ["ten_swords", "knight_swords"],
+    "reading_meaning": "Рицар победен",
+    "reading_description": "Рицар, който паднал в битка. Пълно поражение и униние.",
+    "reading_advice": "Дори падналите рицари стават. Стани и продължи."
+  },
+  {
+    "reading_id": "ten_swords_queen_swords",
+    "reading_name": "Кралица в края",
+    "reading_cards": "10 Мечове + Кралица Мечове",
+    "reading_combination": ["ten_swords", "queen_swords"],
+    "reading_meaning": "Жена преживява край",
+    "reading_description": "Жена, която преживява тежък край - развод, загуба, предателство. Болка и сълзи.",
+    "reading_advice": "След края идва ново начало. Феникс от пепелта."
+  },
+  {
+    "reading_id": "ten_swords_king_swords",
+    "reading_name": "Цар паднал",
+    "reading_cards": "10 Мечове + Цар Мечове",
+    "reading_combination": ["ten_swords", "king_swords"],
+    "reading_meaning": "Лидер победен",
+    "reading_description": "Лидер, който е свален от трона. Край на управление, загуба на власт.",
+    "reading_advice": "Всичко има край. Приеми го с достойнство."
+  },
+  {
+    "reading_id": "ace_pentacles_page_pentacles",
+    "reading_name": "Млад с пари",
+    "reading_cards": "Асо Пентакли + Паж Пентакли",
+    "reading_combination": ["ace_pentacles", "page_pentacles"],
+    "reading_meaning": "Нова финансова възможност за млад",
+    "reading_description": "Млад човек получава нова финансова възможност. Първа работа, първи доход.",
+    "reading_advice": "Учи се да управляваш парите от млад."
+  },
+  {
+    "reading_id": "ace_pentacles_knight_pentacles",
+    "reading_name": "Стабилен старт",
+    "reading_cards": "Асо Пентакли + Рицар Пентакли",
+    "reading_combination": ["ace_pentacles", "knight_pentacles"],
+    "reading_meaning": "Бавен, но сигурен старт",
+    "reading_description": "Започваш нов финансов проект бавно, но сигурно. Рицарят носи стабилност и търпение.",
+    "reading_advice": "Бавно, но сигурно. Няма нужда от бързане."
+  },
+  {
+    "reading_id": "ace_pentacles_queen_pentacles",
+    "reading_name": "Жена с нова възможност",
+    "reading_cards": "Асо Пентакли + Кралица Пентакли",
+    "reading_combination": ["ace_pentacles", "queen_pentacles"],
+    "reading_meaning": "Нов доход за жена",
+    "reading_description": "Жена получава нова финансова възможност. Успех в бизнес или кариера.",
+    "reading_advice": "Използвай интуицията си и във финансите."
+  },
+  {
+    "reading_id": "ace_pentacles_king_pentacles",
+    "reading_name": "Мъж с нова възможност",
+    "reading_cards": "Асо Пентакли + Цар Пентакли",
+    "reading_combination": ["ace_pentacles", "king_pentacles"],
+    "reading_meaning": "Нов доход за мъж",
+    "reading_description": "Мъж получава нова финансова възможност. Успех в бизнес или инвестиции.",
+    "reading_advice": "Инвестирай разумно. Царят знае как."
+  },
+  {
+    "reading_id": "two_pentacles_page_pentacles",
+    "reading_name": "Млад жонгльор",
+    "reading_cards": "2 Пентакли + Паж Пентакли",
+    "reading_combination": ["two_pentacles", "page_pentacles"],
+    "reading_meaning": "Млад учи се да балансира",
+    "reading_description": "Млад човек се учи да балансира финанси и отговорности. Първи уроци по управление.",
+    "reading_advice": "Учи се от грешките си. Всички минават през това."
+  },
+  {
+    "reading_id": "two_pentacles_knight_pentacles",
+    "reading_name": "Бавен баланс",
+    "reading_cards": "2 Пентакли + Рицар Пентакли",
+    "reading_combination": ["two_pentacles", "knight_pentacles"],
+    "reading_meaning": "Баланс с търпение",
+    "reading_description": "Успяваш да балансираш финанси, но бавно и методично. Рицарят не бърза.",
+    "reading_advice": "Търпението е ключът към финансовия баланс."
+  },
+  {
+    "reading_id": "two_pentacles_queen_pentacles",
+    "reading_name": "Жена балансира",
+    "reading_cards": "2 Пентакли + Кралица Пентакли",
+    "reading_combination": ["two_pentacles", "queen_pentacles"],
+    "reading_meaning": "Жена управлява финанси",
+    "reading_description": "Жена, която умее да балансира семейния бюджет и финанси. Практична и разумна.",
+    "reading_advice": "Ти си добра стопанка. Продължавай."
+  },
+  {
+    "reading_id": "two_pentacles_king_pentacles",
+    "reading_name": "Мъж балансира",
+    "reading_cards": "2 Пентакли + Цар Пентакли",
+    "reading_combination": ["two_pentacles", "king_pentacles"],
+    "reading_meaning": "Мъж управлява финанси",
+    "reading_description": "Мъж, който умее да балансира приходи и разходи. Добър стопанин.",
+    "reading_advice": "Балансът е основата на богатството."
+  },
+  {
+    "reading_id": "three_pentacles_page_pentacles",
+    "reading_name": "Млад чирак",
+    "reading_cards": "3 Пентакли + Паж Пентакли",
+    "reading_combination": ["three_pentacles", "page_pentacles"],
+    "reading_meaning": "Млад учи занаят",
+    "reading_description": "Млад човек, който учи занаят или професия. Чирак, стажант, ученик.",
+    "reading_advice": "Учи с желание. Майсторите не стават за ден."
+  },
+  {
+    "reading_id": "three_pentacles_knight_pentacles",
+    "reading_name": "Усърден работник",
+    "reading_cards": "3 Пентакли + Рицар Пентакли",
+    "reading_combination": ["three_pentacles", "knight_pentacles"],
+    "reading_meaning": "Работиш в екип",
+    "reading_description": "Работиш усърдно в екип. Рицарят носи дисциплина и постоянство.",
+    "reading_advice": "Екипната работа изисква търпение и уважение."
+  },
+  {
+    "reading_id": "three_pentacles_queen_pentacles",
+    "reading_name": "Жена майстор",
+    "reading_cards": "3 Пентакли + Кралица Пентакли",
+    "reading_combination": ["three_pentacles", "queen_pentacles"],
+    "reading_meaning": "Жена със занаят",
+    "reading_description": "Жена, която владее занаята си до съвършенство. Майсторка в своята област.",
+    "reading_advice": "Споделяй знанията си с другите."
+  },
+  {
+    "reading_id": "three_pentacles_king_pentacles",
+    "reading_name": "Мъж майстор",
+    "reading_cards": "3 Пентакли + Цар Пентакли",
+    "reading_combination": ["three_pentacles", "king_pentacles"],
+    "reading_meaning": "Мъж със занаят",
+    "reading_description": "Мъж, който е майстор в своята професия. Уважение и признание.",
+    "reading_advice": "Майсторството идва с години практика."
+  },
+  {
+    "reading_id": "four_pentacles_page_pentacles",
+    "reading_name": "Млад стиснат",
+    "reading_cards": "4 Пентакли + Паж Пентакли",
+    "reading_combination": ["four_pentacles", "page_pentacles"],
+    "reading_meaning": "Млад, който трупа",
+    "reading_description": "Млад човек, който трупа пари от страх да не остане без. Стиснатост.",
+    "reading_advice": "Парите са за харчене, не само за трупане."
+  },
+  {
+    "reading_id": "four_pentacles_knight_pentacles",
+    "reading_name": "Сигурен, но стиснат",
+    "reading_cards": "4 Пентакли + Рицар Пентакли",
+    "reading_combination": ["four_pentacles", "knight_pentacles"],
+    "reading_meaning": "Сигурност със стиснатост",
+    "reading_description": "Имаш сигурност, но се страхуваш да харчиш. Прекалена предпазливост.",
+    "reading_advice": "Сигурността е добра, но не задушавай себе си."
+  },
+  {
+    "reading_id": "four_pentacles_queen_pentacles",
+    "reading_name": "Стисната жена",
+    "reading_cards": "4 Пентакли + Кралица Пентакли",
+    "reading_combination": ["four_pentacles", "queen_pentacles"],
+    "reading_meaning": "Жена, която трупа",
+    "reading_description": "Жена, която трупа пари и вещи от страх да не остане без. Стиснатост.",
+    "reading_advice": "Понякога трябва да отпуснеш хватката, за да получиш още."
+  },
+  {
+    "reading_id": "four_pentacles_king_pentacles",
+    "reading_name": "Стиснат мъж",
+    "reading_cards": "4 Пентакли + Цар Пентакли",
+    "reading_meaning": "Мъж, който трупа",
+    "reading_description": "Мъж, който трупа богатство, но не може да се наслади на него. Скъперник.",
+    "reading_advice": "Богатство, което не се използва, няма стойност."
+  },
+  {
+    "reading_id": "five_pentacles_page_pentacles",
+    "reading_name": "Млад в нужда",
+    "reading_cards": "5 Пентакли + Паж Пентакли",
+    "reading_combination": ["five_pentacles", "page_pentacles"],
+    "reading_meaning": "Млад човек в бедност",
+    "reading_description": "Млад човек, който изпитва финансови затруднения. Трудности и липси.",
+    "reading_advice": "Това е временно. Учи се да цениш нещата."
+  },
+  {
+    "reading_id": "five_pentacles_knight_pentacles",
+    "reading_name": "Бавен упадък",
+    "reading_cards": "5 Пентакли + Рицар Пентакли",
+    "reading_combination": ["five_pentacles", "knight_pentacles"],
+    "reading_meaning": "Постепенна загуба",
+    "reading_description": "Финансови затруднения, които идват бавно, но сигурно. Труден период.",
+    "reading_advice": "Потърси помощ, преди да е станало твърде късно."
+  },
+  {
+    "reading_id": "five_pentacles_queen_pentacles",
+    "reading_name": "Жена в нужда",
+    "reading_cards": "5 Пентакли + Кралица Пентакли",
+    "reading_combination": ["five_pentacles", "queen_pentacles"],
+    "reading_meaning": "Жена с финансови трудности",
+    "reading_description": "Жена, която изпитва финансови затруднения. Борба за оцеляване.",
+    "reading_advice": "Не се срамувай да поискаш помощ. Всички минават през трудни моменти."
+  },
+  {
+    "reading_id": "five_pentacles_king_pentacles",
+    "reading_name": "Мъж в нужда",
+    "reading_cards": "5 Пентакли + Цар Пентакли",
+    "reading_combination": ["five_pentacles", "king_pentacles"],
+    "reading_meaning": "Мъж с финансови трудности",
+    "reading_description": "Мъж, който е загубил богатството си. Финансов крах и унижение.",
+    "reading_advice": "Богатството идва и си отива. Ти си повече от парите си."
+  },
+  {
+    "reading_id": "six_pentacles_page_pentacles",
+    "reading_name": "Млад получава помощ",
+    "reading_cards": "6 Пентакли + Паж Пентакли",
+    "reading_combination": ["six_pentacles", "page_pentacles"],
+    "reading_meaning": "Млад получава дар",
+    "reading_description": "Млад човек получава финансова помощ или подарък. Благодарност и радост.",
+    "reading_advice": "Приеми с благодарност. Някой ден и ти ще даваш."
+  },
+  {
+    "reading_id": "six_pentacles_knight_pentacles",
+    "reading_name": "Бавен дарител",
+    "reading_cards": "6 Пентакли + Рицар Пентакли",
+    "reading_combination": ["six_pentacles", "knight_pentacles"],
+    "reading_meaning": "Даваш бавно, но сигурно",
+    "reading_description": "Помагаш на другите систематично и методично. Не спираш да даваш.",
+    "reading_advice": "Щедростта не изисква бързина, а постоянство."
+  },
+  {
+    "reading_id": "six_pentacles_queen_pentacles",
+    "reading_name": "Щедра жена",
+    "reading_cards": "6 Пентакли + Кралица Пентакли",
+    "reading_combination": ["six_pentacles", "queen_pentacles"],
+    "reading_meaning": "Жена, която дава",
+    "reading_description": "Жена, която помага на нуждаещи се. Щедрост и състрадание.",
+    "reading_advice": "Даването те прави по-богата, не по-бедна."
+  },
+  {
+    "reading_id": "six_pentacles_king_pentacles",
+    "reading_name": "Щедър мъж",
+    "reading_cards": "6 Пентакли + Цар Пентакли",
+    "reading_combination": ["six_pentacles", "king_pentacles"],
+    "reading_meaning": "Мъж, който дава",
+    "reading_description": "Мъж, който използва богатството си, за да помага на други. Благодетел.",
+    "reading_advice": "Истинското богатство е в това, което даваш."
+  },
+  {
+    "reading_id": "seven_pentacles_page_pentacles",
+    "reading_name": "Млад чака",
+    "reading_cards": "7 Пентакли + Паж Пентакли",
+    "reading_combination": ["seven_pentacles", "page_pentacles"],
+    "reading_meaning": "Млад чака резултати",
+    "reading_description": "Млад човек, който е инвестирал време и чака резултати. Нетърпение.",
+    "reading_advice": "Добрите неща идват при тези, които чакат."
+  },
+  {
+    "reading_id": "seven_pentacles_knight_pentacles",
+    "reading_name": "Търпелив работник",
+    "reading_cards": "7 Пентакли + Рицар Пентакли",
+    "reading_combination": ["seven_pentacles", "knight_pentacles"],
+    "reading_meaning": "Чакаш търпеливо",
+    "reading_description": "Инвестирал си време и усилия и сега чакаш резултати. Търпението е твоя сила.",
+    "reading_advice": "Резултатите идват. Не спирай да вярваш."
+  },
+  {
+    "reading_id": "seven_pentacles_queen_pentacles",
+    "reading_name": "Търпелива жена",
+    "reading_cards": "7 Пентакли + Кралица Пентакли",
+    "reading_combination": ["seven_pentacles", "queen_pentacles"],
+    "reading_meaning": "Жена чака плодове",
+    "reading_description": "Жена, която е вложила труд и сега чака резултати. Търпение и вяра.",
+    "reading_advice": "След времето на чакане идва времето на жътва."
+  },
+  {
+    "reading_id": "seven_pentacles_king_pentacles",
+    "reading_name": "Търпелив мъж",
+    "reading_cards": "7 Пентакли + Цар Пентакли",
+    "reading_combination": ["seven_pentacles", "king_pentacles"],
+    "reading_meaning": "Мъж чака резултати",
+    "reading_description": "Мъж, който е инвестирал мъдро и сега чака печалба. Стратегическо търпение.",
+    "reading_advice": "Търпението е част от стратегията на мъдрия."
+  },
+  {
+    "reading_id": "eight_pentacles_page_pentacles",
+    "reading_name": "Млад учи",
+    "reading_cards": "8 Пентакли + Паж Пентакли",
+    "reading_combination": ["eight_pentacles", "page_pentacles"],
+    "reading_meaning": "Млад усвоява занаят",
+    "reading_description": "Млад човек, който учи занаят или професия. Старание и постоянство.",
+    "reading_advice": "Практиката прави майстора. Не спирай да учиш."
+  },
+  {
+    "reading_id": "eight_pentacles_knight_pentacles",
+    "reading_name": "Усърден работник",
+    "reading_cards": "8 Пентакли + Рицар Пентакли",
+    "reading_combination": ["eight_pentacles", "knight_pentacles"],
+    "reading_meaning": "Работиш усърдно",
+    "reading_description": "Работиш упорито и методично. Рицарят носи дисциплина и постоянство.",
+    "reading_advice": "Трудът ти ще се отплати. Не спирай."
+  },
+  {
+    "reading_id": "eight_pentacles_queen_pentacles",
+    "reading_name": "Усърдна жена",
+    "reading_cards": "8 Пентакли + Кралица Пентакли",
+    "reading_combination": ["eight_pentacles", "queen_pentacles"],
+    "reading_meaning": "Жена работи усърдно",
+    "reading_description": "Жена, която работи упорито за мечтите си. Трудолюбие и постоянство.",
+    "reading_advice": "Твоят труд ще те отведе там, където искаш."
+  },
+  {
+    "reading_id": "eight_pentacles_king_pentacles",
+    "reading_name": "Усърден мъж",
+    "reading_cards": "8 Пентакли + Цар Пентакли",
+    "reading_combination": ["eight_pentacles", "king_pentacles"],
+    "reading_meaning": "Мъж работи упорито",
+    "reading_description": "Мъж, който работи усърдно за своето богатство. Дисциплина и постоянство.",
+    "reading_advice": "Упоритият труд винаги се отплаща."
+  },
+  {
+    "reading_id": "nine_pentacles_page_pentacles",
+    "reading_name": "Млад независим",
+    "reading_cards": "9 Пентакли + Паж Пентакли",
+    "reading_combination": ["nine_pentacles", "page_pentacles"],
+    "reading_meaning": "Млад постига свобода",
+    "reading_description": "Млад човек, който постига финансова независимост. Гордост и удовлетворение.",
+    "reading_advice": "Радвай се на свободата, но не спирай да растеш."
+  },
+  {
+    "reading_id": "nine_pentacles_knight_pentacles",
+    "reading_name": "Сигурен рицар",
+    "reading_cards": "9 Пентакли + Рицар Пентакли",
+    "reading_combination": ["nine_pentacles", "knight_pentacles"],
+    "reading_meaning": "Сигурност и стабилност",
+    "reading_description": "Постигнал си финансова сигурност. Рицарят вече не бърза, наслаждава се.",
+    "reading_advice": "Наслади се на плодовете на труда си."
+  },
+  {
+    "reading_id": "nine_pentacles_queen_pentacles",
+    "reading_name": "Независима жена",
+    "reading_cards": "9 Пентакли + Кралица Пентакли",
+    "reading_combination": ["nine_pentacles", "queen_pentacles"],
+    "reading_meaning": "Жена със свобода",
+    "reading_description": "Жена, която е постигнала финансова независимост. Самостоятелна и уверена.",
+    "reading_advice": "Ти си пример за другите жени. Сподели силата си."
+  },
+  {
+    "reading_id": "nine_pentacles_king_pentacles",
+    "reading_name": "Независим мъж",
+    "reading_cards": "9 Пентакли + Цар Пентакли",
+    "reading_combination": ["nine_pentacles", "king_pentacles"],
+    "reading_meaning": "Мъж със свобода",
+    "reading_description": "Мъж, който е постигнал финансова независимост. Уверен и спокоен.",
+    "reading_advice": "Истинската свобода е да не зависиш от никого."
+  },
+  {
+    "reading_id": "ten_pentacles_page_pentacles",
+    "reading_name": "Млад наследник",
+    "reading_cards": "10 Пентакли + Паж Пентакли",
+    "reading_combination": ["ten_pentacles", "page_pentacles"],
+    "reading_meaning": "Млад в богато семейство",
+    "reading_description": "Млад човек от богато семейство. Наследник на традиции и богатство.",
+    "reading_advice": "Учи се от семейната мъдрост, но и върви по свой път."
+  },
+  {
+    "reading_id": "ten_pentacles_knight_pentacles",
+    "reading_name": "Семейна сигурност",
+    "reading_cards": "10 Пентакли + Рицар Пентакли",
+    "reading_combination": ["ten_pentacles", "knight_pentacles"],
+    "reading_meaning": "Сигурност от рода",
+    "reading_description": "Финансова сигурност, идваща от семейството или наследство. Стабилност и традиция.",
+    "reading_advice": "Цени семейните си корени. Те са твоята опора."
+  },
+  {
+    "reading_id": "ten_pentacles_queen_pentacles",
+    "reading_name": "Майка и дъщеря",
+    "reading_cards": "10 Пентакли + Кралица Пентакли",
+    "reading_combination": ["ten_pentacles", "queen_pentacles"],
+    "reading_meaning": "Жена в семейството",
+    "reading_description": "Жена, която предава семейните традиции на следващото поколение. Майка, баба.",
+    "reading_advice": "Предай нататък това, което си получила."
+  },
+  {
+    "reading_id": "ten_pentacles_king_pentacles",
+    "reading_name": "Баща и син",
+    "reading_cards": "10 Пентакли + Цар Пентакли",
+    "reading_combination": ["ten_pentacles", "king_pentacles"],
+    "reading_meaning": "Мъж в семейството",
+    "reading_description": "Мъж, който осигурява семейството и предава наследство. Баща, дядо.",
+    "reading_advice": "Най-голямото ти наследство са ценностите, които предаваш."
+  },
+  {
+    "reading_id": "page_wands_knight_wands",
+    "reading_name": "Млад и бърз",
+    "reading_cards": "Паж Жезли + Рицар Жезли",
+    "reading_combination": ["page_wands", "knight_wands"],
+    "reading_meaning": "Младежка енергия",
+    "reading_description": "Среща на младежки ентусиазъм и бързина. Нов проект, който тръгва светкавично.",
+    "reading_advice": "Действай, докато е горещо."
+  },
+  {
+    "reading_id": "page_wands_queen_wands",
+    "reading_name": "Млад и кралица",
+    "reading_cards": "Паж Жезли + Кралица Жезли",
+    "reading_combination": ["page_wands", "queen_wands"],
+    "reading_meaning": "Майка и син",
+    "reading_description": "Връзка между майка и син. Подкрепа и насърчение за нови начинания.",
+    "reading_advice": "Майчината подкрепа е най-силният старт."
+  },
+  {
+    "reading_id": "page_wands_king_wands",
+    "reading_name": "Млад и цар",
+    "reading_cards": "Паж Жезли + Цар Жезли",
+    "reading_combination": ["page_wands", "king_wands"],
+    "reading_meaning": "Баща и син",
+    "reading_description": "Връзка между баща и син. Наставничество и предаване на опит.",
+    "reading_advice": "Слушай бащиния си съвет. Той идва от опит."
+  },
+  {
+    "reading_id": "knight_wands_queen_wands",
+    "reading_name": "Рицар и кралица",
+    "reading_cards": "Рицар Жезли + Кралица Жезли",
+    "reading_combination": ["knight_wands", "queen_wands"],
+    "reading_meaning": "Страстна връзка",
+    "reading_description": "Страстна връзка между мъж и жена. Енергия, огън, динамика.",
+    "reading_advice": "Наслаждавай се на страстта, но не изгаряй."
+  },
+  {
+    "reading_id": "knight_wands_king_wands",
+    "reading_name": "Двама мъже",
+    "reading_cards": "Рицар Жезли + Цар Жезли",
+    "reading_combination": ["knight_wands", "king_wands"],
+    "reading_meaning": "Мъжко партньорство",
+    "reading_description": "Партньорство между двама мъже. Бизнес, приятелство, сътрудничество.",
+    "reading_advice": "Заедно сте по-силни. Уважавайте се."
+  },
+  {
+    "reading_id": "queen_wands_king_wands",
+    "reading_name": "Кралска двойка",
+    "reading_cards": "Кралица Жезли + Цар Жезли",
+    "reading_combination": ["queen_wands", "king_wands"],
+    "reading_meaning": "Властна двойка",
+    "reading_description": "Двойка, която управлява заедно. Споделена власт и отговорност.",
+    "reading_advice": "Заедно сте по-силни. Управлявайте с мъдрост."
+  },
+  {
+    "reading_id": "page_cups_knight_cups",
+    "reading_name": "Млад романтик",
+    "reading_cards": "Паж Чаши + Рицар Чаши",
+    "reading_combination": ["page_cups", "knight_cups"],
+    "reading_meaning": "Млада любов",
+    "reading_description": "Млада романтична връзка. Рицарят идва при своята любима.",
+    "reading_advice": "Любовта е прекрасна. Наслаждавай се."
+  },
+  {
+    "reading_id": "page_cups_queen_cups",
+    "reading_name": "Майка и дъщеря",
+    "reading_cards": "Паж Чаши + Кралица Чаши",
+    "reading_combination": ["page_cups", "queen_cups"],
+    "reading_meaning": "Майка и дъщеря",
+    "reading_description": "Дълбока емоционална връзка между майка и дъщеря. Обич и разбирателство.",
+    "reading_advice": "Ценете тази връзка. Тя е безценна."
+  },
+  {
+    "reading_id": "page_cups_king_cups",
+    "reading_name": "Баща и дъщеря",
+    "reading_cards": "Паж Чаши + Цар Чаши",
+    "reading_combination": ["page_cups", "king_cups"],
+    "reading_meaning": "Баща и дъщеря",
+    "reading_description": "Нежна връзка между баща и дъщеря. Защита и обич.",
+    "reading_advice": "Ти си първата любов на дъщеря си. Бъди достоен."
+  },
+  {
+    "reading_id": "knight_cups_queen_cups",
+    "reading_name": "Рицар и дама",
+    "reading_cards": "Рицар Чаши + Кралица Чаши",
+    "reading_combination": ["knight_cups", "queen_cups"],
+    "reading_meaning": "Романтична двойка",
+    "reading_description": "Романтична връзка между мъж и жена. Идеализъм и емоции.",
+    "reading_advice": "Любовта е прекрасна, но не забравяй реалността."
+  },
+  {
+    "reading_id": "knight_cups_king_cups",
+    "reading_name": "Баща и син",
+    "reading_cards": "Рицар Чаши + Цар Чаши",
+    "reading_combination": ["knight_cups", "king_cups"],
+    "reading_meaning": "Баща и син",
+    "reading_description": "Емоционална връзка между баща и син. Уважение и обич.",
+    "reading_advice": "Не се страхувайте да показвате емоции."
+  },
+  {
+    "reading_id": "queen_cups_king_cups",
+    "reading_name": "Зряла двойка",
+    "reading_cards": "Кралица Чаши + Цар Чаши",
+    "reading_combination": ["queen_cups", "king_cups"],
+    "reading_meaning": "Зряла любов",
+    "reading_description": "Зряла, спокойна любов между мъж и жена. Хармония и разбирателство.",
+    "reading_advice": "Любовта с годините става по-дълбока. Наслаждавайте се."
+  },
+  {
+    "reading_id": "page_swords_knight_swords",
+    "reading_name": "Млад войн",
+    "reading_cards": "Паж Мечове + Рицар Мечове",
+    "reading_combination": ["page_swords", "knight_swords"],
+    "reading_meaning": "Млад воин",
+    "reading_description": "Млад мъж, който се подготвя за битка. Обучение и амбиция.",
+    "reading_advice": "Учи се да се биеш, но помни, че мирът е по-добър."
+  },
+  {
+    "reading_id": "page_swords_queen_swords",
+    "reading_name": "Майка и син",
+    "reading_cards": "Паж Мечове + Кралица Мечове",
+    "reading_combination": ["page_swords", "queen_swords"],
+    "reading_meaning": "Майка и син",
+    "reading_description": "Майка, която учи сина си на мъдрост и истина. Интелектуална връзка.",
+    "reading_advice": "Учи сина си да мисли самостоятелно."
+  },
+  {
+    "reading_id": "page_swords_king_swords",
+    "reading_name": "Баща и син",
+    "reading_cards": "Паж Мечове + Цар Мечове",
+    "reading_combination": ["page_swords", "king_swords"],
+    "reading_meaning": "Баща и син",
+    "reading_description": "Баща, който учи сина си на стратегия и мъдрост. Предаване на знания.",
+    "reading_advice": "Най-големият дар за сина ти е да го научиш да мисли."
+  },
+  {
+    "reading_id": "knight_swords_queen_swords",
+    "reading_name": "Войн и кралица",
+    "reading_cards": "Рицар Мечове + Кралица Мечове",
+    "reading_combination": ["knight_swords", "queen_swords"],
+    "reading_meaning": "Стратегически съюз",
+    "reading_description": "Съюз между мъж и жена, основан на интелект и стратегия. Бизнес партньори.",
+    "reading_advice": "Заедно можете да превземете света."
+  },
+  {
+    "reading_id": "knight_swords_king_swords",
+    "reading_name": "Двама стратези",
+    "reading_cards": "Рицар Мечове + Цар Мечове",
+    "reading_combination": ["knight_swords", "king_swords"],
+    "reading_meaning": "Мъжко партньорство",
+    "reading_description": "Партньорство между двама мъже, основано на интелект и стратегия. Бизнес, политика.",
+    "reading_advice": "Заедно сте непобедими."
+  },
+  {
+    "reading_id": "queen_swords_king_swords",
+    "reading_name": "Властна двойка",
+    "reading_cards": "Кралица Мечове + Цар Мечове",
+    "reading_combination": ["queen_swords", "king_swords"],
+    "reading_meaning": "Двама властни",
+    "reading_description": "Двойка, която управлява с интелект и стратегия. Власт и разум.",
+    "reading_advice": "Умът е най-доброто ви оръжие. Използвайте го заедно."
+  },
+  {
+    "reading_id": "page_pentacles_knight_pentacles",
+    "reading_name": "Млад чирак",
+    "reading_cards": "Паж Пентакли + Рицар Пентакли",
+    "reading_combination": ["page_pentacles", "knight_pentacles"],
+    "reading_meaning": "Млад учи от майстор",
+    "reading_description": "Млад човек, който учи занаят от опитен майстор. Чиракуване.",
+    "reading_advice": "Учи с търпение. Майсторството идва с времето."
+  },
+  {
+    "reading_id": "page_pentacles_queen_pentacles",
+    "reading_name": "Майка и син",
+    "reading_cards": "Паж Пентакли + Кралица Пентакли",
+    "reading_combination": ["page_pentacles", "queen_pentacles"],
+    "reading_meaning": "Майка учи син",
+    "reading_description": "Майка, която учи сина си на практични умения. Грижа и образование.",
+    "reading_advice": "Научи сина си да бъде самостоятелен."
+  },
+  {
+    "reading_id": "page_pentacles_king_pentacles",
+    "reading_name": "Баща и син",
+    "reading_cards": "Паж Пентакли + Цар Пентакли",
+    "reading_combination": ["page_pentacles", "king_pentacles"],
+    "reading_meaning": "Баща учи син",
+    "reading_description": "Баща, който учи сина си на занаят и бизнес. Предаване на опит.",
+    "reading_advice": "Най-ценното, което можеш да дадеш на сина си, е опитът си."
+  },
+  {
+    "reading_id": "knight_pentacles_queen_pentacles",
+    "reading_name": "Стопанска двойка",
+    "reading_cards": "Рицар Пентакли + Кралица Пентакли",
+    "reading_combination": ["knight_pentacles", "queen_pentacles"],
+    "reading_meaning": "Мъж и жена в бизнес",
+    "reading_description": "Мъж и жена, които работят заедно в бизнес или домакинство. Практични и стабилни.",
+    "reading_advice": "Заедно градите нещо трайно."
+  },
+  {
+    "reading_id": "knight_pentacles_king_pentacles",
+    "reading_name": "Двама бизнесмени",
+    "reading_cards": "Рицар Пентакли + Цар Пентакли",
+    "reading_combination": ["knight_pentacles", "king_pentacles"],
+    "reading_meaning": "Бизнес партньори",
+    "reading_description": "Двама мъже в бизнес партньорство. Стабилност и растеж.",
+    "reading_advice": "Доверието е основата на добрия бизнес."
+  },
+  {
+    "reading_id": "queen_pentacles_king_pentacles",
+    "reading_name": "Кралска двойка",
+    "reading_cards": "Кралица Пентакли + Цар Пентакли",
+    "reading_combination": ["queen_pentacles", "king_pentacles"],
+    "reading_meaning": "Богата двойка",
+    "reading_description": "Двойка, която е постигнала финансов успех заедно. Споделено богатство и сигурност.",
+    "reading_advice": "Заедно сте непобедими. Грижете се един за друг."
   }
 ];
   
