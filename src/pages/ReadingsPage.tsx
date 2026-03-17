@@ -53,28 +53,33 @@ const ReadingsPage: React.FC = () => {
     { key: 'pentacles', label: 'Пентакли', icon: '🪙' },
   ];
 
-  // Функция за проверка дали комбинацията съдържа карти от дадена боя
-  const hasCardsFromSuit = (reading: Reading, suit: string): boolean => {
-    if (suit === 'all') return true;
+ // Функция за проверка дали комбинацията съдържа карти от дадена боя
+const hasCardsFromSuit = (reading: Reading, suit: string): boolean => {
+  if (suit === 'all') return true;
+  
+  // ПРОВЕРКА: Ако няма reading_combination, не може да участва във филтъра
+  if (!reading.reading_combination || !Array.isArray(reading.reading_combination)) {
+    return false;
+  }
+  
+  const readingCards = reading.reading_combination;
+  
+  return readingCards.some(cardId => {
+    if (suit === 'major') {
+      const majorCards = ['fool', 'magician', 'high_priestess', 'empress', 'emperor', 'hierophant', 
+        'lovers', 'chariot', 'strength', 'hermit', 'wheel_of_fortune', 'justice', 'hanged_man',
+        'death', 'temperance', 'devil', 'tower', 'star', 'moon', 'sun', 'judgement', 'world'];
+      return majorCards.includes(cardId);
+    }
     
-    const readingCards = reading.reading_combination;
+    if (suit === 'wands') return cardId.includes('wands');
+    if (suit === 'cups') return cardId.includes('cups');
+    if (suit === 'swords') return cardId.includes('swords');
+    if (suit === 'pentacles') return cardId.includes('pentacles');
     
-    return readingCards.some(cardId => {
-      if (suit === 'major') {
-        const majorCards = ['fool', 'magician', 'high_priestess', 'empress', 'emperor', 'hierophant', 
-          'lovers', 'chariot', 'strength', 'hermit', 'wheel_of_fortune', 'justice', 'hanged_man',
-          'death', 'temperance', 'devil', 'tower', 'star', 'moon', 'sun', 'judgement', 'world'];
-        return majorCards.includes(cardId);
-      }
-      
-      if (suit === 'wands') return cardId.includes('wands');
-      if (suit === 'cups') return cardId.includes('cups');
-      if (suit === 'swords') return cardId.includes('swords');
-      if (suit === 'pentacles') return cardId.includes('pentacles');
-      
-      return false;
-    });
-  };
+    return false;
+  });
+};
 
   // Филтриране на комбинациите
   const filteredReadings = useMemo(() => {
