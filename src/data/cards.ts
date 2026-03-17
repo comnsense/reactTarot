@@ -11236,7 +11236,7 @@ export const readings = [
     "reading_combination": ["high_priestess", "eight_cups"],
     "reading_meaning": "Усещаш, че трябва да тръгнеш",
     "reading_description": "Вътрешният ти глас ти казва, че е време да оставиш нещо и да продължиш напред. Слушай го.",
-    "reading_advice": "Когато интуицията казва "тръгвай", тръгвай."
+    "reading_advice": "Когато интуицията казва тръгвай, тръгвай."
   },
   {
     "reading_id": "high_priestess_nine_cups",
