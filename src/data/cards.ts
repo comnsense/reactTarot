@@ -5688,15 +5688,6 @@ export const readings = [
     "reading_advice": "Понякога трябва да спреш, за да видиш посоката."
   },
   {
-    "reading_id": "fool_death",
-    "reading_name": "Трансформация",
-    "reading_cards": "Глупак + Смърт",
-    "reading_combination": ["fool", "death"],
-    "reading_meaning": "Краят води до начало",
-    "reading_description": "Нещо старо приключва, за да започне нещо ново. Феникс, който се издига от пепелта.",
-    "reading_advice": "Пусни старото, за да посрещнеш новото."
-  },
-  {
     "reading_id": "fool_temperance",
     "reading_name": "Балансирано начало",
     "reading_cards": "Глупак + Умереност",
@@ -5714,15 +5705,7 @@ export const readings = [
     "reading_description": "Новото начало е примамливо, но крие рискове от зависимост или изкушение. Внимавай.",
     "reading_advice": "Убеди се, че не скачаш в капан, а в свобода."
   },
-  {
-    "reading_id": "fool_tower",
-    "reading_name": "Внезапно начало",
-    "reading_cards": "Глупак + Кула",
-    "reading_combination": ["fool", "tower"],
-    "reading_meaning": "Започваш след срив",
-    "reading_description": "Новото начало идва внезапно, след като нещо старо се срути. Непланирано, но неизбежно.",
-    "reading_advice": "Понякога трябва да рухнеш, за да се издигнеш отново."
-  },
+ 
   {
     "reading_id": "fool_star",
     "reading_name": "Надеждно начало",
@@ -11798,168 +11781,8 @@ export const readings = [
     "reading_description": "Празнуваш, но знаеш, че скоро всичко ще приключи. Тъжна радост.",
     "reading_advice": "Наслади се на момента. Той няма да се повтори."
   },
-  {
-    "reading_id": "fool_magician",
-    "reading_name": "Ново начало с увереност",
-    "reading_cards": "Глупак + Магьосник",
-    "reading_combination": ["fool", "magician"],
-    "reading_meaning": "Иновативен старт",
-    "reading_description": "Започваш нещо ново с всички необходими инструменти. Имаш и ентусиазма, и уменията да успееш.",
-    "reading_advice": "Довери се на способностите си и скочи смело."
-  },
-  {
-    "reading_id": "fool_high_priestess",
-    "reading_name": "Интуитивно начало",
-    "reading_cards": "Глупак + Върховна жрица",
-    "reading_combination": ["fool", "high_priestess"],
-    "reading_meaning": "Воден от вътрешен глас",
-    "reading_description": "Новото начало идва не от разума, а от дълбока вътрешна увереност. Слушай интуицията си.",
-    "reading_advice": "Ти знаеш повече, отколкото си мислиш. Довери се на вътрешния си глас."
-  },
-  {
-    "reading_id": "fool_empress",
-    "reading_name": "Творческо начало",
-    "reading_cards": "Глупак + Императрица",
-    "reading_combination": ["fool", "empress"],
-    "reading_meaning": "Нов проект се ражда",
-    "reading_description": "Започваш нещо ново, свързано с творчество, красота или създаване. Идея, която носи плод.",
-    "reading_advice": "Отгледай идеята си с любов и търпение."
-  },
-  {
-    "reading_id": "fool_emperor",
-    "reading_name": "Структурирано начало",
-    "reading_cards": "Глупак + Император",
-    "reading_combination": ["fool", "emperor"],
-    "reading_meaning": "Ново начало с правила",
-    "reading_description": "Започваш нещо ново, но този път имаш план и структура. Не е просто хвърляне в неизвестното.",
-    "reading_advice": "Добрата организация е основата на успеха."
-  },
-  {
-    "reading_id": "fool_hierophant",
-    "reading_name": "Традиционно начало",
-    "reading_cards": "Глупак + Йерофант",
-    "reading_combination": ["fool", "hierophant"],
-    "reading_meaning": "Ново начало по правилата",
-    "reading_description": "Започваш нещо ново, следвайки установени традиции и норми. Учиш се от опита на другите.",
-    "reading_advice": "Понякога най-добрият начин да започнеш е да следваш вече утъпкания път."
-  },
-  {
-    "reading_id": "fool_chariot",
-    "reading_name": "Пътешествие",
-    "reading_cards": "Глупак + Колесница",
-    "reading_combination": ["fool", "chariot"],
-    "reading_meaning": "Тръгваш на път",
-    "reading_description": "Предстои ти пътуване или преместване. Нови хоризонти, нови места, нови срещи.",
-    "reading_advice": "Хвани волана здраво и се наслаждавай на пътешествието."
-  },
-  {
-    "reading_id": "fool_strength",
-    "reading_name": "Смело начало",
-    "reading_cards": "Глупак + Сила",
-    "reading_combination": ["fool", "strength"],
-    "reading_meaning": "Започваш със смелост",
-    "reading_description": "Новото начало изисква смелост и вътрешна сила. Ти ги имаш. Не се страхувай.",
-    "reading_advice": "Смелостта не е липса на страх, а действие въпреки страха."
-  },
-  {
-    "reading_id": "fool_hermit",
-    "reading_name": "Самотно начало",
-    "reading_cards": "Глупак + Отшелник",
-    "reading_combination": ["fool", "hermit"],
-    "reading_meaning": "Започваш сам",
-    "reading_description": "Новото начало изисква да се оттеглиш и да потърсиш себе си. Самота, която лекува и води напред.",
-    "reading_advice": "Понякога трябва да си сам, за да откриеш себе си."
-  },
-  {
-    "reading_id": "fool_wheel",
-    "reading_name": "Съдбовно начало",
-    "reading_cards": "Глупак + Колело на съдбата",
-    "reading_combination": ["fool", "wheel_of_fortune"],
-    "reading_meaning": "Съдбата ти дава шанс",
-    "reading_description": "Новото начало не е случайно - то е писано в звездите. Съдбовен момент, който не бива да пропускаш.",
-    "reading_advice": "Хвани съдбата за ръка и я последвай."
-  },
-  {
-    "reading_id": "fool_justice",
-    "reading_name": "Справедливо начало",
-    "reading_cards": "Глупак + Справедливост",
-    "reading_combination": ["fool", "justice"],
-    "reading_meaning": "Започваш с чисто досие",
-    "reading_description": "Новото начало идва след като старите сметки са изчистени. Чист лист, справедлив старт.",
-    "reading_advice": "Преди да започнеш нещо ново, приключи старото."
-  },
-  {
-    "reading_id": "fool_hanged",
-    "reading_name": "Несигурно начало",
-    "reading_cards": "Глупак + Обесен",
-    "reading_combination": ["fool", "hanged_man"],
-    "reading_meaning": "Започваш, без да знаеш посоката",
-    "reading_description": "Започваш нещо ново, но не си сигурен накъде отиваш. Предаване на течението.",
-    "reading_advice": "Понякога трябва да спреш, за да видиш посоката."
-  },
-  {
-    "reading_id": "fool_temperance",
-    "reading_name": "Балансирано начало",
-    "reading_cards": "Глупак + Умереност",
-    "reading_combination": ["fool", "temperance"],
-    "reading_meaning": "Започваш с мярка",
-    "reading_description": "Започваш нещо ново, но без да изгаряш мостовете. Баланс между старо и ново.",
-    "reading_advice": "Върви напред, но помни откъде идваш."
-  },
-  {
-    "reading_id": "fool_devil",
-    "reading_name": "Рисковано начало",
-    "reading_cards": "Глупак + Дявол",
-    "reading_combination": ["fool", "devil"],
-    "reading_meaning": "Започваш нещо опасно",
-    "reading_description": "Новото начало е примамливо, но крие рискове от зависимост или изкушение. Внимавай.",
-    "reading_advice": "Убеди се, че не скачаш в капан, а в свобода."
-  },
-  {
-    "reading_id": "fool_star",
-    "reading_name": "Надеждно начало",
-    "reading_cards": "Глупак + Звезда",
-    "reading_combination": ["fool", "star"],
-    "reading_meaning": "Започваш с надежда",
-    "reading_description": "Новото начало носи надежда и оптимизъм. Вярваш, че всичко ще се нареди по най-добрия начин.",
-    "reading_advice": "Надеждата е компасът в несигурните времена."
-  },
-  {
-    "reading_id": "fool_moon",
-    "reading_name": "Неясно начало",
-    "reading_cards": "Глупак + Луна",
-    "reading_combination": ["fool", "moon"],
-    "reading_meaning": "Започваш в мъгла",
-    "reading_description": "Започваш нещо ново, без да виждаш ясно пътя. Страхове, илюзии, несигурност.",
-    "reading_advice": "Понякога трябва да вървиш, дори когато не виждаш."
-  },
-  {
-    "reading_id": "fool_sun",
-    "reading_name": "Слънчево начало",
-    "reading_cards": "Глупак + Слънце",
-    "reading_combination": ["fool", "sun"],
-    "reading_meaning": "Щастливо начало",
-    "reading_description": "Започваш нещо ново, изпълнен с радост и оптимизъм. Всичко ти се усмихва.",
-    "reading_advice": "Наслаждавай се на момента. Той е специален."
-  },
-  {
-    "reading_id": "fool_judgement",
-    "reading_name": "Пробудено начало",
-    "reading_cards": "Глупак + Съд",
-    "reading_combination": ["fool", "judgement"],
-    "reading_meaning": "Започваш след пробуждане",
-    "reading_description": "Новото начало идва след дълбоко вътрешно пробуждане. Прераждане, ново себеусещане.",
-    "reading_advice": "Чуй зова на душата си и я последвай."
-  },
-  {
-    "reading_id": "fool_world",
-    "reading_name": "Завършено начало",
-    "reading_cards": "Глупак + Свят",
-    "reading_combination": ["fool", "world"],
-    "reading_meaning": "Нов цикъл започва",
-    "reading_description": "Започваш нов цикъл, след като предишният е завършен. Пълнота и ново начало едновременно.",
-    "reading_advice": "Светът е пред теб. Отправи се на път."
-  },
+ 
+   
   {
     "reading_id": "magician_high_priestess",
     "reading_name": "Сила и мъдрост",
@@ -12311,6 +12134,7 @@ export const readings = [
     "reading_description": "Интуицията ти е в хармония с вселената. Знаеш всичко, което трябва да знаеш.",
     "reading_advice": "Ти си в унисон с космоса. Наслаждавай се на този момент на пълнота."
   }
+
 
 ];
   
