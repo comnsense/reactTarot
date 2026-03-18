@@ -57,11 +57,6 @@ const ReadingsPage: React.FC = () => {
   const hasCardsFromSuit = (reading: Reading, suit: string): boolean => {
     if (suit === 'all') return true;
     
-    // ПРОВЕРКА: Ако няма reading_combination, не може да участва във филтъра
-    if (!reading.reading_combination || !Array.isArray(reading.reading_combination)) {
-      return false;
-    }
-    
     const readingCards = reading.reading_combination;
     
     return readingCards.some(cardId => {
@@ -119,7 +114,7 @@ const ReadingsPage: React.FC = () => {
     });
   }, [activeCategory, activeSuit, searchTerm]);
 
-  // Броячи за филтрите по боя - ФИКСИРАНО!
+  // Броячи за филтрите по боя
   const suitCounts = useMemo(() => {
     const counts: { [key: string]: number } = {
       major: 0,
@@ -130,11 +125,6 @@ const ReadingsPage: React.FC = () => {
     };
 
     readings.forEach(reading => {
-      // Важно: Пропускаме комбинации без reading_combination
-      if (!reading.reading_combination || !Array.isArray(reading.reading_combination)) {
-        return; // Пропускаме тази комбинация
-      }
-      
       if (hasCardsFromSuit(reading, 'major')) counts.major++;
       if (hasCardsFromSuit(reading, 'wands')) counts.wands++;
       if (hasCardsFromSuit(reading, 'cups')) counts.cups++;
