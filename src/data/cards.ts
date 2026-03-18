@@ -11844,15 +11844,6 @@ export const readings = [
     "reading_advice": "Понякога най-добрият начин да започнеш е да следваш вече утъпкания път."
   },
   {
-    "reading_id": "fool_lovers",
-    "reading_name": "Любовно начало",
-    "reading_cards": "Глупак + Влюбените",
-    "reading_combination": ["fool", "lovers"],
-    "reading_meaning": "Нова любов",
-    "reading_description": "Започваш нова връзка или любовно приключение. Сърцето ти е отворено и готово да рискува.",
-    "reading_advice": "Следвай сърцето си, но не забравяй и главата."
-  },
-  {
     "reading_id": "fool_chariot",
     "reading_name": "Пътешествие",
     "reading_cards": "Глупак + Колесница",
@@ -12320,6 +12311,7 @@ export const readings = [
     "reading_description": "Интуицията ти е в хармония с вселената. Знаеш всичко, което трябва да знаеш.",
     "reading_advice": "Ти си в унисон с космоса. Наслаждавай се на този момент на пълнота."
   }
+
 ];
   
 
