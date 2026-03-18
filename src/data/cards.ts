@@ -2,6 +2,7 @@
 import { Card, Reading } from '../types';
 
  export const cards = [
+
   {
     "card_id": "fool",
     "name": "Глупакът",
@@ -11756,8 +11757,6 @@ export const readings = [
     "reading_description": "Празнуваш, но знаеш, че скоро всичко ще приключи. Тъжна радост.",
     "reading_advice": "Наслади се на момента. Той няма да се повтори."
   },
-
-  [
   {
     "reading_id": "fated_love",
     "reading_name": "Съдбовна любов",
@@ -16414,6 +16413,8 @@ export const readings = [
     "reading_description": "Празнуваш, но знаеш, че скоро всичко ще приключи. Тъжна радост.",
     "reading_advice": "Наслади се на момента. Той няма да се повтори."
   }
+ 
+
 ];
   
 
