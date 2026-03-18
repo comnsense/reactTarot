@@ -8,7 +8,7 @@ import { Card, Reading } from '../types';
 
 const MyCardsPage: React.FC = () => {
   const [selectedCardIds, setSelectedCardIds] = useState<string[]>([]);
-  const [foundReadings, setFoundReadings] = useState<Reading[]>([]);
+  const [foundReadings, setFoundReadings] = useState<Reading[]>([]); // Променено име
   const [activeFilter, setActiveFilter] = useState<string>('all');
   const interpretationsRef = useRef<HTMLDivElement>(null);
 
@@ -71,22 +71,13 @@ const MyCardsPage: React.FC = () => {
 
     const sortedIds = [...ids].sort();
     
-    // Филтрираме само комбинациите, които имат reading_combination
-    const validReadings = readings.filter(r => 
-      r.reading_combination && 
-      Array.isArray(r.reading_combination) && 
-      r.reading_combination.length > 0
-    ) as Reading[];
-    
-    const matchingReadings = validReadings.filter(r => {
+    const matchingReadings = readings.filter(r => {
       const sortedReadingIds = [...r.reading_combination].sort();
       
-      // Точно съвпадение
       if (JSON.stringify(sortedIds) === JSON.stringify(sortedReadingIds)) {
         return true;
       }
       
-      // Частично съвпадение - всички карти от комбинацията са в избраните
       if (r.reading_combination.every(id => sortedIds.includes(id))) {
         return true;
       }
@@ -94,12 +85,7 @@ const MyCardsPage: React.FC = () => {
       return false;
     });
 
-    // Сортираме намерените комбинации по брой карти (първо тези с повече карти)
-    const sortedReadings = matchingReadings.sort((a, b) => {
-      return (b.reading_combination?.length || 0) - (a.reading_combination?.length || 0);
-    });
-
-    setFoundReadings(sortedReadings);
+    setFoundReadings(matchingReadings);
   };
 
   useEffect(() => {
@@ -113,11 +99,12 @@ const MyCardsPage: React.FC = () => {
         Изберете до 10 карти, за да получите тълкувание и да откриете специални комбинации
       </p>
       
+      {/* Selected Cards Component - Променено от foundReading на foundReadings */}
       <SelectedCards 
         selectedCards={selectedCards}
         onClear={clearSelected}
         onRemoveCard={removeCard}
-        foundReadings={foundReadings}
+        foundReadings={foundReadings}  // ← Променено тук
         onScrollToInterpretations={scrollToInterpretations}
       />
 
