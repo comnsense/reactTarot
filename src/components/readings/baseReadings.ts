@@ -1,6 +1,6 @@
- 
-export const readings = [
+import { Reading } from '../../types';
 
+export const baseReadings: Reading[] = [
   {
     "reading_id": "first_date",
     "reading_name": "Първа среща",
