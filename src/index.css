@@ -1778,7 +1778,43 @@ body.dark .filter-btn.number-filter.active {
   flex-direction: column;
   gap: 16px;
 }
+/* Second Meaning */
+.reading-card-second-meaning {
+  margin: 12px 0;
+  padding: 12px;
+  background: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%);
+  border-radius: 12px;
+  border-left: 3px solid #0284c7;
+}
 
+body.dark .reading-card-second-meaning {
+  background: linear-gradient(135deg, #155e75 0%, #0891b2 100%);
+  border-left-color: #22d3ee;
+}
+
+.second-meaning-label {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  color: #0369a1;
+  margin-bottom: 6px;
+  letter-spacing: 0.5px;
+}
+
+body.dark .second-meaning-label {
+  color: #7dd3fc;
+}
+
+.reading-card-second-description {
+  color: #075985;
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+body.dark .reading-card-second-description {
+  color: #e0f2fe;
+}
 /* Адаптации за multiple readings */
 .found-readings-list .reading-found {
   margin-top: 0;
