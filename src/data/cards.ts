@@ -1,7 +1,8 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import { Card } from '../types';
 import { readings } from './readings';
-
+// Реекспортваме readings за достъп от другите файлове
+export { readings } from './readings';
  export const cards = [
 
   {
