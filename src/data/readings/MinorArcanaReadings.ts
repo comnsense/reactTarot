@@ -3019,35 +3019,9 @@ export const minorArcanaReadings: Reading[] = [
     "reading_meaning": "Ограбване",
     "reading_description": "Някой те е ограбил или измамил с пари.",
     "reading_advice": "Потърси правата си. И урок: не вярвай сляпо."
-  },
-  {
-    "reading_id": "investment",
-    "reading_name": "Дългосрочна инвестиция",
-    "reading_cards": "7 Пентакли + 8 Пентакли",
-    "reading_combination": ["seven_pentacles", "eight_pentacles"],
-    "reading_meaning": "Инвестиция с изчакване",
-    "reading_description": "Инвестираш в нещо, което ще даде резултати след време.",
-    "reading_advice": "Търпение. Най-добрите плодове узряват бавно."
-  },
-  {
-    "reading_id": "business_partner",
-    "reading_name": "Бизнес партньорство",
-    "reading_cards": "2 Пентакли + 3 Пентакли",
-    "reading_combination": ["two_pentacles", "three_pentacles"],
-    "reading_meaning": "Сътрудничество",
-    "reading_description": "Работиш с партньор, споделяш печалбата.",
-    "reading_advice": "Избери внимателно – доверието е всичко."
-  },
-  {
-    "reading_id": "fraud",
-    "reading_name": "Финансова измама",
-    "reading_cards": "7 Мечове + 5 Пентакли",
-    "reading_combination": ["seven_swords", "five_pentacles"],
-    "reading_meaning": "Ограбване",
-    "reading_description": "Някой те е ограбил или измамил с пари.",
-    "reading_advice": "Потърси правата си. И урок: не вярвай сляпо."
-  },
+  } 
  
+   
 
 ];
    
