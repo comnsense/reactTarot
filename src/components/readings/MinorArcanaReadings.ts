@@ -1,6 +1,6 @@
 import { Reading } from '../../types';
 
-export const baseReadings: Reading[] = [
+export const MinorArcanaReadings.: Reading[] = [
   {
     "reading_id": "minors_pair_ace_wands_two_wands",
     "reading_name": "Асо Жезли + Двойка Жезли",
