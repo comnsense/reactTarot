@@ -2974,15 +2974,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Голям успех в бизнеса или финансите. Стабилност и признание.",
     "reading_advice": "Наслади се на успеха. Ти си изградил нещо стабилно. Продължавай да градиш с мъдрост."
   },
-  {
-    "reading_id": "three_wands_four_wands",
-    "reading_name": "Очакване и празник",
-    "reading_cards": "3 Жезли + 4 Жезли",
-    "reading_combination": ["three_wands", "four_wands"],
-    "reading_meaning": "Докато чакаш, празнувай",
-    "reading_description": "В очакване на резултати, не забравяй да се радваш на това, което вече имаш. Празник и надежда.",
-    "reading_advice": "Радвай се на пътя, не само на дестинацията."
-  }, 
+
   {
     "reading_id": "big_win",
     "reading_name": "Голяма печалба",
@@ -3055,24 +3047,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Някой те е ограбил или измамил с пари.",
     "reading_advice": "Потърси правата си. И урок: не вярвай сляпо."
   },
-  {
-    "reading_id": "big_win",
-    "reading_name": "Голяма печалба",
-    "reading_cards": "Асо Пентакли + 10 Пентакли",
-    "reading_combination": ["ace_pentacles", "ten_pentacles"],
-    "reading_meaning": "Неочаквани пари",
-    "reading_description": "Неочаквани пари, печалба от лотария, бонус.",
-    "reading_advice": "Радвай се, но не харчи всичко наведнъж. Инвестирай разумно."
-  },
-  {
-    "reading_id": "debt",
-    "reading_name": "Дългове",
-    "reading_cards": "5 Пентакли + 4 Пентакли",
-    "reading_combination": ["five_pentacles", "four_pentacles"],
-    "reading_meaning": "Финансови задължения",
-    "reading_description": "Имаш задължения, дължиш пари, едва свързваш двата края.",
-    "reading_advice": "Направи план. Приоритизирай. Малки стъпки – ще излезеш."
-  }
+ 
 
 ];
    
