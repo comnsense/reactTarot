@@ -8,7 +8,6 @@ interface ReadingCardProps {
 const ReadingCard: React.FC<ReadingCardProps> = ({ reading }) => {
   const [expanded, setExpanded] = useState(false);
 
-  // Определяне на икона според типа комбинация
   const getIcon = () => {
     const name = reading.reading_name.toLowerCase();
     const cards = reading.reading_cards.toLowerCase();
@@ -25,7 +24,6 @@ const ReadingCard: React.FC<ReadingCardProps> = ({ reading }) => {
     return '🃏';
   };
 
-  // Определяне на цвета според боята
   const getSuitColor = () => {
     const cards = reading.reading_cards.toLowerCase();
     if (cards.includes('жезли')) return '#ff6b6b';
