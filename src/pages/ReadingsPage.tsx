@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import ReadingCard from '../components/readings/ReadingCard';
-import { readings } from '../data/cards'; 
+import { readings, baseReadings, minorArcanaReadings } from '../data/readings';
 import { Reading } from '../types';
 
 const ReadingsPage: React.FC = () => {
@@ -9,129 +9,76 @@ const ReadingsPage: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState<string>('');
 
   // Категории с броячи
-  const categories = useMemo(() => {
-    const counts = {
-      all: readings.length,
-      love: 0,
-      career: 0,
-      money: 0,
-      health: 0,
-      spiritual: 0,
-      crisis: 0
-    };
+  const categories = [
+    { key: 'all', label: 'Всички', count: readings.length, icon: '🃏' },
+    { key: 'major', label: 'Големи аркани', count: baseReadings.length, icon: '⭐' },
+    { key: 'minor', label: 'Малки аркани', count: minorArcanaReadings.length, icon: '🎴' },
+  ];
 
-    readings.forEach(reading => {
-      const name = reading.reading_name.toLowerCase();
-      const desc = reading.reading_description.toLowerCase();
-      
-      if (name.includes('любов') || desc.includes('любов') || name.includes('съдбовна') || name.includes('брак') || name.includes('влюбените')) counts.love++;
-      if (name.includes('кариер') || desc.includes('кариер') || name.includes('работа') || name.includes('бизнес') || name.includes('успех')) counts.career++;
-      if (name.includes('пари') || desc.includes('пари') || name.includes('финанс') || name.includes('бизнес') || name.includes('пентакли')) counts.money++;
-      if (name.includes('здрав') || desc.includes('здрав') || name.includes('болест') || name.includes('мечове')) counts.health++;
-      if (name.includes('духов') || desc.includes('духов') || name.includes('пробуждане') || name.includes('интуиция') || name.includes('жрица')) counts.spiritual++;
-      if (name.includes('криза') || desc.includes('криза') || name.includes('фалит') || name.includes('край') || name.includes('смърт') || name.includes('кула')) counts.crisis++;
-    });
-
-    return [
-      { key: 'all', label: 'Всички', count: counts.all, icon: '🃏' },
-      { key: 'love', label: 'Любов', count: counts.love, icon: '💕' },
-      { key: 'career', label: 'Кариера', count: counts.career, icon: '💼' },
-      { key: 'money', label: 'Пари', count: counts.money, icon: '💰' },
-      { key: 'health', label: 'Здраве', count: counts.health, icon: '🏥' },
-      { key: 'spiritual', label: 'Духовност', count: counts.spiritual, icon: '🕯️' },
-      { key: 'crisis', label: 'Кризи', count: counts.crisis, icon: '⚠️' },
-    ];
-  }, []);
-
-  // Филтри за бои и Големи аркани
+  // Филтри за бои
   const suitFilters = [
     { key: 'all', label: 'Всички', icon: '🃏' },
-    { key: 'major', label: 'Големи аркани', icon: '⭐' },
     { key: 'wands', label: 'Жезли', icon: '🔥' },
     { key: 'cups', label: 'Купи', icon: '💧' },
     { key: 'swords', label: 'Мечове', icon: '⚔️' },
     { key: 'pentacles', label: 'Пентакли', icon: '🪙' },
   ];
 
-  // Функция за проверка дали комбинацията съдържа карти от дадена боя
+  // Функция за проверка на боя
   const hasCardsFromSuit = (reading: Reading, suit: string): boolean => {
     if (suit === 'all') return true;
     
     const readingCards = reading.reading_combination;
     
     return readingCards.some(cardId => {
-      if (suit === 'major') {
-        const majorCards = ['fool', 'magician', 'high_priestess', 'empress', 'emperor', 'hierophant', 
-          'lovers', 'chariot', 'strength', 'hermit', 'wheel_of_fortune', 'justice', 'hanged_man',
-          'death', 'temperance', 'devil', 'tower', 'star', 'moon', 'sun', 'judgement', 'world'];
-        return majorCards.includes(cardId);
-      }
-      
       if (suit === 'wands') return cardId.includes('wands');
       if (suit === 'cups') return cardId.includes('cups');
       if (suit === 'swords') return cardId.includes('swords');
       if (suit === 'pentacles') return cardId.includes('pentacles');
-      
       return false;
     });
   };
 
   // Филтриране на комбинациите
   const filteredReadings = useMemo(() => {
-    return readings.filter(reading => {
-      // Филтър по категория
-      if (activeCategory !== 'all') {
-        const name = reading.reading_name.toLowerCase();
-        const desc = reading.reading_description.toLowerCase();
-        const cards = reading.reading_cards.toLowerCase();
-        
-        const categoryMatch = {
-          love: name.includes('любов') || desc.includes('любов') || name.includes('съдбовна') || name.includes('брак') || cards.includes('влюбените') || cards.includes('чаши'),
-          career: name.includes('кариер') || desc.includes('кариер') || name.includes('работа') || name.includes('бизнес') || name.includes('успех') || cards.includes('жезли') || cards.includes('пентакли'),
-          money: name.includes('пари') || desc.includes('пари') || name.includes('финанс') || name.includes('бизнес') || cards.includes('пентакли'),
-          health: name.includes('здрав') || desc.includes('здрав') || name.includes('болест') || cards.includes('мечове'),
-          spiritual: name.includes('духов') || desc.includes('духов') || name.includes('пробуждане') || name.includes('интуиция') || cards.includes('жрица') || cards.includes('луна'),
-          crisis: name.includes('криза') || desc.includes('криза') || name.includes('фалит') || name.includes('край') || cards.includes('смърт') || cards.includes('кула') || cards.includes('мечове')
-        }[activeCategory];
-
-        if (!categoryMatch) return false;
-      }
-
-      // Филтър по боя/Големи аркани
-      if (activeSuit !== 'all') {
-        if (!hasCardsFromSuit(reading, activeSuit)) return false;
-      }
-
-      // Филтър по търсене
-      if (searchTerm) {
-        const term = searchTerm.toLowerCase();
-        return reading.reading_name.toLowerCase().includes(term) ||
-               reading.reading_cards.toLowerCase().includes(term) ||
-               reading.reading_description.toLowerCase().includes(term);
-      }
-
-      return true;
-    });
+    let filtered = readings;
+    
+    // Филтър по категория
+    if (activeCategory === 'major') {
+      filtered = baseReadings;
+    } else if (activeCategory === 'minor') {
+      filtered = minorArcanaReadings;
+    }
+    
+    // Филтър по търсене
+    if (searchTerm) {
+      const term = searchTerm.toLowerCase();
+      filtered = filtered.filter(reading => 
+        reading.reading_name.toLowerCase().includes(term) ||
+        reading.reading_cards.toLowerCase().includes(term) ||
+        reading.reading_description.toLowerCase().includes(term)
+      );
+    }
+    
+    // Филтър по боя
+    if (activeSuit !== 'all') {
+      filtered = filtered.filter(reading => hasCardsFromSuit(reading, activeSuit));
+    }
+    
+    return filtered;
   }, [activeCategory, activeSuit, searchTerm]);
 
   // Броячи за филтрите по боя
   const suitCounts = useMemo(() => {
-    const counts: { [key: string]: number } = {
-      major: 0,
-      wands: 0,
-      cups: 0,
-      swords: 0,
-      pentacles: 0
-    };
-
+    const counts = { wands: 0, cups: 0, swords: 0, pentacles: 0 };
+    
     readings.forEach(reading => {
-      if (hasCardsFromSuit(reading, 'major')) counts.major++;
       if (hasCardsFromSuit(reading, 'wands')) counts.wands++;
       if (hasCardsFromSuit(reading, 'cups')) counts.cups++;
       if (hasCardsFromSuit(reading, 'swords')) counts.swords++;
       if (hasCardsFromSuit(reading, 'pentacles')) counts.pentacles++;
     });
-
+    
     return counts;
   }, []);
 
@@ -179,9 +126,9 @@ const ReadingsPage: React.FC = () => {
         </div>
       </div>
 
-      {/* Филтри по бои и Големи аркани */}
+      {/* Филтри по бои */}
       <div className="filters-section">
-        <h3 className="filters-title">🎴 Бои и Аркани</h3>
+        <h3 className="filters-title">🎴 Бои</h3>
         <div className="suit-filters">
           {suitFilters.map(suit => (
             <button
@@ -192,7 +139,7 @@ const ReadingsPage: React.FC = () => {
               <span className="suit-icon">{suit.icon}</span>
               <span className="suit-label">{suit.label}</span>
               {suit.key !== 'all' && (
-                <span className="suit-count">{suitCounts[suit.key]}</span>
+                <span className="suit-count">{suitCounts[suit.key as keyof typeof suitCounts]}</span>
               )}
             </button>
           ))}
