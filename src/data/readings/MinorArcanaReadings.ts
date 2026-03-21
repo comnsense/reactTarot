@@ -2154,16 +2154,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Спорът води до загуба – на приятелство, доверие или възможност. Горчив край.",
     "reading_advice": "Понякога най-добрата победа е да не влизаш в битка. Загубата не винаги си струва цената."
   },
-  {
-    "reading_id": "minors_pair_five_wands_six_cups",
-    "reading_name": "Петица Жезли + Шестица Чаши",
-    "reading_cards": "Петица Жезли + Шестица Чаши",
-    "reading_combination": ["five_wands", "six_cups"],
-    "reading_meaning": "Стар конфликт",
-    "second_meaning": "Петица Жезли носи конфликта, а Шестица Чаши – спомените и носталгията. Стар конфликт от миналото излиза отново на повърхността. Неразрешени сметки.",
-    "reading_description": "Конфликт, който идва от миналото, излиза отново на повърхността. Стари сметки.",
-    "reading_advice": "Остави миналото. То не заслужава нова битка. Наученото – вземи, болката – остави."
-  },  
+  
   {
     "reading_id": "minors_pair_seven_wands_page_swords",
     "reading_name": "Седмица Жезли + Паж Мечове",
