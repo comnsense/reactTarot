@@ -24,7 +24,7 @@ export interface Reading {
   reading_cards: string;
   reading_combination: string[];
   reading_meaning: string;
-  second_meaning: string;  // ← Добавете този ред
+  second_meaning?: string;
   reading_description: string;
   reading_advice: string;
 }
