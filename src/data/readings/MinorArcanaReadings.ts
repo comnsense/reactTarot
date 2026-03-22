@@ -11924,4 +11924,3 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Поемете лидерството. Имате визията и практичността да успеете. Градете стабилно."
   }
 ];
-   
