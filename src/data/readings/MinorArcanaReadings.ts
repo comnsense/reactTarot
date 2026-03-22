@@ -2,27 +2,25 @@ import { Reading } from '../../types';
 
 export const minorArcanaReadings: Reading[] = [
   {
-    "reading_id": "minors_pair_ace_wands_two_wands",
-    "reading_name": "Асо Жезли + Двойка Жезли",
+    "reading_id": "ace_wands_two_wands",
+    "reading_name": "Нова искра пред избор",
     "reading_cards": "Асо Жезли + Двойка Жезли",
     "reading_combination": ["ace_wands", "two_wands"],
-    "reading_meaning": "Нова искра пред избор",
-    "second_meaning": "Асо Жезли носи ново начало и вдъхновение, а Двойка Жезли – момента на избор и планиране. Заедно показват, че имате енергията да започнете нещо ново, но все още се колебаете в коя посока. Това е момент на потенциал – искрата е запалена, сега трябва да изберете накъде да я насочите.",
+    "reading_meaning": "Асо Жезли носи ново начало и вдъхновение, а Двойка Жезли – момента на избор и планиране. Заедно показват, че имате енергията да започнете нещо ново, но все още се колебаете в коя посока. Това е момент на потенциал – искрата е запалена, сега трябва да изберете накъде да я насочите.",
     "reading_description": "Нова идея или проект ви вълнува, но все още не сте сигурни как точно да го реализирате. Предстои важен избор, който ще определи пътя напред.",
     "reading_advice": "Не се страхувайте да изберете – всяка посока е по-добра от липсата на такава. Доверете се на първоначалния си ентусиазъм."
   },
   {
-    "reading_id": "minors_pair_ace_wands_three_wands",
-    "reading_name": "Асо Жезли + Тройка Жезли",
+    "reading_id": "ace_wands_three_wands",
+    "reading_name": "Начало и очакване",
     "reading_cards": "Асо Жезли + Тройка Жезли",
     "reading_combination": ["ace_wands", "three_wands"],
-    "reading_meaning": "Начало и очакване",
-    "second_meaning": "Асо Жезли символизира старта и вдъхновението, а Тройка Жезли – търпеливото очакване на плодовете. Посяли сте семето на нещо ново и сега трябва да изчакате то да покълне. Енергията ви е насочена правилно, но резултатите ще дойдат с времето.",
+    "reading_meaning": "Асо Жезли символизира старта и вдъхновението, а Тройка Жезли – търпеливото очакване на плодовете. Посяли сте семето на нещо ново и сега трябва да изчакате то да покълне. Енергията ви е насочена правилно, но резултатите ще дойдат с времето.",
     "reading_description": "Започнали сте нов проект и сега чакате първите резултати. Нетърпението е голямо, но трябва да проявите търпение.",
     "reading_advice": "Бъдете търпеливи – добрите неща идват при тези, които умеят да чакат, докато продължават да работят."
   },
   {
-    "reading_id": "minors_pair_ace_wands_four_wands",
+    "reading_id": "ace_wands_four_wands",
     "reading_name": "Асо Жезли + Четворка Жезли",
     "reading_cards": "Асо Жезли + Четворка Жезли",
     "reading_combination": ["ace_wands", "four_wands"],
@@ -32,7 +30,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувайте малките победи – те са стъпалата към големия успех. Споделете радостта си с близките."
   },
   {
-    "reading_id": "minors_pair_ace_wands_five_wands",
+    "reading_id": "ace_wands_five_wands",
     "reading_name": "Асо Жезли + Петица Жезли",
     "reading_cards": "Асо Жезли + Петица Жезли",
     "reading_combination": ["ace_wands", "five_wands"],
@@ -42,7 +40,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не се отказвайте при първото препятствие. Конкуренцията означава, че идеята ви има стойност."
   },
   {
-    "reading_id": "minors_pair_ace_wands_six_wands",
+    "reading_id": "ace_wands_six_wands",
     "reading_name": "Асо Жезли + Шестица Жезли",
     "reading_cards": "Асо Жезли + Шестица Жезли",
     "reading_combination": ["ace_wands", "six_wands"],
@@ -52,7 +50,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслаждавайте се на успеха, но не спирайте да работите. Първата победа е само началото."
   },
   {
-    "reading_id": "minors_pair_ace_wands_seven_wands",
+    "reading_id": "ace_wands_seven_wands",
     "reading_name": "Асо Жезли + Седмица Жезли",
     "reading_cards": "Асо Жезли + Седмица Жезли",
     "reading_combination": ["ace_wands", "seven_wands"],
@@ -62,7 +60,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не се огъвайте пред първата съпротива. Убедеността ви ще спечели."
   },
   {
-    "reading_id": "minors_pair_ace_wands_eight_wands",
+    "reading_id": "ace_wands_eight_wands",
     "reading_name": "Асо Жезли + Осмица Жезли",
     "reading_cards": "Асо Жезли + Осмица Жезли",
     "reading_combination": ["ace_wands", "eight_wands"],
@@ -72,7 +70,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Хванете вълната на скоростта. Действайте сега, без да се бавите."
   },
   {
-    "reading_id": "minors_pair_ace_wands_nine_wands",
+    "reading_id": "ace_wands_nine_wands",
     "reading_name": "Асо Жезли + Деветка Жезли",
     "reading_cards": "Асо Жезли + Деветка Жезли",
     "reading_combination": ["ace_wands", "nine_wands"],
@@ -82,7 +80,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Дръжте се още малко. Финалната права е точно зад ъгъла."
   },
   {
-    "reading_id": "minors_pair_ace_wands_ten_wands",
+    "reading_id": "ace_wands_ten_wands",
     "reading_name": "Асо Жезли + Десетка Жезли",
     "reading_cards": "Асо Жезли + Десетка Жезли",
     "reading_combination": ["ace_wands", "ten_wands"],
@@ -92,7 +90,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Забавете темпото. Никой не може да носи всичко сам. Потърсете помощ."
   },
   {
-    "reading_id": "minors_pair_ace_wands_page_wands",
+    "reading_id": "ace_wands_page_wands",
     "reading_name": "Асо Жезли + Паж Жезли",
     "reading_cards": "Асо Жезли + Паж Жезли",
     "reading_combination": ["ace_wands", "page_wands"],
@@ -102,7 +100,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Споделете ентусиазма си с другите. Вашата енергия е заразителна и може да привлече подкрепа."
   },
   {
-    "reading_id": "minors_pair_ace_wands_knight_wands",
+    "reading_id": "ace_wands_knight_wands",
     "reading_name": "Асо Жезли + Рицар Жезли",
     "reading_cards": "Асо Жезли + Рицар Жезли",
     "reading_combination": ["ace_wands", "knight_wands"],
@@ -112,7 +110,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Действайте бързо, но не забравяйте за хората около вас. Страстта е добра, но не трябва да прегазва."
   },
   {
-    "reading_id": "minors_pair_ace_wands_queen_wands",
+    "reading_id": "ace_wands_queen_wands",
     "reading_name": "Асо Жезли + Царица Жезли",
     "reading_cards": "Асо Жезли + Царица Жезли",
     "reading_combination": ["ace_wands", "queen_wands"],
@@ -122,7 +120,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъдете себе си – топло и уверено. Вашата светлина вдъхновява другите да ви последват."
   },
   {
-    "reading_id": "minors_pair_ace_wands_king_wands",
+    "reading_id": "ace_wands_king_wands",
     "reading_name": "Асо Жезли + Цар Жезли",
     "reading_cards": "Асо Жезли + Цар Жезли",
     "reading_combination": ["ace_wands", "king_wands"],
@@ -132,7 +130,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Поемете лидерството. Имате визията и силата да я осъществите. Водете с пример."
   },
   {
-    "reading_id": "minors_pair_ace_wands_two_cups",
+    "reading_id": "ace_wands_two_cups",
     "reading_name": "Асо Жезли + Двойка Чаши",
     "reading_cards": "Асо Жезли + Двойка Чаши",
     "reading_combination": ["ace_wands", "two_cups"],
@@ -142,7 +140,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслаждавайте се на страстта, но не забравяйте и за емоционалната връзка. Огънят се нуждае от вода, за да не изгори."
   },
   {
-    "reading_id": "minors_pair_ace_wands_three_cups",
+    "reading_id": "ace_wands_three_cups",
     "reading_name": "Асо Жезли + Тройка Чаши",
     "reading_cards": "Асо Жезли + Тройка Чаши",
     "reading_combination": ["ace_wands", "three_cups"],
@@ -152,7 +150,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувайте всеки успех, дори малкия. Радостта, споделена с други, е двойна радост."
   },
   {
-    "reading_id": "minors_pair_ace_wands_four_cups",
+    "reading_id": "ace_wands_four_cups",
     "reading_name": "Асо Жезли + Четворка Чаши",
     "reading_cards": "Асо Жезли + Четворка Чаши",
     "reading_combination": ["ace_wands", "four_cups"],
@@ -162,7 +160,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Вдигнете поглед. Може да пропускате нещо важно, което е точно пред вас."
   },
   {
-    "reading_id": "minors_pair_ace_wands_five_cups",
+    "reading_id": "ace_wands_five_cups",
     "reading_name": "Асо Жезли + Петица Чаши",
     "reading_cards": "Асо Жезли + Петица Чаши",
     "reading_combination": ["ace_wands", "five_cups"],
@@ -172,7 +170,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Дори в скръбта има място за ново начало. Позволете си да се отворите към надеждата."
   },
   {
-    "reading_id": "minors_pair_ace_wands_six_cups",
+    "reading_id": "ace_wands_six_cups",
     "reading_name": "Асо Жезли + Шестица Чаши",
     "reading_cards": "Асо Жезли + Шестица Чаши",
     "reading_combination": ["ace_wands", "six_cups"],
@@ -182,7 +180,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Използвайте миналото като вдъхновение, но не позволявайте то да ви държи в капан. Творете новото с опита на старото."
   },
   {
-    "reading_id": "minors_pair_ace_wands_seven_cups",
+    "reading_id": "ace_wands_seven_cups",
     "reading_name": "Асо Жезли + Седмица Чаши",
     "reading_cards": "Асо Жезли + Седмица Чаши",
     "reading_combination": ["ace_wands", "seven_cups"],
@@ -192,7 +190,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Изберете една възможност и ѝ се посветете. Не се разпилявайте в илюзии."
   },
   {
-    "reading_id": "minors_pair_ace_wands_eight_cups",
+    "reading_id": "ace_wands_eight_cups",
     "reading_name": "Асо Жезли + Осмица Чаши",
     "reading_cards": "Асо Жезли + Осмица Чаши",
     "reading_combination": ["ace_wands", "eight_cups"],
@@ -202,7 +200,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Тръгнете смело. Старото вече не ви служи. Новият път ви очаква."
   },
   {
-    "reading_id": "minors_pair_ace_wands_nine_cups",
+    "reading_id": "ace_wands_nine_cups",
     "reading_name": "Асо Жезли + Деветка Чаши",
     "reading_cards": "Асо Жезли + Деветка Чаши",
     "reading_combination": ["ace_wands", "nine_cups"],
@@ -212,7 +210,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Насладете се на момента. Ти го заслужи. Мечтата ви се сбъдва."
   },
   {
-    "reading_id": "minors_pair_ace_wands_ten_cups",
+    "reading_id": "ace_wands_ten_cups",
     "reading_name": "Асо Жезли + Десетка Чаши",
     "reading_cards": "Асо Жезли + Десетка Чаши",
     "reading_combination": ["ace_wands", "ten_cups"],
@@ -222,7 +220,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Споделете успеха със семейството си. Щастието е по-голямо, когато е споделено."
   },
   {
-    "reading_id": "minors_pair_ace_wands_page_cups",
+    "reading_id": "ace_wands_page_cups",
     "reading_name": "Асо Жезли + Паж Чаши",
     "reading_cards": "Асо Жезли + Паж Чаши",
     "reading_combination": ["ace_wands", "page_cups"],
@@ -232,7 +230,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Отворете сърцето си за посланието. То носи нещо важно за вас."
   },
   {
-    "reading_id": "minors_pair_ace_wands_knight_cups",
+    "reading_id": "ace_wands_knight_cups",
     "reading_name": "Асо Жезли + Рицар Чаши",
     "reading_cards": "Асо Жезли + Рицар Чаши",
     "reading_combination": ["ace_wands", "knight_cups"],
@@ -242,7 +240,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Кажете какво чувствате. Бъдете смели в любовта – сърцето ви знае пътя."
   },
   {
-    "reading_id": "minors_pair_ace_wands_queen_cups",
+    "reading_id": "ace_wands_queen_cups",
     "reading_name": "Асо Жезли + Царица Чаши",
     "reading_cards": "Асо Жезли + Царица Чаши",
     "reading_combination": ["ace_wands", "queen_cups"],
@@ -252,7 +250,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Доверете се на вътрешния си глас. Интуицията ви води правилно."
   },
   {
-    "reading_id": "minors_pair_ace_wands_king_cups",
+    "reading_id": "ace_wands_king_cups",
     "reading_name": "Асо Жезли + Цар Чаши",
     "reading_cards": "Асо Жезли + Цар Чаши",
     "reading_combination": ["ace_wands", "king_cups"],
@@ -262,7 +260,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Управлявайте енергията си с мъдрост. Страстта е силна, но вие сте по-силни."
   },
   {
-    "reading_id": "minors_pair_ace_wands_two_swords",
+    "reading_id": "ace_wands_two_swords",
     "reading_name": "Асо Жезли + Двойка Мечове",
     "reading_cards": "Асо Жезли + Двойка Мечове",
     "reading_combination": ["ace_wands", "two_swords"],
@@ -272,7 +270,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Свалете превръзката от очите. Понякога трябва да изберете, дори да не виждате ясно."
   },
   {
-    "reading_id": "minors_pair_ace_wands_three_swords",
+    "reading_id": "ace_wands_three_swords",
     "reading_name": "Асо Жезли + Тройка Мечове",
     "reading_cards": "Асо Жезли + Тройка Мечове",
     "reading_combination": ["ace_wands", "three_swords"],
@@ -282,7 +280,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъдете внимателни с доверието си. Не всяка страст носи само радост."
   },
   {
-    "reading_id": "minors_pair_ace_wands_four_swords",
+    "reading_id": "ace_wands_four_swords",
     "reading_name": "Асо Жезли + Четворка Мечове",
     "reading_cards": "Асо Жезли + Четворка Мечове",
     "reading_combination": ["ace_wands", "four_swords"],
@@ -292,7 +290,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Починете си преди да започнете. Добрата подготовка води до успех."
   },
   {
-    "reading_id": "minors_pair_ace_wands_five_swords",
+    "reading_id": "ace_wands_five_swords",
     "reading_name": "Асо Жезли + Петица Мечове",
     "reading_cards": "Асо Жезли + Петица Мечове",
     "reading_combination": ["ace_wands", "five_swords"],
@@ -302,7 +300,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Помислете дали си струва да нараните другите, за да спечелите. Понякога е по-добре да отстъпите."
   },
   {
-    "reading_id": "minors_pair_ace_wands_six_swords",
+    "reading_id": "ace_wands_six_swords",
     "reading_name": "Асо Жезли + Шестица Мечове",
     "reading_cards": "Асо Жезли + Шестица Мечове",
     "reading_combination": ["ace_wands", "six_swords"],
@@ -312,7 +310,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Тръгнете с увереност. Новите води носят нови възможности."
   },
   {
-    "reading_id": "minors_pair_ace_wands_seven_swords",
+    "reading_id": "ace_wands_seven_swords",
     "reading_name": "Асо Жезли + Седмица Мечове",
     "reading_cards": "Асо Жезли + Седмица Мечове",
     "reading_combination": ["ace_wands", "seven_swords"],
@@ -322,7 +320,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъдете внимателни с кого споделяте идеите си. Проверявайте два пъти."
   },
   {
-    "reading_id": "minors_pair_ace_wands_eight_swords",
+    "reading_id": "ace_wands_eight_swords",
     "reading_name": "Асо Жезли + Осмица Мечове",
     "reading_cards": "Асо Жезли + Осмица Мечове",
     "reading_combination": ["ace_wands", "eight_swords"],
@@ -332,7 +330,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Оковите са в главата ви. Освободете се от страха и ще видите, че имате повече възможности, отколкото си мислите."
   },
   {
-    "reading_id": "minors_pair_ace_wands_nine_swords",
+    "reading_id": "ace_wands_nine_swords",
     "reading_name": "Асо Жезли + Деветка Мечове",
     "reading_cards": "Асо Жезли + Деветка Мечове",
     "reading_combination": ["ace_wands", "nine_swords"],
@@ -342,7 +340,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Спокойствие. Повечето неща, за които се тревожим, никога не се случват. Доверете се на процеса."
   },
   {
-    "reading_id": "minors_pair_ace_wands_ten_swords",
+    "reading_id": "ace_wands_ten_swords",
     "reading_name": "Асо Жезли + Десетка Мечове",
     "reading_cards": "Асо Жезли + Десетка Мечове",
     "reading_combination": ["ace_wands", "ten_swords"],
@@ -352,7 +350,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Оставете старото да умре. Новото вече чука на вратата. Позволете му да влезе."
   },
   {
-    "reading_id": "minors_pair_ace_wands_page_swords",
+    "reading_id": "ace_wands_page_swords",
     "reading_name": "Асо Жезли + Паж Мечове",
     "reading_cards": "Асо Жезли + Паж Мечове",
     "reading_combination": ["ace_wands", "page_swords"],
@@ -362,7 +360,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Задавайте въпроси. Не приемайте нищо за дадено. Истината е някъде там – открийте я."
   },
   {
-    "reading_id": "minors_pair_ace_wands_knight_swords",
+    "reading_id": "ace_wands_knight_swords",
     "reading_name": "Асо Жезли + Рицар Мечове",
     "reading_cards": "Асо Жезли + Рицар Мечове",
     "reading_combination": ["ace_wands", "knight_swords"],
@@ -372,7 +370,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Действайте бързо, но не безразсъдно. Устремът ви е сила, но не прегазвайте другите."
   },
   {
-    "reading_id": "minors_pair_ace_wands_queen_swords",
+    "reading_id": "ace_wands_queen_swords",
     "reading_name": "Асо Жезли + Царица Мечове",
     "reading_cards": "Асо Жезли + Царица Мечове",
     "reading_combination": ["ace_wands", "queen_swords"],
@@ -382,7 +380,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъдете честни със себе си и с другите. Вашата яснота вдъхновява доверие."
   },
   {
-    "reading_id": "minors_pair_ace_wands_king_swords",
+    "reading_id": "ace_wands_king_swords",
     "reading_name": "Асо Жезли + Цар Мечове",
     "reading_cards": "Асо Жезли + Цар Мечове",
     "reading_combination": ["ace_wands", "king_swords"],
@@ -392,7 +390,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Вземете решение с ума си, но не забравяйте и сърцето. Стратегията е важна, но и емоциите имат значение."
   },
   {
-    "reading_id": "minors_pair_ace_wands_two_pentacles",
+    "reading_id": "ace_wands_two_pentacles",
     "reading_name": "Асо Жезли + Двойка Пентакли",
     "reading_cards": "Асо Жезли + Двойка Пентакли",
     "reading_combination": ["ace_wands", "two_pentacles"],
@@ -402,7 +400,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Жонглирайте, но не изпускайте топката. Балансът е ключът към успеха."
   },
   {
-    "reading_id": "minors_pair_ace_wands_three_pentacles",
+    "reading_id": "ace_wands_three_pentacles",
     "reading_name": "Асо Жезли + Тройка Пентакли",
     "reading_cards": "Асо Жезли + Тройка Пентакли",
     "reading_combination": ["ace_wands", "three_pentacles"],
@@ -412,7 +410,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Работете в екип. Учете се от по-опитните и споделяйте знанията си. Заедно сте по-силни."
   },
   {
-    "reading_id": "minors_pair_ace_wands_four_pentacles",
+    "reading_id": "ace_wands_four_pentacles",
     "reading_name": "Асо Жезли + Четворка Пентакли",
     "reading_cards": "Асо Жезли + Четворка Пентакли",
     "reading_combination": ["ace_wands", "four_pentacles"],
@@ -422,7 +420,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Пуснете малко. Страхът от загуба може да ви попречи да спечелите нещо по-голямо."
   },
   {
-    "reading_id": "minors_pair_ace_wands_five_pentacles",
+    "reading_id": "ace_wands_five_pentacles",
     "reading_name": "Асо Жезли + Петица Пентакли",
     "reading_cards": "Асо Жезли + Петица Пентакли",
     "reading_combination": ["ace_wands", "five_pentacles"],
@@ -432,7 +430,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Потърсете помощ. Не сте сами. Има хора, готови да ви подкрепят, ако поискате."
   },
   {
-    "reading_id": "minors_pair_ace_wands_six_pentacles",
+    "reading_id": "ace_wands_six_pentacles",
     "reading_name": "Асо Жезли + Шестица Пентакли",
     "reading_cards": "Асо Жезли + Шестица Пентакли",
     "reading_combination": ["ace_wands", "six_pentacles"],
@@ -442,7 +440,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Приемете помощта с благодарност. Някой ден ще имате възможност да върнете жеста."
   },
   {
-    "reading_id": "minors_pair_ace_wands_seven_pentacles",
+    "reading_id": "ace_wands_seven_pentacles",
     "reading_name": "Асо Жезли + Седмица Пентакли",
     "reading_cards": "Асо Жезли + Седмица Пентакли",
     "reading_combination": ["ace_wands", "seven_pentacles"],
@@ -452,7 +450,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Чакайте търпеливо. Добрите неща идват при тези, които умеят да чакат, докато продължават да работят."
   },
   {
-    "reading_id": "minors_pair_ace_wands_eight_pentacles",
+    "reading_id": "ace_wands_eight_pentacles",
     "reading_name": "Асо Жезли + Осмица Пентакли",
     "reading_cards": "Асо Жезли + Осмица Пентакли",
     "reading_combination": ["ace_wands", "eight_pentacles"],
@@ -462,7 +460,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Учете се с желание. Майсторството идва с практика. Не спирайте да се развивате."
   },
   {
-    "reading_id": "minors_pair_ace_wands_nine_pentacles",
+    "reading_id": "ace_wands_nine_pentacles",
     "reading_name": "Асо Жезли + Деветка Пентакли",
     "reading_cards": "Асо Жезли + Деветка Пентакли",
     "reading_combination": ["ace_wands", "nine_pentacles"],
@@ -472,7 +470,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Ти постигна самостоятелност. Наслади се на свободата, но не спирай да твориш."
   },
   {
-    "reading_id": "minors_pair_ace_wands_ten_pentacles",
+    "reading_id": "ace_wands_ten_pentacles",
     "reading_name": "Асо Жезли + Десетка Пентакли",
     "reading_cards": "Асо Жезли + Десетка Пентакли",
     "reading_combination": ["ace_wands", "ten_pentacles"],
@@ -482,7 +480,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Мислете за бъдещето. Това, което градите сега, ще остане след вас."
   },
   {
-    "reading_id": "minors_pair_ace_wands_page_pentacles",
+    "reading_id": "ace_wands_page_pentacles",
     "reading_name": "Асо Жезли + Паж Пентакли",
     "reading_cards": "Асо Жезли + Паж Пентакли",
     "reading_combination": ["ace_wands", "page_pentacles"],
@@ -492,7 +490,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Започнете да учите. Инвестирайте в себе си. Търпеливо градете, стъпка по стъпка."
   },
   {
-    "reading_id": "minors_pair_ace_wands_knight_pentacles",
+    "reading_id": "ace_wands_knight_pentacles",
     "reading_name": "Асо Жезли + Рицар Пентакли",
     "reading_cards": "Асо Жезли + Рицар Пентакли",
     "reading_combination": ["ace_wands", "knight_pentacles"],
@@ -502,7 +500,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не бързайте. Работете търпеливо. Сигурният път е бавен, но води до целта."
   },
   {
-    "reading_id": "minors_pair_ace_wands_queen_pentacles",
+    "reading_id": "ace_wands_queen_pentacles",
     "reading_name": "Асо Жезли + Царица Пентакли",
     "reading_cards": "Асо Жезли + Царица Пентакли",
     "reading_combination": ["ace_wands", "queen_pentacles"],
@@ -512,7 +510,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Грижете се за проекта като за дом. Вложете любов и практичност – резултатът ще бъде прекрасен."
   },
   {
-    "reading_id": "minors_pair_ace_wands_king_pentacles",
+    "reading_id": "ace_wands_king_pentacles",
     "reading_name": "Асо Жезли + Цар Пентакли",
     "reading_cards": "Асо Жезли + Цар Пентакли",
     "reading_combination": ["ace_wands", "king_pentacles"],
@@ -522,7 +520,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Поемете лидерството. Имате визията и практичността да успеете. Градете стабилно."
   },
   {
-    "reading_id": "minors_pair_two_wands_three_wands",
+    "reading_id": "two_wands_three_wands",
     "reading_name": "Двойка Жезли + Тройка Жезли",
     "reading_cards": "Двойка Жезли + Тройка Жезли",
     "reading_combination": ["two_wands", "three_wands"],
@@ -532,7 +530,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Търпението е добродетел. Резултатите идват при тези, които умеят да чакат, докато продължават да работят."
   },
   {
-    "reading_id": "minors_pair_two_wands_four_wands",
+    "reading_id": "two_wands_four_wands",
     "reading_name": "Двойка Жезли + Четворка Жезли",
     "reading_cards": "Двойка Жезли + Четворка Жезли",
     "reading_combination": ["two_wands", "four_wands"],
@@ -542,7 +540,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувайте, но утре ви очакват нови решения. Насладете се на момента."
   },
   {
-    "reading_id": "minors_pair_two_wands_five_wands",
+    "reading_id": "two_wands_five_wands",
     "reading_name": "Двойка Жезли + Петица Жезли",
     "reading_cards": "Двойка Жезли + Петица Жезли",
     "reading_combination": ["two_wands", "five_wands"],
@@ -552,7 +550,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъдете твърди в решението си. Не можете да угодите на всички. Отстоявайте това, в което вярвате."
   },
   {
-    "reading_id": "minors_pair_two_wands_six_wands",
+    "reading_id": "two_wands_six_wands",
     "reading_name": "Двойка Жезли + Шестица Жезли",
     "reading_cards": "Двойка Жезли + Шестица Жезли",
     "reading_combination": ["two_wands", "six_wands"],
@@ -562,7 +560,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Доверете се на интуицията си. Тя ви води правилно. Насладете се на победата."
   },
   {
-    "reading_id": "minors_pair_two_wands_seven_wands",
+    "reading_id": "two_wands_seven_wands",
     "reading_name": "Двойка Жезли + Седмица Жезли",
     "reading_cards": "Двойка Жезли + Седмица Жезли",
     "reading_combination": ["two_wands", "seven_wands"],
@@ -572,7 +570,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Имайте смелостта да отстоявате себе си. Не се огъвайте пред критиката."
   },
   {
-    "reading_id": "minors_pair_two_wands_eight_wands",
+    "reading_id": "two_wands_eight_wands",
     "reading_name": "Двойка Жезли + Осмица Жезли",
     "reading_cards": "Двойка Жезли + Осмица Жезли",
     "reading_combination": ["two_wands", "eight_wands"],
@@ -582,7 +580,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Останете фокусирани, но се наслаждавайте на скоростта. Яздете вълната на успеха."
   },
   {
-    "reading_id": "minors_pair_two_wands_nine_wands",
+    "reading_id": "two_wands_nine_wands",
     "reading_name": "Двойка Жезли + Деветка Жезли",
     "reading_cards": "Двойка Жезли + Деветка Жезли",
     "reading_combination": ["two_wands", "nine_wands"],
@@ -592,7 +590,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не се отказвайте точно сега. Ти си почти на финала. Още малко търпение."
   },
   {
-    "reading_id": "minors_pair_two_wands_ten_wands",
+    "reading_id": "two_wands_ten_wands",
     "reading_name": "Двойка Жезли + Десетка Жезли",
     "reading_cards": "Двойка Жезли + Десетка Жезли",
     "reading_combination": ["two_wands", "ten_wands"],
@@ -602,7 +600,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Потърсете помощ. Не е нужно да носите всичко сам. Споделете бремето."
   },
   {
-    "reading_id": "minors_pair_two_wands_page_wands",
+    "reading_id": "two_wands_page_wands",
     "reading_name": "Двойка Жезли + Паж Жезли",
     "reading_cards": "Двойка Жезли + Паж Жезли",
     "reading_combination": ["two_wands", "page_wands"],
@@ -612,7 +610,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Отворете се за новините. Те носят нещо ценно за вашето пътуване."
   },
   {
-    "reading_id": "minors_pair_two_wands_knight_wands",
+    "reading_id": "two_wands_knight_wands",
     "reading_name": "Двойка Жезли + Рицар Жезли",
     "reading_cards": "Двойка Жезли + Рицар Жезли",
     "reading_combination": ["two_wands", "knight_wands"],
@@ -622,7 +620,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Действайте с увереност, но внимавайте да не прегазите другите по пътя."
   },
   {
-    "reading_id": "minors_pair_two_wands_queen_wands",
+    "reading_id": "two_wands_queen_wands",
     "reading_name": "Двойка Жезли + Царица Жезли",
     "reading_cards": "Двойка Жезли + Царица Жезли",
     "reading_combination": ["two_wands", "queen_wands"],
@@ -632,7 +630,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъдете себе си – уверено и топло. Вашата светлина води другите."
   },
   {
-    "reading_id": "minors_pair_two_wands_king_wands",
+    "reading_id": "two_wands_king_wands",
     "reading_name": "Двойка Жезли + Цар Жезли",
     "reading_cards": "Двойка Жезли + Цар Жезли",
     "reading_combination": ["two_wands", "king_wands"],
@@ -642,7 +640,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Поемете лидерството. Вашата визия ще вдъхнови другите да ви последват."
   },
   {
-    "reading_id": "minors_pair_two_wands_two_cups",
+    "reading_id": "two_wands_two_cups",
     "reading_name": "Двойка Жезли + Двойка Чаши",
     "reading_cards": "Двойка Жезли + Двойка Чаши",
     "reading_combination": ["two_wands", "two_cups"],
@@ -652,7 +650,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Изберете сърцето, но не забравяйте и главата. След като изберете, не се съмнявайте."
   },
   {
-    "reading_id": "minors_pair_two_wands_three_cups",
+    "reading_id": "two_wands_three_cups",
     "reading_name": "Двойка Жезли + Тройка Чаши",
     "reading_cards": "Двойка Жезли + Тройка Чаши",
     "reading_combination": ["two_wands", "three_cups"],
@@ -662,7 +660,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Изберете това, което ви прави щастливи. Радостта е добър компас."
   },
   {
-    "reading_id": "minors_pair_two_wands_four_cups",
+    "reading_id": "two_wands_four_cups",
     "reading_name": "Двойка Жезли + Четворка Чаши",
     "reading_cards": "Двойка Жезли + Четворка Чаши",
     "reading_combination": ["two_wands", "four_cups"],
@@ -672,7 +670,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Понякога липсата на избор е най-добрият избор. Изчакайте, преди да решите."
   },
   {
-    "reading_id": "minors_pair_two_wands_five_cups",
+    "reading_id": "two_wands_five_cups",
     "reading_name": "Двойка Жезли + Петица Чаши",
     "reading_cards": "Двойка Жезли + Петица Чаши",
     "reading_combination": ["two_wands", "five_cups"],
@@ -682,7 +680,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Изберете това, което носи по-малко болка. Позволете си да скърбите, после продължете."
   },
   {
-    "reading_id": "minors_pair_two_wands_six_cups",
+    "reading_id": "two_wands_six_cups",
     "reading_name": "Двойка Жезли + Шестица Чаши",
     "reading_cards": "Двойка Жезли + Шестица Чаши",
     "reading_combination": ["two_wands", "six_cups"],
@@ -692,7 +690,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Миналото е учител, не водач. Вземете наученото, но гледайте напред."
   },
   {
-    "reading_id": "minors_pair_two_wands_seven_cups",
+    "reading_id": "two_wands_seven_cups",
     "reading_name": "Двойка Жезли + Седмица Чаши",
     "reading_cards": "Двойка Жезли + Седмица Чаши",
     "reading_combination": ["two_wands", "seven_cups"],
@@ -702,7 +700,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Свалете розовите очила, преди да изберете. Реалността е по-ценна от фантазията."
   },
   {
-    "reading_id": "minors_pair_two_wands_eight_cups",
+    "reading_id": "two_wands_eight_cups",
     "reading_name": "Двойка Жезли + Осмица Чаши",
     "reading_cards": "Двойка Жезли + Осмица Чаши",
     "reading_combination": ["two_wands", "eight_cups"],
@@ -712,7 +710,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Тръгнете с увереност. Новият път ви очаква с отворени обятия."
   },
   {
-    "reading_id": "minors_pair_two_wands_nine_cups",
+    "reading_id": "two_wands_nine_cups",
     "reading_name": "Двойка Жезли + Деветка Чаши",
     "reading_cards": "Двойка Жезли + Деветка Чаши",
     "reading_combination": ["two_wands", "nine_cups"],
@@ -722,7 +720,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Мечтите заслужават да бъдат избрани. Не се колебайте – следвайте сърцето си."
   },
   {
-    "reading_id": "minors_pair_two_wands_ten_cups",
+    "reading_id": "two_wands_ten_cups",
     "reading_name": "Двойка Жезли + Десетка Чаши",
     "reading_cards": "Двойка Жезли + Десетка Чаши",
     "reading_combination": ["two_wands", "ten_cups"],
@@ -732,7 +730,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Семейството е най-важното. Съветвайте се с тях и вземете решение заедно."
   },
   {
-    "reading_id": "minors_pair_two_wands_page_cups",
+    "reading_id": "two_wands_page_cups",
     "reading_name": "Двойка Жезли + Паж Чаши",
     "reading_cards": "Двойка Жезли + Паж Чаши",
     "reading_combination": ["two_wands", "page_cups"],
@@ -742,7 +740,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Отворете сърцето си за посланието. То носи отговора, който търсите."
   },
   {
-    "reading_id": "minors_pair_two_wands_knight_cups",
+    "reading_id": "two_wands_knight_cups",
     "reading_name": "Двойка Жезли + Рицар Чаши",
     "reading_cards": "Двойка Жезли + Рицар Чаши",
     "reading_combination": ["two_wands", "knight_cups"],
@@ -752,7 +750,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Изберете с любов. Рицарят на Чаши ви кани да последвате сърцето си."
   },
   {
-    "reading_id": "minors_pair_two_wands_queen_cups",
+    "reading_id": "two_wands_queen_cups",
     "reading_name": "Двойка Жезли + Царица Чаши",
     "reading_cards": "Двойка Жезли + Царица Чаши",
     "reading_combination": ["two_wands", "queen_cups"],
@@ -762,7 +760,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Доверете се на вътрешния си глас. Той знае повече, отколкото си мислите."
   },
   {
-    "reading_id": "minors_pair_two_wands_king_cups",
+    "reading_id": "two_wands_king_cups",
     "reading_name": "Двойка Жезли + Цар Чаши",
     "reading_cards": "Двойка Жезли + Цар Чаши",
     "reading_combination": ["two_wands", "king_cups"],
@@ -772,7 +770,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Вземете решението с ума и сърцето заедно. Балансът води към най-добрия избор."
   },
   {
-    "reading_id": "minors_pair_two_wands_two_swords",
+    "reading_id": "two_wands_two_swords",
     "reading_name": "Двойка Жезли + Двойка Мечове",
     "reading_cards": "Двойка Жезли + Двойка Мечове",
     "reading_combination": ["two_wands", "two_swords"],
@@ -782,7 +780,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Свалете превръзката от очите. Понякога трябва да изберете, дори да не виждате ясно."
   },
   {
-    "reading_id": "minors_pair_two_wands_three_swords",
+    "reading_id": "two_wands_three_swords",
     "reading_name": "Двойка Жезли + Тройка Мечове",
     "reading_cards": "Двойка Жезли + Тройка Мечове",
     "reading_combination": ["two_wands", "three_swords"],
@@ -792,7 +790,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Болката е част от живота. Изберете това, което в дългосрочен план носи повече мир."
   },
   {
-    "reading_id": "minors_pair_two_wands_four_swords",
+    "reading_id": "two_wands_four_swords",
     "reading_name": "Двойка Жезли + Четворка Мечове",
     "reading_cards": "Двойка Жезли + Четворка Мечове",
     "reading_combination": ["two_wands", "four_swords"],
@@ -802,7 +800,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Починете си. Най-добрите решения идват, когато умът е спокоен."
   },
   {
-    "reading_id": "minors_pair_two_wands_five_swords",
+    "reading_id": "two_wands_five_swords",
     "reading_name": "Двойка Жезли + Петица Мечове",
     "reading_cards": "Двойка Жезли + Петица Мечове",
     "reading_combination": ["two_wands", "five_swords"],
@@ -812,7 +810,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Помислете дали си струва да нараните другите, за да спечелите. Понякога отстъплението е по-мъдро."
   },
   {
-    "reading_id": "minors_pair_two_wands_six_swords",
+    "reading_id": "two_wands_six_swords",
     "reading_name": "Двойка Жезли + Шестица Мечове",
     "reading_cards": "Двойка Жезли + Шестица Мечове",
     "reading_combination": ["two_wands", "six_swords"],
@@ -822,7 +820,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Тръгнете с увереност. Новите води носят нови възможности."
   },
   {
-    "reading_id": "minors_pair_two_wands_seven_swords",
+    "reading_id": "two_wands_seven_swords",
     "reading_name": "Двойка Жезли + Седмица Мечове",
     "reading_cards": "Двойка Жезли + Седмица Мечове",
     "reading_combination": ["two_wands", "seven_swords"],
@@ -832,7 +830,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Проверявайте два пъти. Доверието е хубаво, но проверката е по-добра."
   },
   {
-    "reading_id": "minors_pair_two_wands_eight_swords",
+    "reading_id": "two_wands_eight_swords",
     "reading_name": "Двойка Жезли + Осмица Мечове",
     "reading_cards": "Двойка Жезли + Осмица Мечове",
     "reading_combination": ["two_wands", "eight_swords"],
@@ -842,7 +840,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Оковите са в главата ви. Освободете се от страха – имате повече възможности, отколкото си мислите."
   },
   {
-    "reading_id": "minors_pair_two_wands_nine_swords",
+    "reading_id": "two_wands_nine_swords",
     "reading_name": "Двойка Жезли + Деветка Мечове",
     "reading_cards": "Двойка Жезли + Деветка Мечове",
     "reading_combination": ["two_wands", "nine_swords"],
@@ -852,7 +850,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Спокойствие. Повечето неща, за които се тревожим, никога не се случват. Дишайте дълбоко."
   },
   {
-    "reading_id": "minors_pair_two_wands_ten_swords",
+    "reading_id": "two_wands_ten_swords",
     "reading_name": "Двойка Жезли + Десетка Мечове",
     "reading_cards": "Двойка Жезли + Десетка Мечове",
     "reading_combination": ["two_wands", "ten_swords"],
@@ -862,7 +860,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Оставете избора зад гърба си. Това, което е свършило, вече не тежи."
   },
   {
-    "reading_id": "minors_pair_two_wands_page_swords",
+    "reading_id": "two_wands_page_swords",
     "reading_name": "Двойка Жезли + Паж Мечове",
     "reading_cards": "Двойка Жезли + Паж Мечове",
     "reading_combination": ["two_wands", "page_swords"],
@@ -872,7 +870,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Задавайте въпроси. Не приемайте нищо за дадено. Истината ще ви насочи."
   },
   {
-    "reading_id": "minors_pair_two_wands_knight_swords",
+    "reading_id": "two_wands_knight_swords",
     "reading_name": "Двойка Жезли + Рицар Мечове",
     "reading_cards": "Двойка Жезли + Рицар Мечове",
     "reading_combination": ["two_wands", "knight_swords"],
@@ -882,7 +880,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Действайте бързо, но не безразсъдно. Устремът ви е сила, но внимавайте кого прегазвате."
   },
   {
-    "reading_id": "minors_pair_two_wands_queen_swords",
+    "reading_id": "two_wands_queen_swords",
     "reading_name": "Двойка Жезли + Царица Мечове",
     "reading_cards": "Двойка Жезли + Царица Мечове",
     "reading_combination": ["two_wands", "queen_swords"],
@@ -892,7 +890,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъдете честни със себе си. Вашата яснота води към правилното решение."
   },
   {
-    "reading_id": "minors_pair_two_wands_king_swords",
+    "reading_id": "two_wands_king_swords",
     "reading_name": "Двойка Жезли + Цар Мечове",
     "reading_cards": "Двойка Жезли + Цар Мечове",
     "reading_combination": ["two_wands", "king_swords"],
@@ -902,7 +900,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Вземете решението с ума си. Логиката и справедливостта водят към правилния път."
   },
   {
-    "reading_id": "minors_pair_two_wands_two_pentacles",
+    "reading_id": "two_wands_two_pentacles",
     "reading_name": "Двойка Жезли + Двойка Пентакли",
     "reading_cards": "Двойка Жезли + Двойка Пентакли",
     "reading_combination": ["two_wands", "two_pentacles"],
@@ -912,7 +910,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Балансирайте, но не изпускайте топката. Финансовият и времеви баланс са ключови."
   },
   {
-    "reading_id": "minors_pair_two_wands_three_pentacles",
+    "reading_id": "two_wands_three_pentacles",
     "reading_name": "Двойка Жезли + Тройка Пентакли",
     "reading_cards": "Двойка Жезли + Тройка Пентакли",
     "reading_combination": ["two_wands", "three_pentacles"],
@@ -922,7 +920,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Посъветвайте се с други. Заедно можете да вземете по-добро решение."
   },
   {
-    "reading_id": "minors_pair_two_wands_four_pentacles",
+    "reading_id": "two_wands_four_pentacles",
     "reading_name": "Двойка Жезли + Четворка Пентакли",
     "reading_cards": "Двойка Жезли + Четворка Пентакли",
     "reading_combination": ["two_wands", "four_pentacles"],
@@ -932,7 +930,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Пуснете малко. Страхът от загуба може да ви попречи да спечелите нещо по-добро."
   },
   {
-    "reading_id": "minors_pair_two_wands_five_pentacles",
+    "reading_id": "two_wands_five_pentacles",
     "reading_name": "Двойка Жезли + Петица Пентакли",
     "reading_cards": "Двойка Жезли + Петица Пентакли",
     "reading_combination": ["two_wands", "five_pentacles"],
@@ -942,7 +940,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Потърсете помощ. Не сте сами. Има хора, готови да ви подкрепят."
   },
   {
-    "reading_id": "minors_pair_two_wands_six_pentacles",
+    "reading_id": "two_wands_six_pentacles",
     "reading_name": "Двойка Жезли + Шестица Пентакли",
     "reading_cards": "Двойка Жезли + Шестица Пентакли",
     "reading_combination": ["two_wands", "six_pentacles"],
@@ -952,7 +950,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Приемете помощта. Някой ден ще имате възможност да върнете жеста."
   },
   {
-    "reading_id": "minors_pair_two_wands_seven_pentacles",
+    "reading_id": "two_wands_seven_pentacles",
     "reading_name": "Двойка Жезли + Седмица Пентакли",
     "reading_cards": "Двойка Жезли + Седмица Пентакли",
     "reading_combination": ["two_wands", "seven_pentacles"],
@@ -962,7 +960,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Чакайте търпеливо. Добрите неща идват при тези, които умеят да чакат."
   },
   {
-    "reading_id": "minors_pair_two_wands_eight_pentacles",
+    "reading_id": "two_wands_eight_pentacles",
     "reading_name": "Двойка Жезли + Осмица Пентакли",
     "reading_cards": "Двойка Жезли + Осмица Пентакли",
     "reading_combination": ["two_wands", "eight_pentacles"],
@@ -972,7 +970,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Инвестирайте в себе си. Знанието ще ви помогне да изберете правилно."
   },
   {
-    "reading_id": "minors_pair_two_wands_nine_pentacles",
+    "reading_id": "two_wands_nine_pentacles",
     "reading_name": "Двойка Жезли + Деветка Пентакли",
     "reading_cards": "Двойка Жезли + Деветка Пентакли",
     "reading_combination": ["two_wands", "nine_pentacles"],
@@ -982,7 +980,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Изберете смело. Този път води към свободата, която търсите."
   },
   {
-    "reading_id": "minors_pair_two_wands_ten_pentacles",
+    "reading_id": "two_wands_ten_pentacles",
     "reading_name": "Двойка Жезли + Десетка Пентакли",
     "reading_cards": "Двойка Жезли + Десетка Пентакли",
     "reading_combination": ["two_wands", "ten_pentacles"],
@@ -992,7 +990,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Мислете за семейството и за това, което оставяте след себе си."
   },
   {
-    "reading_id": "minors_pair_two_wands_page_pentacles",
+    "reading_id": "two_wands_page_pentacles",
     "reading_name": "Двойка Жезли + Паж Пентакли",
     "reading_cards": "Двойка Жезли + Паж Пентакли",
     "reading_combination": ["two_wands", "page_pentacles"],
@@ -1002,7 +1000,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Хванете възможността. Тя носи ново начало и растеж."
   },
   {
-    "reading_id": "minors_pair_two_wands_knight_pentacles",
+    "reading_id": "two_wands_knight_pentacles",
     "reading_name": "Двойка Жезли + Рицар Пентакли",
     "reading_cards": "Двойка Жезли + Рицар Пентакли",
     "reading_combination": ["two_wands", "knight_pentacles"],
@@ -1012,7 +1010,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не бързайте. Сигурният път е бавен, но води до целта. Обмислете добре."
   },
   {
-    "reading_id": "minors_pair_two_wands_queen_pentacles",
+    "reading_id": "two_wands_queen_pentacles",
     "reading_name": "Двойка Жезли + Царица Пентакли",
     "reading_cards": "Двойка Жезли + Царица Пентакли",
     "reading_combination": ["two_wands", "queen_pentacles"],
@@ -1022,7 +1020,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Изберете практичното. Грижата за дома и близките води към правилното решение."
   },
   {
-    "reading_id": "minors_pair_two_wands_king_pentacles",
+    "reading_id": "two_wands_king_pentacles",
     "reading_name": "Двойка Жезли + Цар Пентакли",
     "reading_cards": "Двойка Жезли + Цар Пентакли",
     "reading_combination": ["two_wands", "king_pentacles"],
@@ -1035,7 +1033,7 @@ export const minorArcanaReadings: Reading[] = [
 
 
  {
-    "reading_id": "minors_pair_three_wands_four_wands",
+    "reading_id": "three_wands_four_wands",
     "reading_name": "Тройка Жезли + Четворка Жезли",
     "reading_cards": "Тройка Жезли + Четворка Жезли",
     "reading_combination": ["three_wands", "four_wands"],
@@ -1045,7 +1043,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Радвай се на пътя, не само на дестинацията. Празнувай малките победи."
   },
   {
-    "reading_id": "minors_pair_three_wands_five_wands",
+    "reading_id": "three_wands_five_wands",
     "reading_name": "Тройка Жезли + Петица Жезли",
     "reading_cards": "Тройка Жезли + Петица Жезли",
     "reading_combination": ["three_wands", "five_wands"],
@@ -1055,7 +1053,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не се замесвай в драми. Фокусирай се върху целите си и остави споровете настрана."
   },
   {
-    "reading_id": "minors_pair_three_wands_six_wands",
+    "reading_id": "three_wands_six_wands",
     "reading_name": "Тройка Жезли + Шестица Жезли",
     "reading_cards": "Тройка Жезли + Шестица Жезли",
     "reading_combination": ["three_wands", "six_wands"],
@@ -1065,7 +1063,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслади се на момента. Ти го заслужи. Търпението и вярата доведоха до този успех."
   },
   {
-    "reading_id": "minors_pair_three_wands_seven_wands",
+    "reading_id": "three_wands_seven_wands",
     "reading_name": "Тройка Жезли + Седмица Жезли",
     "reading_cards": "Тройка Жезли + Седмица Жезли",
     "reading_combination": ["three_wands", "seven_wands"],
@@ -1075,7 +1073,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди бдителен, но не позволявай на страха да те завладее. Дръж позицията си."
   },
   {
-    "reading_id": "minors_pair_three_wands_eight_wands",
+    "reading_id": "three_wands_eight_wands",
     "reading_name": "Тройка Жезли + Осмица Жезли",
     "reading_cards": "Тройка Жезли + Осмица Жезли",
     "reading_combination": ["three_wands", "eight_wands"],
@@ -1085,7 +1083,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Приготви се. Нещата ще се случат по-бързо, отколкото си мислиш. Бъди отворен за бързината."
   },
   {
-    "reading_id": "minors_pair_three_wands_nine_wands",
+    "reading_id": "three_wands_nine_wands",
     "reading_name": "Тройка Жезли + Деветка Жезли",
     "reading_cards": "Тройка Жезли + Деветка Жезли",
     "reading_combination": ["three_wands", "nine_wands"],
@@ -1095,7 +1093,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Дръж се още малко. Краят е близо. Последните усилия ще доведат до резултат."
   },
   {
-    "reading_id": "minors_pair_three_wands_ten_wands",
+    "reading_id": "three_wands_ten_wands",
     "reading_name": "Тройка Жезли + Десетка Жезли",
     "reading_cards": "Тройка Жезли + Десетка Жезли",
     "reading_combination": ["three_wands", "ten_wands"],
@@ -1105,7 +1103,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Потърси облекчение, преди да се сринеш. Не можеш да носиш всичко сам."
   },
   {
-    "reading_id": "minors_pair_three_wands_page_wands",
+    "reading_id": "three_wands_page_wands",
     "reading_name": "Тройка Жезли + Паж Жезли",
     "reading_cards": "Тройка Жезли + Паж Жезли",
     "reading_combination": ["three_wands", "page_wands"],
@@ -1115,7 +1113,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Отвори се за новините. Те носят енергията, от която имаш нужда, за да продължиш."
   },
   {
-    "reading_id": "minors_pair_three_wands_knight_wands",
+    "reading_id": "three_wands_knight_wands",
     "reading_name": "Тройка Жезли + Рицар Жезли",
     "reading_cards": "Тройка Жезли + Рицар Жезли",
     "reading_combination": ["three_wands", "knight_wands"],
@@ -1125,7 +1123,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Забави малко. Скоростта не винаги е най-важното. Понякога бавното и сигурно води до по-добър резултат."
   },
   {
-    "reading_id": "minors_pair_three_wands_queen_wands",
+    "reading_id": "three_wands_queen_wands",
     "reading_name": "Тройка Жезли + Царица Жезли",
     "reading_cards": "Тройка Жезли + Царица Жезли",
     "reading_combination": ["three_wands", "queen_wands"],
@@ -1135,7 +1133,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Вярвай в себе си и в процеса. Увереността ти е заразителна – носи я със себе си."
   },
   {
-    "reading_id": "minors_pair_three_wands_king_wands",
+    "reading_id": "three_wands_king_wands",
     "reading_name": "Тройка Жезли + Цар Жезли",
     "reading_cards": "Тройка Жезли + Цар Жезли",
     "reading_combination": ["three_wands", "king_wands"],
@@ -1145,7 +1143,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Използвай времето на чакане, за да планираш. Визията ти ще те води напред."
   },
   {
-    "reading_id": "minors_pair_three_wands_two_cups",
+    "reading_id": "three_wands_two_cups",
     "reading_name": "Тройка Жезли + Двойка Чаши",
     "reading_cards": "Тройка Жезли + Двойка Чаши",
     "reading_combination": ["three_wands", "two_cups"],
@@ -1155,7 +1153,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Любовта идва, когато не я чакаш. Бъди отворен, но не прибързвай."
   },
   {
-    "reading_id": "minors_pair_three_wands_three_cups",
+    "reading_id": "three_wands_three_cups",
     "reading_name": "Тройка Жезли + Тройка Чаши",
     "reading_cards": "Тройка Жезли + Тройка Чаши",
     "reading_combination": ["three_wands", "three_cups"],
@@ -1165,7 +1163,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Подготвяй се за празника. Радостта идва – отвори сърцето си за нея."
   },
   {
-    "reading_id": "minors_pair_three_wands_four_cups",
+    "reading_id": "three_wands_four_cups",
     "reading_name": "Тройка Жезли + Четворка Чаши",
     "reading_cards": "Тройка Жезли + Четворка Чаши",
     "reading_combination": ["three_wands", "four_cups"],
@@ -1175,7 +1173,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Провери дали това, което очакваш, наистина е това, което искаш. Понякога очакванията ни не съвпадат с истинските ни нужди."
   },
   {
-    "reading_id": "minors_pair_three_wands_five_cups",
+    "reading_id": "three_wands_five_cups",
     "reading_name": "Тройка Жезли + Петица Чаши",
     "reading_cards": "Тройка Жезли + Петица Чаши",
     "reading_combination": ["three_wands", "five_cups"],
@@ -1185,7 +1183,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Каквото дойде, приеми го. Ще се справиш. Позволи си да скърбиш, после продължи."
   },
   {
-    "reading_id": "minors_pair_three_wands_six_cups",
+    "reading_id": "three_wands_six_cups",
     "reading_name": "Тройка Жезли + Шестица Чаши",
     "reading_cards": "Тройка Жезли + Шестица Чаши",
     "reading_combination": ["three_wands", "six_cups"],
@@ -1195,7 +1193,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди готов да посрещнеш миналото, но не спирай да живееш в настоящето. Спомените са хубави, но не бива да те държат в капан."
   },
   {
-    "reading_id": "minors_pair_three_wands_seven_cups",
+    "reading_id": "three_wands_seven_cups",
     "reading_name": "Тройка Жезли + Седмица Чаши",
     "reading_cards": "Тройка Жезли + Седмица Чаши",
     "reading_combination": ["three_wands", "seven_cups"],
@@ -1205,7 +1203,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Слез на земята. Това, което очакваш, може да не е истина. Бъди реалист."
   },
   {
-    "reading_id": "minors_pair_three_wands_eight_cups",
+    "reading_id": "three_wands_eight_cups",
     "reading_name": "Тройка Жезли + Осмица Чаши",
     "reading_cards": "Тройка Жезли + Осмица Чаши",
     "reading_combination": ["three_wands", "eight_cups"],
@@ -1215,7 +1213,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Готов ли си за път? Скоро ще тръгнеш. Подготви се емоционално и логистично."
   },
   {
-    "reading_id": "minors_pair_three_wands_nine_cups",
+    "reading_id": "three_wands_nine_cups",
     "reading_name": "Тройка Жезли + Деветка Чаши",
     "reading_cards": "Тройка Жезли + Деветка Чаши",
     "reading_combination": ["three_wands", "nine_cups"],
@@ -1225,7 +1223,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Търпение. Мечтите се сбъдват, когато е време. Вярвай, че скоро ще дойде твоят ред."
   },
   {
-    "reading_id": "minors_pair_three_wands_ten_cups",
+    "reading_id": "three_wands_ten_cups",
     "reading_name": "Тройка Жезли + Десетка Чаши",
     "reading_cards": "Тройка Жезли + Десетка Чаши",
     "reading_combination": ["three_wands", "ten_cups"],
@@ -1235,7 +1233,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Семейството те очаква. Бъди там с цялото си сърце. Тези моменти са безценни."
   },
   {
-    "reading_id": "minors_pair_three_wands_page_cups",
+    "reading_id": "three_wands_page_cups",
     "reading_name": "Тройка Жезли + Паж Чаши",
     "reading_cards": "Тройка Жезли + Паж Чаши",
     "reading_combination": ["three_wands", "page_cups"],
@@ -1245,7 +1243,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Отвори сърцето си за посланието. То носи нещо ценно за теб."
   },
   {
-    "reading_id": "minors_pair_three_wands_knight_cups",
+    "reading_id": "three_wands_knight_cups",
     "reading_name": "Тройка Жезли + Рицар Чаши",
     "reading_cards": "Тройка Жезли + Рицар Чаши",
     "reading_combination": ["three_wands", "knight_cups"],
@@ -1255,7 +1253,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди отворен за любовта. Тя идва, когато най-малко я очакваш."
   },
   {
-    "reading_id": "minors_pair_three_wands_queen_cups",
+    "reading_id": "three_wands_queen_cups",
     "reading_name": "Тройка Жезли + Царица Чаши",
     "reading_cards": "Тройка Жезли + Царица Чаши",
     "reading_combination": ["three_wands", "queen_cups"],
@@ -1265,7 +1263,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Довери се на вътрешния си глас. Интуицията ти знае повече, отколкото ти осъзнаваш."
   },
   {
-    "reading_id": "minors_pair_three_wands_king_cups",
+    "reading_id": "three_wands_king_cups",
     "reading_name": "Тройка Жезли + Цар Чаши",
     "reading_cards": "Тройка Жезли + Цар Чаши",
     "reading_combination": ["three_wands", "king_cups"],
@@ -1275,7 +1273,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Чакай с мир в сърцето. Емоционалната зрялост води до най-добрите решения."
   },
   {
-    "reading_id": "minors_pair_three_wands_two_swords",
+    "reading_id": "three_wands_two_swords",
     "reading_name": "Тройка Жезли + Двойка Мечове",
     "reading_cards": "Тройка Жезли + Двойка Мечове",
     "reading_combination": ["three_wands", "two_swords"],
@@ -1285,7 +1283,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Свали превръзката от очите. Понякога трябва да чакаш, дори когато не виждаш ясно."
   },
   {
-    "reading_id": "minors_pair_three_wands_three_swords",
+    "reading_id": "three_wands_three_swords",
     "reading_name": "Тройка Жезли + Тройка Мечове",
     "reading_cards": "Тройка Жезли + Тройка Мечове",
     "reading_combination": ["three_wands", "three_swords"],
@@ -1295,7 +1293,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Страхът от болка често е по-лош от самата болка. Бъди смел – каквото дойде, ще се справиш."
   },
   {
-    "reading_id": "minors_pair_three_wands_four_swords",
+    "reading_id": "three_wands_four_swords",
     "reading_name": "Тройка Жезли + Четворка Мечове",
     "reading_cards": "Тройка Жезли + Четворка Мечове",
     "reading_combination": ["three_wands", "four_swords"],
@@ -1305,7 +1303,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Почини си. Най-добрите неща идват, когато умът и тялото са спокойни."
   },
   {
-    "reading_id": "minors_pair_three_wands_five_swords",
+    "reading_id": "three_wands_five_swords",
     "reading_name": "Тройка Жезли + Петица Мечове",
     "reading_cards": "Тройка Жезли + Петица Мечове",
     "reading_combination": ["three_wands", "five_swords"],
@@ -1315,7 +1313,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Понякога най-добрата победа е да не влизаш в битка. Избери битките си мъдро."
   },
   {
-    "reading_id": "minors_pair_three_wands_six_swords",
+    "reading_id": "three_wands_six_swords",
     "reading_name": "Тройка Жезли + Шестица Мечове",
     "reading_cards": "Тройка Жезли + Шестица Мечове",
     "reading_combination": ["three_wands", "six_swords"],
@@ -1325,7 +1323,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Готви се за път. Новите води носят нови възможности. Бъди отворен за тях."
   },
   {
-    "reading_id": "minors_pair_three_wands_seven_swords",
+    "reading_id": "three_wands_seven_swords",
     "reading_name": "Тройка Жезли + Седмица Мечове",
     "reading_cards": "Тройка Жезли + Седмица Мечове",
     "reading_combination": ["three_wands", "seven_swords"],
@@ -1335,7 +1333,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Проверявай два пъти. Доверието е хубаво, но проверката е по-добра."
   },
   {
-    "reading_id": "minors_pair_three_wands_eight_swords",
+    "reading_id": "three_wands_eight_swords",
     "reading_name": "Тройка Жезли + Осмица Мечове",
     "reading_cards": "Тройка Жезли + Осмица Мечове",
     "reading_combination": ["three_wands", "eight_swords"],
@@ -1345,7 +1343,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Оковите са в главата ти. Освободи се от страха – имаш повече възможности, отколкото си мислиш."
   },
   {
-    "reading_id": "minors_pair_three_wands_nine_swords",
+    "reading_id": "three_wands_nine_swords",
     "reading_name": "Тройка Жезли + Деветка Мечове",
     "reading_cards": "Тройка Жезли + Деветка Мечове",
     "reading_combination": ["three_wands", "nine_swords"],
@@ -1355,7 +1353,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Спокойствие. Повечето неща, за които се тревожим, никога не се случват. Дишай дълбоко."
   },
   {
-    "reading_id": "minors_pair_three_wands_ten_swords",
+    "reading_id": "three_wands_ten_swords",
     "reading_name": "Тройка Жезли + Десетка Мечове",
     "reading_cards": "Тройка Жезли + Десетка Мечове",
     "reading_combination": ["three_wands", "ten_swords"],
@@ -1365,7 +1363,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Остави очакването зад гърба си. Това, което свърши, вече не тежи. Гледай напред."
   },
   {
-    "reading_id": "minors_pair_three_wands_page_swords",
+    "reading_id": "three_wands_page_swords",
     "reading_name": "Тройка Жезли + Паж Мечове",
     "reading_cards": "Тройка Жезли + Паж Мечове",
     "reading_combination": ["three_wands", "page_swords"],
@@ -1375,7 +1373,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Задавай въпроси. Не приемай нищо за дадено. Истината ще ти помогне да разбереш."
   },
   {
-    "reading_id": "minors_pair_three_wands_knight_swords",
+    "reading_id": "three_wands_knight_swords",
     "reading_name": "Тройка Жезли + Рицар Мечове",
     "reading_cards": "Тройка Жезли + Рицар Мечове",
     "reading_combination": ["three_wands", "knight_swords"],
@@ -1385,7 +1383,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Забави. Бързината не винаги води до по-добър резултат. Понякога трябва да изчакаш."
   },
   {
-    "reading_id": "minors_pair_three_wands_queen_swords",
+    "reading_id": "three_wands_queen_swords",
     "reading_name": "Тройка Жезли + Царица Мечове",
     "reading_cards": "Тройка Жезли + Царица Мечове",
     "reading_combination": ["three_wands", "queen_swords"],
@@ -1395,7 +1393,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди честен със себе си. Яснотата, колкото и да е сурова, води към правилния път."
   },
   {
-    "reading_id": "minors_pair_three_wands_king_swords",
+    "reading_id": "three_wands_king_swords",
     "reading_name": "Тройка Жезли + Цар Мечове",
     "reading_cards": "Тройка Жезли + Цар Мечове",
     "reading_combination": ["three_wands", "king_swords"],
@@ -1405,7 +1403,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Използвай времето на чакане за анализ и планиране. Логиката ще ти помогне да вземеш правилното решение."
   },
   {
-    "reading_id": "minors_pair_three_wands_two_pentacles",
+    "reading_id": "three_wands_two_pentacles",
     "reading_name": "Тройка Жезли + Двойка Пентакли",
     "reading_cards": "Тройка Жезли + Двойка Пентакли",
     "reading_combination": ["three_wands", "two_pentacles"],
@@ -1415,7 +1413,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Балансирай, но не изпускай топката. Финансовият и времеви баланс са ключови в този период."
   },
   {
-    "reading_id": "minors_pair_three_wands_three_pentacles",
+    "reading_id": "three_wands_three_pentacles",
     "reading_name": "Тройка Жезли + Тройка Пентакли",
     "reading_cards": "Тройка Жезли + Тройка Пентакли",
     "reading_combination": ["three_wands", "three_pentacles"],
@@ -1425,7 +1423,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Сподели очакването с другите. Заедно сте по-силни и чакането става по-леко."
   },
   {
-    "reading_id": "minors_pair_three_wands_four_pentacles",
+    "reading_id": "three_wands_four_pentacles",
     "reading_name": "Тройка Жезли + Четворка Пентакли",
     "reading_cards": "Тройка Жезли + Четворка Пентакли",
     "reading_combination": ["three_wands", "four_pentacles"],
@@ -1435,7 +1433,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Пусни малко. Страхът от загуба може да ти попречи да получиш нещо по-добро."
   },
   {
-    "reading_id": "minors_pair_three_wands_five_pentacles",
+    "reading_id": "three_wands_five_pentacles",
     "reading_name": "Тройка Жезли + Петица Пентакли",
     "reading_cards": "Тройка Жезли + Петица Пентакли",
     "reading_combination": ["three_wands", "five_pentacles"],
@@ -1445,7 +1443,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Потърси помощ. Не си сам. Има хора, готови да те подкрепят, ако поискаш."
   },
   {
-    "reading_id": "minors_pair_three_wands_six_pentacles",
+    "reading_id": "three_wands_six_pentacles",
     "reading_name": "Тройка Жезли + Шестица Пентакли",
     "reading_cards": "Тройка Жезли + Шестица Пентакли",
     "reading_combination": ["three_wands", "six_pentacles"],
@@ -1455,7 +1453,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Приеми помощта с благодарност. Някой ден ще имаш възможност да върнеш жеста."
   },
   {
-    "reading_id": "minors_pair_three_wands_seven_pentacles",
+    "reading_id": "three_wands_seven_pentacles",
     "reading_name": "Тройка Жезли + Седмица Пентакли",
     "reading_cards": "Тройка Жезли + Седмица Пентакли",
     "reading_combination": ["three_wands", "seven_pentacles"],
@@ -1465,7 +1463,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Чакай търпеливо. Добрите неща идват при тези, които умеят да чакат, докато продължават да работят."
   },
   {
-    "reading_id": "minors_pair_three_wands_eight_pentacles",
+    "reading_id": "three_wands_eight_pentacles",
     "reading_name": "Тройка Жезли + Осмица Пентакли",
     "reading_cards": "Тройка Жезли + Осмица Пентакли",
     "reading_combination": ["three_wands", "eight_pentacles"],
@@ -1475,7 +1473,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Използвай времето на чакане, за да се учиш. Знанието, което придобиеш сега, ще ти потрябва после."
   },
   {
-    "reading_id": "minors_pair_three_wands_nine_pentacles",
+    "reading_id": "three_wands_nine_pentacles",
     "reading_name": "Тройка Жезли + Деветка Пентакли",
     "reading_cards": "Тройка Жезли + Деветка Пентакли",
     "reading_combination": ["three_wands", "nine_pentacles"],
@@ -1485,7 +1483,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Ти си близо до целта. Наслади се на пътя, но знай, че свободата те очаква."
   },
   {
-    "reading_id": "minors_pair_three_wands_ten_pentacles",
+    "reading_id": "three_wands_ten_pentacles",
     "reading_name": "Тройка Жезли + Десетка Пентакли",
     "reading_cards": "Тройка Жезли + Десетка Пентакли",
     "reading_combination": ["three_wands", "ten_pentacles"],
@@ -1495,7 +1493,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Мисли за семейството. Това, което идва, ще помогне на всички. Бъди търпелив."
   },
   {
-    "reading_id": "minors_pair_three_wands_page_pentacles",
+    "reading_id": "three_wands_page_pentacles",
     "reading_name": "Тройка Жезли + Паж Пентакли",
     "reading_cards": "Тройка Жезли + Паж Пентакли",
     "reading_combination": ["three_wands", "page_pentacles"],
@@ -1505,7 +1503,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Хвани възможността, когато дойде. Тя носи ново начало и растеж."
   },
   {
-    "reading_id": "minors_pair_three_wands_knight_pentacles",
+    "reading_id": "three_wands_knight_pentacles",
     "reading_name": "Тройка Жезли + Рицар Пентакли",
     "reading_cards": "Тройка Жезли + Рицар Пентакли",
     "reading_combination": ["three_wands", "knight_pentacles"],
@@ -1515,7 +1513,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не бързай. Сигурният път е бавен, но води до целта. Продължавай да работиш."
   },
   {
-    "reading_id": "minors_pair_three_wands_queen_pentacles",
+    "reading_id": "three_wands_queen_pentacles",
     "reading_name": "Тройка Жезли + Царица Пентакли",
     "reading_cards": "Тройка Жезли + Царица Пентакли",
     "reading_combination": ["three_wands", "queen_pentacles"],
@@ -1525,7 +1523,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Грижи се за дома и семейството. Това, което правиш сега, създава основата за бъдещето."
   },
   {
-    "reading_id": "minors_pair_three_wands_king_pentacles",
+    "reading_id": "three_wands_king_pentacles",
     "reading_name": "Тройка Жезли + Цар Пентакли",
     "reading_cards": "Тройка Жезли + Цар Пентакли",
     "reading_combination": ["three_wands", "king_pentacles"],
@@ -1535,7 +1533,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Вярвай в процеса. Това, което идва, носи дългосрочна сигурност. Бъди търпелив."
   },
   {
-    "reading_id": "minors_pair_four_wands_five_wands",
+    "reading_id": "four_wands_five_wands",
     "reading_name": "Четворка Жезли + Петица Жезли",
     "reading_cards": "Четворка Жезли + Петица Жезли",
     "reading_combination": ["four_wands", "five_wands"],
@@ -1545,7 +1543,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не позволявай на споровете да развалят щастието ти. Пази радостта си – не всеки я заслужава."
   },
   {
-    "reading_id": "minors_pair_four_wands_six_wands",
+    "reading_id": "four_wands_six_wands",
     "reading_name": "Четворка Жезли + Шестица Жезли",
     "reading_cards": "Четворка Жезли + Шестица Жезли",
     "reading_combination": ["four_wands", "six_wands"],
@@ -1555,7 +1553,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувай, но утре те чакат нови предизвикателства. Наслади се на момента."
   },
   {
-    "reading_id": "minors_pair_four_wands_seven_wands",
+    "reading_id": "four_wands_seven_wands",
     "reading_name": "Четворка Жезли + Седмица Жезли",
     "reading_cards": "Четворка Жезли + Седмица Жезли",
     "reading_combination": ["four_wands", "seven_wands"],
@@ -1565,7 +1563,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Пази радостта си. Не всеки я заслужава. Бъди бдителен, но не позволявай страхът да те завладее."
   },
   {
-    "reading_id": "minors_pair_four_wands_eight_wands",
+    "reading_id": "four_wands_eight_wands",
     "reading_name": "Четворка Жезли + Осмица Жезли",
     "reading_cards": "Четворка Жезли + Осмица Жезли",
     "reading_combination": ["four_wands", "eight_wands"],
@@ -1575,7 +1573,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Приеми радостта такава, каквато идва – неподготвен, но щастлив. Някои от най-добрите моменти са спонтанни."
   },
   {
-    "reading_id": "minors_pair_four_wands_nine_wands",
+    "reading_id": "four_wands_nine_wands",
     "reading_name": "Четворка Жезли + Деветка Жезли",
     "reading_cards": "Четворка Жезли + Деветка Жезли",
     "reading_combination": ["four_wands", "nine_wands"],
@@ -1585,7 +1583,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Позволи си да си починеш, дори когато празнуваш. Заслужил си този момент на радост – наслади му се."
   },
   {
-    "reading_id": "minors_pair_four_wands_ten_wands",
+    "reading_id": "four_wands_ten_wands",
     "reading_name": "Четворка Жезли + Десетка Жезли",
     "reading_cards": "Четворка Жезли + Десетка Жезли",
     "reading_combination": ["four_wands", "ten_wands"],
@@ -1595,7 +1593,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Освободи се от част от бремето, за да можеш истински да се радваш. Няма срам да потърсиш помощ."
   },
   {
-    "reading_id": "minors_pair_four_wands_page_wands",
+    "reading_id": "four_wands_page_wands",
     "reading_name": "Четворка Жезли + Паж Жезли",
     "reading_cards": "Четворка Жезли + Паж Жезли",
     "reading_combination": ["four_wands", "page_wands"],
@@ -1605,7 +1603,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Отвори се за новините. Те носят още повече светлина в този радостен момент."
   },
   {
-    "reading_id": "minors_pair_four_wands_knight_wands",
+    "reading_id": "four_wands_knight_wands",
     "reading_name": "Четворка Жезли + Рицар Жезли",
     "reading_cards": "Четворка Жезли + Рицар Жезли",
     "reading_combination": ["four_wands", "knight_wands"],
@@ -1615,7 +1613,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслаждавай се на скоростта, но не изпускай контрол. Язди вълната, докато е висока."
   },
   {
-    "reading_id": "minors_pair_four_wands_queen_wands",
+    "reading_id": "four_wands_queen_wands",
     "reading_name": "Четворка Жезли + Царица Жезли",
     "reading_cards": "Четворка Жезли + Царица Жезли",
     "reading_combination": ["four_wands", "queen_wands"],
@@ -1625,7 +1623,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди себе си – топло и уверено. Твоята светлина прави празника специален."
   },
   {
-    "reading_id": "minors_pair_four_wands_king_wands",
+    "reading_id": "four_wands_king_wands",
     "reading_name": "Четворка Жезли + Цар Жезли",
     "reading_cards": "Четворка Жезли + Цар Жезли",
     "reading_combination": ["four_wands", "king_wands"],
@@ -1635,7 +1633,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Води с пример, но не забравяй истинската радост. Властта е привилегия, но и отговорност."
   },
   {
-    "reading_id": "minors_pair_four_wands_two_cups",
+    "reading_id": "four_wands_two_cups",
     "reading_name": "Четворка Жезли + Двойка Чаши",
     "reading_cards": "Четворка Жезли + Двойка Чаши",
     "reading_combination": ["four_wands", "two_cups"],
@@ -1645,7 +1643,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Любовта заслужава да бъде празнувана. Наслади се на този специален момент."
   },
   {
-    "reading_id": "minors_pair_four_wands_three_cups",
+    "reading_id": "four_wands_three_cups",
     "reading_name": "Четворка Жезли + Тройка Чаши",
     "reading_cards": "Четворка Жезли + Тройка Чаши",
     "reading_combination": ["four_wands", "three_cups"],
@@ -1655,7 +1653,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Семейството е най-големият празник. Бъди истински там – тези моменти няма да се повторят."
   },
   {
-    "reading_id": "minors_pair_four_wands_four_cups",
+    "reading_id": "four_wands_four_cups",
     "reading_name": "Четворка Жезли + Четворка Чаши",
     "reading_cards": "Четворка Жезли + Четворка Чаши",
     "reading_combination": ["four_wands", "four_cups"],
@@ -1665,7 +1663,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Потърси причината вътре в себе си, не вън от теб. Понякога най-големите празници са тихи."
   },
   {
-    "reading_id": "minors_pair_four_wands_five_cups",
+    "reading_id": "four_wands_five_cups",
     "reading_name": "Четворка Жезли + Петица Чаши",
     "reading_cards": "Четворка Жезли + Петица Чаши",
     "reading_combination": ["four_wands", "five_cups"],
@@ -1675,7 +1673,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Позволи си да чувстваш и двете. Нормално е. Тъгата не отрича радостта, а я прави по-дълбока."
   },
   {
-    "reading_id": "minors_pair_four_wands_six_cups",
+    "reading_id": "four_wands_six_cups",
     "reading_name": "Четворка Жезли + Шестица Чаши",
     "reading_cards": "Четворка Жезли + Шестица Чаши",
     "reading_combination": ["four_wands", "six_cups"],
@@ -1685,7 +1683,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Цени тези моменти. Те са безценни. Старите приятели са като вино – с времето стават по-добри."
   },
   {
-    "reading_id": "minors_pair_four_wands_seven_cups",
+    "reading_id": "four_wands_seven_cups",
     "reading_name": "Четворка Жезли + Седмица Чаши",
     "reading_cards": "Четворка Жезли + Седмица Чаши",
     "reading_combination": ["four_wands", "seven_cups"],
@@ -1695,7 +1693,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Провери дали това, което празнуваш, е реално. Свали розовите очила, преди да е късно."
   },
   {
-    "reading_id": "minors_pair_four_wands_eight_cups",
+    "reading_id": "four_wands_eight_cups",
     "reading_name": "Четворка Жезли + Осмица Чаши",
     "reading_cards": "Четворка Жезли + Осмица Чаши",
     "reading_combination": ["four_wands", "eight_cups"],
@@ -1705,7 +1703,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслади се на момента. Той няма да се повтори. Бъди истински там, докато можеш."
   },
   {
-    "reading_id": "minors_pair_four_wands_nine_cups",
+    "reading_id": "four_wands_nine_cups",
     "reading_name": "Четворка Жезли + Деветка Чаши",
     "reading_cards": "Четворка Жезли + Деветка Чаши",
     "reading_combination": ["four_wands", "nine_cups"],
@@ -1715,7 +1713,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Ти го постигна. Наслади се на момента. Заслужил си всяка минута от този празник."
   },
   {
-    "reading_id": "minors_pair_four_wands_ten_cups",
+    "reading_id": "four_wands_ten_cups",
     "reading_name": "Четворка Жезли + Десетка Чаши",
     "reading_cards": "Четворка Жезли + Десетка Чаши",
     "reading_combination": ["four_wands", "ten_cups"],
@@ -1725,7 +1723,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Семейството е най-големият празник. Бъди благодарен за тези моменти – те са най-ценното."
   },
   {
-    "reading_id": "minors_pair_four_wands_page_cups",
+    "reading_id": "four_wands_page_cups",
     "reading_name": "Четворка Жезли + Паж Чаши",
     "reading_cards": "Четворка Жезли + Паж Чаши",
     "reading_combination": ["four_wands", "page_cups"],
@@ -1735,7 +1733,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Отвори сърцето си за посланието. То носи любов и топлина в този радостен момент."
   },
   {
-    "reading_id": "minors_pair_four_wands_knight_cups",
+    "reading_id": "four_wands_knight_cups",
     "reading_name": "Четворка Жезли + Рицар Чаши",
     "reading_cards": "Четворка Жезли + Рицар Чаши",
     "reading_combination": ["four_wands", "knight_cups"],
@@ -1745,7 +1743,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Кажи какво чувстваш. Бъди смел в любовта – този момент може да промени всичко."
   },
   {
-    "reading_id": "minors_pair_four_wands_queen_cups",
+    "reading_id": "four_wands_queen_cups",
     "reading_name": "Четворка Жезли + Царица Чаши",
     "reading_cards": "Четворка Жезли + Царица Чаши",
     "reading_combination": ["four_wands", "queen_cups"],
@@ -1755,7 +1753,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Довери се на интуицията си. Тя знае какво е най-добро за теб и за близките ти."
   },
   {
-    "reading_id": "minors_pair_four_wands_king_cups",
+    "reading_id": "four_wands_king_cups",
     "reading_name": "Четворка Жезли + Цар Чаши",
     "reading_cards": "Четворка Жезли + Цар Чаши",
     "reading_combination": ["four_wands", "king_cups"],
@@ -1765,7 +1763,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Цени спокойната радост. Тя е най-трайната. Пази този баланс – той е ключът към щастието."
   },
   {
-    "reading_id": "minors_pair_four_wands_two_swords",
+    "reading_id": "four_wands_two_swords",
     "reading_name": "Четворка Жезли + Двойка Мечове",
     "reading_cards": "Четворка Жезли + Двойка Мечове",
     "reading_combination": ["four_wands", "two_swords"],
@@ -1775,7 +1773,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не позволявай на съмненията да развалят празника ти. Понякога трябва просто да се отпуснеш и да се радваш."
   },
   {
-    "reading_id": "minors_pair_four_wands_three_swords",
+    "reading_id": "four_wands_three_swords",
     "reading_name": "Четворка Жезли + Тройка Мечове",
     "reading_cards": "Четворка Жезли + Тройка Мечове",
     "reading_combination": ["four_wands", "three_swords"],
@@ -1785,7 +1783,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Позволи си да чувстваш и двете. Нормално е. Болката не отрича радостта – те могат да съществуват едновременно."
   },
   {
-    "reading_id": "minors_pair_four_wands_four_swords",
+    "reading_id": "four_wands_four_swords",
     "reading_name": "Четворка Жезли + Четворка Мечове",
     "reading_cards": "Четворка Жезли + Четворка Мечове",
     "reading_combination": ["four_wands", "four_swords"],
@@ -1795,7 +1793,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Понякога най-добрият празник е сам със себе си. Наслади се на тишината и спокойствието."
   },
   {
-    "reading_id": "minors_pair_four_wands_five_swords",
+    "reading_id": "four_wands_five_swords",
     "reading_name": "Четворка Жезли + Петица Мечове",
     "reading_cards": "Четворка Жезли + Петица Мечове",
     "reading_combination": ["four_wands", "five_swords"],
@@ -1805,7 +1803,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувай победата, но помни победените. Понякога да спечелиш не означава да унищожиш другия."
   },
   {
-    "reading_id": "minors_pair_four_wands_six_swords",
+    "reading_id": "four_wands_six_swords",
     "reading_name": "Четворка Жезли + Шестица Мечове",
     "reading_cards": "Четворка Жезли + Шестица Мечове",
     "reading_combination": ["four_wands", "six_swords"],
@@ -1815,7 +1813,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Пътувай и се радвай едновременно. Животът е път – наслаждавай се на всяка спирка."
   },
   {
-    "reading_id": "minors_pair_four_wands_seven_swords",
+    "reading_id": "four_wands_seven_swords",
     "reading_name": "Четворка Жезли + Седмица Мечове",
     "reading_cards": "Четворка Жезли + Седмица Мечове",
     "reading_combination": ["four_wands", "seven_swords"],
@@ -1825,7 +1823,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Истината ще излезе. По-добре сам да я кажеш, отколкото тя да излезе сама. Освободи се от тежестта."
   },
   {
-    "reading_id": "minors_pair_four_wands_eight_swords",
+    "reading_id": "four_wands_eight_swords",
     "reading_name": "Четворка Жезли + Осмица Мечове",
     "reading_cards": "Четворка Жезли + Осмица Мечове",
     "reading_combination": ["four_wands", "eight_swords"],
@@ -1835,7 +1833,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Истинската радост е свободна. Ако се чувстваш в капан, нещо не е наред. Потърси изход."
   },
   {
-    "reading_id": "minors_pair_four_wands_nine_swords",
+    "reading_id": "four_wands_nine_swords",
     "reading_name": "Четворка Жезли + Деветка Мечове",
     "reading_cards": "Четворка Жезли + Деветка Мечове",
     "reading_combination": ["four_wands", "nine_swords"],
@@ -1845,7 +1843,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Тревогите могат да развалят всеки празник. Освободи се от тях – дишай дълбоко и бъди в момента."
   },
   {
-    "reading_id": "minors_pair_four_wands_ten_swords",
+    "reading_id": "four_wands_ten_swords",
     "reading_name": "Четворка Жезли + Десетка Мечове",
     "reading_cards": "Четворка Жезли + Десетка Мечове",
     "reading_combination": ["four_wands", "ten_swords"],
@@ -1855,7 +1853,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслади се на момента. Той няма да се повтори. Краят не отрича красотата на преживяното."
   },
   {
-    "reading_id": "minors_pair_four_wands_page_swords",
+    "reading_id": "four_wands_page_swords",
     "reading_name": "Четворка Жезли + Паж Мечове",
     "reading_cards": "Четворка Жезли + Паж Мечове",
     "reading_combination": ["four_wands", "page_swords"],
@@ -1865,7 +1863,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Истината може да боли, но винаги лекува. Приеми я с отворено сърце."
   },
   {
-    "reading_id": "minors_pair_four_wands_knight_swords",
+    "reading_id": "four_wands_knight_swords",
     "reading_name": "Четворка Жезли + Рицар Мечове",
     "reading_cards": "Четворка Жезли + Рицар Мечове",
     "reading_combination": ["four_wands", "knight_swords"],
@@ -1875,7 +1873,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслади се на скоростта, но не забравяй да спреш и да дишаш. Някои неща са красиви точно защото са кратки."
   },
   {
-    "reading_id": "minors_pair_four_wands_queen_swords",
+    "reading_id": "four_wands_queen_swords",
     "reading_name": "Четворка Жезли + Царица Мечове",
     "reading_cards": "Четворка Жезли + Царица Мечове",
     "reading_combination": ["four_wands", "queen_swords"],
@@ -1885,7 +1883,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди честен със себе си. Яснотата прави радостта по-истинска и трайна."
   },
   {
-    "reading_id": "minors_pair_four_wands_king_swords",
+    "reading_id": "four_wands_king_swords",
     "reading_name": "Четворка Жезли + Цар Мечове",
     "reading_cards": "Четворка Жезли + Цар Мечове",
     "reading_combination": ["four_wands", "king_swords"],
@@ -1895,7 +1893,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Радвай се на справедливостта. Тя е рядка и ценна. Наслади се на момента, защото го заслужаваш."
   },
   {
-    "reading_id": "minors_pair_four_wands_two_pentacles",
+    "reading_id": "four_wands_two_pentacles",
     "reading_name": "Четворка Жезли + Двойка Пентакли",
     "reading_cards": "Четворка Жезли + Двойка Пентакли",
     "reading_combination": ["four_wands", "two_pentacles"],
@@ -1905,7 +1903,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувай, но с мярка. Финансовият баланс е важен – не позволявай на радостта да те изкуши да прекалиш."
   },
   {
-    "reading_id": "minors_pair_four_wands_three_pentacles",
+    "reading_id": "four_wands_three_pentacles",
     "reading_name": "Четворка Жезли + Тройка Пентакли",
     "reading_cards": "Четворка Жезли + Тройка Пентакли",
     "reading_combination": ["four_wands", "three_pentacles"],
@@ -1915,7 +1913,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Благодари на екипа си. Успехът е по-сладък, когато е споделен. Празнувайте заедно."
   },
   {
-    "reading_id": "minors_pair_four_wands_four_pentacles",
+    "reading_id": "four_wands_four_pentacles",
     "reading_name": "Четворка Жезли + Четворка Пентакли",
     "reading_cards": "Четворка Жезли + Четворка Пентакли",
     "reading_combination": ["four_wands", "four_pentacles"],
@@ -1925,7 +1923,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Пусни малко. Парите са за живот, не животът за пари. Позволи си да се радваш."
   },
   {
-    "reading_id": "minors_pair_four_wands_five_pentacles",
+    "reading_id": "four_wands_five_pentacles",
     "reading_name": "Четворка Жезли + Петица Пентакли",
     "reading_cards": "Четворка Жезли + Петица Пентакли",
     "reading_combination": ["four_wands", "five_pentacles"],
@@ -1935,7 +1933,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Истинската радост не изисква много пари. Бъди креативен – най-простите неща често носят най-голямо щастие."
   },
   {
-    "reading_id": "minors_pair_four_wands_six_pentacles",
+    "reading_id": "four_wands_six_pentacles",
     "reading_name": "Четворка Жезли + Шестица Пентакли",
     "reading_cards": "Четворка Жезли + Шестица Пентакли",
     "reading_combination": ["four_wands", "six_pentacles"],
@@ -1945,7 +1943,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Сподели радостта си. Колкото повече даваш, толкова повече получаваш. Бъди щедър."
   },
   {
-    "reading_id": "minors_pair_four_wands_seven_pentacles",
+    "reading_id": "four_wands_seven_pentacles",
     "reading_name": "Четворка Жезли + Седмица Пентакли",
     "reading_cards": "Четворка Жезли + Седмица Пентакли",
     "reading_combination": ["four_wands", "seven_pentacles"],
@@ -1955,7 +1953,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувай напредъка, но имай търпение за крайния резултат. Добрите неща идват с времето."
   },
   {
-    "reading_id": "minors_pair_four_wands_eight_pentacles",
+    "reading_id": "four_wands_eight_pentacles",
     "reading_name": "Четворка Жезли + Осмица Пентакли",
     "reading_cards": "Четворка Жезли + Осмица Пентакли",
     "reading_combination": ["four_wands", "eight_pentacles"],
@@ -1965,7 +1963,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Гордей се с труда си. Майсторството идва с постоянство. Празнувай всяка стъпка от пътя."
   },
   {
-    "reading_id": "minors_pair_four_wands_nine_pentacles",
+    "reading_id": "four_wands_nine_pentacles",
     "reading_name": "Четворка Жезли + Деветка Пентакли",
     "reading_cards": "Четворка Жезли + Деветка Пентакли",
     "reading_combination": ["four_wands", "nine_pentacles"],
@@ -1975,7 +1973,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Ти постигна самостоятелност. Наслади се на свободата и не забравяй откъде идваш."
   },
   {
-    "reading_id": "minors_pair_four_wands_ten_pentacles",
+    "reading_id": "four_wands_ten_pentacles",
     "reading_name": "Четворка Жезли + Десетка Пентакли",
     "reading_cards": "Четворка Жезли + Десетка Пентакли",
     "reading_combination": ["four_wands", "ten_pentacles"],
@@ -1985,7 +1983,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Цени семейството и традициите. Това, което празнувате днес, ще остане като спомен за утрешните поколения."
   },
   {
-    "reading_id": "minors_pair_four_wands_page_pentacles",
+    "reading_id": "four_wands_page_pentacles",
     "reading_name": "Четворка Жезли + Паж Пентакли",
     "reading_cards": "Четворка Жезли + Паж Пентакли",
     "reading_combination": ["four_wands", "page_pentacles"],
@@ -1995,7 +1993,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Хвани възможността. Това е ново начало, което носи радост и растеж. Празнувай го!"
   },
   {
-    "reading_id": "minors_pair_four_wands_knight_pentacles",
+    "reading_id": "four_wands_knight_pentacles",
     "reading_name": "Четворка Жезли + Рицар Пентакли",
     "reading_cards": "Четворка Жезли + Рицар Пентакли",
     "reading_combination": ["four_wands", "knight_pentacles"],
@@ -2005,7 +2003,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не бързай. Сигурният път е бавен, но води до истинска и трайна радост."
   },
   {
-    "reading_id": "minors_pair_four_wands_queen_pentacles",
+    "reading_id": "four_wands_queen_pentacles",
     "reading_name": "Четворка Жезли + Царица Пентакли",
     "reading_cards": "Четворка Жезли + Царица Пентакли",
     "reading_combination": ["four_wands", "queen_pentacles"],
@@ -2015,7 +2013,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Грижи се за дома и семейството. Това е най-красивият празник – споделен с близките в топлината на дома."
   },
   {
-    "reading_id": "minors_pair_four_wands_king_pentacles",
+    "reading_id": "four_wands_king_pentacles",
     "reading_name": "Четворка Жезли + Цар Пентакли",
     "reading_cards": "Четворка Жезли + Цар Пентакли",
     "reading_combination": ["four_wands", "king_pentacles"],
@@ -2025,7 +2023,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслади се на сигурността, която си изградил. Ти си създал стабилна основа – сега е време да празнуваш."
   },
   {
-    "reading_id": "minors_pair_five_wands_six_wands",
+    "reading_id": "five_wands_six_wands",
     "reading_name": "Петица Жезли + Шестица Жезли",
     "reading_cards": "Петица Жезли + Шестица Жезли",
     "reading_combination": ["five_wands", "six_wands"],
@@ -2035,7 +2033,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Гордей се с това, което постигна. Не беше лесно, но успя. Наслади се на успеха."
   },
   {
-    "reading_id": "minors_pair_five_wands_seven_wands",
+    "reading_id": "five_wands_seven_wands",
     "reading_name": "Петица Жезли + Седмица Жезли",
     "reading_cards": "Петица Жезли + Седмица Жезли",
     "reading_combination": ["five_wands", "seven_wands"],
@@ -2045,7 +2043,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Дръж позицията си, но избери битките си мъдро. Не всяка битка си струва да се води."
   },
   {
-    "reading_id": "minors_pair_five_wands_eight_wands",
+    "reading_id": "five_wands_eight_wands",
     "reading_name": "Петица Жезли + Осмица Жезли",
     "reading_cards": "Петица Жезли + Осмица Жезли",
     "reading_combination": ["five_wands", "eight_wands"],
@@ -2055,7 +2053,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Преди да реагираш, преброй до десет. Бързите реакции рядко са мъдри. Дай си време да обмислиш."
   },
   {
-    "reading_id": "minors_pair_five_wands_nine_wands",
+    "reading_id": "five_wands_nine_wands",
     "reading_name": "Петица Жезли + Деветка Жезли",
     "reading_cards": "Петица Жезли + Деветка Жезли",
     "reading_combination": ["five_wands", "nine_wands"],
@@ -2065,7 +2063,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Потърси начин за примирие, преди да си загубил последните си сили. Понякога мирът е по-ценен от правотата."
   },
   {
-    "reading_id": "minors_pair_five_wands_ten_wands",
+    "reading_id": "five_wands_ten_wands",
     "reading_name": "Петица Жезли + Десетка Жезли",
     "reading_cards": "Петица Жезли + Десетка Жезли",
     "reading_combination": ["five_wands", "ten_wands"],
@@ -2075,7 +2073,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Освободи се от ненужните битки. Не всяка битка си струва да се води. Избери кои конфликти са наистина важни."
   },
   {
-    "reading_id": "minors_pair_five_wands_page_wands",
+    "reading_id": "five_wands_page_wands",
     "reading_name": "Петица Жезли + Паж Жезли",
     "reading_cards": "Петица Жезли + Паж Жезли",
     "reading_combination": ["five_wands", "page_wands"],
@@ -2085,57 +2083,53 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Изслушай новините, преди да реагираш. Те може да носят решение на спора."
   },
   {
-    "reading_id": "minors_pair_five_wands_knight_wands",
-    "reading_name": "Петица Жезли + Рицар Жезли",
+    "reading_id": "five_wands_knight_wands",
+    "reading_name": "Импулсивен конфликт",
     "reading_cards": "Петица Жезли + Рицар Жезли",
     "reading_combination": ["five_wands", "knight_wands"],
-    "reading_meaning": "Импулсивен конфликт",
-    "second_meaning": "Петица Жезли носи конфликта, а Рицар Жезли – импулсивността и бързината. Влизате в спор без да мислите, водени от емоция. Риск от прибързани действия.",
+    "reading_meaning": "Петица Жезли носи конфликта, а Рицар Жезли – импулсивността и бързината. Влизате в спор без да мислите, водени от емоция. Риск от прибързани действия.",
     "reading_description": "Влизаш в спор без да мислиш, воден от емоция. Риск от прибързани действия.",
     "reading_advice": "Забави. Импулсивните решения рядко са добри. Преди да реагираш, дишай дълбоко."
   },
   {
-    "reading_id": "minors_pair_five_wands_queen_wands",
-    "reading_name": "Петица Жезли + Царица Жезли",
+    "reading_id": "five_wands_queen_wands",
+    "reading_name": "Уверен конфликт",
     "reading_cards": "Петица Жезли + Царица Жезли",
     "reading_combination": ["five_wands", "queen_wands"],
-    "reading_meaning": "Уверен конфликт",
-    "second_meaning": "Петица Жезли носи конфликта, а Царица Жезли – увереността и харизмата. Водите спора с увереност и достойнство. Хората ви уважават, дори да не са съгласни.",
+    "reading_meaning": "Петица Жезли носи конфликта, а Царица Жезли – увереността и харизмата. Водите спора с увереност и достойнство. Хората ви уважават, дори да не са съгласни.",
     "reading_description": "Водиш спора с увереност и достойнство. Хората те уважават, дори да не са съгласни.",
     "reading_advice": "Бъди уверен, но не арогантен. Истинската сила е в способността да защитаваш позицията си, без да унижаваш другия."
   },
   {
-    "reading_id": "minors_pair_five_wands_king_wands",
-    "reading_name": "Петица Жезли + Цар Жезли",
+    "reading_id": "five_wands_king_wands",
+    "reading_name": "Властен конфликт",
     "reading_cards": "Петица Жезли + Цар Жезли",
     "reading_combination": ["five_wands", "king_wands"],
     "reading_meaning": "Властен конфликт",
-    "second_meaning": "Петица Жезли носи конфликта, а Цар Жезли – лидерството и авторитета. Битката е за власт и надмощие. Кой ще спечели?",
+    "reading_meaning": "Петица Жезли носи конфликта, а Цар Жезли – лидерството и авторитета. Битката е за власт и надмощие. Кой ще спечели?",
     "reading_description": "Конфликт за власт и надмощие. Битка на лидери.",
     "reading_advice": "Истинската власт не се нуждае от битки, за да се докаже. Води с мъдрост, не със сила."
   },
   {
-    "reading_id": "minors_pair_five_wands_two_cups",
-    "reading_name": "Петица Жезли + Двойка Чаши",
+    "reading_id": "five_wands_two_cups",
+    "reading_name": "Конфликт в любовта",
     "reading_cards": "Петица Жезли + Двойка Чаши",
     "reading_combination": ["five_wands", "two_cups"],
-    "reading_meaning": "Конфликт в любовта",
-    "second_meaning": "Петица Жезли носи конфликта, а Двойка Чаши – любовта и връзката. Спорове и борба за надмощие в любовната връзка. Кой ще спечели?",
+    "reading_meaning":"Петица Жезли носи конфликта, а Двойка Чаши – любовта и връзката. Спорове и борба за надмощие в любовната връзка. Кой ще спечели?",
     "reading_description": "Конфликти и спорове в любовната връзка. Борба за надмощие.",
     "reading_advice": "В любовта няма победители. Търсете разбирателство, не победа. Когато единият печели, връзката губи."
   },
   {
-    "reading_id": "minors_pair_five_wands_three_cups",
-    "reading_name": "Петица Жезли + Тройка Чаши",
+    "reading_id": "five_wands_three_cups",
+    "reading_name": "Конфликт на празник",
     "reading_cards": "Петица Жезли + Тройка Чаши",
     "reading_combination": ["five_wands", "three_cups"],
-    "reading_meaning": "Конфликт на празник",
-    "second_meaning": "Петица Жезли носи конфликта, а Тройка Чаши – празника и радостта. Спор или конфликт помрачава празничното настроение. Напрежение сред радост.",
+    "reading_meaning":"Петица Жезли носи конфликта, а Тройка Чаши – празника и радостта. Спор или конфликт помрачава празничното настроение. Напрежение сред радост.",
     "reading_description": "Конфликт или спор помрачава празничното настроение. Напрежение сред радост.",
     "reading_advice": "Не позволявай на споровете да развалят празника ти. Понякога е по-добре да преглътнеш, отколкото да разрушиш щастието."
   },
   {
-    "reading_id": "minors_pair_five_wands_four_cups",
+    "reading_id": "five_wands_four_cups",
     "reading_name": "Петица Жезли + Четворка Чаши",
     "reading_cards": "Петица Жезли + Четворка Чаши",
     "reading_combination": ["five_wands", "four_cups"],
@@ -2145,7 +2139,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Понякога трябва да спреш да се бориш и да си починеш. Апатията не се побеждава с насилие, а с грижа към себе си."
   },
   {
-    "reading_id": "minors_pair_five_wands_five_cups",
+    "reading_id": "five_wands_five_cups",
     "reading_name": "Петица Жезли + Петица Чаши",
     "reading_cards": "Петица Жезли + Петица Чаши",
     "reading_combination": ["five_wands", "five_cups"],
@@ -2156,7 +2150,7 @@ export const minorArcanaReadings: Reading[] = [
   },
   
   {
-    "reading_id": "minors_pair_seven_wands_page_swords",
+    "reading_id": "seven_wands_page_swords",
     "reading_name": "Седмица Жезли + Паж Мечове",
     "reading_cards": "Седмица Жезли + Паж Мечове",
     "reading_combination": ["seven_wands", "page_swords"],
@@ -2166,7 +2160,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Търси истината – тя ще укрепи позицията ти. Не се страхувай да задаваш въпроси."
   },
   {
-    "reading_id": "minors_pair_page_wands_four_swords",
+    "reading_id": "page_wands_four_swords",
     "reading_name": "Паж Жезли + Четворка Мечове",
     "reading_cards": "Паж Жезли + Четворка Мечове",
     "reading_combination": ["page_wands", "four_swords"],
@@ -2176,7 +2170,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не бързай да действаш. Почини си и обмисли идеята – утре ще я видиш по-ясно."
   }, 
   {
-    "reading_id": "minors_pair_five_wands_eight_cups",
+    "reading_id": "five_wands_eight_cups",
     "reading_name": "Петица Жезли + Осмица Чаши",
     "reading_cards": "Петица Жезли + Осмица Чаши",
     "reading_combination": ["five_wands", "eight_cups"],
@@ -2186,7 +2180,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Понякога тръгването е най-доброто решение. Някои битки не си струва да се водят."
   },
   {
-    "reading_id": "minors_pair_five_wands_nine_cups",
+    "reading_id": "five_wands_nine_cups",
     "reading_name": "Петица Жезли + Деветка Чаши",
     "reading_cards": "Петица Жезли + Деветка Чаши",
     "reading_combination": ["five_wands", "nine_cups"],
@@ -2196,7 +2190,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бори се, но не губи себе си в битката. Мечтата е важна, но ти си по-важен."
   },
   {
-    "reading_id": "minors_pair_five_wands_ten_cups",
+    "reading_id": "five_wands_ten_cups",
     "reading_name": "Петица Жезли + Десетка Чаши",
     "reading_cards": "Петица Жезли + Десетка Чаши",
     "reading_combination": ["five_wands", "ten_cups"],
@@ -2206,7 +2200,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Семейството е по-важно от правотата. Потърси мир. Вкъщи не трябва да има победители и победени."
   },
   {
-    "reading_id": "minors_pair_five_wands_page_cups",
+    "reading_id": "five_wands_page_cups",
     "reading_name": "Петица Жезли + Паж Чаши",
     "reading_cards": "Петица Жезли + Паж Чаши",
     "reading_combination": ["five_wands", "page_cups"],
@@ -2216,7 +2210,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Изслушай посланието с отворено сърце. То може да донесе помирение."
   },
   {
-    "reading_id": "minors_pair_five_wands_knight_cups",
+    "reading_id": "five_wands_knight_cups",
     "reading_name": "Петица Жезли + Рицар Чаши",
     "reading_cards": "Петица Жезли + Рицар Чаши",
     "reading_combination": ["five_wands", "knight_cups"],
@@ -2226,7 +2220,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "След бурята идва спокойствие. Позволи си да се помириш с любов, а не с его."
   },
   {
-    "reading_id": "minors_pair_five_wands_queen_cups",
+    "reading_id": "five_wands_queen_cups",
     "reading_name": "Петица Жезли + Царица Чаши",
     "reading_cards": "Петица Жезли + Царица Чаши",
     "reading_combination": ["five_wands", "queen_cups"],
@@ -2236,7 +2230,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Довери се на интуицията си. Тя знае кога да отстъпиш и кога да се защитиш."
   },
   {
-    "reading_id": "minors_pair_five_wands_king_cups",
+    "reading_id": "five_wands_king_cups",
     "reading_name": "Петица Жезли + Цар Чаши",
     "reading_cards": "Петица Жезли + Цар Чаши",
     "reading_combination": ["five_wands", "king_cups"],
@@ -2246,7 +2240,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди спокоен в бурята. Емоционалната зрялост е най-доброто оръжие в конфликт."
   },
   {
-    "reading_id": "minors_pair_five_wands_two_swords",
+    "reading_id": "five_wands_two_swords",
     "reading_name": "Петица Жезли + Двойка Мечове",
     "reading_cards": "Петица Жезли + Двойка Мечове",
     "reading_combination": ["five_wands", "two_swords"],
@@ -2256,7 +2250,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Понякога най-добрият начин да спечелиш е да излезеш от битката. Нерешителността е по-лоша от грешното решение."
   },
   {
-    "reading_id": "minors_pair_five_wands_three_swords",
+    "reading_id": "five_wands_three_swords",
     "reading_name": "Петица Жезли + Тройка Мечове",
     "reading_cards": "Петица Жезли + Тройка Мечове",
     "reading_combination": ["five_wands", "three_swords"],
@@ -2266,7 +2260,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Преди да кажеш нещо, помисли дали можеш да го понесеш, ако ти го кажат. Болката остава дълго след кавгата."
   },
   {
-    "reading_id": "minors_pair_five_wands_four_swords",
+    "reading_id": "five_wands_four_swords",
     "reading_name": "Петица Жезли + Четворка Мечове",
     "reading_cards": "Петица Жезли + Четворка Мечове",
     "reading_combination": ["five_wands", "four_swords"],
@@ -2276,7 +2270,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Почини си. Не можеш да се биеш вечно. Възстановяването е част от победата."
   },
   {
-    "reading_id": "minors_pair_five_wands_five_swords",
+    "reading_id": "five_wands_five_swords",
     "reading_name": "Петица Жезли + Петица Мечове",
     "reading_cards": "Петица Жезли + Петица Мечове",
     "reading_combination": ["five_wands", "five_swords"],
@@ -2286,7 +2280,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Помисли дали си струва да унищожиш другия, за да спечелиш. Победата може да те остави сам."
   },
   {
-    "reading_id": "minors_pair_five_wands_six_swords",
+    "reading_id": "five_wands_six_swords",
     "reading_name": "Петица Жезли + Шестица Мечове",
     "reading_cards": "Петица Жезли + Шестица Мечове",
     "reading_combination": ["five_wands", "six_swords"],
@@ -2296,7 +2290,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Понякога най-доброто решение е да се отдалечиш. Новите води носят нов мир."
   },
   {
-    "reading_id": "minors_pair_five_wands_seven_swords",
+    "reading_id": "five_wands_seven_swords",
     "reading_name": "Петица Жезли + Седмица Мечове",
     "reading_cards": "Петица Жезли + Седмица Мечове",
     "reading_combination": ["five_wands", "seven_swords"],
@@ -2306,7 +2300,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Внимавай. Не всички играят честно. Пази гърба си и не разкривай всичките си карти."
   },
   {
-    "reading_id": "minors_pair_five_wands_eight_swords",
+    "reading_id": "five_wands_eight_swords",
     "reading_name": "Петица Жезли + Осмица Мечове",
     "reading_cards": "Петица Жезли + Осмица Мечове",
     "reading_combination": ["five_wands", "eight_swords"],
@@ -2316,7 +2310,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Оковите са в главата ти. Има повече възможности, отколкото виждаш. Потърси нова перспектива."
   },
   {
-    "reading_id": "minors_pair_five_wands_nine_swords",
+    "reading_id": "five_wands_nine_swords",
     "reading_name": "Петица Жезли + Деветка Мечове",
     "reading_cards": "Петица Жезли + Деветка Мечове",
     "reading_combination": ["five_wands", "nine_swords"],
@@ -2326,7 +2320,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Спокойствие. Повечето неща, за които се тревожим, никога не се случват. Дишай дълбоко."
   },
   {
-    "reading_id": "minors_pair_five_wands_ten_swords",
+    "reading_id": "five_wands_ten_swords",
     "reading_name": "Петица Жезли + Десетка Мечове",
     "reading_cards": "Петица Жезли + Десетка Мечове",
     "reading_combination": ["five_wands", "ten_swords"],
@@ -2336,7 +2330,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Остави битката зад гърба си. Това, което свърши, вече не тежи. Гледай напред."
   },
   {
-    "reading_id": "minors_pair_five_wands_page_swords",
+    "reading_id": "five_wands_page_swords",
     "reading_name": "Петица Жезли + Паж Мечове",
     "reading_cards": "Петица Жезли + Паж Мечове",
     "reading_combination": ["five_wands", "page_swords"],
@@ -2346,7 +2340,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Истината може да боли, но винаги лекува. Приеми я с отворено сърце."
   },
   {
-    "reading_id": "minors_pair_five_wands_knight_swords",
+    "reading_id": "five_wands_knight_swords",
     "reading_name": "Петица Жезли + Рицар Мечове",
     "reading_cards": "Петица Жезли + Рицар Мечове",
     "reading_combination": ["five_wands", "knight_swords"],
@@ -2356,7 +2350,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Забави. Агресията води до разрушение, което не може да бъде поправено. Понякога мълчанието е по-силно."
   },
   {
-    "reading_id": "minors_pair_five_wands_queen_swords",
+    "reading_id": "five_wands_queen_swords",
     "reading_name": "Петица Жезли + Царица Мечове",
     "reading_cards": "Петица Жезли + Царица Мечове",
     "reading_combination": ["five_wands", "queen_swords"],
@@ -2366,7 +2360,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди честен със себе си. Яснотата е сила. Не позволявай на емоциите да замъглят истината."
   },
   {
-    "reading_id": "minors_pair_five_wands_king_swords",
+    "reading_id": "five_wands_king_swords",
     "reading_name": "Петица Жезли + Цар Мечове",
     "reading_cards": "Петица Жезли + Цар Мечове",
     "reading_combination": ["five_wands", "king_swords"],
@@ -2376,7 +2370,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Води с разум, не с емоция. Справедливостта не е жестока – тя е точна. Бъди твърд, но справедлив."
   },
   {
-    "reading_id": "minors_pair_five_wands_two_pentacles",
+    "reading_id": "five_wands_two_pentacles",
     "reading_name": "Петица Жезли + Двойка Пентакли",
     "reading_cards": "Петица Жезли + Двойка Пентакли",
     "reading_combination": ["five_wands", "two_pentacles"],
@@ -2386,7 +2380,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не позволявай на един конфликт да завладее целия ти живот. Балансирай, но не изпускай важните неща."
   },
   {
-    "reading_id": "minors_pair_five_wands_three_pentacles",
+    "reading_id": "five_wands_three_pentacles",
     "reading_name": "Петица Жезли + Тройка Пентакли",
     "reading_cards": "Петица Жезли + Тройка Пентакли",
     "reading_combination": ["five_wands", "three_pentacles"],
@@ -2396,7 +2390,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Търсете общата цел. В екипа няма място за его. Конфликтите само забавят напредъка."
   },
   {
-    "reading_id": "minors_pair_five_wands_four_pentacles",
+    "reading_id": "five_wands_four_pentacles",
     "reading_name": "Петица Жезли + Четворка Пентакли",
     "reading_cards": "Петица Жезли + Четворка Пентакли",
     "reading_combination": ["five_wands", "four_pentacles"],
@@ -2406,7 +2400,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Пусни малко. Колкото повече стискаш, толкова повече се изплъзва. Понякога трябва да дадеш, за да получиш."
   },
   {
-    "reading_id": "minors_pair_five_wands_five_pentacles",
+    "reading_id": "five_wands_five_pentacles",
     "reading_name": "Петица Жезли + Петица Пентакли",
     "reading_cards": "Петица Жезли + Петица Пентакли",
     "reading_combination": ["five_wands", "five_pentacles"],
@@ -2416,7 +2410,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Потърси помощ. Не си сам. Конфликтите, породени от липса, се решават със сътрудничество, не с битка."
   },
   {
-    "reading_id": "minors_pair_five_wands_six_pentacles",
+    "reading_id": "five_wands_six_pentacles",
     "reading_name": "Петица Жезли + Шестица Пентакли",
     "reading_cards": "Петица Жезли + Шестица Пентакли",
     "reading_combination": ["five_wands", "six_pentacles"],
@@ -2426,7 +2420,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Приеми помощта с благодарност. Някой ден ще имаш възможност да върнеш жеста."
   },
   {
-    "reading_id": "minors_pair_five_wands_seven_pentacles",
+    "reading_id": "five_wands_seven_pentacles",
     "reading_name": "Петица Жезли + Седмица Пентакли",
     "reading_cards": "Петица Жезли + Седмица Пентакли",
     "reading_combination": ["five_wands", "seven_pentacles"],
@@ -2436,7 +2430,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Чакай търпеливо. Някои конфликти се разрешават с времето, не с битка."
   },
   {
-    "reading_id": "minors_pair_five_wands_eight_pentacles",
+    "reading_id": "five_wands_eight_pentacles",
     "reading_name": "Петица Жезли + Осмица Пентакли",
     "reading_cards": "Петица Жезли + Осмица Пентакли",
     "reading_combination": ["five_wands", "eight_pentacles"],
@@ -2446,7 +2440,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Научи урока. Всяка битка носи знание, ако си отворен да го видиш."
   },
   {
-    "reading_id": "minors_pair_five_wands_nine_pentacles",
+    "reading_id": "five_wands_nine_pentacles",
     "reading_name": "Петица Жезли + Деветка Пентакли",
     "reading_cards": "Петица Жезли + Деветка Пентакли",
     "reading_combination": ["five_wands", "nine_pentacles"],
@@ -2456,7 +2450,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Понякога конфликтът е цената, която плащаме за свободата. Ти си свободен – наслади се."
   },
   {
-    "reading_id": "minors_pair_five_wands_ten_pentacles",
+    "reading_id": "five_wands_ten_pentacles",
     "reading_name": "Петица Жезли + Десетка Пентакли",
     "reading_cards": "Петица Жезли + Десетка Пентакли",
     "reading_combination": ["five_wands", "ten_pentacles"],
@@ -2466,7 +2460,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Помни – парите идват и си отиват, а семейството остава. Потърси компромис, за да не загубиш и двете."
   },
   {
-    "reading_id": "minors_pair_five_wands_page_pentacles",
+    "reading_id": "five_wands_page_pentacles",
     "reading_name": "Петица Жезли + Паж Пентакли",
     "reading_cards": "Петица Жезли + Паж Пентакли",
     "reading_combination": ["five_wands", "page_pentacles"],
@@ -2476,7 +2470,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Виж възможността зад конфликта. Понякога разрухата носи семената на новото."
   },
   {
-    "reading_id": "minors_pair_five_wands_knight_pentacles",
+    "reading_id": "five_wands_knight_pentacles",
     "reading_name": "Петица Жезли + Рицар Пентакли",
     "reading_cards": "Петица Жезли + Рицар Пентакли",
     "reading_combination": ["five_wands", "knight_pentacles"],
@@ -2486,7 +2480,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не очаквай бързо решение. Бъди упорит, но не твърдоглав. Бавно, но сигурно."
   },
   {
-    "reading_id": "minors_pair_five_wands_queen_pentacles",
+    "reading_id": "five_wands_queen_pentacles",
     "reading_name": "Петица Жезли + Царица Пентакли",
     "reading_cards": "Петица Жезли + Царица Пентакли",
     "reading_combination": ["five_wands", "queen_pentacles"],
@@ -2496,7 +2490,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Потърси практично решение. Грижата за дома и близките е по-важна от правотата."
   },
   {
-    "reading_id": "minors_pair_five_wands_king_pentacles",
+    "reading_id": "five_wands_king_pentacles",
     "reading_name": "Петица Жезли + Цар Пентакли",
     "reading_cards": "Петица Жезли + Цар Пентакли",
     "reading_combination": ["five_wands", "king_pentacles"],
@@ -2506,7 +2500,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "В бизнеса няма място за его. Търси решение, което носи полза и на двете страни. Дългосрочният успех е по-важен от моментната победа."
   },
   {
-    "reading_id": "minors_pair_six_wands_seven_wands",
+    "reading_id": "six_wands_seven_wands",
     "reading_name": "Шестица Жезли + Седмица Жезли",
     "reading_cards": "Шестица Жезли + Седмица Жезли",
     "reading_combination": ["six_wands", "seven_wands"],
@@ -2516,7 +2510,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не позволявай на другите да ти отнемат радостта от успеха. Бъди бдителен, но не позволявай на страха да те завладее."
   },
   {
-    "reading_id": "minors_pair_six_wands_eight_wands",
+    "reading_id": "six_wands_eight_wands",
     "reading_name": "Шестица Жезли + Осмица Жезли",
     "reading_cards": "Шестица Жезли + Осмица Жезли",
     "reading_combination": ["six_wands", "eight_wands"],
@@ -2526,7 +2520,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Приеми успеха с благодарност и смирение. Наслади се на момента – той няма да се повтори скоро."
   },
   {
-    "reading_id": "minors_pair_six_wands_nine_wands",
+    "reading_id": "six_wands_nine_wands",
     "reading_name": "Шестица Жезли + Деветка Жезли",
     "reading_cards": "Шестица Жезли + Деветка Жезли",
     "reading_combination": ["six_wands", "nine_wands"],
@@ -2536,7 +2530,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Почини си. Заслужил си го. Победата е сладка, но не когато си твърде уморен да я вкусиш."
   },
   {
-    "reading_id": "minors_pair_six_wands_ten_wands",
+    "reading_id": "six_wands_ten_wands",
     "reading_name": "Шестица Жезли + Десетка Жезли",
     "reading_cards": "Шестица Жезли + Десетка Жезли",
     "reading_combination": ["six_wands", "ten_wands"],
@@ -2546,7 +2540,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Намери момент за себе си, дори и кратък. Дори победителите имат нужда от почивка."
   },
   {
-    "reading_id": "minors_pair_six_wands_page_wands",
+    "reading_id": "six_wands_page_wands",
     "reading_name": "Шестица Жезли + Паж Жезли",
     "reading_cards": "Шестица Жезли + Паж Жезли",
     "reading_combination": ["six_wands", "page_wands"],
@@ -2556,7 +2550,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Отвори се за новините. Те носят още повече радост и вдъхновение."
   },
   {
-    "reading_id": "minors_pair_six_wands_knight_wands",
+    "reading_id": "six_wands_knight_wands",
     "reading_name": "Шестица Жезли + Рицар Жезли",
     "reading_cards": "Шестица Жезли + Рицар Жезли",
     "reading_combination": ["six_wands", "knight_wands"],
@@ -2566,7 +2560,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Язди вълната, докато е висока, но не забравяй да дишаш. Скоростта е вълнуваща, но и изтощителна."
   },
   {
-    "reading_id": "minors_pair_six_wands_queen_wands",
+    "reading_id": "six_wands_queen_wands",
     "reading_name": "Шестица Жезли + Царица Жезли",
     "reading_cards": "Шестица Жезли + Царица Жезли",
     "reading_combination": ["six_wands", "queen_wands"],
@@ -2576,7 +2570,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди себе си – топло и уверено. Твоята светлина води другите. Сподели успеха си."
   },
   {
-    "reading_id": "minors_pair_six_wands_king_wands",
+    "reading_id": "six_wands_king_wands",
     "reading_name": "Шестица Жезли + Цар Жезли",
     "reading_cards": "Шестица Жезли + Цар Жезли",
     "reading_combination": ["six_wands", "king_wands"],
@@ -2586,7 +2580,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Поеми лидерството с мъдрост. Води с пример и вдъхновявай другите да те следват."
   },
   {
-    "reading_id": "minors_pair_six_wands_two_cups",
+    "reading_id": "six_wands_two_cups",
     "reading_name": "Шестица Жезли + Двойка Чаши",
     "reading_cards": "Шестица Жезли + Двойка Чаши",
     "reading_combination": ["six_wands", "two_cups"],
@@ -2596,7 +2590,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувайте любовта си заедно. Този успех е и ваш, и неин. Споделете радостта."
   },
   {
-    "reading_id": "minors_pair_six_wands_three_cups",
+    "reading_id": "six_wands_three_cups",
     "reading_name": "Шестица Жезли + Тройка Чаши",
     "reading_cards": "Шестица Жезли + Тройка Чаши",
     "reading_combination": ["six_wands", "three_cups"],
@@ -2606,7 +2600,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Сподели успеха си. Той става по-голям, когато го споделиш с тези, които обичаш."
   },
   {
-    "reading_id": "minors_pair_six_wands_four_cups",
+    "reading_id": "six_wands_four_cups",
     "reading_name": "Шестица Жезли + Четворка Чаши",
     "reading_cards": "Шестица Жезли + Четворка Чаши",
     "reading_combination": ["six_wands", "four_cups"],
@@ -2616,7 +2610,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Попитай се какво наистина искаш. Понякога успехът, който преследваме, не е нашият истински успех."
   },
   {
-    "reading_id": "minors_pair_six_wands_five_cups",
+    "reading_id": "six_wands_five_cups",
     "reading_name": "Шестица Жезли + Петица Чаши",
     "reading_cards": "Шестица Жезли + Петица Чаши",
     "reading_combination": ["six_wands", "five_cups"],
@@ -2626,7 +2620,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Понякога победата не си струва цената. Позволи си да скърбиш за загубата, дори да празнуваш успеха."
   },
   {
-    "reading_id": "minors_pair_six_wands_six_cups",
+    "reading_id": "six_wands_six_cups",
     "reading_name": "Шестица Жезли + Шестица Чаши",
     "reading_cards": "Шестица Жезли + Шестица Чаши",
     "reading_combination": ["six_wands", "six_cups"],
@@ -2636,7 +2630,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "По-добре късно, отколкото никога. Приеми признанието с благодарност и продължи напред."
   },
   {
-    "reading_id": "minors_pair_six_wands_seven_cups",
+    "reading_id": "six_wands_seven_cups",
     "reading_name": "Шестица Жезли + Седмица Чаши",
     "reading_cards": "Шестица Жезли + Седмица Чаши",
     "reading_combination": ["six_wands", "seven_cups"],
@@ -2646,7 +2640,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не се залъгвай. Истинският успех е реален. Свали розовите очила и виж нещата такива, каквито са."
   },
   {
-    "reading_id": "minors_pair_six_wands_eight_cups",
+    "reading_id": "six_wands_eight_cups",
     "reading_name": "Шестица Жезли + Осмица Чаши",
     "reading_cards": "Шестица Жезли + Осмица Чаши",
     "reading_combination": ["six_wands", "eight_cups"],
@@ -2656,7 +2650,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувай в движение, ако трябва. Новите пътища очакват тези, които не спират."
   },
   {
-    "reading_id": "minors_pair_six_wands_nine_cups",
+    "reading_id": "six_wands_nine_cups",
     "reading_name": "Шестица Жезли + Деветка Чаши",
     "reading_cards": "Шестица Жезли + Деветка Чаши",
     "reading_combination": ["six_wands", "nine_cups"],
@@ -2666,7 +2660,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслади се на момента. Ти го заслужи. Мечтата ти се сбъдна – бъди благодарен."
   },
   {
-    "reading_id": "minors_pair_six_wands_ten_cups",
+    "reading_id": "six_wands_ten_cups",
     "reading_name": "Шестица Жезли + Десетка Чаши",
     "reading_cards": "Шестица Жезли + Десетка Чаши",
     "reading_combination": ["six_wands", "ten_cups"],
@@ -2676,7 +2670,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Семейството ти се гордее с теб. Сподели радостта с тях – те са част от твоя успех."
   },
   {
-    "reading_id": "minors_pair_six_wands_page_cups",
+    "reading_id": "six_wands_page_cups",
     "reading_name": "Шестица Жезли + Паж Чаши",
     "reading_cards": "Шестица Жезли + Паж Чаши",
     "reading_combination": ["six_wands", "page_cups"],
@@ -2686,7 +2680,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Отвори сърцето си за посланието. То носи любов и топлина в този момент на успех."
   },
   {
-    "reading_id": "minors_pair_six_wands_knight_cups",
+    "reading_id": "six_wands_knight_cups",
     "reading_name": "Шестица Жезли + Рицар Чаши",
     "reading_cards": "Шестица Жезли + Рицар Чаши",
     "reading_combination": ["six_wands", "knight_cups"],
@@ -2696,7 +2690,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Кажи 'да' на любовта. Този момент е специален – наслади му се с пълно сърце."
   },
   {
-    "reading_id": "minors_pair_six_wands_queen_cups",
+    "reading_id": "six_wands_queen_cups",
     "reading_name": "Шестица Жезли + Царица Чаши",
     "reading_cards": "Шестица Жезли + Царица Чаши",
     "reading_combination": ["six_wands", "queen_cups"],
@@ -2706,7 +2700,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Довери се на вътрешния си глас. Той знае пътя. Продължавай да слушаш сърцето си."
   },
   {
-    "reading_id": "minors_pair_six_wands_king_cups",
+    "reading_id": "six_wands_king_cups",
     "reading_name": "Шестица Жезли + Цар Чаши",
     "reading_cards": "Шестица Жезли + Цар Чаши",
     "reading_combination": ["six_wands", "king_cups"],
@@ -2716,7 +2710,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслади се на успеха с мъдростта, която си придобил. Ти заслужи този момент."
   },
   {
-    "reading_id": "minors_pair_six_wands_two_swords",
+    "reading_id": "six_wands_two_swords",
     "reading_name": "Шестица Жезли + Двойка Мечове",
     "reading_cards": "Шестица Жезли + Двойка Мечове",
     "reading_combination": ["six_wands", "two_swords"],
@@ -2726,7 +2720,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Приеми успеха. Заслужаваш го. Свали превръзката от очите и виж какво си постигнал."
   },
   {
-    "reading_id": "minors_pair_six_wands_three_swords",
+    "reading_id": "six_wands_three_swords",
     "reading_name": "Шестица Жезли + Тройка Мечове",
     "reading_cards": "Шестица Жезли + Тройка Мечове",
     "reading_combination": ["six_wands", "three_swords"],
@@ -2736,7 +2730,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Позволи си да чувстваш и радостта, и болката. Те могат да съществуват едновременно."
   },
   {
-    "reading_id": "minors_pair_six_wands_four_swords",
+    "reading_id": "six_wands_four_swords",
     "reading_name": "Шестица Жезли + Четворка Мечове",
     "reading_cards": "Шестица Жезли + Четворка Мечове",
     "reading_combination": ["six_wands", "four_swords"],
@@ -2746,7 +2740,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Почини си. Заслужил си го. Победата не бяга – можеш да си вземеш почивка."
   },
   {
-    "reading_id": "minors_pair_six_wands_five_swords",
+    "reading_id": "six_wands_five_swords",
     "reading_name": "Шестица Жезли + Петица Мечове",
     "reading_cards": "Шестица Жезли + Петица Мечове",
     "reading_combination": ["six_wands", "five_swords"],
@@ -2756,7 +2750,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Помисли дали си струваше. Понякога да оставиш другия да спечели е по-голяма победа."
   },
   {
-    "reading_id": "minors_pair_six_wands_six_swords",
+    "reading_id": "six_wands_six_swords",
     "reading_name": "Шестица Жезли + Шестица Мечове",
     "reading_cards": "Шестица Жезли + Шестица Мечове",
     "reading_combination": ["six_wands", "six_swords"],
@@ -2766,7 +2760,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Тръгни с увереност. Новите води носят нови победи. Успехът те следва."
   },
   {
-    "reading_id": "minors_pair_six_wands_seven_swords",
+    "reading_id": "six_wands_seven_swords",
     "reading_name": "Шестица Жезли + Седмица Мечове",
     "reading_cards": "Шестица Жезли + Седмица Мечове",
     "reading_combination": ["six_wands", "seven_swords"],
@@ -2776,7 +2770,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Провери как си постигнал успеха. Ако е с измама, рано или късно ще излезе. Бъди честен със себе си."
   },
   {
-    "reading_id": "minors_pair_six_wands_eight_swords",
+    "reading_id": "six_wands_eight_swords",
     "reading_name": "Шестица Жезли + Осмица Мечове",
     "reading_cards": "Шестица Жезли + Осмица Мечове",
     "reading_combination": ["six_wands", "eight_swords"],
@@ -2786,7 +2780,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Оковите са в главата ти. Истинската победа е свободата. Потърси изход от собствените си ограничения."
   },
   {
-    "reading_id": "minors_pair_six_wands_nine_swords",
+    "reading_id": "six_wands_nine_swords",
     "reading_name": "Шестица Жезли + Деветка Мечове",
     "reading_cards": "Шестица Жезли + Деветка Мечове",
     "reading_combination": ["six_wands", "nine_swords"],
@@ -2796,7 +2790,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Спокойствие. Страхът може да ти отнеме радостта от успеха. Довери се, че можеш да задържиш това, което си постигнал."
   },
   {
-    "reading_id": "minors_pair_six_wands_ten_swords",
+    "reading_id": "six_wands_ten_swords",
     "reading_name": "Шестица Жезли + Десетка Мечове",
     "reading_cards": "Шестица Жезли + Десетка Мечове",
     "reading_combination": ["six_wands", "ten_swords"],
@@ -2806,7 +2800,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Остави успеха зад гърба си. Той е бил, но не е вечен. Гледай напред към новото начало."
   },
   {
-    "reading_id": "minors_pair_six_wands_page_swords",
+    "reading_id": "six_wands_page_swords",
     "reading_name": "Шестица Жезли + Паж Мечове",
     "reading_cards": "Шестица Жезли + Паж Мечове",
     "reading_combination": ["six_wands", "page_swords"],
@@ -2816,7 +2810,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Благодари на уроците. Истината за пътя ти е ценна повече от самия успех."
   },
   {
-    "reading_id": "minors_pair_six_wands_knight_swords",
+    "reading_id": "six_wands_knight_swords",
     "reading_name": "Шестица Жезли + Рицар Мечове",
     "reading_cards": "Шестица Жезли + Рицар Мечове",
     "reading_combination": ["six_wands", "knight_swords"],
@@ -2826,7 +2820,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Действай бързо, но с яснота. Скоростта е сила, когато е съчетана с мъдрост."
   },
   {
-    "reading_id": "minors_pair_six_wands_queen_swords",
+    "reading_id": "six_wands_queen_swords",
     "reading_name": "Шестица Жезли + Царица Мечове",
     "reading_cards": "Шестица Жезли + Царица Мечове",
     "reading_combination": ["six_wands", "queen_swords"],
@@ -2836,7 +2830,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди честен със себе си. Яснотата е твоята сила. Използвай я, за да продължиш напред."
   },
   {
-    "reading_id": "minors_pair_six_wands_king_swords",
+    "reading_id": "six_wands_king_swords",
     "reading_name": "Шестица Жезли + Цар Мечове",
     "reading_cards": "Шестица Жезли + Цар Мечове",
     "reading_combination": ["six_wands", "king_swords"],
@@ -2846,7 +2840,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Радвай се на справедливостта. Ти спечели честно – това е най-сладката победа."
   },
   {
-    "reading_id": "minors_pair_six_wands_two_pentacles",
+    "reading_id": "six_wands_two_pentacles",
     "reading_name": "Шестица Жезли + Двойка Пентакли",
     "reading_cards": "Шестица Жезли + Двойка Пентакли",
     "reading_combination": ["six_wands", "two_pentacles"],
@@ -2856,7 +2850,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Балансирай, но не изпускай топката. Новите отговорности са знак, че си пораснал."
   },
   {
-    "reading_id": "minors_pair_six_wands_three_pentacles",
+    "reading_id": "six_wands_three_pentacles",
     "reading_name": "Шестица Жезли + Тройка Пентакли",
     "reading_cards": "Шестица Жезли + Тройка Пентакли",
     "reading_combination": ["six_wands", "three_pentacles"],
@@ -2866,7 +2860,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Благодари на екипа си. Успехът е по-сладък, когато е споделен. Празнувайте заедно."
   },
   {
-    "reading_id": "minors_pair_six_wands_four_pentacles",
+    "reading_id": "six_wands_four_pentacles",
     "reading_name": "Шестица Жезли + Четворка Пентакли",
     "reading_cards": "Шестица Жезли + Четворка Пентакли",
     "reading_combination": ["six_wands", "four_pentacles"],
@@ -2876,7 +2870,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Пусни малко. Колкото повече стискаш, толкова повече се изплъзва. Довери се, че можеш да задържиш успеха и без страх."
   },
   {
-    "reading_id": "minors_pair_six_wands_five_pentacles",
+    "reading_id": "six_wands_five_pentacles",
     "reading_name": "Шестица Жезли + Петица Пентакли",
     "reading_cards": "Шестица Жезли + Петица Пентакли",
     "reading_combination": ["six_wands", "five_pentacles"],
@@ -2886,7 +2880,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не позволявай на страха от липса да помрачи успеха. Ти си постигнал нещо – признай си го."
   },
   {
-    "reading_id": "minors_pair_six_wands_six_pentacles",
+    "reading_id": "six_wands_six_pentacles",
     "reading_name": "Шестица Жезли + Шестица Пентакли",
     "reading_cards": "Шестица Жезли + Шестица Пентакли",
     "reading_combination": ["six_wands", "six_pentacles"],
@@ -2896,7 +2890,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Колкото повече даваш, толкова повече получаваш. Щедростта умножава успеха."
   },
   {
-    "reading_id": "minors_pair_six_wands_seven_pentacles",
+    "reading_id": "six_wands_seven_pentacles",
     "reading_name": "Шестица Жезли + Седмица Пентакли",
     "reading_cards": "Шестица Жезли + Седмица Пентакли",
     "reading_combination": ["six_wands", "seven_pentacles"],
@@ -2906,7 +2900,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Чакай търпеливо. Най-доброто тепърва идва. Празнувай малките стъпки."
   },
   {
-    "reading_id": "minors_pair_six_wands_eight_pentacles",
+    "reading_id": "six_wands_eight_pentacles",
     "reading_name": "Шестица Жезли + Осмица Пентакли",
     "reading_cards": "Шестица Жезли + Осмица Пентакли",
     "reading_combination": ["six_wands", "eight_pentacles"],
@@ -2916,7 +2910,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Продължавай да учиш и да се развиваш. Майсторството няма край – то е път, не дестинация."
   },
   {
-    "reading_id": "minors_pair_six_wands_nine_pentacles",
+    "reading_id": "six_wands_nine_pentacles",
     "reading_name": "Шестица Жезли + Деветка Пентакли",
     "reading_cards": "Шестица Жезли + Деветка Пентакли",
     "reading_combination": ["six_wands", "nine_pentacles"],
@@ -2926,7 +2920,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Ти постигна независимост. Наслади се на свободата – ти я заслужи."
   },
   {
-    "reading_id": "minors_pair_six_wands_ten_pentacles",
+    "reading_id": "six_wands_ten_pentacles",
     "reading_name": "Шестица Жезли + Десетка Пентакли",
     "reading_cards": "Шестица Жезли + Десетка Пентакли",
     "reading_combination": ["six_wands", "ten_pentacles"],
@@ -2936,7 +2930,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Гордей се с това, което си изградил. Твоят успех е успех на рода ти."
   },
   {
-    "reading_id": "minors_pair_six_wands_page_pentacles",
+    "reading_id": "six_wands_page_pentacles",
     "reading_name": "Шестица Жезли + Паж Пентакли",
     "reading_cards": "Шестица Жезли + Паж Пентакли",
     "reading_combination": ["six_wands", "page_pentacles"],
@@ -2946,7 +2940,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Хвани новата възможност. Тя носи следващата стъпка в твоето развитие."
   },
   {
-    "reading_id": "minors_pair_six_wands_knight_pentacles",
+    "reading_id": "six_wands_knight_pentacles",
     "reading_name": "Шестица Жезли + Рицар Пентакли",
     "reading_cards": "Шестица Жезли + Рицар Пентакли",
     "reading_combination": ["six_wands", "knight_pentacles"],
@@ -2956,7 +2950,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не бързай. Сигурният път е бавен, но води до траен успех. Продължавай да работиш."
   },
   {
-    "reading_id": "minors_pair_six_wands_queen_pentacles",
+    "reading_id": "six_wands_queen_pentacles",
     "reading_name": "Шестица Жезли + Царица Пентакли",
     "reading_cards": "Шестица Жезли + Царица Пентакли",
     "reading_combination": ["six_wands", "queen_pentacles"],
@@ -2966,7 +2960,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Грижи се за дома и близките. Те са твоята основа. Сподели успеха с тях."
   },
   {
-    "reading_id": "minors_pair_six_wands_king_pentacles",
+    "reading_id": "six_wands_king_pentacles",
     "reading_name": "Шестица Жезли + Цар Пентакли",
     "reading_cards": "Шестица Жезли + Цар Пентакли",
     "reading_combination": ["six_wands", "king_pentacles"],
@@ -3022,7 +3016,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Потърси правата си. И урок: не вярвай сляпо."
   } ,
     {
-    "reading_id": "minors_pair_knight_cups_king_pentacles",
+    "reading_id": "knight_cups_king_pentacles",
     "reading_name": "Рицар Чаши + Цар Пентакли",
     "reading_cards": "Рицар Чаши + Цар Пентакли",
     "reading_combination": ["knight_cups", "king_pentacles"],
@@ -3032,7 +3026,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Следвай сърцето си, но не забравяй и главата. Най-добрите решения са тези, които съчетават любов и стабилност."
   },
   {
-    "reading_id": "minors_pair_seven_swords_king_pentacles",
+    "reading_id": "seven_swords_king_pentacles",
     "reading_name": "Седмица Мечове + Цар Пентакли",
     "reading_cards": "Седмица Мечове + Цар Пентакли",
     "reading_combination": ["seven_swords", "king_pentacles"],
@@ -3042,7 +3036,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не вярвай сляпо. Провери два пъти всяка информация, особено когато става въпрос за пари."
   },
   {
-    "reading_id": "minors_pair_knight_cups_seven_swords",
+    "reading_id": "knight_cups_seven_swords",
     "reading_name": "Рицар Чаши + Седмица Мечове",
     "reading_cards": "Рицар Чаши + Седмица Мечове",
     "reading_combination": ["knight_cups", "seven_swords"],
@@ -3072,7 +3066,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Позволи на любовта да следва естествения си ход. Традициите са създадени, за да пазят ценностите."
   },
   {
-    "reading_id": "minors_pair_page_wands_four_swords",
+    "reading_id": "page_wands_four_swords",
     "reading_name": "Паж Жезли + Четворка Мечове",
     "reading_cards": "Паж Жезли + Четворка Мечове",
     "reading_combination": ["page_wands", "four_swords"],
@@ -3082,7 +3076,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не бързай да действаш. Почини си и обмисли идеята – утре ще я видиш по-ясно."
   },
   {
-    "reading_id": "minors_pair_nine_wands_nine_pentacles",
+    "reading_id": "nine_wands_nine_pentacles",
     "reading_name": "Деветка Жезли + Деветка Пентакли",
     "reading_cards": "Деветка Жезли + Деветка Пентакли",
     "reading_combination": ["nine_wands", "nine_pentacles"],
@@ -3092,7 +3086,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Почини си. Заслужил си този успех. Наслади се на независимостта, но не забравяй да се грижиш за себе си."
   },
   {
-    "reading_id": "minors_pair_nine_cups_nine_pentacles",
+    "reading_id": "nine_cups_nine_pentacles",
     "reading_name": "Деветка Чаши + Деветка Пентакли",
     "reading_cards": "Деветка Чаши + Деветка Пентакли",
     "reading_combination": ["nine_cups", "nine_pentacles"],
@@ -3102,7 +3096,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслади се на момента. Ти постигна всичко, за което си мечтал. Бъди благодарен."
   },
   {
-    "reading_id": "minors_pair_nine_swords_nine_pentacles",
+    "reading_id": "nine_swords_nine_pentacles",
     "reading_name": "Деветка Мечове + Деветка Пентакли",
     "reading_cards": "Деветка Мечове + Деветка Пентакли",
     "reading_combination": ["nine_swords", "nine_pentacles"],
@@ -3112,7 +3106,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Спокойствие. Успехът е твой – не се страхувай да го загубиш. Наслади му се."
   },
   {
-    "reading_id": "minors_pair_nine_wands_nine_swords",
+    "reading_id": "nine_wands_nine_swords",
     "reading_name": "Деветка Жезли + Деветка Мечове",
     "reading_cards": "Деветка Жезли + Деветка Мечове",
     "reading_combination": ["nine_wands", "nine_swords"],
@@ -3122,7 +3116,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Спри за момент. Тревогите ти не са реалност. Потърси помощ, ако не можеш сам да се измъкнеш."
   },
   {
-    "reading_id": "minors_pair_nine_cups_nine_swords",
+    "reading_id": "nine_cups_nine_swords",
     "reading_name": "Деветка Чаши + Деветка Мечове",
     "reading_cards": "Деветка Чаши + Деветка Мечове",
     "reading_combination": ["nine_cups", "nine_swords"],
@@ -3132,7 +3126,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Позволи си да бъдеш щастлив. Страхът не ти служи. Наслади се на това, което си постигнал."
   },
     {
-    "reading_id": "minors_pair_eight_wands_page_pentacles",
+    "reading_id": "eight_wands_page_pentacles",
     "reading_name": "Осмица Жезли + Паж Пентакли",
     "reading_cards": "Осмица Жезли + Паж Пентакли",
     "reading_combination": ["eight_wands", "page_pentacles"],
@@ -3142,7 +3136,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Хвани възможността, докато е гореща. Не се бави – бързината е твой съюзник."
   },
   {
-    "reading_id": "minors_pair_nine_cups_page_pentacles",
+    "reading_id": "nine_cups_page_pentacles",
     "reading_name": "Деветка Чаши + Паж Пентакли",
     "reading_cards": "Деветка Чаши + Паж Пентакли",
     "reading_combination": ["nine_cups", "page_pentacles"],
@@ -4368,6 +4362,687 @@ export const minorArcanaReadings: Reading[] = [
     "reading_meaning": "Здравословни проблеми",
     "reading_description": "Здравословни проблеми. Нужда от почивка и лечение.",
     "reading_advice": "Посети лекар! Не отлагай. Тялото ти крещи за внимание."
+  },
+   {
+    "reading_id": "ace_pentacles_two_wands",
+    "reading_name": "Асо Пентакли + Двойка Жезли",
+    "reading_cards": "Асо Пентакли + Двойка Жезли",
+    "reading_combination": ["ace_pentacles", "two_wands"],
+    "reading_meaning": "Ново начало и избор",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Двойка Жезли – избор и планиране. Имате шанс за материален успех, но трябва да изберете правилната посока. Не се колебайте – възможността е реална.",
+    "reading_description": "Нова финансова възможност пред вас, но трябва да изберете накъде да я насочите.",
+    "reading_advice": "Избери внимателно – правилният избор ще донесе стабилност."
+  },
+  {
+    "reading_id": "ace_pentacles_three_wands",
+    "reading_name": "Асо Пентакли + Тройка Жезли",
+    "reading_cards": "Асо Пентакли + Тройка Жезли",
+    "reading_combination": ["ace_pentacles", "three_wands"],
+    "reading_meaning": "Ново начало и очакване",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Тройка Жезли – очакване и разширяване. Инвестирали сте в нещо ново и сега чакате резултатите. Търпението ще бъде възнаградено.",
+    "reading_description": "Нова финансова възможност, която изисква търпение. Резултатите идват с времето.",
+    "reading_advice": "Чакай търпеливо – добрите неща идват при тези, които умеят да чакат."
+  },
+  {
+    "reading_id": "ace_pentacles_four_wands",
+    "reading_name": "Асо Пентакли + Четворка Жезли",
+    "reading_cards": "Асо Пентакли + Четворка Жезли",
+    "reading_combination": ["ace_pentacles", "four_wands"],
+    "reading_meaning": "Ново начало и празник",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Четворка Жезли – празник и стабилност. Новият ви проект или инвестиция носи повод за празнуване и радост в дома.",
+    "reading_description": "Финансов успех, който носи радост и повод за празник със семейството.",
+    "reading_advice": "Празнувай успеха, но не спирай да работиш. Стабилността се гради стъпка по стъпка."
+  },
+  {
+    "reading_id": "ace_pentacles_five_wands",
+    "reading_name": "Асо Пентакли + Петица Жезли",
+    "reading_cards": "Асо Пентакли + Петица Жезли",
+    "reading_combination": ["ace_pentacles", "five_wands"],
+    "reading_meaning": "Ново начало и конкуренция",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Петица Жезли – конфликт и съперничество. Новата ви идея или бизнес среща конкуренция още в началото. Не се отказвайте – значимите неща винаги предизвикват реакция.",
+    "reading_description": "Нова финансова възможност, но трябва да се бориш за нея. Конкуренция и спорове.",
+    "reading_advice": "Не се отказвай при първото препятствие. Конкуренцията означава, че идеята ти има стойност."
+  },
+  {
+    "reading_id": "ace_pentacles_six_wands",
+    "reading_name": "Асо Пентакли + Шестица Жезли",
+    "reading_cards": "Асо Пентакли + Шестица Жезли",
+    "reading_combination": ["ace_pentacles", "six_wands"],
+    "reading_meaning": "Ново начало и победа",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Шестица Жезли – победа и признание. Новото ви начинание ще има успех още от самото начало. Вашият ентусиазъм и увереност ще бъдат забелязани и оценени.",
+    "reading_description": "Нова финансова възможност, която носи успех и признание още в началото.",
+    "reading_advice": "Наслаждавай се на успеха, но не спирай да работиш. Първата победа е само началото."
+  },
+  {
+    "reading_id": "ace_pentacles_seven_wands",
+    "reading_name": "Асо Пентакли + Седмица Жезли",
+    "reading_cards": "Асо Пентакли + Седмица Жезли",
+    "reading_combination": ["ace_pentacles", "seven_wands"],
+    "reading_meaning": "Ново начало и защита",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Седмица Жезли – защита на позицията. Още в началото трябва да отстоявате новата си идея пред критици. Това е изпитание на вашата увереност.",
+    "reading_description": "Нова финансова възможност, която среща съпротива и критики. Трябва да защитаваш позицията си.",
+    "reading_advice": "Не се огъвай пред първата съпротива. Убедеността ти ще спечели."
+  },
+  {
+    "reading_id": "ace_pentacles_eight_wands",
+    "reading_name": "Асо Пентакли + Осмица Жезли",
+    "reading_cards": "Асо Пентакли + Осмица Жезли",
+    "reading_combination": ["ace_pentacles", "eight_wands"],
+    "reading_meaning": "Бърза финансова възможност",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Осмица Жезли – бързина и движение. Всичко се случва светкавично – възможността се появява и трябва да действате веднага. Няма време за колебание.",
+    "reading_description": "Нова финансова възможност идва бързо – трябва да действаш без колебание.",
+    "reading_advice": "Хвани вълната на скоростта. Действай сега, без да се бавиш."
+  },
+  {
+    "reading_id": "ace_pentacles_nine_wands",
+    "reading_name": "Асо Пентакли + Деветка Жезли",
+    "reading_cards": "Асо Пентакли + Деветка Жезли",
+    "reading_combination": ["ace_pentacles", "nine_wands"],
+    "reading_meaning": "Упорито начало",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Деветка Жезли – устойчивост и изтощение. Началото е трудно и изисква много усилия. Чувствате се изтощени, но не се отказвайте – краят на усилията наближава.",
+    "reading_description": "Нова финансова възможност, която изисква много усилия и търпение. Умора, но не се предавай.",
+    "reading_advice": "Дръж се още малко. Финалната права е точно зад ъгъла."
+  },
+  {
+    "reading_id": "ace_pentacles_ten_wands",
+    "reading_name": "Асо Пентакли + Десетка Жезли",
+    "reading_cards": "Асо Пентакли + Десетка Жезли",
+    "reading_combination": ["ace_pentacles", "ten_wands"],
+    "reading_meaning": "Претоварен старт",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Десетка Жезли – претоварване и бреме. Поемате твърде много отговорности твърде рано. Ентусиазмът ви води до прегаряне, ако не забавите темпото.",
+    "reading_description": "Нова финансова възможност, но поемаш твърде много отговорности. Риск от прегаряне.",
+    "reading_advice": "Забави темпото. Никой не може да носи всичко сам. Потърси помощ."
+  },
+  {
+    "reading_id": "ace_pentacles_page_wands",
+    "reading_name": "Асо Пентакли + Паж Жезли",
+    "reading_cards": "Асо Пентакли + Паж Жезли",
+    "reading_combination": ["ace_pentacles", "page_wands"],
+    "reading_meaning": "Нова възможност и новини",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Паж Жезли – новини и ентусиазъм. Очаквайте вълнуваща вест, свързана с нова финансова възможност или кариерен старт. Ентусиазъм и надежда.",
+    "reading_description": "Нова финансова възможност идва с вълнуващи новини. Ентусиазъм и надежда.",
+    "reading_advice": "Сподели ентусиазма си с другите. Твоята енергия може да привлече подкрепа."
+  },
+  {
+    "reading_id": "ace_pentacles_knight_wands",
+    "reading_name": "Асо Пентакли + Рицар Жезли",
+    "reading_cards": "Асо Пентакли + Рицар Жезли",
+    "reading_combination": ["ace_pentacles", "knight_wands"],
+    "reading_meaning": "Стремителен старт",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Рицар Жезли – импулсивност и бързина. Възможността се появява и веднага се втурвате да я реализирате. Внимавайте да не прегазите другите.",
+    "reading_description": "Нова финансова възможност те кара да действаш светкавично. Неудържима енергия.",
+    "reading_advice": "Действай бързо, но не забравяй за хората около теб. Страстта е добра, но не трябва да прегазва."
+  },
+  {
+    "reading_id": "ace_pentacles_queen_wands",
+    "reading_name": "Асо Пентакли + Царица Жезли",
+    "reading_cards": "Асо Пентакли + Царица Жезли",
+    "reading_combination": ["ace_pentacles", "queen_wands"],
+    "reading_meaning": "Уверен финансов старт",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Царица Жезли – увереност и харизма. Започвате нещо ново с голяма самоувереност. Вашата топлина и увереност привличат хората и инвестициите.",
+    "reading_description": "Нова финансова възможност с увереност и харизма. Хората се вдъхновяват от теб.",
+    "reading_advice": "Бъди себе си – топло и уверено. Твоята светлина вдъхновява другите да те последват."
+  },
+  {
+    "reading_id": "ace_pentacles_king_wands",
+    "reading_name": "Асо Пентакли + Цар Жезли",
+    "reading_cards": "Асо Пентакли + Цар Жезли",
+    "reading_combination": ["ace_pentacles", "king_wands"],
+    "reading_meaning": "Лидерски финансов старт",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Цар Жезли – лидерство и визия. Започвате нов бизнес или проект с ясна визия и авторитет. Имате всички качества да поведете другите.",
+    "reading_description": "Нов бизнес проект с ясна визия и лидерска позиция. Имаш авторитета да водиш.",
+    "reading_advice": "Поеми лидерството. Имаш визията и силата да я осъществиш. Води с пример."
+  },
+  {
+    "reading_id": "ace_pentacles_ace_wands",
+    "reading_name": "Асо Пентакли + Асо Жезли",
+    "reading_cards": "Асо Пентакли + Асо Жезли",
+    "reading_combination": ["ace_pentacles", "ace_wands"],
+    "reading_meaning": "Ново начало и страст",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Асо Жезли – ново начало и страст. Две аса заедно – мощен старт за нов бизнес, проект или инвестиция. Енергия и ресурси в хармония.",
+    "reading_description": "Нов бизнес или проект с огромен потенциал. Енергия и ресурси заедно.",
+    "reading_advice": "Действай сега! Имаш всичко необходимо за успех. Вярвай в себе си."
+  },
+  {
+    "reading_id": "ace_pentacles_two_cups",
+    "reading_name": "Асо Пентакли + Двойка Чаши",
+    "reading_cards": "Асо Пентакли + Двойка Чаши",
+    "reading_combination": ["ace_pentacles", "two_cups"],
+    "reading_meaning": "Нова любов и стабилност",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Двойка Чаши – любов и връзка. Нова любов или връзка, която носи и материална стабилност. Любов и сигурност заедно.",
+    "reading_description": "Нова връзка, която носи не само любов, но и стабилност. Финансова сигурност.",
+    "reading_advice": "Следвай сърцето си, но не забравяй и главата. Това може да е сериозна връзка."
+  },
+  {
+    "reading_id": "ace_pentacles_three_cups",
+    "reading_name": "Асо Пентакли + Тройка Чаши",
+    "reading_cards": "Асо Пентакли + Тройка Чаши",
+    "reading_combination": ["ace_pentacles", "three_cups"],
+    "reading_meaning": "Финансов успех и празник",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Тройка Чаши – празник и радост. Финансовият успех идва с много поводи за празнуване. Споделете радостта с приятели и семейство.",
+    "reading_description": "Финансов успех, който носи радост и поводи за празнуване. Споделено щастие.",
+    "reading_advice": "Празнувай всеки успех, дори малкия. Радостта, споделена с други, е двойна радост."
+  },
+  {
+    "reading_id": "ace_pentacles_four_cups",
+    "reading_name": "Асо Пентакли + Четворка Чаши",
+    "reading_cards": "Асо Пентакли + Четворка Чаши",
+    "reading_combination": ["ace_pentacles", "four_cups"],
+    "reading_meaning": "Пропусната финансова възможност",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Четворка Чаши – апатия и неудовлетворение. Възможност се появява, но вие сте твърде заети със себе си, за да я забележите. Рискувате да пропуснете нещо ценно.",
+    "reading_description": "Нова финансова възможност се появява, но ти не я забелязваш. Твърде си зает със себе си.",
+    "reading_advice": "Вдигни поглед. Може да пропускаш нещо важно, което е точно пред теб."
+  },
+  {
+    "reading_id": "ace_pentacles_five_cups",
+    "reading_name": "Асо Пентакли + Петица Чаши",
+    "reading_cards": "Асо Пентакли + Петица Чаши",
+    "reading_combination": ["ace_pentacles", "five_cups"],
+    "reading_meaning": "Ново начало след загуба",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Петица Чаши – загуба и тъга. След период на финансови затруднения идва нова надежда. Светлина след тъмнина.",
+    "reading_description": "Нова финансова възможност се появява след период на загуби и разочарования.",
+    "reading_advice": "Дори в трудностите има място за ново начало. Позволи си да се отвориш към надеждата."
+  },
+  {
+    "reading_id": "ace_pentacles_six_cups",
+    "reading_name": "Асо Пентакли + Шестица Чаши",
+    "reading_cards": "Асо Пентакли + Шестица Чаши",
+    "reading_combination": ["ace_pentacles", "six_cups"],
+    "reading_meaning": "Носталгична инвестиция",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Шестица Чаши – спомени и носталгия. Новата ви инвестиция или проект ви напомня за нещо от миналото. Носталгия и ново начало.",
+    "reading_description": "Нова финансова възможност, която те връща към спомени от миналото.",
+    "reading_advice": "Използвай миналото като вдъхновение, но не позволявай то да те държи в капан."
+  },
+  {
+    "reading_id": "ace_pentacles_seven_cups",
+    "reading_name": "Асо Пентакли + Седмица Чаши",
+    "reading_cards": "Асо Пентакли + Седмица Чаши",
+    "reading_combination": ["ace_pentacles", "seven_cups"],
+    "reading_meaning": "Много финансови възможности",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Седмица Чаши – множество избори и илюзии. Имате много възможности, но не всички са реални. Трудно е да изберете накъде да насочите ресурсите си.",
+    "reading_description": "Много финансови възможности, но не всички са реални. Труден избор.",
+    "reading_advice": "Избери една възможност и ѝ се посвети. Не се разпилявай в илюзии."
+  },
+  {
+    "reading_id": "ace_pentacles_eight_cups",
+    "reading_name": "Асо Пентакли + Осмица Чаши",
+    "reading_cards": "Асо Пентакли + Осмица Чаши",
+    "reading_combination": ["ace_pentacles", "eight_cups"],
+    "reading_meaning": "Тръгване с нов проект",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Осмица Чаши – тръгване и оставяне. Започвате нов проект, което означава да оставите нещо старо зад гърба си. Пътят към новото изисква освобождаване.",
+    "reading_description": "Започваш нов финансов проект и оставяш старото зад гърба си.",
+    "reading_advice": "Тръгни смело. Старото вече не ти служи. Новият път те очаква."
+  },
+  {
+    "reading_id": "ace_pentacles_nine_cups",
+    "reading_name": "Асо Пентакли + Деветка Чаши",
+    "reading_cards": "Асо Пентакли + Деветка Чаши",
+    "reading_combination": ["ace_pentacles", "nine_cups"],
+    "reading_meaning": "Сбъдната финансова мечта",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Деветка Чаши – сбъднато желание. Новият ви проект носи изпълнение на дългогодишна финансова мечта. Удовлетворение и радост.",
+    "reading_description": "Новият финансов проект носи сбъдване на дългогодишна мечта.",
+    "reading_advice": "Наслади се на момента. Ти го заслужи. Мечтата ти се сбъдва."
+  },
+  {
+    "reading_id": "ace_pentacles_ten_cups",
+    "reading_name": "Асо Пентакли + Десетка Чаши",
+    "reading_cards": "Асо Пентакли + Десетка Чаши",
+    "reading_combination": ["ace_pentacles", "ten_cups"],
+    "reading_meaning": "Семеен финансов успех",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Десетка Чаши – пълно семейно щастие. Новият ви проект носи радост на цялото семейство. Финансова стабилност и хармония в дома.",
+    "reading_description": "Нов финансов проект, който носи щастие на цялото семейство.",
+    "reading_advice": "Сподели успеха със семейството си. Щастието е по-голямо, когато е споделено."
+  },
+  {
+    "reading_id": "ace_pentacles_page_cups",
+    "reading_name": "Асо Пентакли + Паж Чаши",
+    "reading_cards": "Асо Пентакли + Паж Чаши",
+    "reading_combination": ["ace_pentacles", "page_cups"],
+    "reading_meaning": "Финансова възможност и послание",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Паж Чаши – емоционално послание. Очаквайте вълнуваща новина, свързана с финанси или кариера. Някой може да ви направи предложение.",
+    "reading_description": "Получаваш емоционално послание, свързано с нова финансова възможност.",
+    "reading_advice": "Отвори сърцето си за посланието. То носи нещо важно за теб."
+  },
+  {
+    "reading_id": "ace_pentacles_knight_cups",
+    "reading_name": "Асо Пентакли + Рицар Чаши",
+    "reading_cards": "Асо Пентакли + Рицар Чаши",
+    "reading_combination": ["ace_pentacles", "knight_cups"],
+    "reading_meaning": "Романтично предложение",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Рицар Чаши – романтика и ухажване. Очаквайте романтичен жест или предложение, което идва с материална сигурност. Любов и стабилност заедно.",
+    "reading_description": "Романтично предложение или жест, който носи и финансова сигурност.",
+    "reading_advice": "Кажи какво чувстваш. Бъди смел в любовта – сърцето ти знае пътя."
+  },
+  {
+    "reading_id": "ace_pentacles_queen_cups",
+    "reading_name": "Асо Пентакли + Царица Чаши",
+    "reading_cards": "Асо Пентакли + Царица Чаши",
+    "reading_combination": ["ace_pentacles", "queen_cups"],
+    "reading_meaning": "Интуитивна инвестиция",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Царица Чаши – интуиция и дълбока емоционалност. Интуицията ви води към правилната финансова инвестиция. Слушайте вътрешния си глас.",
+    "reading_description": "Нова финансова възможност, водена от интуиция и дълбоки чувства.",
+    "reading_advice": "Довери се на вътрешния си глас. Интуицията ти води правилно."
+  },
+  {
+    "reading_id": "ace_pentacles_king_cups",
+    "reading_name": "Асо Пентакли + Цар Чаши",
+    "reading_cards": "Асо Пентакли + Цар Чаши",
+    "reading_combination": ["ace_pentacles", "king_cups"],
+    "reading_meaning": "Контролирана инвестиция",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Цар Чаши – емоционална зрялост и контрол. Новата ви инвестиция е силна, но вие умеете да я контролирате. Баланс между емоции и разум.",
+    "reading_description": "Нова финансова възможност, която умееш да контролираш. Емоционална зрялост и баланс.",
+    "reading_advice": "Управлявай ресурсите си с мъдрост. Страстта е силна, но ти си по-силен."
+  },
+  {
+    "reading_id": "ace_pentacles_two_swords",
+    "reading_name": "Асо Пентакли + Двойка Мечове",
+    "reading_cards": "Асо Пентакли + Двойка Мечове",
+    "reading_combination": ["ace_pentacles", "two_swords"],
+    "reading_meaning": "Финансова възможност и съмнение",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Двойка Мечове – нерешителност и блокиране. Имате нова финансова възможност, но се съмнявате дали да я реализирате. Страхът от грешка ви парализира.",
+    "reading_description": "Нова финансова възможност, но съмненията те спират. Не знаеш дали да действаш.",
+    "reading_advice": "Свали превръзката от очите. Понякога трябва да избереш, дори да не виждаш ясно."
+  },
+  {
+    "reading_id": "ace_pentacles_three_swords",
+    "reading_name": "Асо Пентакли + Тройка Мечове",
+    "reading_cards": "Асо Пентакли + Тройка Мечове",
+    "reading_combination": ["ace_pentacles", "three_swords"],
+    "reading_meaning": "Финансова възможност и болка",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Тройка Мечове – болка и разбито сърце. Новата ви финансова възможност може да донесе разочарование или болка. Внимавайте с кого споделяте.",
+    "reading_description": "Нова финансова възможност носи не само радост, но и риск от разочарование.",
+    "reading_advice": "Бъди внимателен с доверието си. Не всяка възможност носи само печалба."
+  },
+  {
+    "reading_id": "ace_pentacles_four_swords",
+    "reading_name": "Асо Пентакли + Четворка Мечове",
+    "reading_cards": "Асо Пентакли + Четворка Мечове",
+    "reading_combination": ["ace_pentacles", "four_swords"],
+    "reading_meaning": "Почивка преди инвестиция",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Четворка Мечове – почивка и възстановяване. Имате възможност, но сега не е моментът за действие. Първо починете и съберете сили.",
+    "reading_description": "Имаш нова финансова възможност, но сега е време за почивка, не за действие.",
+    "reading_advice": "Почини си преди да започнеш. Добрата подготовка води до успех."
+  },
+  {
+    "reading_id": "ace_pentacles_five_swords",
+    "reading_name": "Асо Пентакли + Петица Мечове",
+    "reading_cards": "Асо Пентакли + Петица Мечове",
+    "reading_combination": ["ace_pentacles", "five_swords"],
+    "reading_meaning": "Конфликтна финансова възможност",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Петица Мечове – конфликт и празна победа. Възможността може да предизвика спор или да се опитате да я наложите по неправилен начин. Помислете дали си струва.",
+    "reading_description": "Новата финансова възможност предизвиква конфликт. Може да спечелиш, но с цената на нечии чувства.",
+    "reading_advice": "Помисли дали си струва да нараниш другите, за да спечелиш. Понякога е по-добре да отстъпиш."
+  },
+  {
+    "reading_id": "ace_pentacles_six_swords",
+    "reading_name": "Асо Пентакли + Шестица Мечове",
+    "reading_cards": "Асо Пентакли + Шестица Мечове",
+    "reading_combination": ["ace_pentacles", "six_swords"],
+    "reading_meaning": "Ново финансово начало и път",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Шестица Мечове – пътуване и преход. Новата ви инвестиция или проект ще ви отведе на ново място – физически или метафорично. Очаквайте промяна на средата.",
+    "reading_description": "Нов финансов проект те отвежда на ново място. Пътуване или преместване те очаква.",
+    "reading_advice": "Тръгни с увереност. Новите води носят нови възможности."
+  },
+  {
+    "reading_id": "ace_pentacles_seven_swords",
+    "reading_name": "Асо Пентакли + Седмица Мечове",
+    "reading_cards": "Асо Пентакли + Седмица Мечове",
+    "reading_combination": ["ace_pentacles", "seven_swords"],
+    "reading_meaning": "Финансова възможност и измама",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Седмица Мечове – измама и хитрост. Внимавайте – някой може да се опита да присвои идеята ви или да ви измами. Пазите интелектуалната си собственост.",
+    "reading_description": "Новата ти финансова идея е ценна, но има риск някой да се опита да ти я открадне.",
+    "reading_advice": "Бъди внимателен с кого споделяш идеите си. Проверявай два пъти."
+  },
+  {
+    "reading_id": "ace_pentacles_eight_swords",
+    "reading_name": "Асо Пентакли + Осмица Мечове",
+    "reading_cards": "Асо Пентакли + Осмица Мечове",
+    "reading_combination": ["ace_pentacles", "eight_swords"],
+    "reading_meaning": "Блокирана финансова възможност",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Осмица Мечове – чувство на капан и ограничение. Имате страхотна възможност, но се чувствате блокирани и без изход. Страхът ви пречи да действате.",
+    "reading_description": "Имаш нова финансова възможност, но се чувстваш в капан. Страховете ти пречат да действаш.",
+    "reading_advice": "Оковите са в главата ти. Освободи се от страха и ще видиш, че имаш повече възможности."
+  },
+  {
+    "reading_id": "ace_pentacles_nine_swords",
+    "reading_name": "Асо Пентакли + Деветка Мечове",
+    "reading_cards": "Асо Пентакли + Деветка Мечове",
+    "reading_combination": ["ace_pentacles", "nine_swords"],
+    "reading_meaning": "Тревожна финансова възможност",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Деветка Мечове – тревога и безсъние. Възможността ви вълнува, но също така ви тревожи. Мислите ви се въртят около нея и не ви оставят да спите.",
+    "reading_description": "Нова финансова възможност те вълнува, но носи и тревоги. Безсъние и премисляне.",
+    "reading_advice": "Спокойствие. Повечето неща, за които се тревожим, никога не се случват. Довери се на процеса."
+  },
+  {
+    "reading_id": "ace_pentacles_ten_swords",
+    "reading_name": "Асо Пентакли + Десетка Мечове",
+    "reading_cards": "Асо Пентакли + Десетка Мечове",
+    "reading_combination": ["ace_pentacles", "ten_swords"],
+    "reading_meaning": "Край и ново финансово начало",
+    "second_meaning": "Асо Пентакли носи ново финансово начало, а Десетка Мечове – край и дъно. Нещо старо приключва, за да може нещо ново да започне. Краят е болезнен, но носи освобождение и нов път.",
+    "reading_description": "След тежък финансов край идва ново начало. Феникс от пепелта.",
+    "reading_advice": "Остави старото да умре. Новото вече чука на вратата. Позволи му да влезе."
+  },
+  {
+    "reading_id": "ace_pentacles_page_swords",
+    "reading_name": "Асо Пентакли + Паж Мечове",
+    "reading_cards": "Асо Пентакли + Паж Мечове",
+    "reading_combination": ["ace_pentacles", "page_swords"],
+    "reading_meaning": "Финансова възможност и истина",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Паж Мечове – търсене на истината. Новата ви финансова идея ви кара да търсите отговори и да задавате въпроси. Любопитството ви води към открития.",
+    "reading_description": "Нова финансова възможност те кара да търсиш истината. Любопитство и открития.",
+    "reading_advice": "Задавай въпроси. Не приемай нищо за дадено. Истината е някъде там – открий я."
+  },
+  {
+    "reading_id": "ace_pentacles_knight_swords",
+    "reading_name": "Асо Пентакли + Рицар Мечове",
+    "reading_cards": "Асо Пентакли + Рицар Мечове",
+    "reading_combination": ["ace_pentacles", "knight_swords"],
+    "reading_meaning": "Стремителна финансова идея",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Рицар Мечове – бързина и прямота. Идеята идва светкавично и веднага искате да я реализирате. Действате бързо и решително.",
+    "reading_description": "Новата финансова идея идва светкавично и те кара да действаш без колебание.",
+    "reading_advice": "Действай бързо, но не безразсъдно. Устремът ти е сила, но не прегазвай другите."
+  },
+  {
+    "reading_id": "ace_pentacles_queen_swords",
+    "reading_name": "Асо Пентакли + Царица Мечове",
+    "reading_cards": "Асо Пентакли + Царица Мечове",
+    "reading_combination": ["ace_pentacles", "queen_swords"],
+    "reading_meaning": "Ясна финансова идея",
+    "second_meaning": "Асо Пентакли носи нова финансова възможност, а Царица Мечове – яснота и независимост. Имате кристално ясна визия за новата си финансова възможност. Никой не може да ви заблуди.",
+    "reading_description": "Новата ти финансова идея е кристално ясна. Знаеш точно какво искаш и как да го постигнеш.",
+    "reading_advice": "Бъди честен със себе си и с другите. Твоята яснота вдъхновява доверие."
+  },
+  {
+    "reading_id": "ace_pentacles_king_swords",
+    "reading_name": "Стратегическа финансова идея",
+    "reading_cards": "Асо Пентакли + Цар Мечове",
+    "reading_combination": ["ace_pentacles", "king_swords"],
+     "reading_meaning": "Асо Пентакли носи нова финансова възможност, а Цар Мечове – интелект и стратегия. Новата ви финансова идея е добре обмислена и стратегически издържана. Имате ясен план за реализация.",
+    "reading_description": "Новата ти финансова идея е подкрепена с ясен план и стратегия.",
+    "reading_advice": "Вземи решение с ума си, но не забравяй и сърцето. Стратегията е важна, но и емоциите имат значение."
+  },
+    {
+    "reading_id": "two_pentacles_two_wands",
+    "reading_name": "Двойка Пентакли + Двойка Жезли",
+    "reading_cards": "Двойка Пентакли + Двойка Жезли",
+    "reading_combination": ["two_pentacles", "two_wands"],
+    "reading_meaning": "Баланс и избор",
+    "second_meaning": "Двойка Пентакли носи баланс и жонглиране с ресурси, а Двойка Жезли – избор и планиране. Трябва да балансирате финансите си, докато правите важен избор. Жонглирайте внимателно.",
+    "reading_description": "Балансираш финансите и правиш важен избор. Жонглирай внимателно.",
+    "reading_advice": "Балансирай, но не изпускай топката. Финансовият баланс е ключов."
+  },
+  {
+    "reading_id": "two_pentacles_three_wands",
+    "reading_name": "Двойка Пентакли + Тройка Жезли",
+    "reading_cards": "Двойка Пентакли + Тройка Жезли",
+    "reading_combination": ["two_pentacles", "three_wands"],
+    "reading_meaning": "Баланс и очакване",
+    "second_meaning": "Двойка Пентакли носи баланс, а Тройка Жезли – очакване и разширяване. Инвестирали сте ресурси и сега чакате резултати. Търпението и балансът ще бъдат възнаградени.",
+    "reading_description": "Инвестирал си и сега чакаш резултати. Търпение и баланс.",
+    "reading_advice": "Чакай търпеливо, докато поддържаш баланс. Добрите неща идват с времето."
+  },
+  {
+    "reading_id": "two_pentacles_four_wands",
+    "reading_name": "Двойка Пентакли + Четворка Жезли",
+    "reading_cards": "Двойка Пентакли + Четворка Жезли",
+    "reading_combination": ["two_pentacles", "four_wands"],
+    "reading_meaning": "Баланс и празник",
+    "second_meaning": "Двойка Пентакли носи баланс, а Четворка Жезли – празник и стабилност. Успявате да балансирате финансите си, което ви позволява да празнувате със семейството. Стабилност и радост.",
+    "reading_description": "Балансираш финансите и празнуваш със семейството. Стабилност и радост.",
+    "reading_advice": "Празнувай, но продължавай да балансираш. Стабилността се гради с мярка."
+  },
+  {
+    "reading_id": "two_pentacles_five_wands",
+    "reading_name": "Двойка Пентакли + Петица Жезли",
+    "reading_cards": "Двойка Пентакли + Петица Жезли",
+    "reading_combination": ["two_pentacles", "five_wands"],
+    "reading_meaning": "Баланс и конфликт",
+    "second_meaning": "Двойка Пентакли носи баланс, а Петица Жезли – конфликт и съперничество. Трудно е да запазите финансов баланс, когато около вас има спорове и конкуренция. Фокусирайте се върху приоритетите си.",
+    "reading_description": "Трудно пазиш финансов баланс сред конфликти и спорове.",
+    "reading_advice": "Не се замесвай в драми. Фокусирай се върху баланса и приоритетите си."
+  },
+  {
+    "reading_id": "two_pentacles_six_wands",
+    "reading_name": "Двойка Пентакли + Шестица Жезли",
+    "reading_cards": "Двойка Пентакли + Шестица Жезли",
+    "reading_combination": ["two_pentacles", "six_wands"],
+    "reading_meaning": "Баланс и успех",
+    "second_meaning": "Двойка Пентакли носи баланс, а Шестица Жезли – победа и признание. Успявате да балансирате ресурсите си и това води до успех. Признание за уменията ви да жонглирате.",
+    "reading_description": "Балансираш ресурсите си и постигаш успех. Признание и стабилност.",
+    "reading_advice": "Наслаждавай се на успеха, но не спирай да балансираш. Стабилността изисква постоянство."
+  },
+  {
+    "reading_id": "two_pentacles_seven_wands",
+    "reading_name": "Двойка Пентакли + Седмица Жезли",
+    "reading_cards": "Двойка Пентакли + Седмица Жезли",
+    "reading_combination": ["two_pentacles", "seven_wands"],
+    "reading_meaning": "Баланс и защита",
+    "second_meaning": "Двойка Пентакли носи баланс, а Седмица Жезли – защита на позицията. Трябва да защитавате финансовия си баланс от външни заплахи. Не позволявайте на другите да ви извадят от равновесие.",
+    "reading_description": "Защитаваш финансовия си баланс от външни заплахи. Дръж се.",
+    "reading_advice": "Пази баланса си. Не позволявай на другите да те извадят от равновесие."
+  },
+  {
+    "reading_id": "two_pentacles_eight_wands",
+    "reading_name": "Двойка Пентакли + Осмица Жезли",
+    "reading_cards": "Двойка Пентакли + Осмица Жезли",
+    "reading_combination": ["two_pentacles", "eight_wands"],
+    "reading_meaning": "Бърз баланс",
+    "second_meaning": "Двойка Пентакли носи баланс, а Осмица Жезли – бързина и движение. Трябва да балансирате финансите си бързо – нещата се движат с голяма скорост. Бъдете готови за бързи решения.",
+    "reading_description": "Трябва да балансираш финансите си бързо – нещата се движат с голяма скорост.",
+    "reading_advice": "Действай бързо, но с мярка. Балансът при скорост изисква фокус."
+  },
+  {
+    "reading_id": "two_pentacles_nine_wands",
+    "reading_name": "Двойка Пентакли + Деветка Жезли",
+    "reading_cards": "Двойка Пентакли + Деветка Жезли",
+    "reading_combination": ["two_pentacles", "nine_wands"],
+    "reading_meaning": "Баланс и изтощение",
+    "second_meaning": "Двойка Пентакли носи баланс, а Деветка Жезли – устойчивост и изтощение. Поддържането на баланс ви изтощава. Умора, но не се отказвайте – краят на усилията наближава.",
+    "reading_description": "Поддържането на финансов баланс те изтощава. Умора, но не се предавай.",
+    "reading_advice": "Дръж се още малко. Финалната права е точно зад ъгъла."
+  },
+  {
+    "reading_id": "two_pentacles_ten_wands",
+    "reading_name": "Двойка Пентакли + Десетка Жезли",
+    "reading_cards": "Двойка Пентакли + Десетка Жезли",
+    "reading_combination": ["two_pentacles", "ten_wands"],
+    "reading_meaning": "Претоварен баланс",
+    "second_meaning": "Двойка Пентакли носи баланс, а Десетка Жезли – претоварване и бреме. Опитвате се да балансирате, но носите твърде много отговорности. Риск от прегаряне.",
+    "reading_description": "Опитваш се да балансираш, но носиш твърде много отговорности. Претоварване.",
+    "reading_advice": "Потърси помощ. Не можеш да носиш всичко сам. Сподели бремето."
+  },
+  {
+    "reading_id": "two_pentacles_page_wands",
+    "reading_name": "Двойка Пентакли + Паж Жезли",
+    "reading_cards": "Двойка Пентакли + Паж Жезли",
+    "reading_combination": ["two_pentacles", "page_wands"],
+    "reading_meaning": "Баланс и новини",
+    "second_meaning": "Двойка Пентакли носи баланс, а Паж Жезли – новини и ентусиазъм. Очаквайте вълнуваща новина, свързана с финансите ви. Новината ще дойде в момент, когато сте в баланс.",
+    "reading_description": "Вълнуваща финансова новина идва в момент на баланс.",
+    "reading_advice": "Отвори се за новините. Те носят нещо ценно за финансовото ти бъдеще."
+  },
+  {
+    "reading_id": "two_pentacles_knight_wands",
+    "reading_name": "Двойка Пентакли + Рицар Жезли",
+    "reading_cards": "Двойка Пентакли + Рицар Жезли",
+    "reading_combination": ["two_pentacles", "knight_wands"],
+    "reading_meaning": "Бърз финансов баланс",
+    "second_meaning": "Двойка Пентакли носи баланс, а Рицар Жезли – импулсивност и бързина. Трябва да възстановите финансов баланс бързо. Действайте решително, но не импулсивно.",
+    "reading_description": "Трябва да възстановиш финансов баланс бързо. Действай решително.",
+    "reading_advice": "Действай бързо, но не безразсъдно. Балансът изисква и мисъл, не само скорост."
+  },
+  {
+    "reading_id": "two_pentacles_queen_wands",
+    "reading_name": "Двойка Пентакли + Царица Жезли",
+    "reading_cards": "Двойка Пентакли + Царица Жезли",
+    "reading_combination": ["two_pentacles", "queen_wands"],
+    "reading_meaning": "Уверен баланс",
+    "second_meaning": "Двойка Пентакли носи баланс, а Царица Жезли – увереност и харизма. Поддържате финансов баланс с увереност и топлина. Хората се вдъхновяват от вашата стабилност.",
+    "reading_description": "Поддържаш финансов баланс с увереност и топлина. Вдъхновяваш другите.",
+    "reading_advice": "Бъди себе си – уверено и топло. Твоят баланс вдъхновява доверие."
+  },
+  {
+    "reading_id": "two_pentacles_king_wands",
+    "reading_name": "Двойка Пентакли + Цар Жезли",
+    "reading_cards": "Двойка Пентакли + Цар Жезли",
+    "reading_combination": ["two_pentacles", "king_wands"],
+    "reading_meaning": "Лидерски баланс",
+    "second_meaning": "Двойка Пентакли носи баланс, а Цар Жезли – лидерство и визия. Вашият финансов баланс ви поставя в лидерска позиция. Имате визията да водите другите.",
+    "reading_description": "Финансовият ти баланс те поставя в лидерска позиция. Имаш визия.",
+    "reading_advice": "Поеми лидерството. Твоят баланс и визия ще вдъхновят другите."
+  },
+  {
+    "reading_id": "two_pentacles_ace_wands",
+    "reading_name": "Двойка Пентакли + Асо Жезли",
+    "reading_cards": "Двойка Пентакли + Асо Жезли",
+    "reading_combination": ["two_pentacles", "ace_wands"],
+    "reading_meaning": "Баланс и ново начало",
+    "second_meaning": "Двойка Пентакли носи баланс, а Асо Жезли – ново начало и вдъхновение. Нова възможност се появява в момент, когато сте във финансов баланс. Готови сте да я посрещнете.",
+    "reading_description": "Нова финансова възможност идва, когато си в баланс. Готов си.",
+    "reading_advice": "Хвани възможността. Балансът ти дава стабилна основа за нов старт."
+  },
+  {
+    "reading_id": "two_pentacles_ace_cups",
+    "reading_name": "Двойка Пентакли + Асо Чаши",
+    "reading_cards": "Двойка Пентакли + Асо Чаши",
+    "reading_combination": ["two_pentacles", "ace_cups"],
+    "reading_meaning": "Баланс и нови чувства",
+    "second_meaning": "Двойка Пентакли носи баланс, а Асо Чаши – нови чувства и любов. Нова любов или емоционално начало идва в период на финансов баланс. Емоции и стабилност заедно.",
+    "reading_description": "Нова любов идва, когато си във финансов баланс. Стабилност и емоции.",
+    "reading_advice": "Отвори сърцето си. Балансът ти позволява да приемеш любовта спокойно."
+  },
+  {
+    "reading_id": "two_pentacles_two_cups",
+    "reading_name": "Двойка Пентакли + Двойка Чаши",
+    "reading_cards": "Двойка Пентакли + Двойка Чаши",
+    "reading_combination": ["two_pentacles", "two_cups"],
+    "reading_meaning": "Баланс и любов",
+    "second_meaning": "Двойка Пентакли носи баланс, а Двойка Чаши – любов и връзка. Успявате да балансирате финансите и любовта си. Хармония между сърце и портфейл.",
+    "reading_description": "Балансираш финансите и любовта. Хармония между сърце и портфейл.",
+    "reading_advice": "Пази този баланс. Той е рядък и ценен. Любовта и стабилността могат да съществуват заедно."
+  },
+  {
+    "reading_id": "two_pentacles_three_cups",
+    "reading_name": "Двойка Пентакли + Тройка Чаши",
+    "reading_cards": "Двойка Пентакли + Тройка Чаши",
+    "reading_combination": ["two_pentacles", "three_cups"],
+    "reading_meaning": "Баланс и празник",
+    "second_meaning": "Двойка Пентакли носи баланс, а Тройка Чаши – празник и радост. Успявате да балансирате финансите си, което ви позволява да празнувате с приятели. Споделена радост.",
+    "reading_description": "Балансираш финансите и празнуваш с приятели. Споделена радост.",
+    "reading_advice": "Празнувай, но продължавай да балансираш. Радостта е по-голяма, когато има сигурност."
+  },
+  {
+    "reading_id": "two_pentacles_four_cups",
+    "reading_name": "Двойка Пентакли + Четворка Чаши",
+    "reading_cards": "Двойка Пентакли + Четворка Чаши",
+    "reading_combination": ["two_pentacles", "four_cups"],
+    "reading_meaning": "Баланс и неудовлетворение",
+    "second_meaning": "Двойка Пентакли носи баланс, а Четворка Чаши – апатия и неудовлетворение. Имате финансов баланс, но не сте щастливи. Нещо ви липсва. Търсете радостта не само в парите.",
+    "reading_description": "Имаш финансов баланс, но не си щастлив. Нещо липсва.",
+    "reading_advice": "Потърси радостта не само в парите. Истинското щастие идва отвътре."
+  },
+  {
+    "reading_id": "two_pentacles_five_cups",
+    "reading_name": "Двойка Пентакли + Петица Чаши",
+    "reading_cards": "Двойка Пентакли + Петица Чаши",
+    "reading_combination": ["two_pentacles", "five_cups"],
+    "reading_meaning": "Баланс и загуба",
+    "second_meaning": "Двойка Пентакли носи баланс, а Петица Чаши – загуба и тъга. Опитвате се да запазите финансов баланс след загуба. Трудно, но възможно. Позволете си да скърбите.",
+    "reading_description": "Опитваш се да запазиш финансов баланс след загуба. Трудно, но възможно.",
+    "reading_advice": "Позволи си да скърбиш, после продължи. Балансът ще се възстанови с времето."
+  },
+  {
+    "reading_id": "two_pentacles_six_cups",
+    "reading_name": "Двойка Пентакли + Шестица Чаши",
+    "reading_cards": "Двойка Пентакли + Шестица Чаши",
+    "reading_combination": ["two_pentacles", "six_cups"],
+    "reading_meaning": "Баланс и носталгия",
+    "second_meaning": "Двойка Пентакли носи баланс, а Шестица Чаши – спомени и носталгия. Финансовият ви баланс ви позволява да си позволите нещо, което ви напомня за миналото. Носталгична инвестиция.",
+    "reading_description": "Финансовият ти баланс ти позволява да си позволиш нещо от миналото.",
+    "reading_advice": "Използвай миналото като вдъхновение, но не позволявай то да те държи в капан."
+  },
+  {
+    "reading_id": "two_pentacles_seven_cups",
+    "reading_name": "Двойка Пентакли + Седмица Чаши",
+    "reading_cards": "Двойка Пентакли + Седмица Чаши",
+    "reading_combination": ["two_pentacles", "seven_cups"],
+    "reading_meaning": "Баланс и илюзии",
+    "second_meaning": "Двойка Пентакли носи баланс, а Седмица Чаши – илюзии и фантазии. Опитвате се да балансирате финансите си, но сте заобиколени от илюзорни възможности. Внимавайте да не се заблудите.",
+    "reading_description": "Балансираш финансите сред илюзорни възможности. Внимавай да не се заблудиш.",
+    "reading_advice": "Свали розовите очила. Реалността е по-ценна от фантазията, особено когато става въпрос за пари."
+  },
+  {
+    "reading_id": "two_pentacles_eight_cups",
+    "reading_name": "Двойка Пентакли + Осмица Чаши",
+    "reading_cards": "Двойка Пентакли + Осмица Чаши",
+    "reading_combination": ["two_pentacles", "eight_cups"],
+    "reading_meaning": "Баланс и тръгване",
+    "second_meaning": "Двойка Пентакли носи баланс, а Осмица Чаши – тръгване и оставяне. Напълно сте балансирали финансите си и вече можете да тръгнете на ново място. Освободени сте.",
+    "reading_description": "Балансирал си финансите и можеш да тръгнеш на ново място. Свобода.",
+    "reading_advice": "Тръгни с увереност. Балансът ти дава свобода да продължиш напред."
+  },
+  {
+    "reading_id": "two_pentacles_nine_cups",
+    "reading_name": "Двойка Пентакли + Деветка Чаши",
+    "reading_cards": "Двойка Пентакли + Деветка Чаши",
+    "reading_combination": ["two_pentacles", "nine_cups"],
+    "reading_meaning": "Баланс и сбъдната мечта",
+    "second_meaning": "Двойка Пентакли носи баланс, а Деветка Чаши – сбъднато желание. Финансовият ви баланс ви позволява да сбъднете дългогодишна мечта. Удовлетворение и радост.",
+    "reading_description": "Финансовият ти баланс ти позволява да сбъднеш мечта. Удовлетворение.",
+    "reading_advice": "Наслади се на момента. Ти го заслужи. Балансът доведе до мечтата."
+  },
+  {
+    "reading_id": "two_pentacles_ten_cups",
+    "reading_name": "Двойка Пентакли + Десетка Чаши",
+    "reading_cards": "Двойка Пентакли + Десетка Чаши",
+    "reading_combination": ["two_pentacles", "ten_cups"],
+    "reading_meaning": "Баланс и семейно щастие",
+    "second_meaning": "Двойка Пентакли носи баланс, а Десетка Чаши – семейно щастие. Финансовият ви баланс носи хармония в семейството. Споделена стабилност и радост.",
+    "reading_description": "Финансовият ти баланс носи хармония в семейството. Споделена радост.",
+    "reading_advice": "Семейството ти се радва на стабилността. Бъди благодарен и продължавай да балансираш."
+  },
+  {
+    "reading_id": "two_pentacles_page_cups",
+    "reading_name": "Двойка Пентакли + Паж Чаши",
+    "reading_cards": "Двойка Пентакли + Паж Чаши",
+    "reading_combination": ["two_pentacles", "page_cups"],
+    "reading_meaning": "Баланс и послание",
+    "second_meaning": "Двойка Пентакли носи баланс, а Паж Чаши – емоционално послание. В период на финансов баланс идва нежно послание от сърце. Отворете се за него.",
+    "reading_description": "В период на финансов баланс идва нежно послание от сърце.",
+    "reading_advice": "Отвори сърцето си за посланието. То носи нещо ценно."
+  },
+  {
+    "reading_id": "two_pentacles_knight_cups",
+    "reading_name": "Двойка Пентакли + Рицар Чаши",
+    "reading_cards": "Двойка Пентакли + Рицар Чаши",
+    "reading_combination": ["two_pentacles", "knight_cups"],
+    "reading_meaning": "Баланс и романтика",
+    "second_meaning": "Двойка Пентакли носи баланс, а Рицар Чаши – романтика и ухажване. Романтичен жест идва в момент на финансова стабилност. Любов и сигурност заедно.",
+    "reading_description": "Романтичен жест идва в момент на финансова стабилност.",
+    "reading_advice": "Кажи какво чувстваш. Балансът ти позволява да приемеш любовта спокойно."
+  },
+  {
+    "reading_id": "two_pentacles_queen_cups",
+    "reading_name": "Двойка Пентакли + Царица Чаши",
+    "reading_cards": "Двойка Пентакли + Царица Чаши",
+    "reading_combination": ["two_pentacles", "queen_cups"],
+    "reading_meaning": "Интуитивен баланс",
+    "second_meaning": "Двойка Пентакли носи баланс, а Царица Чаши – интуиция и дълбока емоционалност. Интуицията ви помага да поддържате финансов баланс. Доверете се на вътрешния си глас.",
+    "reading_description": "Интуицията ти помага да поддържаш финансов баланс.",
+    "reading_advice": "Довери се на вътрешния си глас. Той знае как да балансираш."
+  },
+  {
+    "reading_id": "two_pentacles_king_cups",
+    "reading_name": "Двойка Пентакли + Цар Чаши",
+    "reading_cards": "Двойка Пентакли + Цар Чаши",
+    "reading_combination": ["two_pentacles", "king_cups"],
+    "reading_meaning": "Балансирана мъдрост",
+    "second_meaning": "Двойка Пентакли носи баланс, а Цар Чаши – емоционална зрялост и баланс. Поддържате финансов баланс с мъдрост и спокойствие. Без крайности, без прибързване.",
+    "reading_description": "Поддържаш финансов баланс с мъдрост и спокойствие.",
+    "reading_advice": "Продължавай така. Балансът и мъдростта вървят ръка за ръка."
   }
+
+ 
 ];
    
