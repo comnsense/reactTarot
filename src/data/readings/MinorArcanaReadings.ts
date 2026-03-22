@@ -5042,7 +5042,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Продължавай така. Балансът и мъдростта вървят ръка за ръка."
   },
     {
-    "reading_id": "minors_pair_three_pentacles_two_wands",
+    "reading_id": "three_pentacles_two_wands",
     "reading_name": "Тройка Пентакли + Двойка Жезли",
     "reading_cards": "Тройка Пентакли + Двойка Жезли",
     "reading_combination": ["three_pentacles", "two_wands"],
@@ -5051,7 +5051,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Посъветвай се с екипа. Заедно ще вземете по-добро решение."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_three_wands",
+    "reading_id": "three_pentacles_three_wands",
     "reading_name": "Тройка Пентакли + Тройка Жезли",
     "reading_cards": "Тройка Пентакли + Тройка Жезли",
     "reading_combination": ["three_pentacles", "three_wands"],
@@ -5060,7 +5060,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Чакайте търпеливо заедно. Добрите неща идват при тези, които умеят да чакат."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_four_wands",
+    "reading_id": "three_pentacles_four_wands",
     "reading_name": "Тройка Пентакли + Четворка Жезли",
     "reading_cards": "Тройка Пентакли + Четворка Жезли",
     "reading_combination": ["three_pentacles", "four_wands"],
@@ -5069,7 +5069,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувайте заедно. Успехът е по-сладък, когато е споделен."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_five_wands",
+    "reading_id": "three_pentacles_five_wands",
     "reading_name": "Тройка Пентакли + Петица Жезли",
     "reading_cards": "Тройка Пентакли + Петица Жезли",
     "reading_combination": ["three_pentacles", "five_wands"],
@@ -5078,7 +5078,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Потърсете общата цел. В екипа сме заедно – конфликтите пречат на успеха."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_six_wands",
+    "reading_id": "three_pentacles_six_wands",
     "reading_name": "Тройка Пентакли + Шестица Жезли",
     "reading_cards": "Тройка Пентакли + Шестица Жезли",
     "reading_combination": ["three_pentacles", "six_wands"],
@@ -5087,7 +5087,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Споделете успеха с екипа. Благодарете им – без тях нямаше да го постигнете."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_seven_wands",
+    "reading_id": "three_pentacles_seven_wands",
     "reading_name": "Тройка Пентакли + Седмица Жезли",
     "reading_cards": "Тройка Пентакли + Седмица Жезли",
     "reading_combination": ["three_pentacles", "seven_wands"],
@@ -5096,7 +5096,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Дръжте се заедно. Екипът е по-силен от всеки отделен член."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_eight_wands",
+    "reading_id": "three_pentacles_eight_wands",
     "reading_name": "Тройка Пентакли + Осмица Жезли",
     "reading_cards": "Тройка Пентакли + Осмица Жезли",
     "reading_combination": ["three_pentacles", "eight_wands"],
@@ -5105,7 +5105,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Координирайте се. Бързината изисква добра комуникация в екипа."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_nine_wands",
+    "reading_id": "three_pentacles_nine_wands",
     "reading_name": "Тройка Пентакли + Деветка Жезли",
     "reading_cards": "Тройка Пентакли + Деветка Жезли",
     "reading_combination": ["three_pentacles", "nine_wands"],
@@ -5114,7 +5114,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Дръжте се още малко. Финалната права е точно зад ъгъла."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_ten_wands",
+    "reading_id": "three_pentacles_ten_wands",
     "reading_name": "Тройка Пентакли + Десетка Жезли",
     "reading_cards": "Тройка Пентакли + Десетка Жезли",
     "reading_combination": ["three_pentacles", "ten_wands"],
@@ -5123,7 +5123,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Споделете бремето. Никой не може да носи всичко сам."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_page_wands",
+    "reading_id": "three_pentacles_page_wands",
     "reading_name": "Тройка Пентакли + Паж Жезли",
     "reading_cards": "Тройка Пентакли + Паж Жезли",
     "reading_combination": ["three_pentacles", "page_wands"],
@@ -5132,7 +5132,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Споделете новините с екипа. Те носят енергия за напред."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_knight_wands",
+    "reading_id": "three_pentacles_knight_wands",
     "reading_name": "Тройка Пентакли + Рицар Жезли",
     "reading_cards": "Тройка Пентакли + Рицар Жезли",
     "reading_combination": ["three_pentacles", "knight_wands"],
@@ -5141,7 +5141,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Забавете. Импулсивните решения рядко са добри за екипа."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_queen_wands",
+    "reading_id": "three_pentacles_queen_wands",
     "reading_name": "Тройка Пентакли + Царица Жезли",
     "reading_cards": "Тройка Пентакли + Царица Жезли",
     "reading_combination": ["three_pentacles", "queen_wands"],
@@ -5150,7 +5150,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди топъл и уверен. Твоята светлина води екипа напред."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_king_wands",
+    "reading_id": "three_pentacles_king_wands",
     "reading_name": "Тройка Пентакли + Цар Жезли",
     "reading_cards": "Тройка Пентакли + Цар Жезли",
     "reading_combination": ["three_pentacles", "king_wands"],
@@ -5159,7 +5159,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Поеми лидерството. Твоята визия ще вдъхнови екипа да те последва."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_ace_wands",
+    "reading_id": "three_pentacles_ace_wands",
     "reading_name": "Тройка Пентакли + Асо Жезли",
     "reading_cards": "Тройка Пентакли + Асо Жезли",
     "reading_combination": ["three_pentacles", "ace_wands"],
@@ -5168,7 +5168,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Хванете искрата заедно. Екипният ентусиазъм води до успех."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_ace_cups",
+    "reading_id": "three_pentacles_ace_cups",
     "reading_name": "Тройка Пентакли + Асо Чаши",
     "reading_cards": "Тройка Пентакли + Асо Чаши",
     "reading_combination": ["three_pentacles", "ace_cups"],
@@ -5177,7 +5177,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Отвори сърцето си за екипа. Емоционалната връзка прави работата по-лека."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_two_cups",
+    "reading_id": "three_pentacles_two_cups",
     "reading_name": "Тройка Пентакли + Двойка Чаши",
     "reading_cards": "Тройка Пентакли + Двойка Чаши",
     "reading_combination": ["three_pentacles", "two_cups"],
@@ -5186,7 +5186,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Ценете тази връзка. Хармонията в екипа е безценна."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_three_cups",
+    "reading_id": "three_pentacles_three_cups",
     "reading_name": "Тройка Пентакли + Тройка Чаши",
     "reading_cards": "Тройка Пентакли + Тройка Чаши",
     "reading_combination": ["three_pentacles", "three_cups"],
@@ -5195,7 +5195,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувайте заедно. Тези моменти укрепват екипа."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_four_cups",
+    "reading_id": "three_pentacles_four_cups",
     "reading_name": "Тройка Пентакли + Четворка Чаши",
     "reading_cards": "Тройка Пентакли + Четворка Чаши",
     "reading_combination": ["three_pentacles", "four_cups"],
@@ -5204,7 +5204,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Потърсете причината. Понякога човек има нужда да бъде чут."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_five_cups",
+    "reading_id": "three_pentacles_five_cups",
     "reading_name": "Тройка Пентакли + Петица Чаши",
     "reading_cards": "Тройка Пентакли + Петица Чаши",
     "reading_combination": ["three_pentacles", "five_cups"],
@@ -5213,7 +5213,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Позволете си да скърбите заедно. Това ще ви направи по-силни."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_six_cups",
+    "reading_id": "three_pentacles_six_cups",
     "reading_name": "Тройка Пентакли + Шестица Чаши",
     "reading_cards": "Тройка Пентакли + Шестица Чаши",
     "reading_combination": ["three_pentacles", "six_cups"],
@@ -5222,7 +5222,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Използвайте миналото като вдъхновение, но гледайте напред."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_seven_cups",
+    "reading_id": "three_pentacles_seven_cups",
     "reading_name": "Тройка Пентакли + Седмица Чаши",
     "reading_cards": "Тройка Пентакли + Седмица Чаши",
     "reading_combination": ["three_pentacles", "seven_cups"],
@@ -5231,7 +5231,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Свалете розовите очила. Реалността е по-ценна от фантазията."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_eight_cups",
+    "reading_id": "three_pentacles_eight_cups",
     "reading_name": "Тройка Пентакли + Осмица Чаши",
     "reading_cards": "Тройка Пентакли + Осмица Чаши",
     "reading_combination": ["three_pentacles", "eight_cups"],
@@ -5240,7 +5240,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Тръгвайте с мир. Пътищата се разделят, за да се срещнат отново."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_nine_cups",
+    "reading_id": "three_pentacles_nine_cups",
     "reading_name": "Тройка Пентакли + Деветка Чаши",
     "reading_cards": "Тройка Пентакли + Деветка Чаши",
     "reading_combination": ["three_pentacles", "nine_cups"],
@@ -5249,7 +5249,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Насладете се на момента заедно. Ти и екипът го заслужихте."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_ten_cups",
+    "reading_id": "three_pentacles_ten_cups",
     "reading_name": "Тройка Пентакли + Десетка Чаши",
     "reading_cards": "Тройка Пентакли + Десетка Чаши",
     "reading_combination": ["three_pentacles", "ten_cups"],
@@ -5258,7 +5258,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Ценете екипа си като семейство. Те са вашата опора."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_page_cups",
+    "reading_id": "three_pentacles_page_cups",
     "reading_name": "Тройка Пентакли + Паж Чаши",
     "reading_cards": "Тройка Пентакли + Паж Чаши",
     "reading_combination": ["three_pentacles", "page_cups"],
@@ -5267,7 +5267,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Слушайте с отворени сърца. Посланието носи нещо ценно за екипа."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_knight_cups",
+    "reading_id": "three_pentacles_knight_cups",
     "reading_name": "Тройка Пентакли + Рицар Чаши",
     "reading_cards": "Тройка Пентакли + Рицар Чаши",
     "reading_combination": ["three_pentacles", "knight_cups"],
@@ -5276,7 +5276,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Позволи на чувствата да текат. Любовта в екипа може да е прекрасна."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_queen_cups",
+    "reading_id": "three_pentacles_queen_cups",
     "reading_name": "Тройка Пентакли + Царица Чаши",
     "reading_cards": "Тройка Пентакли + Царица Чаши",
     "reading_combination": ["three_pentacles", "queen_cups"],
@@ -5285,14 +5285,1026 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Довери се на интуицията си. Тя знае какво е най-добро за екипа."
   },
   {
-    "reading_id": "minors_pair_three_pentacles_king_cups",
+    "reading_id": "three_pentacles_king_cups",
     "reading_name": "Тройка Пентакли + Цар Чаши",
     "reading_cards": "Тройка Пентакли + Цар Чаши",
     "reading_combination": ["three_pentacles", "king_cups"],
     "reading_meaning": "Тройка Пентакли носи екипна работа, а Цар Чаши – емоционална зрялост и баланс. Вие сте емоционалният стълб на екипа – вашият баланс държи всички заедно.",
     "reading_description": "Ти си емоционалният стълб на екипа – балансът ти държи всички.",
     "reading_advice": "Бъди спокоен и мъдър. Твоят баланс е опората на екипа."
+  },
+    {
+    "reading_id": "four_pentacles_two_wands",
+    "reading_name": "Четворка Пентакли + Двойка Жезли",
+    "reading_cards": "Четворка Пентакли + Двойка Жезли",
+    "reading_combination": ["four_pentacles", "two_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Двойка Жезли – избор и планиране. Държите здраво ресурсите си, но предстои избор. Страхът от загуба може да ви попречи да изберете най-доброто.",
+    "reading_description": "Държиш здраво ресурсите си, но предстои избор. Страхът от загуба те спира.",
+    "reading_advice": "Пусни малко. Страхът от загуба може да ти попречи да спечелиш нещо по-добро."
+  },
+  {
+    "reading_id": "four_pentacles_three_wands",
+    "reading_name": "Четворка Пентакли + Тройка Жезли",
+    "reading_cards": "Четворка Пентакли + Тройка Жезли",
+    "reading_combination": ["four_pentacles", "three_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Тройка Жезли – очакване и разширяване. Инвестирали сте и сега чакате, но стискате прекалено силно. Пуснете малко, за да могат плодовете да узреят.",
+    "reading_description": "Инвестирал си и чакаш, но стискаш прекалено силно. Пусни малко.",
+    "reading_advice": "Не стискай толкова силно. Дай време на инвестицията да узрее."
+  },
+  {
+    "reading_id": "four_pentacles_four_wands",
+    "reading_name": "Четворка Пентакли + Четворка Жезли",
+    "reading_cards": "Четворка Пентакли + Четворка Жезли",
+    "reading_combination": ["four_pentacles", "four_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Четворка Жезли – празник и стабилност. Имате стабилен дом и финанси, но се страхувате да празнувате. Позволете си да се насладите на постигнатото.",
+    "reading_description": "Имаш стабилен дом и финанси, но се страхуваш да празнуваш.",
+    "reading_advice": "Позволи си да се насладиш. Заслужил си този момент на радост."
+  },
+  {
+    "reading_id": "four_pentacles_five_wands",
+    "reading_name": "Четворка Пентакли + Петица Жезли",
+    "reading_cards": "Четворка Пентакли + Петица Жезли",
+    "reading_combination": ["four_pentacles", "five_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Петица Жезли – конфликт и съперничество. Спор за ресурси или пари. Някой се опитва да ви вземе това, което сте натрупали. Дръжте се твърдо.",
+    "reading_description": "Спор за ресурси или пари. Някой се опитва да ти вземе това, което си натрупал.",
+    "reading_advice": "Дръж се твърдо, но не стискай до болка. Търси компромис, ако е възможно."
+  },
+  {
+    "reading_id": "four_pentacles_six_wands",
+    "reading_name": "Четворка Пентакли + Шестица Жезли",
+    "reading_cards": "Четворка Пентакли + Шестица Жезли",
+    "reading_combination": ["four_pentacles", "six_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Шестица Жезли – победа и признание. Постигнали сте успех и го пазите. Гордейте се с постигнатото, но не позволявайте егото да ви заслепи.",
+    "reading_description": "Постигнал си успех и го пазиш. Гордей се, но не позволявай егото да те заслепи.",
+    "reading_advice": "Наслаждавай се на успеха, но не спирай да се развиваш."
+  },
+  {
+    "reading_id": "four_pentacles_seven_wands",
+    "reading_name": "Четворка Пентакли + Седмица Жезли",
+    "reading_cards": "Четворка Пентакли + Седмица Жезли",
+    "reading_combination": ["four_pentacles", "seven_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Седмица Жезли – защита на позицията. Трябва да защитавате това, което сте натрупали. Някой иска да ви го отнеме. Дръжте позицията си.",
+    "reading_description": "Трябва да защитаваш това, което си натрупал. Някой иска да ти го отнеме.",
+    "reading_advice": "Дръж позицията си. Това, което си изградил, си заслужава защита."
+  },
+  {
+    "reading_id": "four_pentacles_eight_wands",
+    "reading_name": "Четворка Пентакли + Осмица Жезли",
+    "reading_cards": "Четворка Пентакли + Осмица Жезли",
+    "reading_combination": ["four_pentacles", "eight_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Осмица Жезли – бързина и движение. Всичко се случва бързо, а вие се опитвате да задържите контрол. Пуснете малко – не можете да контролирате всичко.",
+    "reading_description": "Всичко се случва бързо, а ти се опитваш да задържиш контрол.",
+    "reading_advice": "Пусни малко. Не можеш да контролираш всичко. Довери се на процеса."
+  },
+  {
+    "reading_id": "four_pentacles_nine_wands",
+    "reading_name": "Четворка Пентакли + Деветка Жезли",
+    "reading_cards": "Четворка Пентакли + Деветка Жезли",
+    "reading_combination": ["four_pentacles", "nine_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Деветка Жезли – устойчивост и изтощение. Изтощени сте от защитата на това, което имате. Умора, но не се отказвайте – краят наближава.",
+    "reading_description": "Изтощен си от защитата на това, което имаш. Умора, но не се отказвай.",
+    "reading_advice": "Дръж се още малко. Финалната права е точно зад ъгъла."
+  },
+  {
+    "reading_id": "four_pentacles_ten_wands",
+    "reading_name": "Четворка Пентакли + Десетка Жезли",
+    "reading_cards": "Четворка Пентакли + Десетка Жезли",
+    "reading_combination": ["four_pentacles", "ten_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Десетка Жезли – претоварване и бреме. Носите твърде много отговорности и се вкопчвате в тях от страх. Освободете се от ненужното бреме.",
+    "reading_description": "Носиш твърде много отговорности и се вкопчваш в тях от страх.",
+    "reading_advice": "Освободи се от ненужното бреме. Не можеш да носиш всичко сам."
+  },
+  {
+    "reading_id": "four_pentacles_page_wands",
+    "reading_name": "Четворка Пентакли + Паж Жезли",
+    "reading_cards": "Четворка Пентакли + Паж Жезли",
+    "reading_combination": ["four_pentacles", "page_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Паж Жезли – новини и ентусиазъм. Вълнуваща новина идва, но вие се страхувате да я приемете. Отворете се за нея.",
+    "reading_description": "Вълнуваща новина идва, но ти се страхуваш да я приемеш.",
+    "reading_advice": "Отвори се за новините. Те носят нещо ценно за бъдещето ти."
+  },
+  {
+    "reading_id": "four_pentacles_knight_wands",
+    "reading_name": "Четворка Пентакли + Рицар Жезли",
+    "reading_cards": "Четворка Пентакли + Рицар Жезли",
+    "reading_combination": ["four_pentacles", "knight_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Рицар Жезли – импулсивност и бързина. Някой действа импулсивно и застрашава сигурността ви. Забавете и обмислете.",
+    "reading_description": "Някой действа импулсивно и застрашава сигурността ти.",
+    "reading_advice": "Забави. Импулсивните решения могат да разрушат това, което си изградил."
+  },
+  {
+    "reading_id": "four_pentacles_queen_wands",
+    "reading_name": "Четворка Пентакли + Царица Жезли",
+    "reading_cards": "Четворка Пентакли + Царица Жезли",
+    "reading_combination": ["four_pentacles", "queen_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Царица Жезли – увереност и харизма. Пазите сигурността си с увереност и топлина. Хората ви се доверяват, защото знаят, че сте стабилни.",
+    "reading_description": "Пазиш сигурността си с увереност и топлина. Хората ти се доверяват.",
+    "reading_advice": "Бъди топъл и уверен. Твоята стабилност вдъхновява доверие."
+  },
+  {
+    "reading_id": "four_pentacles_king_wands",
+    "reading_name": "Четворка Пентакли + Цар Жезли",
+    "reading_cards": "Четворка Пентакли + Цар Жезли",
+    "reading_combination": ["four_pentacles", "king_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Цар Жезли – лидерство и визия. Вие сте лидер, който пази ресурсите на екипа. Вашата стабилност е опора за всички.",
+    "reading_description": "Ти си лидер, който пази ресурсите на екипа. Стабилността ти е опора.",
+    "reading_advice": "Води с мъдрост. Твоята стабилност дава сигурност на другите."
+  },
+  {
+    "reading_id": "four_pentacles_ace_wands",
+    "reading_name": "Четворка Пентакли + Асо Жезли",
+    "reading_cards": "Четворка Пентакли + Асо Жезли",
+    "reading_combination": ["four_pentacles", "ace_wands"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Асо Жезли – ново начало и вдъхновение. Нова възможност се появява, но вие се страхувате да инвестирате. Пуснете малко – някои неща си струват риска.",
+    "reading_description": "Нова възможност се появява, но ти се страхуваш да инвестираш.",
+    "reading_advice": "Пусни малко. Някои неща си струват риска. Не позволявай на страха да те спре."
+  },
+  {
+    "reading_id": "four_pentacles_ace_cups",
+    "reading_name": "Четворка Пентакли + Асо Чаши",
+    "reading_cards": "Четворка Пентакли + Асо Чаши",
+    "reading_combination": ["four_pentacles", "ace_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Асо Чаши – нови чувства и любов. Нова любов идва, но вие се страхувате да отворите сърцето си. Стискането може да ви попречи да обичате.",
+    "reading_description": "Нова любов идва, но ти се страхуваш да отвориш сърцето си.",
+    "reading_advice": "Отвори сърцето си. Любовта не се стиска – тя се дава свободно."
+  },
+  {
+    "reading_id": "four_pentacles_two_cups",
+    "reading_name": "Четворка Пентакли + Двойка Чаши",
+    "reading_cards": "Четворка Пентакли + Двойка Чаши",
+    "reading_combination": ["four_pentacles", "two_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Двойка Чаши – любов и връзка. Връзката ви е стабилна, но може да имате нужда да се отпуснете повече. Не позволявайте на страха от загуба да ви прави студени.",
+    "reading_description": "Връзката ти е стабилна, но може да си твърде стиснат с чувствата.",
+    "reading_advice": "Отпусни се. Истинската любов не се страхува от загуба – тя се дава свободно."
+  },
+  {
+    "reading_id": "four_pentacles_three_cups",
+    "reading_name": "Четворка Пентакли + Тройка Чаши",
+    "reading_cards": "Четворка Пентакли + Тройка Чаши",
+    "reading_combination": ["four_pentacles", "three_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Тройка Чаши – празник и радост. Страхувате се да празнувате, защото не искате да харчите. Празникът не е само в парите – радостта е безценна.",
+    "reading_description": "Страхуваш се да празнуваш, защото не искаш да харчиш.",
+    "reading_advice": "Празникът не е само в парите. Радостта е безценна – позволи си я."
+  },
+  {
+    "reading_id": "four_pentacles_four_cups",
+    "reading_name": "Четворка Пентакли + Четворка Чаши",
+    "reading_cards": "Четворка Пентакли + Четворка Чаши",
+    "reading_combination": ["four_pentacles", "four_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Четворка Чаши – апатия и неудовлетворение. Имате сигурност, но не сте щастливи. Стискате толкова силно, че сте забравили да живеете.",
+    "reading_description": "Имаш сигурност, но не си щастлив. Стискаш толкова силно, че си забравил да живееш.",
+    "reading_advice": "Пусни малко. Сигурността не е в парите, а в способността да се радваш."
+  },
+  {
+    "reading_id": "four_pentacles_five_cups",
+    "reading_name": "Четворка Пентакли + Петица Чаши",
+    "reading_cards": "Четворка Пентакли + Петица Чаши",
+    "reading_combination": ["four_pentacles", "five_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Петица Чаши – загуба и тъга. Преживявате загуба и се вкопчвате в това, което ви е останало. Позволете си да скърбите, но не се вкопчвайте прекалено.",
+    "reading_description": "Преживяваш загуба и се вкопчваш в това, което ти е останало.",
+    "reading_advice": "Позволи си да скърбиш, но не се вкопчвай прекалено. Нови неща идват."
+  },
+  {
+    "reading_id": "four_pentacles_six_cups",
+    "reading_name": "Четворка Пентакли + Шестица Чаши",
+    "reading_cards": "Четворка Пентакли + Шестица Чаши",
+    "reading_combination": ["four_pentacles", "six_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Шестица Чаши – спомени и носталгия. Държите се за спомени и стари неща. Понякога трябва да пуснем, за да освободим място за новото.",
+    "reading_description": "Държиш се за спомени и стари неща. Пусни, за да освободиш място за новото.",
+    "reading_advice": "Пусни. Спомените са в сърцето, не в нещата."
+  },
+  {
+    "reading_id": "four_pentacles_seven_cups",
+    "reading_name": "Четворка Пентакли + Седмица Чаши",
+    "reading_cards": "Четворка Пентакли + Седмица Чаши",
+    "reading_combination": ["four_pentacles", "seven_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Седмица Чаши – илюзии и фантазии. Живеете в илюзия, че стискането ще ви донесе сигурност. Истинската сигурност идва отвътре.",
+    "reading_description": "Живееш в илюзия, че стискането ще ти донесе сигурност.",
+    "reading_advice": "Свали розовите очила. Истинската сигурност идва отвътре, не от това, което стискаш."
+  },
+  {
+    "reading_id": "four_pentacles_eight_cups",
+    "reading_name": "Четворка Пентакли + Осмица Чаши",
+    "reading_cards": "Четворка Пентакли + Осмица Чаши",
+    "reading_combination": ["four_pentacles", "eight_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Осмица Чаши – тръгване и оставяне. Тръгвате и оставяте сигурността зад гърба си. Страх, но и освобождение.",
+    "reading_description": "Тръгваш и оставяш сигурността зад гърба си. Страх, но и освобождение.",
+    "reading_advice": "Тръгни смело. Истинската свобода идва, когато спреш да се страхуваш да пуснеш."
+  },
+  {
+    "reading_id": "four_pentacles_nine_cups",
+    "reading_name": "Четворка Пентакли + Деветка Чаши",
+    "reading_cards": "Четворка Пентакли + Деветка Чаши",
+    "reading_combination": ["four_pentacles", "nine_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Деветка Чаши – сбъднато желание. Постигнали сте това, което искате, и го пазите. Насладете се на момента – заслужили сте го.",
+    "reading_description": "Постигнал си това, което искаш, и го пазиш. Наслади се – заслужил си.",
+    "reading_advice": "Наслади се на момента. Ти го заслужи. Но не спирай да се радваш."
+  },
+  {
+    "reading_id": "four_pentacles_ten_cups",
+    "reading_name": "Четворка Пентакли + Десетка Чаши",
+    "reading_cards": "Четворка Пентакли + Десетка Чаши",
+    "reading_combination": ["four_pentacles", "ten_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Десетка Чаши – семейно щастие. Имате стабилен дом и семейство. Не се страхувайте да споделяте – щастието расте, когато го споделяш.",
+    "reading_description": "Имаш стабилен дом и семейство. Не се страхувай да споделяш.",
+    "reading_advice": "Сподели щастието си със семейството. То става по-голямо, когато е споделено."
+  },
+  {
+    "reading_id": "four_pentacles_page_cups",
+    "reading_name": "Четворка Пентакли + Паж Чаши",
+    "reading_cards": "Четворка Пентакли + Паж Чаши",
+    "reading_combination": ["four_pentacles", "page_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Паж Чаши – емоционално послание. Нежно послание идва, но вие се страхувате да го приемете. Отворете сърцето си.",
+    "reading_description": "Нежно послание идва, но ти се страхуваш да го приемеш.",
+    "reading_advice": "Отвори сърцето си. Посланието носи нещо ценно – не го изпускай."
+  },
+  {
+    "reading_id": "four_pentacles_knight_cups",
+    "reading_name": "Четворка Пентакли + Рицар Чаши",
+    "reading_cards": "Четворка Пентакли + Рицар Чаши",
+    "reading_combination": ["four_pentacles", "knight_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Рицар Чаши – романтика и ухажване. Романтичен жест идва, но вие се страхувате да се отпуснете. Позволете на любовта да влезе.",
+    "reading_description": "Романтичен жест идва, но ти се страхуваш да се отпуснеш.",
+    "reading_advice": "Позволи на любовта да влезе. Истинската любов не те заплашва – тя те обогатява."
+  },
+  {
+    "reading_id": "four_pentacles_queen_cups",
+    "reading_name": "Четворка Пентакли + Царица Чаши",
+    "reading_cards": "Четворка Пентакли + Царица Чаши",
+    "reading_combination": ["four_pentacles", "queen_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Царица Чаши – интуиция и емпатия. Интуицията ви подсказва, че стискате прекалено. Слушайте сърцето си – то знае кога да пуснете.",
+    "reading_description": "Интуицията ти подсказва, че стискаш прекалено. Слушай сърцето си.",
+    "reading_advice": "Довери се на интуицията си. Тя знае кога да стискаш и кога да пуснеш."
+  },
+  {
+    "reading_id": "four_pentacles_king_cups",
+    "reading_name": "Четворка Пентакли + Цар Чаши",
+    "reading_cards": "Четворка Пентакли + Цар Чаши",
+    "reading_combination": ["four_pentacles", "king_cups"],
+    "reading_meaning": "Четворка Пентакли носи сигурност и стискане, а Цар Чаши – емоционална зрялост и баланс. Стискате, но с мъдрост. Знаете кога да задържите и кога да пуснете. Баланс между сигурност и щедрост.",
+    "reading_description": "Стискаш, но с мъдрост. Знаеш кога да задържиш и кога да пуснеш.",
+    "reading_advice": "Продължавай така. Балансът между сигурност и щедрост е мъдрост."
+  },
+    {
+    "reading_id": "five_pentacles_two_wands",
+    "reading_name": "Петица Пентакли + Двойка Жезли",
+    "reading_cards": "Петица Пентакли + Двойка Жезли",
+    "reading_combination": ["five_pentacles", "two_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Двойка Жезли – избор и планиране. Имате ограничени ресурси и предстои важен избор. Търсете помощ и планирайте внимателно – всяко решение има значение.",
+    "reading_description": "Ограничени ресурси и важен избор пред теб. Планирай внимателно.",
+    "reading_advice": "Потърси помощ. Не си сам. Планирай внимателно – всяка стъпка има значение."
+  },
+  {
+    "reading_id": "five_pentacles_three_wands",
+    "reading_name": "Петица Пентакли + Тройка Жезли",
+    "reading_cards": "Петица Пентакли + Тройка Жезли",
+    "reading_combination": ["five_pentacles", "three_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Тройка Жезли – очакване и разширяване. Инвестирали сте последните си ресурси и сега чакате. Трудно очакване, но надеждата ви крепи.",
+    "reading_description": "Инвестирал си последните си ресурси и сега чакаш. Трудно, но надеждата те крепи.",
+    "reading_advice": "Чакай търпеливо. Надеждата е последното, което умира. Вярвай, че ще се получи."
+  },
+  {
+    "reading_id": "five_pentacles_four_wands",
+    "reading_name": "Петица Пентакли + Четворка Жезли",
+    "reading_cards": "Петица Пентакли + Четворка Жезли",
+    "reading_combination": ["five_pentacles", "four_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Четворка Жезли – празник и стабилност. Искате да празнувате, но ресурсите са ограничени. Истинският празник не е в парите – той е в сърцето.",
+    "reading_description": "Искаш да празнуваш, но ресурсите са ограничени. Истинският празник не е в парите.",
+    "reading_advice": "Празнувай с това, което имаш. Истинската радост не изисква много пари."
+  },
+  {
+    "reading_id": "five_pentacles_five_wands",
+    "reading_name": "Петица Пентакли + Петица Жезли",
+    "reading_cards": "Петица Пентакли + Петица Жезли",
+    "reading_combination": ["five_pentacles", "five_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Петица Жезли – конфликт и съперничество. Борите се за оскъдни ресурси. Конфликти и спорове около пари. Търсете мирно решение.",
+    "reading_description": "Бориш се за оскъдни ресурси. Конфликти и спорове около пари.",
+    "reading_advice": "Търси мирно решение. Борбата за оскъдни ресурси рядко носи победа."
+  },
+  {
+    "reading_id": "five_pentacles_six_wands",
+    "reading_name": "Петица Пентакли + Шестица Жезли",
+    "reading_cards": "Петица Пентакли + Шестица Жезли",
+    "reading_combination": ["five_pentacles", "six_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Шестица Жезли – победа и признание. Въпреки трудностите, идва успех. Победата е по-сладка, когато идва след тежък период.",
+    "reading_description": "Въпреки трудностите, идва успех. Победата е по-сладка след тежък период.",
+    "reading_advice": "Наслади се на победата. Ти я заслужи. Трудностите те направиха по-силен."
+  },
+  {
+    "reading_id": "five_pentacles_seven_wands",
+    "reading_name": "Петица Пентакли + Седмица Жезли",
+    "reading_cards": "Петица Пентакли + Седмица Жезли",
+    "reading_combination": ["five_pentacles", "seven_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Седмица Жезли – защита на позицията. Някой се опитва да ви отнеме малкото, което имате. Защитавайте се, но търсете и помощ.",
+    "reading_description": "Някой се опитва да ти отнеме малкото, което имаш. Защитавай се.",
+    "reading_advice": "Защитавай се, но не се затваряй. Потърси помощ – има хора, които искат да помогнат."
+  },
+  {
+    "reading_id": "five_pentacles_eight_wands",
+    "reading_name": "Петица Пентакли + Осмица Жезли",
+    "reading_cards": "Петица Пентакли + Осмица Жезли",
+    "reading_combination": ["five_pentacles", "eight_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Осмица Жезли – бързина и движение. Всичко се случва бързо – възможност или заплаха идва светкавично. Бъдете готови да реагирате.",
+    "reading_description": "Всичко се случва бързо – възможност или заплаха идва светкавично.",
+    "reading_advice": "Бъди готов да реагираш. Скоростта може да ти донесе решение."
+  },
+  {
+    "reading_id": "five_pentacles_nine_wands",
+    "reading_name": "Петица Пентакли + Деветка Жезли",
+    "reading_cards": "Петица Пентакли + Деветка Жезли",
+    "reading_combination": ["five_pentacles", "nine_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Деветка Жезли – устойчивост и изтощение. Борите се с трудностите и сте изтощени. Не се отказвайте – краят наближава.",
+    "reading_description": "Бориш се с трудностите и си изтощен. Не се отказвай – краят наближава.",
+    "reading_advice": "Дръж се още малко. Финалната права е точно зад ъгъла."
+  },
+  {
+    "reading_id": "five_pentacles_ten_wands",
+    "reading_name": "Петица Пентакли + Десетка Жезли",
+    "reading_cards": "Петица Пентакли + Десетка Жезли",
+    "reading_combination": ["five_pentacles", "ten_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Десетка Жезли – претоварване и бреме. Носите тежкото бреме на финансовите трудности. Претоварени сте. Потърсете облекчение.",
+    "reading_description": "Носиш тежкото бреме на финансовите трудности. Претоварен си.",
+    "reading_advice": "Потърси облекчение. Не можеш да носиш всичко сам. Има хора, готови да помогнат."
+  },
+  {
+    "reading_id": "five_pentacles_page_wands",
+    "reading_name": "Петица Пентакли + Паж Жезли",
+    "reading_cards": "Петица Пентакли + Паж Жезли",
+    "reading_combination": ["five_pentacles", "page_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Паж Жезли – новини и ентусиазъм. Вълнуваща новина идва – може би възможност за изход от трудностите. Отворете се за нея.",
+    "reading_description": "Вълнуваща новина идва – може би възможност за изход от трудностите.",
+    "reading_advice": "Отвори се за новините. Те могат да донесат изход от трудната ситуация."
+  },
+  {
+    "reading_id": "five_pentacles_knight_wands",
+    "reading_name": "Петица Пентакли + Рицар Жезли",
+    "reading_cards": "Петица Пентакли + Рицар Жезли",
+    "reading_combination": ["five_pentacles", "knight_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Рицар Жезли – импулсивност и бързина. Импулсивно решение може да влоши финансовото ви положение. Забавете и обмислете.",
+    "reading_description": "Импулсивно решение може да влоши финансовото ти положение. Забави и обмисли.",
+    "reading_advice": "Не взимай прибързани решения. Импулсивността може да влоши нещата."
+  },
+  {
+    "reading_id": "five_pentacles_queen_wands",
+    "reading_name": "Петица Пентакли + Царица Жезли",
+    "reading_cards": "Петица Пентакли + Царица Жезли",
+    "reading_combination": ["five_pentacles", "queen_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Царица Жезли – увереност и харизма. Въпреки трудностите, запазвате увереност и достойнство. Вашата топлина привлича помощ.",
+    "reading_description": "Въпреки трудностите, запазваш увереност и достойнство. Топлината ти привлича помощ.",
+    "reading_advice": "Бъди топъл и уверен. Твоята светлина привлича хора, които искат да помогнат."
+  },
+  {
+    "reading_id": "five_pentacles_king_wands",
+    "reading_name": "Петица Пентакли + Цар Жезли",
+    "reading_cards": "Петица Пентакли + Цар Жезли",
+    "reading_combination": ["five_pentacles", "king_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Цар Жезли – лидерство и визия. Вие сте лидер, който води през трудностите. Вашата визия вдъхновява надежда у другите.",
+    "reading_description": "Ти си лидер, който води през трудностите. Визията ти вдъхновява надежда.",
+    "reading_advice": "Води с визия и увереност. Твоето лидерство ще изведе екипа от трудностите."
+  },
+  {
+    "reading_id": "five_pentacles_ace_wands",
+    "reading_name": "Петица Пентакли + Асо Жезли",
+    "reading_cards": "Петица Пентакли + Асо Жезли",
+    "reading_combination": ["five_pentacles", "ace_wands"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Асо Жезли – ново начало и вдъхновение. Нова възможност се появява в момент на трудности. Това може да е изходът, който търсите.",
+    "reading_description": "Нова възможност се появява в момент на трудности. Може да е изходът, който търсиш.",
+    "reading_advice": "Хвани възможността. Тя може да е светлината в тунела."
+  },
+  {
+    "reading_id": "five_pentacles_ace_cups",
+    "reading_name": "Петица Пентакли + Асо Чаши",
+    "reading_cards": "Петица Пентакли + Асо Чаши",
+    "reading_combination": ["five_pentacles", "ace_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Асо Чаши – нови чувства и любов. Нова любов или приятелство идва в труден момент. Сърцето ви намира утеха.",
+    "reading_description": "Нова любов или приятелство идва в труден момент. Сърцето ти намира утеха.",
+    "reading_advice": "Отвори сърцето си. Любовта лекува дори най-тежките рани."
+  },
+  {
+    "reading_id": "five_pentacles_two_cups",
+    "reading_name": "Петица Пентакли + Двойка Чаши",
+    "reading_cards": "Петица Пентакли + Двойка Чаши",
+    "reading_combination": ["five_pentacles", "two_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Двойка Чаши – любов и връзка. Връзката ви е подложена на изпитание от финансови трудности. Дръжте се заедно – любовта е по-силна от парите.",
+    "reading_description": "Връзката ви е подложена на изпитание от финансови трудности.",
+    "reading_advice": "Дръжте се заедно. Любовта е по-силна от парите. Трудностите ще ви направят по-силни."
+  },
+  {
+    "reading_id": "five_pentacles_three_cups",
+    "reading_name": "Петица Пентакли + Тройка Чаши",
+    "reading_cards": "Петица Пентакли + Тройка Чаши",
+    "reading_combination": ["five_pentacles", "three_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Тройка Чаши – празник и радост. Дори в трудностите намирате повод за радост. Приятелите и семейството са вашата истинска подкрепа.",
+    "reading_description": "Дори в трудностите намираш повод за радост. Приятелите и семейството са твоята подкрепа.",
+    "reading_advice": "Празнувай малките неща. Радостта не зависи от парите."
+  },
+  {
+    "reading_id": "five_pentacles_four_cups",
+    "reading_name": "Петица Пентакли + Четворка Чаши",
+    "reading_cards": "Петица Пентакли + Четворка Чаши",
+    "reading_combination": ["five_pentacles", "four_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Четворка Чаши – апатия и неудовлетворение. Трудностите ви правят апатични и недоволни. Не затваряйте очи – помощ може да е точно пред вас.",
+    "reading_description": "Трудностите те правят апатичен и недоволен. Помощ може да е точно пред теб.",
+    "reading_advice": "Вдигни поглед. Помощта може да е точно пред теб, но ти не я виждаш."
+  },
+  {
+    "reading_id": "five_pentacles_five_cups",
+    "reading_name": "Петица Пентакли + Петица Чаши",
+    "reading_cards": "Петица Пентакли + Петица Чаши",
+    "reading_combination": ["five_pentacles", "five_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Петица Чаши – загуба и тъга. Двойна загуба – финансова и емоционална. Позволете си да скърбите, но не губете надежда.",
+    "reading_description": "Двойна загуба – финансова и емоционална. Скърби, но не губи надежда.",
+    "reading_advice": "Позволи си да скърбиш. Но помни – след дъжда идва слънце. Надеждата винаги е там."
+  },
+  {
+    "reading_id": "five_pentacles_six_cups",
+    "reading_name": "Петица Пентакли + Шестица Чаши",
+    "reading_cards": "Петица Пентакли + Шестица Чаши",
+    "reading_combination": ["five_pentacles", "six_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Шестица Чаши – спомени и носталгия. Спомените за по-добри времена ви крепят. Използвайте миналото като вдъхновение, но не живейте в него.",
+    "reading_description": "Спомените за по-добри времена те крепят. Използвай ги като вдъхновение.",
+    "reading_advice": "Спомените са утеха, но не живей в миналото. Гледай напред."
+  },
+  {
+    "reading_id": "five_pentacles_seven_cups",
+    "reading_name": "Петица Пентакли + Седмица Чаши",
+    "reading_cards": "Петица Пентакли + Седмица Чаши",
+    "reading_combination": ["five_pentacles", "seven_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Седмица Чаши – илюзии и фантазии. Бягате в илюзии, за да избегнете реалността. Свали розовите очила – само истината може да ви помогне.",
+    "reading_description": "Бягаш в илюзии, за да избегнеш реалността. Свали розовите очила.",
+    "reading_advice": "Погледни истината в очите. Само тя може да ти помогне да излезеш от трудностите."
+  },
+  {
+    "reading_id": "five_pentacles_eight_cups",
+    "reading_name": "Петица Пентакли + Осмица Чаши",
+    "reading_cards": "Петица Пентакли + Осмица Чаши",
+    "reading_combination": ["five_pentacles", "eight_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Осмица Чаши – тръгване и оставяне. Решавате да напуснете ситуацията на липса и да тръгнете към нещо ново. Смела стъпка.",
+    "reading_description": "Решаваш да напуснеш ситуацията на липса и да тръгнеш към нещо ново.",
+    "reading_advice": "Тръгни смело. Понякога трябва да оставиш, за да получиш нещо по-добро."
+  },
+  {
+    "reading_id": "five_pentacles_nine_cups",
+    "reading_name": "Петица Пентакли + Деветка Чаши",
+    "reading_cards": "Петица Пентакли + Деветка Чаши",
+    "reading_combination": ["five_pentacles", "nine_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Деветка Чаши – сбъднато желание. Въпреки трудностите, една мечта се сбъдва. Радост сред трудностите.",
+    "reading_description": "Въпреки трудностите, една мечта се сбъдва. Радост сред трудностите.",
+    "reading_advice": "Наслади се на тази радост. Тя е доказателство, че дори в трудности има място за щастие."
+  },
+  {
+    "reading_id": "five_pentacles_ten_cups",
+    "reading_name": "Петица Пентакли + Десетка Чаши",
+    "reading_cards": "Петица Пентакли + Десетка Чаши",
+    "reading_combination": ["five_pentacles", "ten_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Десетка Чаши – семейно щастие. Финансовите трудности не могат да разрушат семейната ви хармония. Любовта е по-силна от парите.",
+    "reading_description": "Финансовите трудности не могат да разрушат семейната ви хармония.",
+    "reading_advice": "Цени семейството си. То е истинското ви богатство. Заедно ще преодолеете всичко."
+  },
+  {
+    "reading_id": "five_pentacles_page_cups",
+    "reading_name": "Петица Пентакли + Паж Чаши",
+    "reading_cards": "Петица Пентакли + Паж Чаши",
+    "reading_combination": ["five_pentacles", "page_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Паж Чаши – емоционално послание. Нежно послание идва, носейки надежда в трудния момент. Отворете сърцето си.",
+    "reading_description": "Нежно послание идва, носейки надежда в трудния момент.",
+    "reading_advice": "Отвори сърцето си за посланието. То носи надежда и утеха."
+  },
+  {
+    "reading_id": "five_pentacles_knight_cups",
+    "reading_name": "Петица Пентакли + Рицар Чаши",
+    "reading_cards": "Петица Пентакли + Рицар Чаши",
+    "reading_combination": ["five_pentacles", "knight_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Рицар Чаши – романтика и ухажване. Романтичен жест идва в труден момент. Позволете на любовта да ви утеши.",
+    "reading_description": "Романтичен жест идва в труден момент. Позволи на любовта да те утеши.",
+    "reading_advice": "Позволи на любовта да влезе. Тя може да е точно това, от което имаш нужда сега."
+  },
+  {
+    "reading_id": "five_pentacles_queen_cups",
+    "reading_name": "Петица Пентакли + Царица Чаши",
+    "reading_cards": "Петица Пентакли + Царица Чаши",
+    "reading_combination": ["five_pentacles", "queen_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Царица Чаши – интуиция и емпатия. Интуицията ви подсказва как да излезете от трудностите. Слушайте сърцето си.",
+    "reading_description": "Интуицията ти подсказва как да излезеш от трудностите. Слушай сърцето си.",
+    "reading_advice": "Довери се на вътрешния си глас. Той знае пътя през трудностите."
+  },
+  {
+    "reading_id": "five_pentacles_king_cups",
+    "reading_name": "Петица Пентакли + Цар Чаши",
+    "reading_cards": "Петица Пентакли + Цар Чаши",
+    "reading_combination": ["five_pentacles", "king_cups"],
+    "reading_meaning": "Петица Пентакли носи финансови трудности и липса, а Цар Чаши – емоционална зрялост и баланс. Запазвате емоционален баланс въпреки трудностите. Мъдростта ви помага да не се паникьосвате.",
+    "reading_description": "Запазваш емоционален баланс въпреки трудностите. Мъдростта ти помага.",
+    "reading_advice": "Бъди спокоен и мъдър. Емоционалният баланс е най-доброто оръжие срещу трудностите."
+  },
+    {
+    "reading_id": "minors_pair_six_pentacles_two_wands",
+    "reading_name": "Шестица Пентакли + Двойка Жезли",
+    "reading_cards": "Шестица Пентакли + Двойка Жезли",
+    "reading_combination": ["six_pentacles", "two_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Двойка Жезли – избор и планиране. Някой ви предлага помощ, но трябва да изберете дали да я приемете. Не се страхувайте да приемете подкрепа.",
+    "reading_description": "Някой ти предлага помощ, но трябва да избереш дали да я приемеш.",
+    "reading_advice": "Приеми помощта с благодарност. Някой ден ще имаш възможност да върнеш жеста."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_three_wands",
+    "reading_name": "Шестица Пентакли + Тройка Жезли",
+    "reading_cards": "Шестица Пентакли + Тройка Жезли",
+    "reading_combination": ["six_pentacles", "three_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Тройка Жезли – очакване и разширяване. Помощта, която сте получили, ще даде резултати. Чакайте търпеливо – плодовете идват.",
+    "reading_description": "Помощта, която си получил, ще даде резултати. Чакай търпеливо.",
+    "reading_advice": "Чакай търпеливо. Добрата инвестиция (и помощ) дава плодове с времето."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_four_wands",
+    "reading_name": "Шестица Пентакли + Четворка Жезли",
+    "reading_cards": "Шестица Пентакли + Четворка Жезли",
+    "reading_combination": ["six_pentacles", "four_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Четворка Жезли – празник и стабилност. Споделяте успеха си с другите. Празнувате и дарявате – щедростта умножава радостта.",
+    "reading_description": "Споделяш успеха си с другите. Щедростта умножава радостта.",
+    "reading_advice": "Сподели щедро. Радостта се умножава, когато се споделя."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_five_wands",
+    "reading_name": "Шестица Пентакли + Петица Жезли",
+    "reading_cards": "Шестица Пентакли + Петица Жезли",
+    "reading_combination": ["six_pentacles", "five_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Петица Жезли – конфликт и съперничество. Предлагате помощ, но срещате съпротива. Някой не иска да приеме помощ. Не настоявайте – уважете избора му.",
+    "reading_description": "Предлагаш помощ, но срещаш съпротива. Някой не иска да приеме.",
+    "reading_advice": "Уважи избора на другия. Не можеш да помогнеш на някой, който не иска помощ."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_six_wands",
+    "reading_name": "Шестица Пентакли + Шестица Жезли",
+    "reading_cards": "Шестица Пентакли + Шестица Жезли",
+    "reading_combination": ["six_pentacles", "six_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Шестица Жезли – победа и признание. Вашата щедрост носи признание. Хората ви уважават и ценят за това, което давате.",
+    "reading_description": "Твоята щедрост носи признание. Хората те уважават и ценят.",
+    "reading_advice": "Продължавай да даваш. Щедростта ти се завръща многократно."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_seven_wands",
+    "reading_name": "Шестица Пентакли + Седмица Жезли",
+    "reading_cards": "Шестица Пентакли + Седмица Жезли",
+    "reading_combination": ["six_pentacles", "seven_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Седмица Жезли – защита на позицията. Защитавате правото си да помагате или някой ви атакува, защото сте щедри. Дръжте се.",
+    "reading_description": "Защитаваш правото си да помагаш. Някой те атакува за щедростта ти.",
+    "reading_advice": "Дръж се. Щедростта не е слабост – тя е сила."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_eight_wands",
+    "reading_name": "Шестица Пентакли + Осмица Жезли",
+    "reading_cards": "Шестица Пентакли + Осмица Жезли",
+    "reading_combination": ["six_pentacles", "eight_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Осмица Жезли – бързина и движение. Помощта идва бързо и неочаквано. Бъдете готови да я приемете или да я дадете светкавично.",
+    "reading_description": "Помощта идва бързо и неочаквано. Бъди готов да я приемеш или дадеш.",
+    "reading_advice": "Действай бързо. Някои възможности за помощ не чакат."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_nine_wands",
+    "reading_name": "Шестица Пентакли + Деветка Жезли",
+    "reading_cards": "Шестица Пентакли + Деветка Жезли",
+    "reading_combination": ["six_pentacles", "nine_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Деветка Жезли – устойчивост и изтощение. Изтощени сте, но продължавате да помагате на другите. Грижете се и за себе си.",
+    "reading_description": "Изтощен си, но продължаваш да помагаш на другите. Грижи се и за себе си.",
+    "reading_advice": "Помощта започва от себе си. Не можеш да даваш от празно."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_ten_wands",
+    "reading_name": "Шестица Пентакли + Десетка Жезли",
+    "reading_cards": "Шестица Пентакли + Десетка Жезли",
+    "reading_combination": ["six_pentacles", "ten_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Десетка Жезли – претоварване и бреме. Носите бремето на другите – помагате, но се претоварвате. Научете се да казвате \"не\".",
+    "reading_description": "Носиш бремето на другите – помагаш, но се претоварваш.",
+    "reading_advice": "Научи се да казваш \"не\". Не можеш да помагаш на всички, ако си претоварен."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_page_wands",
+    "reading_name": "Шестица Пентакли + Паж Жезли",
+    "reading_cards": "Шестица Пентакли + Паж Жезли",
+    "reading_combination": ["six_pentacles", "page_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Паж Жезли – новини и ентусиазъм. Вълнуваща новина идва за помощ или дарение. Някой иска да ви помогне или вие ще помогнете на някого.",
+    "reading_description": "Вълнуваща новина идва за помощ или дарение. Някой иска да ти помогне.",
+    "reading_advice": "Отвори се за новината. Тя носи надежда и подкрепа."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_knight_wands",
+    "reading_name": "Шестица Пентакли + Рицар Жезли",
+    "reading_cards": "Шестица Пентакли + Рицар Жезли",
+    "reading_combination": ["six_pentacles", "knight_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Рицар Жезли – импулсивност и бързина. Някой иска да помогне импулсивно, но може да не обмисли добре. Бъдете благодарни, но внимателни.",
+    "reading_description": "Някой иска да помогне импулсивно. Бъди благодарен, но внимателен.",
+    "reading_advice": "Приеми помощта, но проверѝ дали е добре обмислена. Импулсивната помощ може да донесе усложнения."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_queen_wands",
+    "reading_name": "Шестица Пентакли + Царица Жезли",
+    "reading_cards": "Шестица Пентакли + Царица Жезли",
+    "reading_combination": ["six_pentacles", "queen_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Царица Жезли – увереност и харизма. Вие сте този, който помага с увереност и топлина. Вашата щедрост вдъхновява другите.",
+    "reading_description": "Ти си този, който помага с увереност и топлина. Щедростта ти вдъхновява.",
+    "reading_advice": "Продължавай да даваш с топлина. Твоята щедрост променя животи."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_king_wands",
+    "reading_name": "Шестица Пентакли + Цар Жезли",
+    "reading_cards": "Шестица Пентакли + Цар Жезли",
+    "reading_combination": ["six_pentacles", "king_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Цар Жезли – лидерство и визия. Вие сте лидер, който помага и вдъхновява. Вашата щедрост и визия водят другите.",
+    "reading_description": "Ти си лидер, който помага и вдъхновява. Щедростта и визията ти водят другите.",
+    "reading_advice": "Води с пример. Твоята щедрост е лидерско качество, което вдъхновява."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_ace_wands",
+    "reading_name": "Шестица Пентакли + Асо Жезли",
+    "reading_cards": "Шестица Пентакли + Асо Жезли",
+    "reading_combination": ["six_pentacles", "ace_wands"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Асо Жезли – ново начало и вдъхновение. Нова възможност идва чрез помощ, която получавате или давате. Искрата е запалена.",
+    "reading_description": "Нова възможност идва чрез помощ, която получаваш или даваш.",
+    "reading_advice": "Хвани искрата. Помощта, която идва сега, може да е начало на нещо голямо."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_ace_cups",
+    "reading_name": "Шестица Пентакли + Асо Чаши",
+    "reading_cards": "Шестица Пентакли + Асо Чаши",
+    "reading_combination": ["six_pentacles", "ace_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Асо Чаши – нови чувства и любов. Нова любов или приятелство идва чрез помощ. Сърцето се отваря, когато получаваш или даваш.",
+    "reading_description": "Нова любов или приятелство идва чрез помощ. Сърцето се отваря.",
+    "reading_advice": "Отвори сърцето си. Даването и получаването на помощ може да роди любов."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_two_cups",
+    "reading_name": "Шестица Пентакли + Двойка Чаши",
+    "reading_cards": "Шестица Пентакли + Двойка Чаши",
+    "reading_combination": ["six_pentacles", "two_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Двойка Чаши – любов и връзка. Връзка, основана на взаимна подкрепа и щедрост. Давате и получавате в баланс.",
+    "reading_description": "Връзка, основана на взаимна подкрепа и щедрост. Даваш и получаваш в баланс.",
+    "reading_advice": "Цени този баланс. Даването и получаването в любовта е ключът към хармонията."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_three_cups",
+    "reading_name": "Шестица Пентакли + Тройка Чаши",
+    "reading_cards": "Шестица Пентакли + Тройка Чаши",
+    "reading_combination": ["six_pentacles", "three_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Тройка Чаши – празник и радост. Празнувате, като споделяте с другите. Щедростта прави празника по-радостен.",
+    "reading_description": "Празнуваш, като споделяш с другите. Щедростта прави празника по-радостен.",
+    "reading_advice": "Споделяй щедро. Колкото повече даваш, толкова повече радост получаваш."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_four_cups",
+    "reading_name": "Шестица Пентакли + Четворка Чаши",
+    "reading_cards": "Шестица Пентакли + Четворка Чаши",
+    "reading_combination": ["six_pentacles", "four_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Четворка Чаши – апатия и неудовлетворение. Предлагат ви помощ, но вие не я забелязвате. Вдигнете поглед – помощта е точно пред вас.",
+    "reading_description": "Предлагат ти помощ, но ти не я забелязваш. Вдигни поглед.",
+    "reading_advice": "Свали превръзката от очите. Помощта може да е точно пред теб."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_five_cups",
+    "reading_name": "Шестица Пентакли + Петица Чаши",
+    "reading_cards": "Шестица Пентакли + Петица Чаши",
+    "reading_combination": ["six_pentacles", "five_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Петица Чаши – загуба и тъга. Някой протяга ръка да ви помогне след загуба. Приемете помощта – не сте сами.",
+    "reading_description": "Някой протяга ръка да ти помогне след загуба. Приеми – не си сам.",
+    "reading_advice": "Приеми помощта. Няма срам да поискаш помощ, когато си в тъга."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_six_cups",
+    "reading_name": "Шестица Пентакли + Шестица Чаши",
+    "reading_cards": "Шестица Пентакли + Шестица Чаши",
+    "reading_combination": ["six_pentacles", "six_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Шестица Чаши – спомени и носталгия. Някой от миналото идва да ви помогне. Стар приятел или роднина протяга ръка.",
+    "reading_description": "Някой от миналото идва да ти помогне. Стар приятел протяга ръка.",
+    "reading_advice": "Приеми помощта с благодарност. Някои връзки са вечни."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_seven_cups",
+    "reading_name": "Шестица Пентакли + Седмица Чаши",
+    "reading_cards": "Шестица Пентакли + Седмица Чаши",
+    "reading_combination": ["six_pentacles", "seven_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Седмица Чаши – илюзии и фантазии. Някой предлага помощ, но може да не е искрен. Проверете намеренията, преди да приемете.",
+    "reading_description": "Някой предлага помощ, но може да не е искрен. Провери намеренията.",
+    "reading_advice": "Провери два пъти. Не всяка предложена помощ е искрена."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_eight_cups",
+    "reading_name": "Шестица Пентакли + Осмица Чаши",
+    "reading_cards": "Шестица Пентакли + Осмица Чаши",
+    "reading_combination": ["six_pentacles", "eight_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Осмица Чаши – тръгване и оставяне. Тръгвате, но носите със себе си помощта, която сте получили. Благодарни сте и свободни.",
+    "reading_description": "Тръгваш, но носиш със себе си помощта, която си получил. Благодарен и свободен.",
+    "reading_advice": "Тръгни с благодарност. Помощта, която получи, те прави по-силен."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_nine_cups",
+    "reading_name": "Шестица Пентакли + Деветка Чаши",
+    "reading_cards": "Шестица Пентакли + Деветка Чаши",
+    "reading_combination": ["six_pentacles", "nine_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Деветка Чаши – сбъднато желание. Мечтата ви се сбъдва с помощта на другите. Благодарност и удовлетворение.",
+    "reading_description": "Мечтата ти се сбъдва с помощта на другите. Благодарност и удовлетворение.",
+    "reading_advice": "Благодари на тези, които ти помогнаха. Сподели радостта с тях."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_ten_cups",
+    "reading_name": "Шестица Пентакли + Десетка Чаши",
+    "reading_cards": "Шестица Пентакли + Десетка Чаши",
+    "reading_combination": ["six_pentacles", "ten_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Десетка Чаши – семейно щастие. Семейството ви помага или вие помагате на семейството. Споделена подкрепа и любов.",
+    "reading_description": "Семейството ти помага или ти помагаш на семейството. Споделена подкрепа.",
+    "reading_advice": "Цени семейството си. То е най-голямата ти подкрепа."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_page_cups",
+    "reading_name": "Шестица Пентакли + Паж Чаши",
+    "reading_cards": "Шестица Пентакли + Паж Чаши",
+    "reading_combination": ["six_pentacles", "page_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Паж Чаши – емоционално послание. Нежно послание идва с предложение за помощ. Отворете сърцето си.",
+    "reading_description": "Нежно послание идва с предложение за помощ. Отвори сърцето си.",
+    "reading_advice": "Отвори се за посланието. То носи подкрепа и топлина."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_knight_cups",
+    "reading_name": "Шестица Пентакли + Рицар Чаши",
+    "reading_cards": "Шестица Пентакли + Рицар Чаши",
+    "reading_combination": ["six_pentacles", "knight_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Рицар Чаши – романтика и ухажване. Романтичен жест идва с предложение за помощ. Любов и подкрепа заедно.",
+    "reading_description": "Романтичен жест идва с предложение за помощ. Любов и подкрепа заедно.",
+    "reading_advice": "Позволи на любовта и подкрепата да влязат в живота ти."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_queen_cups",
+    "reading_name": "Шестица Пентакли + Царица Чаши",
+    "reading_cards": "Шестица Пентакли + Царица Чаши",
+    "reading_combination": ["six_pentacles", "queen_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Царица Чаши – интуиция и емпатия. Интуицията ви подсказва на кого да помогнете или от кого да приемете помощ. Слушайте сърцето си.",
+    "reading_description": "Интуицията ти подсказва на кого да помогнеш или от кого да приемеш помощ.",
+    "reading_advice": "Довери се на интуицията си. Тя знае кой наистина има нужда от помощ."
+  },
+  {
+    "reading_id": "minors_pair_six_pentacles_king_cups",
+    "reading_name": "Шестица Пентакли + Цар Чаши",
+    "reading_cards": "Шестица Пентакли + Цар Чаши",
+    "reading_combination": ["six_pentacles", "king_cups"],
+    "reading_meaning": "Шестица Пентакли носи помощ и щедрост, а Цар Чаши – емоционална зрялост и баланс. Помагате с мъдрост и баланс. Знаете кога да дадете и кога да получите.",
+    "reading_description": "Помагаш с мъдрост и баланс. Знаеш кога да дадеш и кога да получиш.",
+    "reading_advice": "Продължавай така. Твоят баланс между даване и получаване е пример за другите."
+  },
+    {
+    "reading_id": "minors_pair_seven_pentacles_two_wands",
+    "reading_name": "Седмица Пентакли + Двойка Жезли",
+    "reading_cards": "Седмица Пентакли + Двойка Жезли",
+    "reading_combination": ["seven_pentacles", "two_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Двойка Жезли – избор и планиране. Инвестирали сте време и ресурси и сега чакате резултати. Предстои избор за следващата стъпка. Чакайте търпеливо, но планирайте.",
+    "reading_description": "Инвестирал си време и ресурси и чакаш резултати. Чакай търпеливо, но планирай.",
+    "reading_advice": "Чакай търпеливо, докато планираш следващите стъпки. Най-добрите неща идват с времето."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_three_wands",
+    "reading_name": "Седмица Пентакли + Тройка Жезли",
+    "reading_cards": "Седмица Пентакли + Тройка Жезли",
+    "reading_combination": ["seven_pentacles", "three_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Тройка Жезли – очакване и разширяване. Двойно очакване – инвестирали сте и гледате напред. Плодовете идват, но имайте търпение.",
+    "reading_description": "Инвестирал си и гледаш напред. Плодовете идват, но имай търпение.",
+    "reading_advice": "Гледай напред с надежда. Търпението ти ще бъде възнаградено."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_four_wands",
+    "reading_name": "Седмица Пентакли + Четворка Жезли",
+    "reading_cards": "Седмица Пентакли + Четворка Жезли",
+    "reading_combination": ["seven_pentacles", "four_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Четворка Жезли – празник и стабилност. Празнувате напредъка, докато чакате крайните резултати. Радвайте се на пътя, не само на дестинацията.",
+    "reading_description": "Празнуваш напредъка, докато чакаш крайните резултати. Радвай се на пътя.",
+    "reading_advice": "Празнувай малките победи. Те са стъпалата към големия успех."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_five_wands",
+    "reading_name": "Седмица Пентакли + Петица Жезли",
+    "reading_cards": "Седмица Пентакли + Петица Жезли",
+    "reading_combination": ["seven_pentacles", "five_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Петица Жезли – конфликт и съперничество. Докато чакате резултати, около вас има спорове и конкуренция. Не се замесвайте – фокусът ви е върху плодовете.",
+    "reading_description": "Докато чакаш резултати, около теб има спорове. Не се замесвай.",
+    "reading_advice": "Не се замесвай в драми. Фокусирай се върху това, което си посял."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_six_wands",
+    "reading_name": "Седмица Пентакли + Шестица Жезли",
+    "reading_cards": "Седмица Пентакли + Шестица Жезли",
+    "reading_combination": ["seven_pentacles", "six_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Шестица Жезли – победа и признание. Търпението ви се отплаща – резултатите идват и носят успех. Насладете се на момента.",
+    "reading_description": "Търпението ти се отплаща – резултатите идват и носят успех.",
+    "reading_advice": "Наслади се на момента. Ти го заслужи. Търпението и упоритостта дават плод."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_seven_wands",
+    "reading_name": "Седмица Пентакли + Седмица Жезли",
+    "reading_cards": "Седмица Пентакли + Седмица Жезли",
+    "reading_combination": ["seven_pentacles", "seven_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Седмица Жезли – защита на позицията. Докато чакате, някой се опитва да ви попречи. Дръжте позицията си и не отстъпвайте.",
+    "reading_description": "Докато чакаш, някой се опитва да ти попречи. Дръж позицията си.",
+    "reading_advice": "Бъди бдителен, но не позволявай на страха да те завладее. Дръж позицията си."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_eight_wands",
+    "reading_name": "Седмица Пентакли + Осмица Жезли",
+    "reading_cards": "Седмица Пентакли + Осмица Жезли",
+    "reading_combination": ["seven_pentacles", "eight_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Осмица Жезли – бързина и движение. Резултатите идват неочаквано бързо. Бъдете готови да ги посрещнете.",
+    "reading_description": "Резултатите идват неочаквано бързо. Бъди готов да ги посрещнеш.",
+    "reading_advice": "Приготви се. Нещата ще се случат по-бързо, отколкото очакваш."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_nine_wands",
+    "reading_name": "Седмица Пентакли + Деветка Жезли",
+    "reading_cards": "Седмица Пентакли + Деветка Жезли",
+    "reading_combination": ["seven_pentacles", "nine_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Деветка Жезли – устойчивост и изтощение. Чакането се проточва и започва да ви изтощава. Умора, но и надежда, че скоро ще приключи.",
+    "reading_description": "Чакането се проточва и те изтощава. Умора, но надежда, че краят е близо.",
+    "reading_advice": "Дръж се още малко. Финалната права е точно зад ъгъла."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_ten_wands",
+    "reading_name": "Седмица Пентакли + Десетка Жезли",
+    "reading_cards": "Седмица Пентакли + Десетка Жезли",
+    "reading_combination": ["seven_pentacles", "ten_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Десетка Жезли – претоварване и бреме. Докато чакате, носите и много други отговорности. Претоварване и умора, но не можете да спрете.",
+    "reading_description": "Докато чакаш, носиш и много други отговорности. Претоварване и умора.",
+    "reading_advice": "Потърси облекчение, преди да се сринеш. Не можеш да носиш всичко сам."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_page_wands",
+    "reading_name": "Седмица Пентакли + Паж Жезли",
+    "reading_cards": "Седмица Пентакли + Паж Жезли",
+    "reading_combination": ["seven_pentacles", "page_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Паж Жезли – новини и ентусиазъм. Очаквайте вълнуваща новина, свързана с проекта ви. Добри вести идват.",
+    "reading_description": "Очаквай вълнуваща новина. Добри вести идват.",
+    "reading_advice": "Отвори се за новините. Те носят вдъхновение и нова енергия."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_knight_wands",
+    "reading_name": "Седмица Пентакли + Рицар Жезли",
+    "reading_cards": "Седмица Пентакли + Рицар Жезли",
+    "reading_combination": ["seven_pentacles", "knight_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Рицар Жезли – импулсивност и бързина. Нетърпението ви расте – искате резултати веднага. Забавете – скоростта не винаги е добра.",
+    "reading_description": "Нетърпението ти расте – искаш резултати веднага. Забави.",
+    "reading_advice": "Забави малко. Скоростта не винаги е най-важното. Понякога бавното и сигурно води до по-добър резултат."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_queen_wands",
+    "reading_name": "Седмица Пентакли + Царица Жезли",
+    "reading_cards": "Седмица Пентакли + Царица Жезли",
+    "reading_combination": ["seven_pentacles", "queen_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Царица Жезли – увереност и харизма. Чакате с увереност, знаейки, че всичко ще се нареди. Вашата топлина и вяра вдъхновяват другите.",
+    "reading_description": "Чакаш с увереност, знаейки, че всичко ще се нареди. Вярата ти вдъхновява.",
+    "reading_advice": "Чакай с увереност. Твоята вяра и топлина ще привлекат положителни резултати."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_king_wands",
+    "reading_name": "Седмица Пентакли + Цар Жезли",
+    "reading_cards": "Седмица Пентакли + Цар Жезли",
+    "reading_combination": ["seven_pentacles", "king_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Цар Жезли – лидерство и визия. Чакате с визия за бъдещето. Вашето стратегическо мислене ще ви донесе успех.",
+    "reading_description": "Чакаш с визия за бъдещето. Стратегическото ти мислене ще донесе успех.",
+    "reading_advice": "Гледай напред с визия. Твоето лидерство води другите към успех."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_ace_wands",
+    "reading_name": "Седмица Пентакли + Асо Жезли",
+    "reading_cards": "Седмица Пентакли + Асо Жезли",
+    "reading_combination": ["seven_pentacles", "ace_wands"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Асо Жезли – ново начало и вдъхновение. Докато чакате плодовете на една инвестиция, се появява нова възможност. Готови ли сте да я хванете?",
+    "reading_description": "Докато чакаш плодовете на една инвестиция, се появява нова възможност.",
+    "reading_advice": "Хвани новата възможност. Тя може да е още по-голяма от тази, която чакаш."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_ace_cups",
+    "reading_name": "Седмица Пентакли + Асо Чаши",
+    "reading_cards": "Седмица Пентакли + Асо Чаши",
+    "reading_combination": ["seven_pentacles", "ace_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Асо Чаши – нови чувства и любов. Нова любов или приятелство се появява, докато чакате. Сърцето ви се отваря в периода на изчакване.",
+    "reading_description": "Нова любов се появява, докато чакаш. Сърцето ти се отваря.",
+    "reading_advice": "Отвори сърцето си. Любовта идва, когато не я чакаш."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_two_cups",
+    "reading_name": "Седмица Пентакли + Двойка Чаши",
+    "reading_cards": "Седмица Пентакли + Двойка Чаши",
+    "reading_combination": ["seven_pentacles", "two_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Двойка Чаши – любов и връзка. Връзката ви се развива бавно, но сигурно. Търпението в любовта носи дълбоки корени.",
+    "reading_description": "Връзката ви се развива бавно, но сигурно. Търпението в любовта носи дълбоки корени.",
+    "reading_advice": "Чакай търпеливо. Истинската любов не бърза – тя узрява с времето."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_three_cups",
+    "reading_name": "Седмица Пентакли + Тройка Чаши",
+    "reading_cards": "Седмица Пентакли + Тройка Чаши",
+    "reading_combination": ["seven_pentacles", "three_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Тройка Чаши – празник и радост. Очаквате повод за празнуване. Скоро ще имате причина за радост.",
+    "reading_description": "Очакваш повод за празнуване. Скоро ще имаш причина за радост.",
+    "reading_advice": "Подготвяй се за празника. Радостта идва – бъди готов да я посрещнеш."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_four_cups",
+    "reading_name": "Седмица Пентакли + Четворка Чаши",
+    "reading_cards": "Седмица Пентакли + Четворка Чаши",
+    "reading_combination": ["seven_pentacles", "four_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Четворка Чаши – апатия и неудовлетворение. Чакате, но нещо ви липсва. Неудовлетворение и скука. Потърсете радостта в малките неща.",
+    "reading_description": "Чакаш, но нещо ти липсва. Неудовлетворение и скука.",
+    "reading_advice": "Потърси радостта в малките неща. Очакването не трябва да те прави скучен."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_five_cups",
+    "reading_name": "Седмица Пентакли + Петица Чаши",
+    "reading_cards": "Седмица Пентакли + Петица Чаши",
+    "reading_combination": ["seven_pentacles", "five_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Петица Чаши – загуба и тъга. Усещате, че предстои загуба или разочарование. Страх и несигурност в очакването.",
+    "reading_description": "Усещаш, че предстои загуба или разочарование. Страх и несигурност.",
+    "reading_advice": "Каквото дойде, приеми го. Ще се справиш. Позволи си да скърбиш, после продължи."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_six_cups",
+    "reading_name": "Седмица Пентакли + Шестица Чаши",
+    "reading_cards": "Седмица Пентакли + Шестица Чаши",
+    "reading_combination": ["seven_pentacles", "six_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Шестица Чаши – спомени и носталгия. Очаквате завръщане от миналото – стар приятел, любов или ситуация. Носталгия и надежда.",
+    "reading_description": "Очакваш някой от миналото да се появи или нещо старо да се завърне.",
+    "reading_advice": "Бъди готов да посрещнеш миналото, но не спирай да живееш в настоящето."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_seven_cups",
+    "reading_name": "Седмица Пентакли + Седмица Чаши",
+    "reading_cards": "Седмица Пентакли + Седмица Чаши",
+    "reading_combination": ["seven_pentacles", "seven_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Седмица Чаши – илюзии и фантазии. Очаквате нещо, което вероятно е илюзия. Реалността ще е различна.",
+    "reading_description": "Очакваш нещо, което вероятно е илюзия. Реалността ще е различна.",
+    "reading_advice": "Слез на земята. Това, което очакваш, може да не е истина. Потърси реалността."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_eight_cups",
+    "reading_name": "Седмица Пентакли + Осмица Чаши",
+    "reading_cards": "Седмица Пентакли + Осмица Чаши",
+    "reading_combination": ["seven_pentacles", "eight_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Осмица Чаши – тръгване и оставяне. Очаквате момента да тръгнете и да започнете нов път. Подготовка за заминаване.",
+    "reading_description": "Очакваш момента да тръгнеш и да започнеш нов път. Подготовка за заминаване.",
+    "reading_advice": "Готов ли си за път? Скоро ще тръгнеш. Подготви се за новото начало."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_nine_cups",
+    "reading_name": "Седмица Пентакли + Деветка Чаши",
+    "reading_cards": "Седмица Пентакли + Деветка Чаши",
+    "reading_combination": ["seven_pentacles", "nine_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Деветка Чаши – сбъднато желание. Очаквате с нетърпение сбъдването на дългогодишна мечта. Скоро ще се случи.",
+    "reading_description": "Очакваш с нетърпение сбъдването на дългогодишна мечта. Скоро ще се случи.",
+    "reading_advice": "Търпение. Мечтите се сбъдват, когато е време. Бъди готов да ги посрещнеш."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_ten_cups",
+    "reading_name": "Седмица Пентакли + Десетка Чаши",
+    "reading_cards": "Седмица Пентакли + Десетка Чаши",
+    "reading_combination": ["seven_pentacles", "ten_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Десетка Чаши – семейно щастие. Очаквате семейно събитие – сватба, раждане, събиране. Радостно очакване.",
+    "reading_description": "Очакваш семейно събитие – сватба, раждане, събиране. Радост и топлина.",
+    "reading_advice": "Семейството те очаква. Бъди там, в момента. Тези мигове са безценни."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_page_cups",
+    "reading_name": "Седмица Пентакли + Паж Чаши",
+    "reading_cards": "Седмица Пентакли + Паж Чаши",
+    "reading_combination": ["seven_pentacles", "page_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Паж Чаши – емоционално послание. Очаквайте вест, която ще докосне сърцето ви. Някой иска да ви каже нещо важно.",
+    "reading_description": "Очакваш емоционално послание, което ще докосне сърцето ти.",
+    "reading_advice": "Отвори сърцето си за посланието. То носи нещо ценно за теб."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_knight_cups",
+    "reading_name": "Седмица Пентакли + Рицар Чаши",
+    "reading_cards": "Седмица Пентакли + Рицар Чаши",
+    "reading_combination": ["seven_pentacles", "knight_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Рицар Чаши – романтика и ухажване. Очаквайте романтичен жест или предложение. Някой идва при вас с отворено сърце.",
+    "reading_description": "Очакваш романтичен жест или предложение. Някой идва при теб с любов.",
+    "reading_advice": "Бъди готов да приемеш романтиката. Следвай сърцето си – то знае пътя."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_queen_cups",
+    "reading_name": "Седмица Пентакли + Царица Чаши",
+    "reading_cards": "Седмица Пентакли + Царица Чаши",
+    "reading_combination": ["seven_pentacles", "queen_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Царица Чаши – интуиция и емпатия. Интуицията ви подсказва какво да очаквате. Доверете се на вътрешния си глас.",
+    "reading_description": "Интуицията ти подсказва какво да очакваш. Довери се на вътрешния си глас.",
+    "reading_advice": "Слушай вътрешния си глас. Той знае повече, отколкото си мислиш."
+  },
+  {
+    "reading_id": "minors_pair_seven_pentacles_king_cups",
+    "reading_name": "Седмица Пентакли + Цар Чаши",
+    "reading_cards": "Седмица Пентакли + Цар Чаши",
+    "reading_combination": ["seven_pentacles", "king_cups"],
+    "reading_meaning": "Седмица Пентакли носи търпение и чакане, а Цар Чаши – емоционална зрялост и баланс. Очаквате със спокойствие и мъдрост. Знаете, че всичко идва в точното време.",
+    "reading_description": "Очакваш със спокойствие и мъдрост. Знаеш, че всичко идва в точното време.",
+    "reading_advice": "Чакай с мир в сърцето. Емоционалната зрялост води до правилните резултати."
   }
+
+  
+
+ 
 
  
 ];
