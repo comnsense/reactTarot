@@ -711,16 +711,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Изборът ви кара да тръгнете и да оставите познатото. Нов път.",
     "reading_advice": "Тръгнете с увереност. Новият път ви очаква с отворени обятия."
   },
-  {
-    "reading_id": "minors_pair_two_wands_nine_cups",
-    "reading_name": "Двойка Жезли + Деветка Чаши",
-    "reading_cards": "Двойка Жезли + Деветка Чаши",
-    "reading_combination": ["two_wands", "nine_cups"],
-    "reading_meaning": "Желан избор",
-    "second_meaning": "Двойка Жезли носи избора, а Деветка Чаши – сбъднатото желание. Изборът, пред който сте, ще ви помогне да сбъднете мечтата си. Изберете смело.",
-    "reading_description": "Избор, който води към сбъдване на мечта. Желано решение.",
-    "reading_advice": "Мечтите заслужават да бъдат избрани. Не се колебайте – следвайте сърцето си."
-  },
+ 
   {
     "reading_id": "minors_pair_two_wands_ten_cups",
     "reading_name": "Двойка Жезли + Десетка Чаши",
