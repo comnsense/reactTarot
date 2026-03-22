@@ -57,7 +57,7 @@ const ReadingCard: React.FC<ReadingCardProps> = ({ reading }) => {
           <span className="reading-tag">{reading.reading_meaning}</span>
         </div>
         
-        {/* Показваме second_meaning само ако съществува */}
+        {/* Показваме second_meaning САМО ако съществува */}
         {reading.second_meaning && (
           <div className="reading-card-second-meaning">
             <span className="second-meaning-label">📖 Допълнително значение</span>
