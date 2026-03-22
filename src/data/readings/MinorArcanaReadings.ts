@@ -3153,51 +3153,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Нова любов идва с много страст и ентусиазъм. Огън и вода се смесват в прекрасна хармония.",
     "reading_advice": "Наслаждавай се на тази страст, но не изгаряй."
   },
-  {
-    "reading_id": "ace_wands_three_cups",
-    "reading_name": "Празнична страст",
-    "reading_cards": "Асо Жезли + 3 Чаши",
-    "reading_combination": ["ace_wands", "three_cups"],
-    "reading_meaning": "Нова радост",
-    "reading_description": "Нова страст или проект, който носи много радост и поводи за празнуване.",
-    "reading_advice": "Празнувай всеки успех, дори малкия."
-  },
-  {
-    "reading_id": "ace_wands_four_cups",
-    "reading_name": "Пропусната възможност",
-    "reading_cards": "Асо Жезли + 4 Чаши",
-    "reading_combination": ["ace_wands", "four_cups"],
-    "reading_meaning": "Не виждаш новата възможност",
-    "reading_description": "Нова възможност се появява, но ти не я забелязваш, защото си затворен в себе си.",
-    "reading_advice": "Вдигни поглед и виж какво ти се предлага."
-  },
-  {
-    "reading_id": "ace_wands_five_cups",
-    "reading_name": "Страст и загуба",
-    "reading_cards": "Асо Жезли + 5 Чаши",
-    "reading_combination": ["ace_wands", "five_cups"],
-    "reading_meaning": "Ново начало след загуба",
-    "reading_description": "Нова страст или проект се появява след период на тъга и загуба. Светлина след мрак.",
-    "reading_advice": "Дори в скръбта има място за ново начало."
-  },
-  {
-    "reading_id": "ace_wands_six_cups",
-    "reading_name": "Носталгична страст",
-    "reading_cards": "Асо Жезли + 6 Чаши",
-    "reading_combination": ["ace_wands", "six_cups"],
-    "reading_meaning": "Ново, което напомня за старо",
-    "reading_description": "Нова страст или проект, който ти напомня за миналото. Носталгия и ново начало.",
-    "reading_advice": "Използвай миналото като вдъхновение, не като затвор."
-  },
-  {
-    "reading_id": "ace_wands_seven_cups",
-    "reading_name": "Много възможности",
-    "reading_cards": "Асо Жезли + 7 Чаши",
-    "reading_combination": ["ace_wands", "seven_cups"],
-    "reading_meaning": "Твърде много избори",
-    "reading_description": "Нова страст и много възможности едновременно. Трудно е да избереш посока.",
-    "reading_advice": "Избери едно и му се посвети."
-  },
+  
   {
     "reading_id": "ace_wands_eight_cups",
     "reading_name": "Тръгваш с нов проект",
