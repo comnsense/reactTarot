@@ -11401,8 +11401,6 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Илюзорни представи за успеха. Свали розовите очила.",
     "reading_advice": "Бъди реалист. Истинският успех се гради на реалност, не на фантазии. Гради стабилно и сигурно."
   },
-  
-[
   {
     "reading_id": "ace_wands_two_wands",
     "reading_name": "Асо Жезли + Двойка Жезли",
@@ -11923,4 +11921,6 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Нов бизнес проект с потенциал за успех и стабилност. Лидерски качества.",
     "reading_advice": "Поемете лидерството. Имате визията и практичността да успеете. Градете стабилно."
   }
+ 
 ];
+   
