@@ -24,8 +24,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Четворка Жезли",
     "reading_cards": "Асо Жезли + Четворка Жезли",
     "reading_combination": ["ace_wands", "four_wands"],
-    "reading_meaning": "Ново начало с празник",
-    "second_meaning": "Асо Жезли носи искрата на новото начало, а Четворка Жезли – празника и завръщането у дома. Заедно предвещават радостно събитие, свързано с нов старт – нова работа, преместване или важен етап. Ентусиазмът ви ще бъде споделен от близките.",
+    "reading_meaning": "Ново начало с празник.Асо Жезли носи искрата на новото начало, а Четворка Жезли – празника и завръщането у дома. Заедно предвещават радостно събитие, свързано с нов старт – нова работа, преместване или важен етап. Ентусиазмът ви ще бъде споделен от близките.",
     "reading_description": "Предстои нещо ново, което носи радост и повод за празнуване. Очаквайте щастливи събития и подкрепа от семейството.",
     "reading_advice": "Празнувайте малките победи – те са стъпалата към големия успех. Споделете радостта си с близките."
   },
@@ -34,8 +33,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Петица Жезли",
     "reading_cards": "Асо Жезли + Петица Жезли",
     "reading_combination": ["ace_wands", "five_wands"],
-    "reading_meaning": "Конкурентно начало",
-    "second_meaning": "Асо Жезли носи нова идея, а Петица Жезли – конфликт и съперничество. Още в началото срещате конкуренция или съпротива. Това може да ви обезкуражи, но е знак, че сте на прав път – значимите неща винаги предизвикват реакция.",
+    "reading_meaning": "Конкурентно начало.Асо Жезли носи нова идея, а Петица Жезли – конфликт и съперничество. Още в началото срещате конкуренция или съпротива. Това може да ви обезкуражи, но е знак, че сте на прав път – значимите неща винаги предизвикват реакция.",
     "reading_description": "Новото ви начинание среща съпротива още в зародиш. Конкуренция, спорове или хора, които не подкрепят идеята ви.",
     "reading_advice": "Не се отказвайте при първото препятствие. Конкуренцията означава, че идеята ви има стойност."
   },
@@ -44,8 +42,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Шестица Жезли",
     "reading_cards": "Асо Жезли + Шестица Жезли",
     "reading_combination": ["ace_wands", "six_wands"],
-    "reading_meaning": "Победно начало",
-    "second_meaning": "Асо Жезли символизира старта, а Шестица Жезли – победата и признанието. Новото ви начинание ще има успех още от самото начало. Вашият ентусиазъм и увереност ще бъдат забелязани и оценени.",
+    "reading_meaning": "Победно начало.Асо Жезли символизира старта, а Шестица Жезли – победата и признанието. Новото ви начинание ще има успех още от самото начало. Вашият ентусиазъм и увереност ще бъдат забелязани и оценени.",
     "reading_description": "Новият ви проект получава признание и успех още в началото. Всички виждат вашия талант и енергия.",
     "reading_advice": "Наслаждавайте се на успеха, но не спирайте да работите. Първата победа е само началото."
   },
@@ -54,8 +51,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Седмица Жезли",
     "reading_cards": "Асо Жезли + Седмица Жезли",
     "reading_combination": ["ace_wands", "seven_wands"],
-    "reading_meaning": "Защита на идеята",
-    "second_meaning": "Асо Жезли носи вдъхновението, а Седмица Жезли – защитата на позицията. Още в началото трябва да отстоявате новата си идея пред критици. Това е изпитание на вашата увереност.",
+    "reading_meaning": "Защита на идеята.Асо Жезли носи вдъхновението, а Седмица Жезли – защитата на позицията. Още в началото трябва да отстоявате новата си идея пред критици. Това е изпитание на вашата увереност.",
     "reading_description": "Новата ви идея се сблъсква с критики и съпротива. Трябва да защитавате позицията си.",
     "reading_advice": "Не се огъвайте пред първата съпротива. Убедеността ви ще спечели."
   },
@@ -64,8 +60,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Осмица Жезли",
     "reading_cards": "Асо Жезли + Осмица Жезли",
     "reading_combination": ["ace_wands", "eight_wands"],
-    "reading_meaning": "Бърз старт",
-    "second_meaning": "Асо Жезли носи искрата, а Осмица Жезли – бързината и движението. Всичко се случва светкавично – идеята се ражда и веднага започва да се развива. Няма време за колебание.",
+    "reading_meaning": "Бърз старт.Асо Жезли носи искрата, а Осмица Жезли – бързината и движението. Всичко се случва светкавично – идеята се ражда и веднага започва да се развива. Няма време за колебание.",
     "reading_description": "Новата ви идея или проект се развива с неочаквана скорост. Трябва да действате бързо, за да не изпуснете вълната.",
     "reading_advice": "Хванете вълната на скоростта. Действайте сега, без да се бавите."
   },
@@ -74,8 +69,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Деветка Жезли",
     "reading_cards": "Асо Жезли + Деветка Жезли",
     "reading_combination": ["ace_wands", "nine_wands"],
-    "reading_meaning": "Упорито начало",
-    "second_meaning": "Асо Жезли носи ентусиазма, а Деветка Жезли – устойчивостта и последната линия на отбрана. Началото е трудно и изисква много усилия. Чувствате се изтощени, но не се отказвайте – краят на усилията наближава.",
+    "reading_meaning": "Упорито начало.Асо Жезли носи ентусиазма, а Деветка Жезли – устойчивостта и последната линия на отбрана. Началото е трудно и изисква много усилия. Чувствате се изтощени, но не се отказвайте – краят на усилията наближава.",
     "reading_description": "Стартът е труден и изисква много енергия. Чувствате се изтощени, но трябва да издържите.",
     "reading_advice": "Дръжте се още малко. Финалната права е точно зад ъгъла."
   },
@@ -84,8 +78,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Десетка Жезли",
     "reading_cards": "Асо Жезли + Десетка Жезли",
     "reading_combination": ["ace_wands", "ten_wands"],
-    "reading_meaning": "Претоварен старт",
-    "second_meaning": "Асо Жезли носи ентусиазъм, а Десетка Жезли – претоварване и бреме. Поемате твърде много отговорности твърде рано. Ентусиазмът ви води до прегаряне, ако не забавите темпото.",
+    "reading_meaning": "Претоварен старт.Асо Жезли носи ентусиазъм, а Десетка Жезли – претоварване и бреме. Поемате твърде много отговорности твърде рано. Ентусиазмът ви води до прегаряне, ако не забавите темпото.",
     "reading_description": "Започвате с ентусиазъм, но бързо се претоварвате. Поемате твърде много отговорности.",
     "reading_advice": "Забавете темпото. Никой не може да носи всичко сам. Потърсете помощ."
   },
@@ -94,8 +87,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Паж Жезли",
     "reading_cards": "Асо Жезли + Паж Жезли",
     "reading_combination": ["ace_wands", "page_wands"],
-    "reading_meaning": "Свежа енергия и новини",
-    "second_meaning": "Асо Жезли носи искрата на новото начало, а Паж Жезли – ентусиазма и свежите новини. Заедно предвещават вълнуващо послание, свързано с нов проект или идея. Вашата енергия е заразителна.",
+    "reading_meaning": "Свежа енергия и новини.Асо Жезли носи искрата на новото начало, а Паж Жезли – ентусиазма и свежите новини. Заедно предвещават вълнуващо послание, свързано с нов проект или идея. Вашата енергия е заразителна.",
     "reading_description": "Получавате вълнуваща новина, свързана с ново начало. Ентусиазмът ви е на върха.",
     "reading_advice": "Споделете ентусиазма си с другите. Вашата енергия е заразителна и може да привлече подкрепа."
   },
@@ -104,8 +96,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Рицар Жезли",
     "reading_cards": "Асо Жезли + Рицар Жезли",
     "reading_combination": ["ace_wands", "knight_wands"],
-    "reading_meaning": "Стремителен старт",
-    "second_meaning": "Асо Жезли носи новото начало, а Рицар Жезли – импулсивността и бързото действие. Заедно създават експлозивна комбинация – идеята се ражда и веднага се втурвате да я реализирате с пълна сила. Внимавайте да не прегазите другите.",
+    "reading_meaning": "Стремителен старт.Асо Жезли носи новото начало, а Рицар Жезли – импулсивността и бързото действие. Заедно създават експлозивна комбинация – идеята се ражда и веднага се втурвате да я реализирате с пълна сила. Внимавайте да не прегазите другите.",
     "reading_description": "Новата идея ви кара да действате светкавично. Имате неудържима енергия и желание за движение.",
     "reading_advice": "Действайте бързо, но не забравяйте за хората около вас. Страстта е добра, но не трябва да прегазва."
   },
@@ -114,8 +105,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Царица Жезли",
     "reading_cards": "Асо Жезли + Царица Жезли",
     "reading_combination": ["ace_wands", "queen_wands"],
-    "reading_meaning": "Уверен старт",
-    "second_meaning": "Асо Жезли носи искрата, а Царица Жезли – увереността и харизмата. Започвате нещо ново с голяма самоувереност. Вашата топлина и увереност привличат хората към вас и вашата идея.",
+    "reading_meaning": "Уверен старт.Асо Жезли носи искрата, а Царица Жезли – увереността и харизмата. Започвате нещо ново с голяма самоувереност. Вашата топлина и увереност привличат хората към вас и вашата идея.",
     "reading_description": "Започвате нов проект с увереност и харизма. Хората се вдъхновяват от вашата енергия.",
     "reading_advice": "Бъдете себе си – топло и уверено. Вашата светлина вдъхновява другите да ви последват."
   },
@@ -124,8 +114,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Цар Жезли",
     "reading_cards": "Асо Жезли + Цар Жезли",
     "reading_combination": ["ace_wands", "king_wands"],
-    "reading_meaning": "Лидерски старт",
-    "second_meaning": "Асо Жезли носи новото начало, а Цар Жезли – лидерството и визията. Започвате нещо ново с ясна визия и авторитет. Имате всички качества да поведете другите и да реализирате идеята си.",
+    "reading_meaning": "Лидерски старт.Асо Жезли носи новото начало, а Цар Жезли – лидерството и визията. Започвате нещо ново с ясна визия и авторитет. Имате всички качества да поведете другите и да реализирате идеята си.",
     "reading_description": "Започвате нов проект с ясна визия и лидерска позиция. Имате авторитета да водите другите.",
     "reading_advice": "Поемете лидерството. Имате визията и силата да я осъществите. Водете с пример."
   },
@@ -134,8 +123,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Двойка Чаши",
     "reading_cards": "Асо Жезли + Двойка Чаши",
     "reading_combination": ["ace_wands", "two_cups"],
-    "reading_meaning": "Страст и любов",
-    "second_meaning": "Асо Жезли носи страстта и енергията, а Двойка Чаши – любовта и взаимното привличане. Огън и вода се срещат – страстна и интензивна любовна връзка. Химията между вас е силна и неудържима.",
+    "reading_meaning": "Страст и любов.Асо Жезли носи страстта и енергията, а Двойка Чаши – любовта и взаимното привличане. Огън и вода се срещат – страстна и интензивна любовна връзка. Химията между вас е силна и неудържима.",
     "reading_description": "Нова любовна връзка с много страст и енергия. Химията между вас е неудържима.",
     "reading_advice": "Наслаждавайте се на страстта, но не забравяйте и за емоционалната връзка. Огънят се нуждае от вода, за да не изгори."
   },
@@ -144,8 +132,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Тройка Чаши",
     "reading_cards": "Асо Жезли + Тройка Чаши",
     "reading_combination": ["ace_wands", "three_cups"],
-    "reading_meaning": "Празнична страст",
-    "second_meaning": "Асо Жезли носи енергията, а Тройка Чаши – празника и радостта. Нова страст или проект идва с много поводи за празнуване. Вашият ентусиазъм е заразителен и събира хора около вас.",
+    "reading_meaning": "Празнична страст.Асо Жезли носи енергията, а Тройка Чаши – празника и радостта. Нова страст или проект идва с много поводи за празнуване. Вашият ентусиазъм е заразителен и събира хора около вас.",
     "reading_description": "Нов проект или страст носи много радост и поводи за празнуване. Енергията ви е заразителна.",
     "reading_advice": "Празнувайте всеки успех, дори малкия. Радостта, споделена с други, е двойна радост."
   },
@@ -154,8 +141,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_name": "Асо Жезли + Четворка Чаши",
     "reading_cards": "Асо Жезли + Четворка Чаши",
     "reading_combination": ["ace_wands", "four_cups"],
-    "reading_meaning": "Пропусната възможност",
-    "second_meaning": "Асо Жезли носи нова възможност, а Четворка Чаши – апатията и неудовлетворението. Нова възможност се появява, но вие сте твърде заети със себе си, за да я забележите. Рискувате да пропуснете нещо ценно.",
+    "reading_meaning": "Пропусната възможност.Асо Жезли носи нова възможност, а Четворка Чаши – апатията и неудовлетворението. Нова възможност се появява, но вие сте твърде заети със себе си, за да я забележите. Рискувате да пропуснете нещо ценно.",
     "reading_description": "Нова възможност се появява, но вие не я забелязвате. Твърде сте заети със себе си.",
     "reading_advice": "Вдигнете поглед. Може да пропускате нещо важно, което е точно пред вас."
   },
@@ -8788,7 +8774,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Понякога да оставиш другия да спечели е по-голяма победа за любовта."
   },
     {
-    "reading_id": "minors_pair_two_cups_six_swords",
+    "reading_id": "two_cups_six_swords",
     "reading_name": "Двойка Чаши + Шестица Мечове",
     "reading_cards": "Двойка Чаши + Шестица Мечове",
     "reading_combination": ["two_cups", "six_swords"],
@@ -8797,7 +8783,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Тръгнете заедно. Новите води носят нови възможности за любовта."
   },
   {
-    "reading_id": "minors_pair_two_cups_seven_swords",
+    "reading_id": "two_cups_seven_swords",
     "reading_name": "Двойка Чаши + Седмица Мечове",
     "reading_cards": "Двойка Чаши + Седмица Мечове",
     "reading_combination": ["two_cups", "seven_swords"],
@@ -8806,7 +8792,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъдете бдителни. Истинската любов не се страхува от намеса, но трябва да я пазите."
   },
   {
-    "reading_id": "minors_pair_two_cups_eight_swords",
+    "reading_id": "two_cups_eight_swords",
     "reading_name": "Двойка Чаши + Осмица Мечове",
     "reading_cards": "Двойка Чаши + Осмица Мечове",
     "reading_combination": ["two_cups", "eight_swords"],
@@ -8815,7 +8801,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Освободи се от страха. Имаш повече възможности, отколкото си мислиш."
   },
   {
-    "reading_id": "minors_pair_two_cups_nine_swords",
+    "reading_id": "two_cups_nine_swords",
     "reading_name": "Двойка Чаши + Деветка Мечове",
     "reading_cards": "Двойка Чаши + Деветка Мечове",
     "reading_combination": ["two_cups", "nine_swords"],
@@ -8824,7 +8810,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Спокойствие. Повечето неща, за които се тревожим, никога не се случват. Говори с партньора си."
   },
   {
-    "reading_id": "minors_pair_two_cups_ten_swords",
+    "reading_id": "two_cups_ten_swords",
     "reading_name": "Двойка Чаши + Десетка Мечове",
     "reading_cards": "Двойка Чаши + Десетка Мечове",
     "reading_combination": ["two_cups", "ten_swords"],
@@ -8833,7 +8819,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Остави връзката зад гърба си. Това, което е свършило, вече не тежи. Новото начало идва."
   },
   {
-    "reading_id": "minors_pair_two_cups_page_swords",
+    "reading_id": "two_cups_page_swords",
     "reading_name": "Двойка Чаши + Паж Мечове",
     "reading_cards": "Двойка Чаши + Паж Мечове",
     "reading_combination": ["two_cups", "page_swords"],
@@ -8842,7 +8828,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Търси истината. Тя може да боли, но винаги лекува."
   },
   {
-    "reading_id": "minors_pair_two_cups_knight_swords",
+    "reading_id": "two_cups_knight_swords",
     "reading_name": "Двойка Чаши + Рицар Мечове",
     "reading_cards": "Двойка Чаши + Рицар Мечове",
     "reading_combination": ["two_cups", "knight_swords"],
@@ -8851,7 +8837,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Приеми истината с отворено сърце. Тя може да промени всичко."
   },
   {
-    "reading_id": "minors_pair_two_cups_queen_swords",
+    "reading_id": "two_cups_queen_swords",
     "reading_name": "Двойка Чаши + Царица Мечове",
     "reading_cards": "Двойка Чаши + Царица Мечове",
     "reading_combination": ["two_cups", "queen_swords"],
@@ -8860,7 +8846,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди честен със себе си. Яснотата в любовта е безценна."
   },
   {
-    "reading_id": "minors_pair_two_cups_king_swords",
+    "reading_id": "two_cups_king_swords",
     "reading_name": "Двойка Чаши + Цар Мечове",
     "reading_cards": "Двойка Чаши + Цар Мечове",
     "reading_combination": ["two_cups", "king_swords"],
@@ -8869,7 +8855,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Вземайте решения заедно с ума и сърцето. Балансът води до успех."
   },
   {
-    "reading_id": "minors_pair_two_cups_two_pentacles",
+    "reading_id": "two_cups_two_pentacles",
     "reading_name": "Двойка Чаши + Двойка Пентакли",
     "reading_cards": "Двойка Чаши + Двойка Пентакли",
     "reading_combination": ["two_cups", "two_pentacles"],
@@ -8878,7 +8864,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Балансирай, но не изпускай любовта. Финансовият и времеви баланс са ключови."
   },
   {
-    "reading_id": "minors_pair_two_cups_three_pentacles",
+    "reading_id": "two_cups_three_pentacles",
     "reading_name": "Двойка Чаши + Тройка Пентакли",
     "reading_cards": "Двойка Чаши + Тройка Пентакли",
     "reading_combination": ["two_cups", "three_pentacles"],
@@ -8887,7 +8873,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Работете в екип. Учете се един от друг. Заедно сте по-силни."
   },
   {
-    "reading_id": "minors_pair_two_cups_four_pentacles",
+    "reading_id": "two_cups_four_pentacles",
     "reading_name": "Двойка Чаши + Четворка Пентакли",
     "reading_cards": "Двойка Чаши + Четворка Пентакли",
     "reading_combination": ["two_cups", "four_pentacles"],
@@ -8896,7 +8882,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Пусни малко. Страхът от загуба може да ти попречи да обичаш истински."
   },
   {
-    "reading_id": "minors_pair_two_cups_five_pentacles",
+    "reading_id": "two_cups_five_pentacles",
     "reading_name": "Двойка Чаши + Петица Пентакли",
     "reading_cards": "Двойка Чаши + Петица Пентакли",
     "reading_combination": ["two_cups", "five_pentacles"],
@@ -8905,7 +8891,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Истинската любов не зависи от парите. Заедно ще преодолеете всичко."
   },
   {
-    "reading_id": "minors_pair_two_cups_six_pentacles",
+    "reading_id": "two_cups_six_pentacles",
     "reading_name": "Двойка Чаши + Шестица Пентакли",
     "reading_cards": "Двойка Чаши + Шестица Пентакли",
     "reading_combination": ["two_cups", "six_pentacles"],
@@ -8914,7 +8900,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Приеми помощта с благодарност. Някой ден ще имаш възможност да върнеш жеста."
   },
   {
-    "reading_id": "minors_pair_two_cups_seven_pentacles",
+    "reading_id": "two_cups_seven_pentacles",
     "reading_name": "Двойка Чаши + Седмица Пентакли",
     "reading_cards": "Двойка Чаши + Седмица Пентакли",
     "reading_combination": ["two_cups", "seven_pentacles"],
@@ -8923,7 +8909,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Чакай търпеливо. Най-добрите неща в любовта идват с времето."
   },
   {
-    "reading_id": "minors_pair_two_cups_eight_pentacles",
+    "reading_id": "two_cups_eight_pentacles",
     "reading_name": "Двойка Чаши + Осмица Пентакли",
     "reading_cards": "Двойка Чаши + Осмица Пентакли",
     "reading_combination": ["two_cups", "eight_pentacles"],
@@ -8932,7 +8918,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Учи се с желание. Любовта е практика – майсторството идва с времето."
   },
   {
-    "reading_id": "minors_pair_two_cups_nine_pentacles",
+    "reading_id": "two_cups_nine_pentacles",
     "reading_name": "Двойка Чаши + Деветка Пентакли",
     "reading_cards": "Двойка Чаши + Деветка Пентакли",
     "reading_combination": ["two_cups", "nine_pentacles"],
@@ -8941,7 +8927,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Цени независимостта си. Тя прави любовта ви по-здрава."
   },
   {
-    "reading_id": "minors_pair_two_cups_ten_pentacles",
+    "reading_id": "two_cups_ten_pentacles",
     "reading_name": "Двойка Чаши + Десетка Пентакли",
     "reading_cards": "Двойка Чаши + Десетка Пентакли",
     "reading_combination": ["two_cups", "ten_pentacles"],
@@ -8950,7 +8936,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Мислете за бъдещето. Тази любов има потенциала да бъде вечна."
   },
   {
-    "reading_id": "minors_pair_two_cups_page_pentacles",
+    "reading_id": "two_cups_page_pentacles",
     "reading_name": "Двойка Чаши + Паж Пентакли",
     "reading_cards": "Двойка Чаши + Паж Пентакли",
     "reading_combination": ["two_cups", "page_pentacles"],
@@ -8959,7 +8945,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Хвани възможността. Тя носи растеж и задълбочаване на любовта."
   },
   {
-    "reading_id": "minors_pair_two_cups_knight_pentacles",
+    "reading_id": "two_cups_knight_pentacles",
     "reading_name": "Двойка Чаши + Рицар Пентакли",
     "reading_cards": "Двойка Чаши + Рицар Пентакли",
     "reading_combination": ["two_cups", "knight_pentacles"],
@@ -8968,7 +8954,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не бързай. Сигурният път в любовта е бавен, но води до истинска дълбочина."
   },
   {
-    "reading_id": "minors_pair_two_cups_queen_pentacles",
+    "reading_id": "two_cups_queen_pentacles",
     "reading_name": "Двойка Чаши + Царица Пентакли",
     "reading_cards": "Двойка Чаши + Царица Пентакли",
     "reading_combination": ["two_cups", "queen_pentacles"],
@@ -8977,7 +8963,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Грижи се за любовта като за дом. Вложи любов и практичност."
   },
   {
-    "reading_id": "minors_pair_two_cups_king_pentacles",
+    "reading_id": "two_cups_king_pentacles",
     "reading_name": "Двойка Чаши + Цар Пентакли",
     "reading_cards": "Двойка Чаши + Цар Пентакли",
     "reading_combination": ["two_cups", "king_pentacles"],
@@ -8986,7 +8972,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Градете заедно. Стабилността и любовта вървят ръка за ръка."
   },
     {
-    "reading_id": "minors_pair_three_cups_two_wands",
+    "reading_id": "three_cups_two_wands",
     "reading_name": "Тройка Чаши + Двойка Жезли",
     "reading_cards": "Тройка Чаши + Двойка Жезли",
     "reading_combination": ["three_cups", "two_wands"],
@@ -8995,7 +8981,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Избери така, че радостта да бъде споделена. Щастието е по-голямо, когато е споделено."
   },
   {
-    "reading_id": "minors_pair_three_cups_three_wands",
+    "reading_id": "three_cups_three_wands",
     "reading_name": "Тройка Чаши + Тройка Жезли",
     "reading_cards": "Тройка Чаши + Тройка Жезли",
     "reading_combination": ["three_cups", "three_wands"],
@@ -9004,7 +8990,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Чакай търпеливо. Най-добрите празници идват неочаквано."
   },
   {
-    "reading_id": "minors_pair_three_cups_four_wands",
+    "reading_id": "three_cups_four_wands",
     "reading_name": "Тройка Чаши + Четворка Жезли",
     "reading_cards": "Тройка Чаши + Четворка Жезли",
     "reading_combination": ["three_cups", "four_wands"],
@@ -9013,7 +8999,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувайте с пълно сърце. Семейството е най-големият празник."
   },
   {
-    "reading_id": "minors_pair_three_cups_five_wands",
+    "reading_id": "three_cups_five_wands",
     "reading_name": "Тройка Чаши + Петица Жезли",
     "reading_cards": "Тройка Чаши + Петица Жезли",
     "reading_combination": ["three_cups", "five_wands"],
@@ -9022,7 +9008,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Пази радостта си. Не позволявай на дребни спорове да я разрушат."
   },
   {
-    "reading_id": "minors_pair_three_cups_six_wands",
+    "reading_id": "three_cups_six_wands",
     "reading_name": "Тройка Чаши + Шестица Жезли",
     "reading_cards": "Тройка Чаши + Шестица Жезли",
     "reading_combination": ["three_cups", "six_wands"],
@@ -9031,7 +9017,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Сподели радостта. Тя става по-голяма, когато я споделяш."
   },
   {
-    "reading_id": "minors_pair_three_cups_seven_wands",
+    "reading_id": "three_cups_seven_wands",
     "reading_name": "Тройка Чаши + Седмица Жезли",
     "reading_cards": "Тройка Чаши + Седмица Жезли",
     "reading_combination": ["three_cups", "seven_wands"],
@@ -9040,7 +9026,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Пази радостта си. Не всеки я заслужава. Бъди бдителен, но не позволявай страхът да те завладее."
   },
   {
-    "reading_id": "minors_pair_three_cups_eight_wands",
+    "reading_id": "three_cups_eight_wands",
     "reading_name": "Тройка Чаши + Осмица Жезли",
     "reading_cards": "Тройка Чаши + Осмица Жезли",
     "reading_combination": ["three_cups", "eight_wands"],
@@ -9049,7 +9035,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Приеми радостта такава, каквато идва – неподготвен, но щастлив."
   },
   {
-    "reading_id": "minors_pair_three_cups_nine_wands",
+    "reading_id": "three_cups_nine_wands",
     "reading_name": "Тройка Чаши + Деветка Жезли",
     "reading_cards": "Тройка Чаши + Деветка Жезли",
     "reading_combination": ["three_cups", "nine_wands"],
@@ -9058,7 +9044,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Позволи си да си починеш, дори когато празнуваш. Заслужил си този момент."
   },
   {
-    "reading_id": "minors_pair_three_cups_ten_wands",
+    "reading_id": "three_cups_ten_wands",
     "reading_name": "Тройка Чаши + Десетка Жезли",
     "reading_cards": "Тройка Чаши + Десетка Жезли",
     "reading_combination": ["three_cups", "ten_wands"],
@@ -9067,7 +9053,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Освободи се от част от бремето, за да можеш истински да се радваш."
   },
   {
-    "reading_id": "minors_pair_three_cups_page_wands",
+    "reading_id": "three_cups_page_wands",
     "reading_name": "Тройка Чаши + Паж Жезли",
     "reading_cards": "Тройка Чаши + Паж Жезли",
     "reading_combination": ["three_cups", "page_wands"],
@@ -9076,7 +9062,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Отвори се за новините. Те носят още повече радост."
   },
   {
-    "reading_id": "minors_pair_three_cups_knight_wands",
+    "reading_id": "three_cups_knight_wands",
     "reading_name": "Тройка Чаши + Рицар Жезли",
     "reading_cards": "Тройка Чаши + Рицар Жезли",
     "reading_combination": ["three_cups", "knight_wands"],
@@ -9085,7 +9071,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Язди вълната, докато е висока. Някои от най-добрите моменти са спонтанни."
   },
   {
-    "reading_id": "minors_pair_three_cups_queen_wands",
+    "reading_id": "three_cups_queen_wands",
     "reading_name": "Тройка Чаши + Царица Жезли",
     "reading_cards": "Тройка Чаши + Царица Жезли",
     "reading_combination": ["three_cups", "queen_wands"],
@@ -9094,7 +9080,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди себе си – топло и уверено. Твоята светлина прави празника специален."
   },
   {
-    "reading_id": "minors_pair_three_cups_king_wands",
+    "reading_id": "three_cups_king_wands",
     "reading_name": "Тройка Чаши + Цар Жезли",
     "reading_cards": "Тройка Чаши + Цар Жезли",
     "reading_combination": ["three_cups", "king_wands"],
@@ -9103,7 +9089,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Води с пример. Твоята визия прави празника незабравим за всички."
   },
   {
-    "reading_id": "minors_pair_three_cups_ace_wands",
+    "reading_id": "three_cups_ace_wands",
     "reading_name": "Тройка Чаши + Асо Жезли",
     "reading_cards": "Тройка Чаши + Асо Жезли",
     "reading_combination": ["three_cups", "ace_wands"],
@@ -9112,7 +9098,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Хвани искрата. Новият празник може да е начало на нещо прекрасно."
   },
   {
-    "reading_id": "minors_pair_three_cups_ace_cups",
+    "reading_id": "three_cups_ace_cups",
     "reading_name": "Тройка Чаши + Асо Чаши",
     "reading_cards": "Тройка Чаши + Асо Чаши",
     "reading_combination": ["three_cups", "ace_cups"],
@@ -9121,7 +9107,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Отвори сърцето си. Любовта идва, когато не я чакаш."
   },
   {
-    "reading_id": "minors_pair_three_cups_two_cups",
+    "reading_id": "three_cups_two_cups",
     "reading_name": "Тройка Чаши + Двойка Чаши",
     "reading_cards": "Тройка Чаши + Двойка Чаши",
     "reading_combination": ["three_cups", "two_cups"],
@@ -9130,7 +9116,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувайте любовта. Тя заслужава да бъде отпразнувана."
   },
   {
-    "reading_id": "minors_pair_three_cups_three_cups",
+    "reading_id": "three_cups_three_cups",
     "reading_name": "Тройка Чаши + Тройка Чаши",
     "reading_cards": "Тройка Чаши + Тройка Чаши",
     "reading_combination": ["three_cups", "three_cups"],
@@ -9139,7 +9125,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувай с пълно сърце. Тези моменти са безценни."
   },
   {
-    "reading_id": "minors_pair_three_cups_four_cups",
+    "reading_id": "three_cups_four_cups",
     "reading_name": "Тройка Чаши + Четворка Чаши",
     "reading_cards": "Тройка Чаши + Четворка Чаши",
     "reading_combination": ["three_cups", "four_cups"],
@@ -9148,7 +9134,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Потърси радостта вътре в себе си. Понякога най-големите празници са тихи."
   },
   {
-    "reading_id": "minors_pair_three_cups_five_cups",
+    "reading_id": "three_cups_five_cups",
     "reading_name": "Тройка Чаши + Петица Чаши",
     "reading_cards": "Тройка Чаши + Петица Чаши",
     "reading_combination": ["three_cups", "five_cups"],
@@ -9157,7 +9143,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Позволи си да чувстваш и двете. Нормално е. Тъгата не отрича радостта."
   },
   {
-    "reading_id": "minors_pair_three_cups_six_cups",
+    "reading_id": "three_cups_six_cups",
     "reading_name": "Тройка Чаши + Шестица Чаши",
     "reading_cards": "Тройка Чаши + Шестица Чаши",
     "reading_combination": ["three_cups", "six_cups"],
@@ -9166,7 +9152,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Цени тези моменти. Старите приятели са като вино – с времето стават по-добри."
   },
   {
-    "reading_id": "minors_pair_three_cups_seven_cups",
+    "reading_id": "three_cups_seven_cups",
     "reading_name": "Тройка Чаши + Седмица Чаши",
     "reading_cards": "Тройка Чаши + Седмица Чаши",
     "reading_combination": ["three_cups", "seven_cups"],
@@ -9175,7 +9161,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Свали розовите очила. Истинската радост не се нуждае от илюзии."
   },
   {
-    "reading_id": "minors_pair_three_cups_eight_cups",
+    "reading_id": "three_cups_eight_cups",
     "reading_name": "Тройка Чаши + Осмица Чаши",
     "reading_cards": "Тройка Чаши + Осмица Чаши",
     "reading_combination": ["three_cups", "eight_cups"],
@@ -9184,7 +9170,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслади се на момента. Той няма да се повтори. Бъди истински там, докато можеш."
   },
   {
-    "reading_id": "minors_pair_three_cups_nine_cups",
+    "reading_id": "three_cups_nine_cups",
     "reading_name": "Тройка Чаши + Деветка Чаши",
     "reading_cards": "Тройка Чаши + Деветка Чаши",
     "reading_combination": ["three_cups", "nine_cups"],
@@ -9193,7 +9179,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Ти го постигна. Наслади се на момента. Заслужил си всяка минута."
   },
   {
-    "reading_id": "minors_pair_three_cups_ten_cups",
+    "reading_id": "three_cups_ten_cups",
     "reading_name": "Тройка Чаши + Десетка Чаши",
     "reading_cards": "Тройка Чаши + Десетка Чаши",
     "reading_combination": ["three_cups", "ten_cups"],
@@ -9202,7 +9188,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Семейството е най-големият празник. Бъди благодарен за тези моменти."
   },
   {
-    "reading_id": "minors_pair_three_cups_page_cups",
+    "reading_id": "three_cups_page_cups",
     "reading_name": "Тройка Чаши + Паж Чаши",
     "reading_cards": "Тройка Чаши + Паж Чаши",
     "reading_combination": ["three_cups", "page_cups"],
@@ -9211,7 +9197,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Слушай с отворено сърце. Посланието носи любов и топлина."
   },
   {
-    "reading_id": "minors_pair_three_cups_knight_cups",
+    "reading_id": "three_cups_knight_cups",
     "reading_name": "Тройка Чаши + Рицар Чаши",
     "reading_cards": "Тройка Чаши + Рицар Чаши",
     "reading_combination": ["three_cups", "knight_cups"],
@@ -9220,7 +9206,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Кажи 'да' на любовта. Този момент е специален – наслади му се."
   },
   {
-    "reading_id": "minors_pair_three_cups_queen_cups",
+    "reading_id": "three_cups_queen_cups",
     "reading_name": "Тройка Чаши + Царица Чаши",
     "reading_cards": "Тройка Чаши + Царица Чаши",
     "reading_combination": ["three_cups", "queen_cups"],
@@ -9229,7 +9215,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Довери се на интуицията си. Тя знае какво е най-добро за теб."
   },
   {
-    "reading_id": "minors_pair_three_cups_king_cups",
+    "reading_id": "three_cups_king_cups",
     "reading_name": "Тройка Чаши + Цар Чаши",
     "reading_cards": "Тройка Чаши + Цар Чаши",
     "reading_combination": ["three_cups", "king_cups"],
@@ -9238,7 +9224,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Цени спокойната радост. Тя е най-трайната. Пази този баланс."
   },
   {
-    "reading_id": "minors_pair_three_cups_two_swords",
+    "reading_id": "three_cups_two_swords",
     "reading_name": "Тройка Чаши + Двойка Мечове",
     "reading_cards": "Тройка Чаши + Двойка Мечове",
     "reading_combination": ["three_cups", "two_swords"],
@@ -9247,7 +9233,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не позволявай на съмненията да развалят празника ти. Понякога трябва просто да се отпуснеш."
   },
   {
-    "reading_id": "minors_pair_three_cups_three_swords",
+    "reading_id": "three_cups_three_swords",
     "reading_name": "Тройка Чаши + Тройка Мечове",
     "reading_cards": "Тройка Чаши + Тройка Мечове",
     "reading_combination": ["three_cups", "three_swords"],
@@ -9256,7 +9242,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Позволи си да чувстваш и двете. Нормално е. Болката не отрича радостта."
   },
   {
-    "reading_id": "minors_pair_three_cups_four_swords",
+    "reading_id": "three_cups_four_swords",
     "reading_name": "Тройка Чаши + Четворка Мечове",
     "reading_cards": "Тройка Чаши + Четворка Мечове",
     "reading_combination": ["three_cups", "four_swords"],
@@ -9265,7 +9251,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Понякога най-добрият празник е сам със себе си. Наслади се на тишината."
   },
     {
-    "reading_id": "minors_pair_three_cups_five_swords",
+    "reading_id": "three_cups_five_swords",
     "reading_name": "Тройка Чаши + Петица Мечове",
     "reading_cards": "Тройка Чаши + Петица Мечове",
     "reading_combination": ["three_cups", "five_swords"],
@@ -9274,7 +9260,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Понякога да спечелиш не означава да унищожиш другия. Празнувай с мярка."
   },
   {
-    "reading_id": "minors_pair_three_cups_six_swords",
+    "reading_id": "three_cups_six_swords",
     "reading_name": "Тройка Чаши + Шестица Мечове",
     "reading_cards": "Тройка Чаши + Шестица Мечове",
     "reading_combination": ["three_cups", "six_swords"],
@@ -9283,7 +9269,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Пътувай и се радвай едновременно. Животът е път – наслаждавай се на всяка спирка."
   },
   {
-    "reading_id": "minors_pair_three_cups_seven_swords",
+    "reading_id": "three_cups_seven_swords",
     "reading_name": "Тройка Чаши + Седмица Мечове",
     "reading_cards": "Тройка Чаши + Седмица Мечове",
     "reading_combination": ["three_cups", "seven_swords"],
@@ -9292,7 +9278,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "По-добре сам да кажеш истината, отколкото тя да излезе сама. Освободи се от тежестта."
   },
   {
-    "reading_id": "minors_pair_three_cups_eight_swords",
+    "reading_id": "three_cups_eight_swords",
     "reading_name": "Тройка Чаши + Осмица Мечове",
     "reading_cards": "Тройка Чаши + Осмица Мечове",
     "reading_combination": ["three_cups", "eight_swords"],
@@ -9301,7 +9287,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Истинската радост е свободна. Ако се чувстваш в капан, нещо не е наред. Потърси изход."
   },
   {
-    "reading_id": "minors_pair_three_cups_nine_swords",
+    "reading_id": "three_cups_nine_swords",
     "reading_name": "Тройка Чаши + Деветка Мечове",
     "reading_cards": "Тройка Чаши + Деветка Мечове",
     "reading_combination": ["three_cups", "nine_swords"],
@@ -9310,7 +9296,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Тревогите могат да развалят всеки празник. Освободи се от тях – дишай дълбоко и бъди в момента."
   },
   {
-    "reading_id": "minors_pair_three_cups_ten_swords",
+    "reading_id": "three_cups_ten_swords",
     "reading_name": "Тройка Чаши + Десетка Мечове",
     "reading_cards": "Тройка Чаши + Десетка Мечове",
     "reading_combination": ["three_cups", "ten_swords"],
@@ -9319,7 +9305,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслади се на момента. Той няма да се повтори. Краят не отрича красотата на преживяното."
   },
   {
-    "reading_id": "minors_pair_three_cups_page_swords",
+    "reading_id": "three_cups_page_swords",
     "reading_name": "Тройка Чаши + Паж Мечове",
     "reading_cards": "Тройка Чаши + Паж Мечове",
     "reading_combination": ["three_cups", "page_swords"],
@@ -9328,7 +9314,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Истината може да боли, но винаги лекува. Приеми я с отворено сърце."
   },
   {
-    "reading_id": "minors_pair_three_cups_knight_swords",
+    "reading_id": "three_cups_knight_swords",
     "reading_name": "Тройка Чаши + Рицар Мечове",
     "reading_cards": "Тройка Чаши + Рицар Мечове",
     "reading_combination": ["three_cups", "knight_swords"],
@@ -9337,7 +9323,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Наслади се на скоростта, но не забравяй да спреш и да дишаш. Някои неща са красиви точно защото са кратки."
   },
   {
-    "reading_id": "minors_pair_three_cups_queen_swords",
+    "reading_id": "three_cups_queen_swords",
     "reading_name": "Тройка Чаши + Царица Мечове",
     "reading_cards": "Тройка Чаши + Царица Мечове",
     "reading_combination": ["three_cups", "queen_swords"],
@@ -9346,7 +9332,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Бъди честен със себе си. Яснотата прави радостта по-истинска и трайна."
   },
   {
-    "reading_id": "minors_pair_three_cups_king_swords",
+    "reading_id": "three_cups_king_swords",
     "reading_name": "Тройка Чаши + Цар Мечове",
     "reading_cards": "Тройка Чаши + Цар Мечове",
     "reading_combination": ["three_cups", "king_swords"],
@@ -9355,7 +9341,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Радвай се на справедливостта. Тя е рядка и ценна. Наслади се на момента."
   },
   {
-    "reading_id": "minors_pair_three_cups_two_pentacles",
+    "reading_id": "three_cups_two_pentacles",
     "reading_name": "Тройка Чаши + Двойка Пентакли",
     "reading_cards": "Тройка Чаши + Двойка Пентакли",
     "reading_combination": ["three_cups", "two_pentacles"],
@@ -9364,7 +9350,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувай, но с мярка. Финансовият баланс е важен – не позволявай на радостта да те изкуши."
   },
   {
-    "reading_id": "minors_pair_three_cups_three_pentacles",
+    "reading_id": "three_cups_three_pentacles",
     "reading_name": "Тройка Чаши + Тройка Пентакли",
     "reading_cards": "Тройка Чаши + Тройка Пентакли",
     "reading_combination": ["three_cups", "three_pentacles"],
@@ -9373,7 +9359,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Благодари на екипа си. Успехът е по-сладък, когато е споделен."
   },
   {
-    "reading_id": "minors_pair_three_cups_four_pentacles",
+    "reading_id": "three_cups_four_pentacles",
     "reading_name": "Тройка Чаши + Четворка Пентакли",
     "reading_cards": "Тройка Чаши + Четворка Пентакли",
     "reading_combination": ["three_cups", "four_pentacles"],
@@ -9382,7 +9368,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Пусни малко. Парите са за живот, не животът за пари. Позволи си да се радваш."
   },
   {
-    "reading_id": "minors_pair_three_cups_five_pentacles",
+    "reading_id": "three_cups_five_pentacles",
     "reading_name": "Тройка Чаши + Петица Пентакли",
     "reading_cards": "Тройка Чаши + Петица Пентакли",
     "reading_combination": ["three_cups", "five_pentacles"],
@@ -9391,7 +9377,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Истинската радост не изисква много пари. Бъди креативен – най-простите неща често носят най-голямо щастие."
   },
   {
-    "reading_id": "minors_pair_three_cups_six_pentacles",
+    "reading_id": "three_cups_six_pentacles",
     "reading_name": "Тройка Чаши + Шестица Пентакли",
     "reading_cards": "Тройка Чаши + Шестица Пентакли",
     "reading_combination": ["three_cups", "six_pentacles"],
@@ -9400,7 +9386,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Сподели радостта си. Колкото повече даваш, толкова повече получаваш."
   },
   {
-    "reading_id": "minors_pair_three_cups_seven_pentacles",
+    "reading_id": "three_cups_seven_pentacles",
     "reading_name": "Тройка Чаши + Седмица Пентакли",
     "reading_cards": "Тройка Чаши + Седмица Пентакли",
     "reading_combination": ["three_cups", "seven_pentacles"],
@@ -9409,7 +9395,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Празнувай напредъка, но имай търпение за крайния резултат. Добрите неща идват с времето."
   },
   {
-    "reading_id": "minors_pair_three_cups_eight_pentacles",
+    "reading_id": "three_cups_eight_pentacles",
     "reading_name": "Тройка Чаши + Осмица Пентакли",
     "reading_cards": "Тройка Чаши + Осмица Пентакли",
     "reading_combination": ["three_cups", "eight_pentacles"],
@@ -9418,7 +9404,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Гордей се с труда си. Майсторството идва с постоянство. Празнувай всяка стъпка."
   },
   {
-    "reading_id": "minors_pair_three_cups_nine_pentacles",
+    "reading_id": "three_cups_nine_pentacles",
     "reading_name": "Тройка Чаши + Деветка Пентакли",
     "reading_cards": "Тройка Чаши + Деветка Пентакли",
     "reading_combination": ["three_cups", "nine_pentacles"],
@@ -9427,7 +9413,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Ти постигна самостоятелност. Наслади се на свободата и не забравяй откъде идваш."
   },
   {
-    "reading_id": "minors_pair_three_cups_ten_pentacles",
+    "reading_id": "three_cups_ten_pentacles",
     "reading_name": "Тройка Чаши + Десетка Пентакли",
     "reading_cards": "Тройка Чаши + Десетка Пентакли",
     "reading_combination": ["three_cups", "ten_pentacles"],
@@ -9436,7 +9422,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Цени семейството и традициите. Това, което празнувате днес, ще остане като спомен."
   },
   {
-    "reading_id": "minors_pair_three_cups_page_pentacles",
+    "reading_id": "three_cups_page_pentacles",
     "reading_name": "Тройка Чаши + Паж Пентакли",
     "reading_cards": "Тройка Чаши + Паж Пентакли",
     "reading_combination": ["three_cups", "page_pentacles"],
@@ -9445,7 +9431,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Хвани възможността. Това е ново начало, което носи радост и растеж."
   },
   {
-    "reading_id": "minors_pair_three_cups_knight_pentacles",
+    "reading_id": "three_cups_knight_pentacles",
     "reading_name": "Тройка Чаши + Рицар Пентакли",
     "reading_cards": "Тройка Чаши + Рицар Пентакли",
     "reading_combination": ["three_cups", "knight_pentacles"],
@@ -9454,7 +9440,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Не бързай. Сигурният път е бавен, но води до истинска и трайна радост."
   },
   {
-    "reading_id": "minors_pair_three_cups_queen_pentacles",
+    "reading_id": "three_cups_queen_pentacles",
     "reading_name": "Тройка Чаши + Царица Пентакли",
     "reading_cards": "Тройка Чаши + Царица Пентакли",
     "reading_combination": ["three_cups", "queen_pentacles"],
@@ -9463,14 +9449,2488 @@ export const minorArcanaReadings: Reading[] = [
     "reading_advice": "Грижи се за дома и семейството. Това е най-красивият празник."
   },
   {
-    "reading_id": "minors_pair_three_cups_king_pentacles",
+    "reading_id": "three_cups_king_pentacles",
     "reading_name": "Тройка Чаши + Цар Пентакли",
     "reading_cards": "Тройка Чаши + Цар Пентакли",
     "reading_combination": ["three_cups", "king_pentacles"],
     "reading_meaning": "Тройка Чаши носи празник и радост, а Цар Пентакли – стабилност и успех. Празнувате с увереност, че имате солидна основа. Сигурност и благополучие.",
     "reading_description": "Празнуваш с увереност, че имаш солидна основа. Сигурност.",
     "reading_advice": "Наслади се на сигурността, която си изградил. Ти си създал стабилна основа – сега е време да празнуваш."
+  },
+    {
+    "reading_id": "four_cups_two_wands",
+    "reading_name": "Четворка Чаши + Двойка Жезли",
+    "reading_cards": "Четворка Чаши + Двойка Жезли",
+    "reading_combination": ["four_cups", "two_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Двойка Жезли – избор и планиране. Изправени сте пред избор, но никоя от опциите не ви удовлетворява. Понякога липсата на избор е най-добрият избор.",
+    "reading_description": "Изправен си пред избор, но никоя опция не те радва.",
+    "reading_advice": "Изчакай, преди да решиш. Понякога най-доброто решение е да не избираш веднага."
+  },
+  {
+    "reading_id": "four_cups_three_wands",
+    "reading_name": "Четворка Чаши + Тройка Жезли",
+    "reading_cards": "Четворка Чаши + Тройка Жезли",
+    "reading_combination": ["four_cups", "three_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Тройка Жезли – очакване и разширяване. Чакате нещо, но дори когато дойде, може да не ви удовлетвори. Преосмислете очакванията си.",
+    "reading_description": "Чакаш нещо, но се съмняваш дали ще те зарадва.",
+    "reading_advice": "Провери дали това, което очакваш, наистина е това, което искаш. Понякога очакванията ни не съвпадат с истинските ни нужди."
+  },
+  {
+    "reading_id": "four_cups_four_wands",
+    "reading_name": "Четворка Чаши + Четворка Жезли",
+    "reading_cards": "Четворка Чаши + Четворка Жезли",
+    "reading_combination": ["four_cups", "four_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Четворка Жезли – празник и стабилност. Около вас има празник, но вие не усещате радост. Сякаш нещо ви липсва. Потърсете причината вътре в себе си.",
+    "reading_description": "Около теб има празник, но ти не усещаш радост. Сякаш нещо липсва.",
+    "reading_advice": "Потърси причината вътре в себе си, не вън от теб. Радостта идва отвътре."
+  },
+  {
+    "reading_id": "four_cups_five_wands",
+    "reading_name": "Четворка Чаши + Петица Жезли",
+    "reading_cards": "Четворка Чаши + Петица Жезли",
+    "reading_combination": ["four_cups", "five_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Петица Жезли – конфликт и съперничество. Споровете около вас ви правят още по-неудовлетворени. Не се замесвайте – фокусът ви трябва да е върху себе си.",
+    "reading_description": "Споровете около теб те правят още по-неудовлетворен. Не се замесвай.",
+    "reading_advice": "Не се замесвай в драми. Фокусирай се върху себе си и това, което наистина искаш."
+  },
+  {
+    "reading_id": "four_cups_six_wands",
+    "reading_name": "Четворка Чаши + Шестица Жезли",
+    "reading_cards": "Четворка Чаши + Шестица Жезли",
+    "reading_combination": ["four_cups", "six_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Шестица Жезли – победа и признание. Постигате успех, но не усещате радост. Нещо ви липсва или сте прегорели. Попитайте се какво наистина искате.",
+    "reading_description": "Постигаш успех, но не усещаш радост. Нещо липсва.",
+    "reading_advice": "Попитай се какво наистина искаш. Успехът без сърце е празен. Намери истинската си цел."
+  },
+  {
+    "reading_id": "four_cups_seven_wands",
+    "reading_name": "Четворка Чаши + Седмица Жезли",
+    "reading_cards": "Четворка Чаши + Седмица Жезли",
+    "reading_combination": ["four_cups", "seven_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Седмица Жезли – защита на позицията. Защитавате се от света, защото нищо не ви радва. Но затварянето няма да реши проблема.",
+    "reading_description": "Защитаваш се от света, защото нищо не те радва. Но затварянето не помага.",
+    "reading_advice": "Отвори се малко. Понякога радостта идва, когато спреш да се защитаваш."
+  },
+  {
+    "reading_id": "four_cups_eight_wands",
+    "reading_name": "Четворка Чаши + Осмица Жезли",
+    "reading_cards": "Четворка Чаши + Осмица Жезли",
+    "reading_combination": ["four_cups", "eight_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Осмица Жезли – бързина и движение. Внезапен край на скуката и апатията. Нещо бързо раздвижва нещата. Хвани вълната на промяната.",
+    "reading_description": "Внезапен край на скуката. Нещо бързо раздвижва нещата.",
+    "reading_advice": "Хвани вълната на промяната. Тя може да извади от апатията."
+  },
+  {
+    "reading_id": "four_cups_nine_wands",
+    "reading_name": "Четворка Чаши + Деветка Жезли",
+    "reading_cards": "Четворка Чаши + Деветка Жезли",
+    "reading_combination": ["four_cups", "nine_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Деветка Жезли – устойчивост и изтощение. Изтощени сте от апатията и неудовлетворението. Умора, но надеждата, че скоро ще мине, ви крепи.",
+    "reading_description": "Изтощен си от апатията и неудовлетворението. Умора, но надежда.",
+    "reading_advice": "Дръж се още малко. Този период ще отмине. Не се отказвай."
+  },
+  {
+    "reading_id": "four_cups_ten_wands",
+    "reading_name": "Четворка Чаши + Десетка Жезли",
+    "reading_cards": "Четворка Чаши + Десетка Жезли",
+    "reading_combination": ["four_cups", "ten_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Десетка Жезли – претоварване и бреме. Носите тежестта на неудовлетворението и сте претоварени. Потърсете какво наистина тежи.",
+    "reading_description": "Носиш тежестта на неудовлетворението и си претоварен.",
+    "reading_advice": "Потърси какво наистина тежи. Понякога трябва да пуснеш, за да бъдеш свободен."
+  },
+  {
+    "reading_id": "four_cups_page_wands",
+    "reading_name": "Четворка Чаши + Паж Жезли",
+    "reading_cards": "Четворка Чаши + Паж Жезли",
+    "reading_combination": ["four_cups", "page_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Паж Жезли – новини и ентусиазъм. Вълнуваща новина идва, която може да разчупи апатията. Отворете се за нея.",
+    "reading_description": "Вълнуваща новина идва, която може да разчупи апатията.",
+    "reading_advice": "Отвори се за новините. Те могат да донесат радост, която не очакваш."
+  },
+  {
+    "reading_id": "four_cups_knight_wands",
+    "reading_name": "Четворка Чаши + Рицар Жезли",
+    "reading_cards": "Четворка Чаши + Рицар Жезли",
+    "reading_combination": ["four_cups", "knight_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Рицар Жезли – импулсивност и бързина. Нетърпението ви расте – искате да излезете от апатията веднага. Но бързината не винаги е решение.",
+    "reading_description": "Искаш да излезеш от апатията веднага. Но бързината не винаги е решение.",
+    "reading_advice": "Забави малко. Понякога бавното и сигурно води до по-добър резултат."
+  },
+  {
+    "reading_id": "four_cups_queen_wands",
+    "reading_name": "Четворка Чаши + Царица Жезли",
+    "reading_cards": "Четворка Чаши + Царица Жезли",
+    "reading_combination": ["four_cups", "queen_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Царица Жезли – увереност и харизма. Въпреки апатията, запазвате увереност. Вашата топлина може да ви помогне да излезете от застоя.",
+    "reading_description": "Въпреки апатията, запазваш увереност. Топлината ти може да помогне.",
+    "reading_advice": "Бъди топъл и уверен. Твоята светлина може да разчупи апатията."
+  },
+  {
+    "reading_id": "four_cups_king_wands",
+    "reading_name": "Четворка Чаши + Цар Жезли",
+    "reading_cards": "Четворка Чаши + Цар Жезли",
+    "reading_combination": ["four_cups", "king_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Цар Жезли – лидерство и визия. Вие сте лидер, който преминава през период на апатия. Използвайте визията си, за да намерите изход.",
+    "reading_description": "Ти си лидер, който преминава през период на апатия. Намери изход с визията си.",
+    "reading_advice": "Използвай визията си. Тя може да те изведе от апатията и да води другите."
+  },
+  {
+    "reading_id": "four_cups_ace_wands",
+    "reading_name": "Четворка Чаши + Асо Жезли",
+    "reading_cards": "Четворка Чаши + Асо Жезли",
+    "reading_combination": ["four_cups", "ace_wands"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Асо Жезли – ново начало и вдъхновение. Нова искра се появява, която може да извади от апатията. Хванете я.",
+    "reading_description": "Нова искра се появява, която може да извади от апатията.",
+    "reading_advice": "Хвани искрата. Тя може да е началото на нещо ново и вълнуващо."
+  },
+  {
+    "reading_id": "four_cups_ace_cups",
+    "reading_name": "Четворка Чаши + Асо Чаши",
+    "reading_cards": "Четворка Чаши + Асо Чаши",
+    "reading_combination": ["four_cups", "ace_cups"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Асо Чаши – нови чувства и любов. Нови чувства се появяват, но вие сте твърде заети със себе си, за да ги забележите. Вдигнете поглед.",
+    "reading_description": "Нови чувства се появяват, но ти не ги забелязваш. Вдигни поглед.",
+    "reading_advice": "Свали превръзката от очите. Любовта може да е точно пред теб."
+  },
+  {
+    "reading_id": "four_cups_two_cups",
+    "reading_name": "Четворка Чаши + Двойка Чаши",
+    "reading_cards": "Четворка Чаши + Двойка Чаши",
+    "reading_combination": ["four_cups", "two_cups"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Двойка Чаши – любов и връзка. Връзката ви е стабилна, но вие сте неудовлетворени. Потърсете какво наистина ви липсва.",
+    "reading_description": "Връзката е стабилна, но ти си неудовлетворен. Потърси какво липсва.",
+    "reading_advice": "Попитай се какво наистина искаш от любовта. Понякога сигурността не е всичко."
+  },
+  {
+    "reading_id": "four_cups_three_cups",
+    "reading_name": "Четворка Чаши + Тройка Чаши",
+    "reading_cards": "Четворка Чаши + Тройка Чаши",
+    "reading_combination": ["four_cups", "three_cups"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Тройка Чаши – празник и радост. Около вас има празник, но вие не усещате радост. Не позволявайте на апатията да развали празника.",
+    "reading_description": "Около теб има празник, но ти не усещаш радост.",
+    "reading_advice": "Не позволявай на апатията да развали празника. Опитай се да се включиш."
+  },
+  {
+    "reading_id": "four_cups_four_cups",
+    "reading_name": "Четворка Чаши + Четворка Чаши",
+    "reading_cards": "Четворка Чаши + Четворка Чаши",
+    "reading_combination": ["four_cups", "four_cups"],
+    "reading_meaning": "Четворка Чаши + Четворка Чаши – две четворки заедно. Двойна апатия, двойно неудовлетворение. Застой, от който е трудно да се излезе. Потърсете помощ, ако е необходимо.",
+    "reading_description": "Двойна апатия, двойно неудовлетворение. Застой.",
+    "reading_advice": "Потърси помощ. Понякога не можем сами да излезем от апатията. Няма срам да поискаш подкрепа."
+  },
+  {
+    "reading_id": "four_cups_five_cups",
+    "reading_name": "Четворка Чаши + Петица Чаши",
+    "reading_cards": "Четворка Чаши + Петица Чаши",
+    "reading_combination": ["four_cups", "five_cups"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Петица Чаши – загуба и тъга. Апатията и тъгата вървят ръка за ръка. Позволете си да скърбите, но не оставайте в застоя.",
+    "reading_description": "Апатия и тъга заедно. Скърби, но не оставай в застой.",
+    "reading_advice": "Позволи си да скърбиш, после продължи. Апатията не се побеждава с бездействие."
+  },
+  {
+    "reading_id": "four_cups_six_cups",
+    "reading_name": "Четворка Чаши + Шестица Чаши",
+    "reading_cards": "Четворка Чаши + Шестица Чаши",
+    "reading_combination": ["four_cups", "six_cups"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Шестица Чаши – спомени и носталгия. Спомените от миналото ви правят неудовлетворени от настоящето. Не живейте в миналото.",
+    "reading_description": "Спомените от миналото те правят неудовлетворен от настоящето.",
+    "reading_advice": "Миналото е учител, не водач. Вземи наученото, но гледай напред."
+  },
+  {
+    "reading_id": "four_cups_seven_cups",
+    "reading_name": "Четворка Чаши + Седмица Чаши",
+    "reading_cards": "Четворка Чаши + Седмица Чаши",
+    "reading_combination": ["four_cups", "seven_cups"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Седмица Чаши – илюзии и фантазии. Живеете в илюзия, че нещо ви липсва. Истинската радост може да е точно пред вас.",
+    "reading_description": "Живееш в илюзия, че нещо ти липсва. Истинската радост може да е точно пред теб.",
+    "reading_advice": "Свали розовите очила. Погледни какво имаш – може да е повече, отколкото си мислиш."
+  },
+  {
+    "reading_id": "four_cups_eight_cups",
+    "reading_name": "Четворка Чаши + Осмица Чаши",
+    "reading_cards": "Четворка Чаши + Осмица Чаши",
+    "reading_combination": ["four_cups", "eight_cups"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Осмица Чаши – тръгване и оставяне. Решавате да напуснете ситуацията, която ви прави неудовлетворени. Тръгвайте смело.",
+    "reading_description": "Решаваш да напуснеш ситуацията, която те прави неудовлетворен.",
+    "reading_advice": "Тръгни смело. Понякога трябва да оставиш, за да намериш това, което търсиш."
+  },
+  {
+    "reading_id": "four_cups_nine_cups",
+    "reading_name": "Четворка Чаши + Деветка Чаши",
+    "reading_cards": "Четворка Чаши + Деветка Чаши",
+    "reading_combination": ["four_cups", "nine_cups"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Деветка Чаши – сбъднато желание. Имате всичко, което сте искали, но не сте щастливи. Потърсете какво наистина ви липсва.",
+    "reading_description": "Имаш всичко, което си искал, но не си щастлив.",
+    "reading_advice": "Щастието не е в притежанията. Потърси го вътре в себе си."
+  },
+  {
+    "reading_id": "four_cups_ten_cups",
+    "reading_name": "Четворка Чаши + Десетка Чаши",
+    "reading_cards": "Четворка Чаши + Десетка Чаши",
+    "reading_combination": ["four_cups", "ten_cups"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Десетка Чаши – семейно щастие. Имате семейна сигурност, но не сте щастливи. Потърсете какво наистина ви липсва.",
+    "reading_description": "Имаш семейна сигурност, но не си щастлив. Потърси какво липсва.",
+    "reading_advice": "Щастието не е само в сигурността. Потърси го в малките неща."
+  },
+  {
+    "reading_id": "four_cups_page_cups",
+    "reading_name": "Четворка Чаши + Паж Чаши",
+    "reading_cards": "Четворка Чаши + Паж Чаши",
+    "reading_combination": ["four_cups", "page_cups"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Паж Чаши – емоционално послание. Нежно послание идва, което може да разчупи апатията. Отворете сърцето си за него.",
+    "reading_description": "Нежно послание идва, което може да разчупи апатията.",
+    "reading_advice": "Отвори сърцето си за посланието. То носи нещо ценно."
+  },
+  {
+    "reading_id": "four_cups_knight_cups",
+    "reading_name": "Четворка Чаши + Рицар Чаши",
+    "reading_cards": "Четворка Чаши + Рицар Чаши",
+    "reading_combination": ["four_cups", "knight_cups"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Рицар Чаши – романтика и ухажване. Романтичен жест идва, но вие сте твърде апатични, за да го забележите. Вдигнете поглед.",
+    "reading_description": "Романтичен жест идва, но ти си твърде апатичен, за да го забележиш.",
+    "reading_advice": "Вдигни поглед. Любовта може да е точно пред теб, но ти не я виждаш."
+  },
+  {
+    "reading_id": "four_cups_queen_cups",
+    "reading_name": "Четворка Чаши + Царица Чаши",
+    "reading_cards": "Четворка Чаши + Царица Чаши",
+    "reading_combination": ["four_cups", "queen_cups"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Царица Чаши – интуиция и емпатия. Интуицията ви подсказва какво ви липсва. Слушайте вътрешния си глас.",
+    "reading_description": "Интуицията ти подсказва какво ти липсва. Слушай вътрешния си глас.",
+    "reading_advice": "Довери се на интуицията си. Тя знае какво наистина искаш."
+  },
+  {
+    "reading_id": "four_cups_king_cups",
+    "reading_name": "Четворка Чаши + Цар Чаши",
+    "reading_cards": "Четворка Чаши + Цар Чаши",
+    "reading_combination": ["four_cups", "king_cups"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Цар Чаши – емоционална зрялост и баланс. Апатията не е постоянна – с мъдрост и търпение ще я преодолеете.",
+    "reading_description": "Апатията не е постоянна. С мъдрост и търпение ще я преодолееш.",
+    "reading_advice": "Чакай с мир в сърцето. Този период ще отмине. Емоционалната зрялост ще ти помогне."
+  },
+  {
+    "reading_id": "four_cups_two_swords",
+    "reading_name": "Четворка Чаши + Двойка Мечове",
+    "reading_cards": "Четворка Чаши + Двойка Мечове",
+    "reading_combination": ["four_cups", "two_swords"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Двойка Мечове – нерешителност и съмнение. Апатията и нерешителността ви държат в застой. Свалете превръзката – имате повече възможности, отколкото си мислите.",
+    "reading_description": "Апатията и нерешителността те държат в застой.",
+    "reading_advice": "Свали превръзката. Имаш повече възможности, отколкото си мислиш."
+  },
+  {
+    "reading_id": "four_cups_three_swords",
+    "reading_name": "Четворка Чаши + Тройка Мечове",
+    "reading_cards": "Четворка Чаши + Тройка Мечове",
+    "reading_combination": ["four_cups", "three_swords"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Тройка Мечове – болка и разбито сърце. Апатията идва от разбито сърце. Позволете си да скърбите, но не оставайте в застоя.",
+    "reading_description": "Апатията идва от разбито сърце. Скърби, но не оставай в застой.",
+    "reading_advice": "Позволи си да скърбиш, после продължи. Болката не е вечна."
+  },
+    {
+    "reading_id": "four_cups_four_swords",
+    "reading_name": "Четворка Чаши + Четворка Мечове",
+    "reading_cards": "Четворка Чаши + Четворка Мечове",
+    "reading_combination": ["four_cups", "four_swords"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Четворка Мечове – почивка и уединение. Имате нужда от почивка, за да излезете от апатията. Уединението може да ви помогне да намерите себе си.",
+    "reading_description": "Имаш нужда от почивка, за да излезеш от апатията.",
+    "reading_advice": "Почини си. Уединението може да ти помогне да намериш себе си и да излезеш от застоя."
+  },
+  {
+    "reading_id": "four_cups_five_swords",
+    "reading_name": "Четворка Чаши + Петица Мечове",
+    "reading_cards": "Четворка Чаши + Петица Мечове",
+    "reading_combination": ["four_cups", "five_swords"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Петица Мечове – конфликт и празна победа. Апатията ви кара да търсите конфликти, за да усетите нещо. Но празната победа няма да ви удовлетвори.",
+    "reading_description": "Апатията те кара да търсиш конфликти. Но празната победа няма да те удовлетвори.",
+    "reading_advice": "Потърси истински източници на радост, не временни конфликти."
+  },
+  {
+    "reading_id": "four_cups_six_swords",
+    "reading_name": "Четворка Чаши + Шестица Мечове",
+    "reading_cards": "Четворка Чаши + Шестица Мечове",
+    "reading_combination": ["four_cups", "six_swords"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Шестица Мечове – пътуване и преход. Пътуване или промяна на средата може да извади от апатията. Новите води носят нови възможности.",
+    "reading_description": "Пътуване или промяна на средата може да извади от апатията.",
+    "reading_advice": "Тръгни. Новите води носят нови възможности. Промяната може да разчупи застоя."
+  },
+  {
+    "reading_id": "four_cups_seven_swords",
+    "reading_name": "Четворка Чаши + Седмица Мечове",
+    "reading_cards": "Четворка Чаши + Седмица Мечове",
+    "reading_combination": ["four_cups", "seven_swords"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Седмица Мечове – измама и хитрост. Апатията ви прави уязвими за измама. Внимавайте – някой може да се възползва от състоянието ви.",
+    "reading_description": "Апатията те прави уязвим за измама. Бъди внимателен.",
+    "reading_advice": "Пази се. Когато си апатичен, решенията ти не са най-добрите. Не взимай важни решения сега."
+  },
+  {
+    "reading_id": "four_cups_eight_swords",
+    "reading_name": "Четворка Чаши + Осмица Мечове",
+    "reading_cards": "Четворка Чаши + Осмица Мечове",
+    "reading_combination": ["four_cups", "eight_swords"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Осмица Мечове – чувство на капан и ограничение. Чувствате се в капан от апатията си. Оковите са в главата ви – имате повече възможности, отколкото си мислите.",
+    "reading_description": "Чувстваш се в капан от апатията си. Оковите са в главата ти.",
+    "reading_advice": "Освободи се от страха. Имаш повече възможности, отколкото си мислиш. Потърси нова перспектива."
+  },
+  {
+    "reading_id": "four_cups_nine_swords",
+    "reading_name": "Четворка Чаши + Деветка Мечове",
+    "reading_cards": "Четворка Чаши + Деветка Мечове",
+    "reading_combination": ["four_cups", "nine_swords"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Деветка Мечове – тревога и безсъние. Апатията и тревогата вървят ръка за ръка. Не можете да спите, защото сте неудовлетворени, и сте апатични, защото не спите.",
+    "reading_description": "Апатия и тревога заедно. Не спиш, защото си неудовлетворен, и си апатичен, защото не спиш.",
+    "reading_advice": "Спри за момент. Тревогите ти не са реалност. Потърси помощ, ако не можеш сам да се измъкнеш."
+  },
+  {
+    "reading_id": "four_cups_ten_swords",
+    "reading_name": "Четворка Чаши + Десетка Мечове",
+    "reading_cards": "Четворка Чаши + Десетка Мечове",
+    "reading_combination": ["four_cups", "ten_swords"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Десетка Мечове – край и дъно. Периодът на апатия приключва. Краят носи облекчение, дори да е труден. След дъното идва ново начало.",
+    "reading_description": "Периодът на апатия приключва. Краят носи облекчение.",
+    "reading_advice": "Остави апатията зад гърба си. Това, което свърши, вече не тежи. Гледай напред."
+  },
+  {
+    "reading_id": "four_cups_page_swords",
+    "reading_name": "Четворка Чаши + Паж Мечове",
+    "reading_cards": "Четворка Чаши + Паж Мечове",
+    "reading_combination": ["four_cups", "page_swords"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Паж Мечове – търсене на истината. Истината за това, което ви липсва, може да излезе наяве. Бъдете отворени за прозрения.",
+    "reading_description": "Истината за това, което ти липсва, може да излезе наяве.",
+    "reading_advice": "Търси истината. Тя може да ти помогне да разбереш какво наистина искаш."
+  },
+  {
+    "reading_id": "four_cups_knight_swords",
+    "reading_name": "Четворка Чаши + Рицар Мечове",
+    "reading_cards": "Четворка Чаши + Рицар Мечове",
+    "reading_combination": ["four_cups", "knight_swords"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Рицар Мечове – бързина и прямота. Истината за апатията ви идва бързо и рязко. Бъдете готови да я приемете.",
+    "reading_description": "Истината за апатията ти идва бързо и рязко. Бъди готов.",
+    "reading_advice": "Приеми истината с отворено сърце. Тя може да е ключът към излизане от апатията."
+  },
+  {
+    "reading_id": "four_cups_queen_swords",
+    "reading_name": "Четворка Чаши + Царица Мечове",
+    "reading_cards": "Четворка Чаши + Царица Мечове",
+    "reading_combination": ["four_cups", "queen_swords"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Царица Мечове – яснота и независимост. Виждате апатията си ясно, без илюзии. Яснотата може да ви помогне да намерите изход.",
+    "reading_description": "Виждаш апатията си ясно, без илюзии. Яснотата може да помогне.",
+    "reading_advice": "Бъди честен със себе си. Яснотата, колкото и да е сурова, е първата стъпка към промяна."
+  },
+  {
+    "reading_id": "four_cups_king_swords",
+    "reading_name": "Четворка Чаши + Цар Мечове",
+    "reading_cards": "Четворка Чаши + Цар Мечове",
+    "reading_combination": ["four_cups", "king_swords"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Цар Мечове – интелект и стратегия. С логика и анализ можете да разберете какво ви липсва. Използвайте ума си, за да намерите решение.",
+    "reading_description": "С логика и анализ можеш да разбереш какво ти липсва.",
+    "reading_advice": "Използвай ума си. Анализът може да ти помогне да разбереш корена на апатията."
+  },
+  {
+    "reading_id": "four_cups_two_pentacles",
+    "reading_name": "Четворка Чаши + Двойка Пентакли",
+    "reading_cards": "Четворка Чаши + Двойка Пентакли",
+    "reading_combination": ["four_cups", "two_pentacles"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Двойка Пентакли – баланс и жонглиране. Опитвате се да балансирате неудовлетворението с другите си задължения. Жонглирайте внимателно.",
+    "reading_description": "Опитваш се да балансираш неудовлетворението с другите си задължения.",
+    "reading_advice": "Балансирай, но не изпускай себе си. Не позволявай на апатията да завладее целия ти живот."
+  },
+  {
+    "reading_id": "four_cups_three_pentacles",
+    "reading_name": "Четворка Чаши + Тройка Пентакли",
+    "reading_cards": "Четворка Чаши + Тройка Пентакли",
+    "reading_combination": ["four_cups", "three_pentacles"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Тройка Пентакли – екипна работа и сътрудничество. В екипа има неудовлетворение и апатия. Някой не дава най-доброто от себе си. Потърсете причината.",
+    "reading_description": "В екипа има неудовлетворение. Някой не дава най-доброто от себе си.",
+    "reading_advice": "Потърсете причината. Понякога човек има нужда да бъде чут. Екипната подкрепа може да помогне."
+  },
+  {
+    "reading_id": "four_cups_four_pentacles",
+    "reading_name": "Четворка Чаши + Четворка Пентакли",
+    "reading_cards": "Четворка Чаши + Четворка Пентакли",
+    "reading_combination": ["four_cups", "four_pentacles"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Четворка Пентакли – сигурност и стискане. Стискате толкова силно, че сте забравили да живеете. Сигурността не е в парите, а в способността да се радваш.",
+    "reading_description": "Стискаш толкова силно, че си забравил да живееш.",
+    "reading_advice": "Пусни малко. Сигурността не е в парите, а в способността да се радваш на живота."
+  },
+  {
+    "reading_id": "four_cups_five_pentacles",
+    "reading_name": "Четворка Чаши + Петица Пентакли",
+    "reading_cards": "Четворка Чаши + Петица Пентакли",
+    "reading_combination": ["four_cups", "five_pentacles"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Петица Пентакли – финансови трудности и липса. Финансовите трудности ви правят апатични. Не затваряйте очи – помощ може да е точно пред вас.",
+    "reading_description": "Финансовите трудности те правят апатичен. Помощ може да е точно пред теб.",
+    "reading_advice": "Вдигни поглед. Помощта може да е точно пред теб, но ти не я виждаш заради апатията."
+  },
+  {
+    "reading_id": "four_cups_six_pentacles",
+    "reading_name": "Четворка Чаши + Шестица Пентакли",
+    "reading_cards": "Четворка Чаши + Шестица Пентакли",
+    "reading_combination": ["four_cups", "six_pentacles"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Шестица Пентакли – помощ и щедрост. Някой протяга ръка да ви помогне, но вие сте твърде апатични, за да забележите. Приемете помощта.",
+    "reading_description": "Някой протяга ръка да ти помогне, но си твърде апатичен, за да забележиш.",
+    "reading_advice": "Приеми помощта. Няма срам да поискаш помощ, когато си в апатия. Някой ден ще върнеш жеста."
+  },
+  {
+    "reading_id": "four_cups_seven_pentacles",
+    "reading_name": "Четворка Чаши + Седмица Пентакли",
+    "reading_cards": "Четворка Чаши + Седмица Пентакли",
+    "reading_combination": ["four_cups", "seven_pentacles"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Седмица Пентакли – търпение и чакане. Апатията изисква търпение. Не очаквайте бързо излизане от застоя. Бавно, но сигурно.",
+    "reading_description": "Апатията изисква търпение. Не очаквай бързо излизане.",
+    "reading_advice": "Чакай търпеливо. Някои периоди на апатия се разрешават с времето, не с усилие."
+  },
+  {
+    "reading_id": "four_cups_eight_pentacles",
+    "reading_name": "Четворка Чаши + Осмица Пентакли",
+    "reading_cards": "Четворка Чаши + Осмица Пентакли",
+    "reading_combination": ["four_cups", "eight_pentacles"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Осмица Пентакли – усърдие и учене. Ученето може да ви извади от апатията. Вложете енергия в ново умение или хоби.",
+    "reading_description": "Ученето може да те извади от апатията. Вложи енергия в нещо ново.",
+    "reading_advice": "Използвай времето на апатия, за да се учиш. Новото знание може да донесе нова радост."
+  },
+  {
+    "reading_id": "four_cups_nine_pentacles",
+    "reading_name": "Четворка Чаши + Деветка Пентакли",
+    "reading_cards": "Четворка Чаши + Деветка Пентакли",
+    "reading_combination": ["four_cups", "nine_pentacles"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Деветка Пентакли – самодостатъчност и успех. Имате успех, но не сте щастливи. Потърсете какво наистина ви липсва – може би нещо, което парите не могат да купят.",
+    "reading_description": "Имаш успех, но не си щастлив. Потърси какво наистина липсва.",
+    "reading_advice": "Успехът не е всичко. Потърси какво те прави истински щастлив."
+  },
+  {
+    "reading_id": "four_cups_ten_pentacles",
+    "reading_name": "Четворка Чаши + Десетка Пентакли",
+    "reading_cards": "Четворка Чаши + Десетка Пентакли",
+    "reading_combination": ["four_cups", "ten_pentacles"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Десетка Пентакли – семейно наследство и богатство. Имате семейна сигурност, но не сте щастливи. Потърсете какво наистина ви липсва.",
+    "reading_description": "Имаш семейна сигурност, но не си щастлив. Потърси какво липсва.",
+    "reading_advice": "Щастието не е само в сигурността. Потърси го в малките неща и в сърцето си."
+  },
+  {
+    "reading_id": "four_cups_page_pentacles",
+    "reading_name": "Четворка Чаши + Паж Пентакли",
+    "reading_cards": "Четворка Чаши + Паж Пентакли",
+    "reading_combination": ["four_cups", "page_pentacles"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Паж Пентакли – нова възможност и учене. Нова финансова възможност или кариерен шанс се появява. Това може да разчупи апатията.",
+    "reading_description": "Нова финансова възможност се появява. Може да разчупи апатията.",
+    "reading_advice": "Хвани възможността. Тя може да донесе нова цел и радост в живота ти."
+  },
+  {
+    "reading_id": "four_cups_knight_pentacles",
+    "reading_name": "Четворка Чаши + Рицар Пентакли",
+    "reading_cards": "Четворка Чаши + Рицар Пентакли",
+    "reading_combination": ["four_cups", "knight_pentacles"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Рицар Пентакли – бавен и сигурен напредък. Излизането от апатията няма да стане бързо. Бавно, но сигурно – стъпка по стъпка.",
+    "reading_description": "Излизането от апатията няма да стане бързо. Бавно, но сигурно.",
+    "reading_advice": "Не очаквай бързо решение. Движи се бавно, но сигурно. Всяка малка стъпка напред има значение."
+  },
+  {
+    "reading_id": "four_cups_queen_pentacles",
+    "reading_name": "Четворка Чаши + Царица Пентакли",
+    "reading_cards": "Четворка Чаши + Царица Пентакли",
+    "reading_combination": ["four_cups", "queen_pentacles"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Царица Пентакли – грижа и дом. Грижите за дома тежат и ви правят апатични. Потърсете време за себе си.",
+    "reading_description": "Грижите за дома тежат и те правят апатичен. Потърси време за себе си.",
+    "reading_advice": "Погрижи се за себе си. Само така можеш да се грижиш за другите. Апатията не се побеждава с повече грижа, а с баланс."
+  },
+  {
+    "reading_id": "four_cups_king_pentacles",
+    "reading_name": "Четворка Чаши + Цар Пентакли",
+    "reading_cards": "Четворка Чаши + Цар Пентакли",
+    "reading_combination": ["four_cups", "king_pentacles"],
+    "reading_meaning": "Четворка Чаши носи апатия и неудовлетворение, а Цар Пентакли – стабилност и успех. Имате стабилност, но не сте щастливи. Потърсете какво наистина искате – успехът не е всичко.",
+    "reading_description": "Имаш стабилност, но не си щастлив. Потърси какво наистина искаш.",
+    "reading_advice": "Успехът не е всичко. Потърси какво те прави истински щастлив. Може би нещо, което не можеш да купиш с пари."
+  },
+    {
+    "reading_id": "five_cups_two_wands",
+    "reading_name": "Петица Чаши + Двойка Жезли",
+    "reading_cards": "Петица Чаши + Двойка Жезли",
+    "reading_combination": ["five_cups", "two_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Двойка Жезли – избор и планиране. Преживявате загуба и предстои важен избор. Трудно е да мислите ясно, но изборът ще определи пътя напред. Позволете си да скърбите, после изберете.",
+    "reading_description": "Преживяваш загуба и предстои важен избор. Трудно, но трябва да избереш.",
+    "reading_advice": "Позволи си да скърбиш, после избери. Всяка посока е по-добра от липсата на такава."
+  },
+  {
+    "reading_id": "five_cups_three_wands",
+    "reading_name": "Петица Чаши + Тройка Жезли",
+    "reading_cards": "Петица Чаши + Тройка Жезли",
+    "reading_combination": ["five_cups", "three_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Тройка Жезли – очакване и разширяване. Усещате, че предстои разочарование или загуба. Страх и несигурност в очакването. Каквото дойде, ще се справите.",
+    "reading_description": "Усещаш, че предстои загуба или разочарование. Страх и несигурност.",
+    "reading_advice": "Каквото дойде, приеми го. Ще се справиш. Позволи си да скърбиш, после продължи."
+  },
+  {
+    "reading_id": "five_cups_four_wands",
+    "reading_name": "Петица Чаши + Четворка Жезли",
+    "reading_cards": "Петица Чаши + Четворка Жезли",
+    "reading_combination": ["five_cups", "four_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Четворка Жезли – празник и стабилност. Празнувате, но в сърцето ви има тъга. Радост и болка едновременно – може би празнувате, докато скърбите за нещо загубено.",
+    "reading_description": "Празнуваш, но в сърцето ти има тъга. Радост и болка заедно.",
+    "reading_advice": "Позволи си да чувстваш и двете. Нормално е. Радостта не изключва тъгата."
+  },
+  {
+    "reading_id": "five_cups_five_wands",
+    "reading_name": "Петица Чаши + Петица Жезли",
+    "reading_cards": "Петица Чаши + Петица Жезли",
+    "reading_combination": ["five_cups", "five_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Петица Жезли – конфликт и съперничество. Загуба и конфликт заедно. Спорът води до загуба – на приятелство, доверие или възможност. Горчив край.",
+    "reading_description": "Загуба и конфликт заедно. Спорът води до загуба.",
+    "reading_advice": "Понякога най-добрата победа е да не влизаш в битка. Загубата не винаги си струва цената."
+  },
+  {
+    "reading_id": "five_cups_six_wands",
+    "reading_name": "Петица Чаши + Шестица Жезли",
+    "reading_cards": "Петица Чаши + Шестица Жезли",
+    "reading_combination": ["five_cups", "six_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Шестица Жезли – победа и признание. Успех, но с цената на загуба. Смесени чувства – радост и тъга едновременно. Понякога победата не си струва цената.",
+    "reading_description": "Успех, но с цената на загуба. Радост и тъга заедно.",
+    "reading_advice": "Понякога победата не си струва цената. Позволи си да скърбиш за загубата, дори да празнуваш успеха."
+  },
+  {
+    "reading_id": "five_cups_seven_wands",
+    "reading_name": "Петица Чаши + Седмица Жезли",
+    "reading_cards": "Петица Чаши + Седмица Жезли",
+    "reading_combination": ["five_cups", "seven_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Седмица Жезли – защита на позицията. Опитвате се да защитите остатъците от това, което сте загубили. Дръжте се, но не се вкопчвайте прекалено.",
+    "reading_description": "Опитваш се да защитиш остатъците от това, което си загубил.",
+    "reading_advice": "Защитавай, но не се вкопчвай. Понякога трябва да пуснеш, за да получиш нещо ново."
+  },
+  {
+    "reading_id": "five_cups_eight_wands",
+    "reading_name": "Петица Чаши + Осмица Жезли",
+    "reading_cards": "Петица Чаши + Осмица Жезли",
+    "reading_combination": ["five_cups", "eight_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Осмица Жезли – бързина и движение. Загубата идва внезапно и бързо. Почти не можете да повярвате, че се случва. Позволете си да скърбите, но не оставайте там.",
+    "reading_description": "Загубата идва внезапно и бързо. Почти не можеш да повярваш.",
+    "reading_advice": "Позволи си да скърбиш, но не оставай в тъгата. Бързината на промяната носи и бързо възстановяване."
+  },
+  {
+    "reading_id": "five_cups_nine_wands",
+    "reading_name": "Петица Чаши + Деветка Жезли",
+    "reading_cards": "Петица Чаши + Деветка Жезли",
+    "reading_combination": ["five_cups", "nine_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Деветка Жезли – устойчивост и изтощение. Носите тежестта на загубата и сте изтощени. Умора, но надеждата, че болката ще отмине, ви крепи.",
+    "reading_description": "Носиш тежестта на загубата и си изтощен. Умора, но надежда.",
+    "reading_advice": "Дръж се още малко. Болката не е вечна. Изтощението ще отмине, когато приемеш загубата."
+  },
+  {
+    "reading_id": "five_cups_ten_wands",
+    "reading_name": "Петица Чаши + Десетка Жезли",
+    "reading_cards": "Петица Чаши + Десетка Жезли",
+    "reading_combination": ["five_cups", "ten_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Десетка Жезли – претоварване и бреме. Загубата добавя тежест към и без това претоварения ви живот. Твърде много едновременно. Освободете се от ненужното.",
+    "reading_description": "Загубата добавя тежест към и без това претоварения ти живот.",
+    "reading_advice": "Освободи се от ненужните отговорности. Не можеш да носиш всичко, особено когато скърбиш."
+  },
+  {
+    "reading_id": "five_cups_page_wands",
+    "reading_name": "Петица Чаши + Паж Жезли",
+    "reading_cards": "Петица Чаши + Паж Жезли",
+    "reading_combination": ["five_cups", "page_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Паж Жезли – новини и ентусиазъм. По време на тъга идват новини, които могат да променят перспективата. Отворете се за тях.",
+    "reading_description": "По време на тъга идват новини, които могат да променят перспективата.",
+    "reading_advice": "Изслушай новините. Те може да носят надежда в тъжния момент."
+  },
+  {
+    "reading_id": "five_cups_knight_wands",
+    "reading_name": "Петица Чаши + Рицар Жезли",
+    "reading_cards": "Петица Чаши + Рицар Жезли",
+    "reading_combination": ["five_cups", "knight_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Рицар Жезли – импулсивност и бързина. Импулсивно решение, взето в момент на тъга, може да влоши нещата. Забавете – не вземайте важни решения, докато скърбите.",
+    "reading_description": "Импулсивно решение, взето в момент на тъга, може да влоши нещата.",
+    "reading_advice": "Забави. Не вземай важни решения, докато скърбиш. Дай си време."
+  },
+  {
+    "reading_id": "five_cups_queen_wands",
+    "reading_name": "Петица Чаши + Царица Жезли",
+    "reading_cards": "Петица Чаши + Царица Жезли",
+    "reading_combination": ["five_cups", "queen_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Царица Жезли – увереност и харизма. Въпреки тъгата, запазвате достойнство и увереност. Вашата топлина ще ви помогне да преодолеете загубата.",
+    "reading_description": "Въпреки тъгата, запазваш достойнство и увереност.",
+    "reading_advice": "Бъди топъл и уверен. Твоята светлина ще ти помогне да преодолееш тъгата."
+  },
+  {
+    "reading_id": "five_cups_king_wands",
+    "reading_name": "Петица Чаши + Цар Жезли",
+    "reading_cards": "Петица Чаши + Цар Жезли",
+    "reading_combination": ["five_cups", "king_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Цар Жезли – лидерство и визия. Вие сте лидер, който води през тъгата. Вашата визия за бъдещето ще помогне на вас и на другите да преодолеят загубата.",
+    "reading_description": "Ти си лидер, който води през тъгата. Визията ти помага.",
+    "reading_advice": "Води с пример. Твоята сила вдъхновява другите да продължат напред."
+  },
+  {
+    "reading_id": "five_cups_ace_wands",
+    "reading_name": "Петица Чаши + Асо Жезли",
+    "reading_cards": "Петица Чаши + Асо Жезли",
+    "reading_combination": ["five_cups", "ace_wands"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Асо Жезли – ново начало и вдъхновение. След загубата идва нова искра. Светлина след тъмнина. Отворете се за новото начало.",
+    "reading_description": "След загубата идва нова искра. Светлина след тъмнина.",
+    "reading_advice": "Хвани новата искра. Тя може да е началото на нещо ново и прекрасно."
+  },
+  {
+    "reading_id": "five_cups_ace_cups",
+    "reading_name": "Петица Чаши + Асо Чаши",
+    "reading_cards": "Петица Чаши + Асо Чаши",
+    "reading_combination": ["five_cups", "ace_cups"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Асо Чаши – нови чувства и любов. Нова любов или приятелство се появява след загуба. Сърцето ви намира утеха. Отворете се за новото.",
+    "reading_description": "Нова любов или приятелство се появява след загуба. Утеха.",
+    "reading_advice": "Отвори сърцето си. Любовта лекува дори най-тежките рани."
+  },
+  {
+    "reading_id": "five_cups_two_cups",
+    "reading_name": "Петица Чаши + Двойка Чаши",
+    "reading_cards": "Петица Чаши + Двойка Чаши",
+    "reading_combination": ["five_cups", "two_cups"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Двойка Чаши – любов и връзка. Загуба в любовта – раздяла или разочарование. Позволете си да скърбите, но не затваряйте сърцето си завинаги.",
+    "reading_description": "Загуба в любовта – раздяла или разочарование.",
+    "reading_advice": "Позволи си да скърбиш, но не затваряй сърцето си. Истинската любов идва, когато не я чакаш."
+  },
+  {
+    "reading_id": "five_cups_three_cups",
+    "reading_name": "Петица Чаши + Тройка Чаши",
+    "reading_cards": "Петица Чаши + Тройка Чаши",
+    "reading_combination": ["five_cups", "three_cups"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Тройка Чаши – празник и радост. Празнувате, но в сърцето ви има тъга. Радост и болка едновременно – може би празнувате, докато скърбите.",
+    "reading_description": "Празнуваш, но в сърцето ти има тъга. Радост и болка заедно.",
+    "reading_advice": "Позволи си да чувстваш и двете. Нормално е. Тъгата не отрича радостта."
+  },
+  {
+    "reading_id": "five_cups_four_cups",
+    "reading_name": "Петица Чаши + Четворка Чаши",
+    "reading_cards": "Петица Чаши + Четворка Чаши",
+    "reading_combination": ["five_cups", "four_cups"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Четворка Чаши – апатия и неудовлетворение. Загубата ви прави апатични. Не затваряйте очи – помощ може да е точно пред вас, но вие не я виждате.",
+    "reading_description": "Загубата те прави апатичен. Помощ може да е точно пред теб.",
+    "reading_advice": "Вдигни поглед. Помощта може да е точно пред теб, но ти не я виждаш заради тъгата."
+  },
+  {
+    "reading_id": "five_cups_five_cups",
+    "reading_name": "Петица Чаши + Петица Чаши",
+    "reading_cards": "Петица Чаши + Петица Чаши",
+    "reading_combination": ["five_cups", "five_cups"],
+    "reading_meaning": "Петица Чаши + Петица Чаши – две петици заедно. Двойна загуба, двойна тъга. Тежък период на скръб. Позволете си да скърбите, но не губете надежда – след дъжда идва слънце.",
+    "reading_description": "Двойна загуба, двойна тъга. Тежък период на скръб.",
+    "reading_advice": "Позволи си да скърбиш. Но помни – след дъжда идва слънце. Надеждата винаги е там."
+  },
+  {
+    "reading_id": "five_cups_six_cups",
+    "reading_name": "Петица Чаши + Шестица Чаши",
+    "reading_cards": "Петица Чаши + Шестица Чаши",
+    "reading_combination": ["five_cups", "six_cups"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Шестица Чаши – спомени и носталгия. Спомените за по-добри времена ви крепят в тъгата. Използвайте ги като вдъхновение, но не живейте в миналото.",
+    "reading_description": "Спомените за по-добри времена те крепят. Използвай ги като вдъхновение.",
+    "reading_advice": "Спомените са утеха, но не живей в миналото. Гледай напред."
+  },
+  {
+    "reading_id": "five_cups_seven_cups",
+    "reading_name": "Петица Чаши + Седмица Чаши",
+    "reading_cards": "Петица Чаши + Седмица Чаши",
+    "reading_combination": ["five_cups", "seven_cups"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Седмица Чаши – илюзии и фантазии. Бягате в илюзии, за да избегнете реалността на загубата. Свали розовите очила – само истината може да ви помогне да оздравеете.",
+    "reading_description": "Бягаш в илюзии, за да избегнеш реалността на загубата.",
+    "reading_advice": "Погледни истината в очите. Само тя може да ти помогне да оздравееш."
+  },
+  {
+    "reading_id": "five_cups_eight_cups",
+    "reading_name": "Петица Чаши + Осмица Чаши",
+    "reading_cards": "Петица Чаши + Осмица Чаши",
+    "reading_combination": ["five_cups", "eight_cups"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Осмица Чаши – тръгване и оставяне. Решавате да оставите загубата зад гърба си и да тръгнете на нов път. Смела стъпка към изцеление.",
+    "reading_description": "Решаваш да оставиш загубата зад гърба си и да тръгнеш на нов път.",
+    "reading_advice": "Тръгни смело. Понякога трябва да оставиш, за да намериш себе си отново."
+  },
+  {
+    "reading_id": "five_cups_nine_cups",
+    "reading_name": "Петица Чаши + Деветка Чаши",
+    "reading_cards": "Петица Чаши + Деветка Чаши",
+    "reading_combination": ["five_cups", "nine_cups"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Деветка Чаши – сбъднато желание. Въпреки загубата, една мечта се сбъдва. Радост сред тъгата. Позволете си да се радвате, дори да скърбите.",
+    "reading_description": "Въпреки загубата, една мечта се сбъдва. Радост сред тъгата.",
+    "reading_advice": "Наслади се на тази радост. Тя е доказателство, че дори в тъга има място за щастие."
+  },
+  {
+    "reading_id": "five_cups_ten_cups",
+    "reading_name": "Петица Чаши + Десетка Чаши",
+    "reading_cards": "Петица Чаши + Десетка Чаши",
+    "reading_combination": ["five_cups", "ten_cups"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Десетка Чаши – семейно щастие. Загуба в семейството. Позволете си да скърбите заедно – семейството е опора. Заедно ще преодолеете тъгата.",
+    "reading_description": "Загуба в семейството. Скърби заедно – семейството е опора.",
+    "reading_advice": "Скърбете заедно. Семейството е най-силно, когато е заедно в болката."
+  },
+  {
+    "reading_id": "five_cups_page_cups",
+    "reading_name": "Петица Чаши + Паж Чаши",
+    "reading_cards": "Петица Чаши + Паж Чаши",
+    "reading_combination": ["five_cups", "page_cups"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Паж Чаши – емоционално послание. Нежно послание идва, носейки утеха в тъгата. Отворете сърцето си за него.",
+    "reading_description": "Нежно послание идва, носейки утеха в тъгата.",
+    "reading_advice": "Отвори сърцето си за посланието. То носи надежда и утеха."
+  },
+  {
+    "reading_id": "five_cups_knight_cups",
+    "reading_name": "Петица Чаши + Рицар Чаши",
+    "reading_cards": "Петица Чаши + Рицар Чаши",
+    "reading_combination": ["five_cups", "knight_cups"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Рицар Чаши – романтика и ухажване. Романтичен жест идва в момент на тъга. Позволете на любовта да ви утеши.",
+    "reading_description": "Романтичен жест идва в момент на тъга. Позволи на любовта да те утеши.",
+    "reading_advice": "Позволи на любовта да влезе. Тя може да е точно това, от което имаш нужда сега."
+  },
+  {
+    "reading_id": "five_cups_queen_cups",
+    "reading_name": "Петица Чаши + Царица Чаши",
+    "reading_cards": "Петица Чаши + Царица Чаши",
+    "reading_combination": ["five_cups", "queen_cups"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Царица Чаши – интуиция и емпатия. Интуицията ви подсказва как да преодолеете загубата. Слушайте сърцето си – то знае пътя през тъгата.",
+    "reading_description": "Интуицията ти подсказва как да преодолееш загубата.",
+    "reading_advice": "Довери се на вътрешния си глас. Той знае пътя през тъгата."
+  },
+  {
+    "reading_id": "five_cups_king_cups",
+    "reading_name": "Петица Чаши + Цар Чаши",
+    "reading_cards": "Петица Чаши + Цар Чаши",
+    "reading_combination": ["five_cups", "king_cups"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Цар Чаши – емоционална зрялост и баланс. Преодолявате загубата с мъдрост и спокойствие. Зряла скръб, която води до изцеление.",
+    "reading_description": "Преодоляваш загубата с мъдрост и спокойствие. Зряла скръб.",
+    "reading_advice": "Бъди спокоен и мъдър. Емоционалната зрялост ще те изведе от тъгата."
+  },
+  {
+    "reading_id": "five_cups_two_swords",
+    "reading_name": "Петица Чаши + Двойка Мечове",
+    "reading_cards": "Петица Чаши + Двойка Мечове",
+    "reading_combination": ["five_cups", "two_swords"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Двойка Мечове – нерешителност и съмнение. Тъгата ви кара да се съмнявате във всичко. Свалете превръзката – имате повече възможности, отколкото си мислите.",
+    "reading_description": "Тъгата те кара да се съмняваш във всичко.",
+    "reading_advice": "Свали превръзката. Имаш повече възможности, отколкото си мислиш. Тъгата замъглява перспективата."
+  },
+  {
+    "reading_id": "five_cups_three_swords",
+    "reading_name": "Петица Чаши + Тройка Мечове",
+    "reading_cards": "Петица Чаши + Тройка Мечове",
+    "reading_combination": ["five_cups", "three_swords"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Тройка Мечове – болка и разбито сърце. Двойна болка – загуба и разбито сърце. Позволете си да скърбите, но не губете надежда – болката не е вечна.",
+    "reading_description": "Двойна болка – загуба и разбито сърце.",
+    "reading_advice": "Позволи си да скърбиш, но помни – болката не е вечна. Тя ще отмине, както всичко."
+  },
+    {
+    "reading_id": "five_cups_four_swords",
+    "reading_name": "Петица Чаши + Четворка Мечове",
+    "reading_cards": "Петица Чаши + Четворка Мечове",
+    "reading_combination": ["five_cups", "four_swords"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Четворка Мечове – почивка и възстановяване. След загубата имате нужда от почивка. Позволете си да спрете и да възстановите сили. Скръбта изисква време.",
+    "reading_description": "След загубата имаш нужда от почивка. Позволи си да спреш.",
+    "reading_advice": "Почини си. Скръбта изисква време. Не бързай да се върнеш към нормалния ритъм."
+  },
+  {
+    "reading_id": "five_cups_five_swords",
+    "reading_name": "Петица Чаши + Петица Мечове",
+    "reading_cards": "Петица Чаши + Петица Мечове",
+    "reading_combination": ["five_cups", "five_swords"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Петица Мечове – конфликт и празна победа. Загубата води до конфликт, който носи само повече болка. Понякога най-добрата победа е да излезеш от битката.",
+    "reading_description": "Загубата води до конфликт, който носи само повече болка.",
+    "reading_advice": "Помисли дали си струва да продължаваш. Понякога да излезеш от битката е по-голяма победа."
+  },
+  {
+    "reading_id": "five_cups_six_swords",
+    "reading_name": "Петица Чаши + Шестица Мечове",
+    "reading_cards": "Петица Чаши + Шестица Мечове",
+    "reading_combination": ["five_cups", "six_swords"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Шестица Мечове – пътуване и преход. Решавате да оставите загубата зад гърба си и да тръгнете на път. Пътуването носи изцеление.",
+    "reading_description": "Решаваш да оставиш загубата зад гърба си и да тръгнеш на път.",
+    "reading_advice": "Тръгни. Новите води носят ново начало. Пътуването може да донесе изцеление."
+  },
+  {
+    "reading_id": "five_cups_seven_swords",
+    "reading_name": "Петица Чаши + Седмица Мечове",
+    "reading_cards": "Петица Чаши + Седмица Мечове",
+    "reading_combination": ["five_cups", "seven_swords"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Седмица Мечове – измама и хитрост. Внимавайте – някой може да се опита да се възползва от тъгата ви, за да ви измами. Пазите се.",
+    "reading_description": "Някой може да се опита да се възползва от тъгата ти.",
+    "reading_advice": "Пази се. Когато скърбиш, не си най-добрият съдник. Не вземай важни решения, докато не се успокоиш."
+  },
+  {
+    "reading_id": "five_cups_eight_swords",
+    "reading_name": "Петица Чаши + Осмица Мечове",
+    "reading_cards": "Петица Чаши + Осмица Мечове",
+    "reading_combination": ["five_cups", "eight_swords"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Осмица Мечове – чувство на капан и ограничение. Чувствате се в капан от тъгата си. Оковите са в главата ви – имате повече възможности, отколкото си мислите.",
+    "reading_description": "Чувстваш се в капан от тъгата си. Оковите са в главата ти.",
+    "reading_advice": "Освободи се от страха. Имаш повече възможности, отколкото си мислиш. Тъгата замъглява, но не затваря вратите."
+  },
+  {
+    "reading_id": "five_cups_nine_swords",
+    "reading_name": "Петица Чаши + Деветка Мечове",
+    "reading_cards": "Петица Чаши + Деветка Мечове",
+    "reading_combination": ["five_cups", "nine_swords"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Деветка Мечове – тревога и безсъние. Тъгата ви носи безсъние и тревожни мисли. Не можете да спрете да мислите за загубата. Тревогите ви измъчват.",
+    "reading_description": "Тъгата ти носи безсъние и тревожни мисли.",
+    "reading_advice": "Спокойствие. Мислите ти не са реалност. Потърси помощ, ако тревогата те завладява."
+  },
+  {
+    "reading_id": "five_cups_ten_swords",
+    "reading_name": "Петица Чаши + Десетка Мечове",
+    "reading_cards": "Петица Чаши + Десетка Мечове",
+    "reading_combination": ["five_cups", "ten_swords"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Десетка Мечове – край и дъно. Периодът на тъга приключва. Краят е болезнен, но носи освобождение. След дъното идва ново начало.",
+    "reading_description": "Периодът на тъга приключва. Краят носи освобождение.",
+    "reading_advice": "Остави тъгата зад гърба си. Това, което е свършило, вече не тежи. Гледай напред."
+  },
+  {
+    "reading_id": "five_cups_page_swords",
+    "reading_name": "Петица Чаши + Паж Мечове",
+    "reading_cards": "Петица Чаши + Паж Мечове",
+    "reading_combination": ["five_cups", "page_swords"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Паж Мечове – търсене на истината. Истината за загубата излиза наяве. Бъдете отворени за прозренията, които идват.",
+    "reading_description": "Истината за загубата излиза наяве. Бъди отворен.",
+    "reading_advice": "Търси истината. Тя може да боли, но винаги лекува. Прозрението ще ти помогне да приемеш загубата."
+  },
+  {
+    "reading_id": "five_cups_knight_swords",
+    "reading_name": "Петица Чаши + Рицар Мечове",
+    "reading_cards": "Петица Чаши + Рицар Мечове",
+    "reading_combination": ["five_cups", "knight_swords"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Рицар Мечове – бързина и прямота. Истината за загубата идва бързо и рязко. Бъдете готови да я приемете, колкото и да боли.",
+    "reading_description": "Истината за загубата идва бързо и рязко. Бъди готов.",
+    "reading_advice": "Приеми истината с отворено сърце. Тя може да е ключът към изцелението."
+  },
+  {
+    "reading_id": "five_cups_queen_swords",
+    "reading_name": "Петица Чаши + Царица Мечове",
+    "reading_cards": "Петица Чаши + Царица Мечове",
+    "reading_combination": ["five_cups", "queen_swords"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Царица Мечове – яснота и независимост. Виждате загубата ясно, без илюзии. Яснотата, колкото и да е сурова, е първата стъпка към изцеление.",
+    "reading_description": "Виждаш загубата ясно, без илюзии.",
+    "reading_advice": "Бъди честен със себе си. Яснотата, колкото и да е сурова, води към изцеление."
+  },
+  {
+    "reading_id": "five_cups_king_swords",
+    "reading_name": "Петица Чаши + Цар Мечове",
+    "reading_cards": "Петица Чаши + Цар Мечове",
+    "reading_combination": ["five_cups", "king_swords"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Цар Мечове – интелект и стратегия. С логика и анализ можете да разберете защо се е случила загубата. Използвайте ума си, за да намерите смисъл.",
+    "reading_description": "С логика и анализ можеш да разбереш защо се е случила загубата.",
+    "reading_advice": "Използвай ума си. Анализът може да ти помогне да намериш смисъл в загубата и да продължиш напред."
+  },
+  {
+    "reading_id": "five_cups_two_pentacles",
+    "reading_name": "Петица Чаши + Двойка Пентакли",
+    "reading_cards": "Петица Чаши + Двойка Пентакли",
+    "reading_combination": ["five_cups", "two_pentacles"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Двойка Пентакли – баланс и жонглиране. Опитвате се да балансирате тъгата с другите си задължения. Жонглирайте внимателно – не изпускайте себе си.",
+    "reading_description": "Опитваш се да балансираш тъгата с другите си задължения.",
+    "reading_advice": "Балансирай, но не изпускай себе си. Позволи си да скърбиш – това също е важно."
+  },
+  {
+    "reading_id": "five_cups_three_pentacles",
+    "reading_name": "Петица Чаши + Тройка Пентакли",
+    "reading_cards": "Петица Чаши + Тройка Пентакли",
+    "reading_combination": ["five_cups", "three_pentacles"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Тройка Пентакли – екипна работа и сътрудничество. Не сте сами в тъгата си – споделете я с екипа или семейството. Заедно ще преодолеете загубата.",
+    "reading_description": "Не си сам в тъгата – сподели я с другите.",
+    "reading_advice": "Сподели тъгата с близките. Заедно сте по-силни. Тъгата, споделена, става по-лека."
+  },
+  {
+    "reading_id": "five_cups_four_pentacles",
+    "reading_name": "Петица Чаши + Четворка Пентакли",
+    "reading_cards": "Петица Чаши + Четворка Пентакли",
+    "reading_combination": ["five_cups", "four_pentacles"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Четворка Пентакли – сигурност и стискане. След загубата се вкопчвате в това, което ви е останало. Позволете си да скърбите, но не се вкопчвайте прекалено.",
+    "reading_description": "След загубата се вкопчваш в това, което ти е останало.",
+    "reading_advice": "Пусни малко. Вкопчването няма да върне загубата. Позволи си да скърбиш, после отвори ръце за новото."
+  },
+  {
+    "reading_id": "five_cups_five_pentacles",
+    "reading_name": "Петица Чаши + Петица Пентакли",
+    "reading_cards": "Петица Чаши + Петица Пентакли",
+    "reading_combination": ["five_cups", "five_pentacles"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Петица Пентакли – финансови трудности и липса. Двойна загуба – емоционална и финансова. Тежък период. Потърсете помощ – не сте сами.",
+    "reading_description": "Двойна загуба – емоционална и финансова. Тежък период.",
+    "reading_advice": "Потърси помощ. Не си сам. Има хора, готови да ти помогнат и в двете области."
+  },
+  {
+    "reading_id": "five_cups_six_pentacles",
+    "reading_name": "Петица Чаши + Шестица Пентакли",
+    "reading_cards": "Петица Чаши + Шестица Пентакли",
+    "reading_combination": ["five_cups", "six_pentacles"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Шестица Пентакли – помощ и щедрост. Някой протяга ръка да ви помогне в тъгата. Приемете помощта – не сте сами.",
+    "reading_description": "Някой протяга ръка да ти помогне в тъгата. Приеми.",
+    "reading_advice": "Приеми помощта. Няма срам да поискаш помощ, когато скърбиш. Някой ден ще имаш възможност да върнеш жеста."
+  },
+  {
+    "reading_id": "five_cups_seven_pentacles",
+    "reading_name": "Петица Чаши + Седмица Пентакли",
+    "reading_cards": "Петица Чаши + Седмица Пентакли",
+    "reading_combination": ["five_cups", "seven_pentacles"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Седмица Пентакли – търпение и чакане. Тъгата изисква търпение. Не очаквайте бързо възстановяване. Бавно, но сигурно ще заздравеете.",
+    "reading_description": "Тъгата изисква търпение. Не очаквай бързо възстановяване.",
+    "reading_advice": "Чакай търпеливо. Времето лекува. Не форсирай изцелението – то идва бавно, но сигурно."
+  },
+  {
+    "reading_id": "five_cups_eight_pentacles",
+    "reading_name": "Петица Чаши + Осмица Пентакли",
+    "reading_cards": "Петица Чаши + Осмица Пентакли",
+    "reading_combination": ["five_cups", "eight_pentacles"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Осмица Пентакли – усърдие и учене. Ученето може да ви помогне да преодолеете тъгата. Вложете енергия в ново умение или хоби.",
+    "reading_description": "Ученето може да ти помогне да преодолееш тъгата.",
+    "reading_advice": "Използвай времето на тъга, за да се учиш. Новото знание може да донесе нова радост."
+  },
+  {
+    "reading_id": "five_cups_nine_pentacles",
+    "reading_name": "Петица Чаши + Деветка Пентакли",
+    "reading_cards": "Петица Чаши + Деветка Пентакли",
+    "reading_combination": ["five_cups", "nine_pentacles"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Деветка Пентакли – самодостатъчност и успех. Въпреки загубата, запазвате независимост. Гордейте се със себе си – успявате да продължите напред.",
+    "reading_description": "Въпреки загубата, запазваш независимост.",
+    "reading_advice": "Ти си силен. Гордей се, че продължаваш напред въпреки тъгата. Независимостта ти е сила."
+  },
+  {
+    "reading_id": "five_cups_ten_pentacles",
+    "reading_name": "Петица Чаши + Десетка Пентакли",
+    "reading_cards": "Петица Чаши + Десетка Пентакли",
+    "reading_combination": ["five_cups", "ten_pentacles"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Десетка Пентакли – семейно наследство и богатство. Загуба в семейството – но семейството остава опора. Дръжте се заедно.",
+    "reading_description": "Загуба в семейството – но семейството остава опора.",
+    "reading_advice": "Дръжте се заедно. Семейството е най-силно, когато е заедно в тъгата. Традициите и споделените спомени лекуват."
+  },
+  {
+    "reading_id": "five_cups_page_pentacles",
+    "reading_name": "Петица Чаши + Паж Пентакли",
+    "reading_cards": "Петица Чаши + Паж Пентакли",
+    "reading_combination": ["five_cups", "page_pentacles"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Паж Пентакли – нова възможност и учене. Нова възможност се появява в момент на тъга. Тя може да донесе нова цел и надежда.",
+    "reading_description": "Нова възможност се появява в момент на тъга.",
+    "reading_advice": "Хвани възможността. Тя може да донесе нова цел и надежда в тъжния момент."
+  },
+  {
+    "reading_id": "five_cups_knight_pentacles",
+    "reading_name": "Петица Чаши + Рицар Пентакли",
+    "reading_cards": "Петица Чаши + Рицар Пентакли",
+    "reading_combination": ["five_cups", "knight_pentacles"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Рицар Пентакли – бавен и сигурен напредък. Излизането от тъгата няма да стане бързо. Бавно, но сигурно – стъпка по стъпка.",
+    "reading_description": "Излизането от тъгата няма да стане бързо. Бавно, но сигурно.",
+    "reading_advice": "Не очаквай бързо изцеление. Движи се бавно, но сигурно. Всяка малка стъпка напред има значение."
+  },
+  {
+    "reading_id": "five_cups_queen_pentacles",
+    "reading_name": "Петица Чаши + Царица Пентакли",
+    "reading_cards": "Петица Чаши + Царица Пентакли",
+    "reading_combination": ["five_cups", "queen_pentacles"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Царица Пентакли – грижа и дом. Грижете се за дома и семейството – те са вашата опора в тъгата. Но не забравяйте и себе си.",
+    "reading_description": "Грижи се за дома и семейството – те са опора в тъгата.",
+    "reading_advice": "Грижи се за дома, но не забравяй и себе си. Тъгата изисква време и грижа и за теб."
+  },
+  {
+    "reading_id": "five_cups_king_pentacles",
+    "reading_name": "Петица Чаши + Цар Пентакли",
+    "reading_cards": "Петица Чаши + Цар Пентакли",
+    "reading_combination": ["five_cups", "king_pentacles"],
+    "reading_meaning": "Петица Чаши носи загуба и тъга, а Цар Пентакли – стабилност и успех. Въпреки загубата, имате стабилна основа. Използвайте я, за да се изправите и да продължите напред.",
+    "reading_description": "Въпреки загубата, имаш стабилна основа.",
+    "reading_advice": "Използвай стабилността, която имаш. Тя ще ти помогне да се изправиш след загубата и да продължиш напред."
+  },
+    {
+    "reading_id": "six_cups_two_wands",
+    "reading_name": "Шестица Чаши + Двойка Жезли",
+    "reading_cards": "Шестица Чаши + Двойка Жезли",
+    "reading_combination": ["six_cups", "two_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Двойка Жезли – избор и планиране. Предстои ви избор, свързан с миналото – завръщане на стар човек или ситуация. Носталгия и решение. Миналото е учител, не водач.",
+    "reading_description": "Избор, свързан с миналото. Носталгия и решение.",
+    "reading_advice": "Вземи наученото от миналото, но гледай напред. Изборът трябва да служи на бъдещето ти."
+  },
+  {
+    "reading_id": "six_cups_three_wands",
+    "reading_name": "Шестица Чаши + Тройка Жезли",
+    "reading_cards": "Шестица Чаши + Тройка Жезли",
+    "reading_combination": ["six_cups", "three_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Тройка Жезли – очакване и разширяване. Очаквате завръщане на някого или нещо от миналото. Носталгия и надежда. Бъдете готови да посрещнете миналото, но не спирайте да живеете в настоящето.",
+    "reading_description": "Очакваш завръщане от миналото. Носталгия и надежда.",
+    "reading_advice": "Бъди готов да посрещнеш миналото, но не спирай да живееш в настоящето."
+  },
+  {
+    "reading_id": "six_cups_four_wands",
+    "reading_name": "Шестица Чаши + Четворка Жезли",
+    "reading_cards": "Шестица Чаши + Четворка Жезли",
+    "reading_combination": ["six_cups", "four_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Четворка Жезли – празник и стабилност. Празник, на който се събират стари приятели или семейство. Носталгия, спомени, топлина. Завръщане към корените.",
+    "reading_description": "Празник, на който се събират стари приятели. Носталгия и радост.",
+    "reading_advice": "Цени тези моменти. Те са безценни. Старите приятели са като вино – с времето стават по-добри."
+  },
+  {
+    "reading_id": "six_cups_five_wands",
+    "reading_name": "Шестица Чаши + Петица Жезли",
+    "reading_cards": "Шестица Чаши + Петица Жезли",
+    "reading_combination": ["six_cups", "five_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Петица Жезли – конфликт и съперничество. Стар конфликт от миналото излиза отново на повърхността. Неразрешени сметки. Оставете миналото – то не заслужава нова битка.",
+    "reading_description": "Стар конфликт от миналото излиза отново. Неразрешени сметки.",
+    "reading_advice": "Остави миналото. То не заслужава нова битка. Наученото – вземи, болката – остави."
+  },
+  {
+    "reading_id": "six_cups_six_wands",
+    "reading_name": "Шестица Чаши + Шестица Жезли",
+    "reading_cards": "Шестица Чаши + Шестица Жезли",
+    "reading_combination": ["six_cups", "six_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Шестица Жезли – победа и признание. Получавате признание за нещо, което сте направили в миналото. Закъснял, но заслужен успех. По-добре късно, отколкото никога.",
+    "reading_description": "Признание за нещо от миналото. Закъснял, но заслужен успех.",
+    "reading_advice": "По-добре късно, отколкото никога. Приеми признанието с благодарност и продължи напред."
+  },
+  {
+    "reading_id": "six_cups_seven_wands",
+    "reading_name": "Шестица Чаши + Седмица Жезли",
+    "reading_cards": "Шестица Чаши + Седмица Жезли",
+    "reading_combination": ["six_cups", "seven_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Седмица Жезли – защита на позицията. Трябва да защитавате спомените и миналото си от хора, които искат да ги омаловажат. Спомените са твои – никой няма право да ти ги отнема.",
+    "reading_description": "Защитаваш спомените си от хора, които искат да ги омаловажат.",
+    "reading_advice": "Пази спомените си. Те са твои. Никой няма право да ти ги отнема."
+  },
+  {
+    "reading_id": "six_cups_eight_wands",
+    "reading_name": "Шестица Чаши + Осмица Жезли",
+    "reading_cards": "Шестица Чаши + Осмица Жезли",
+    "reading_combination": ["six_cups", "eight_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Осмица Жезли – бързина и движение. Спомен от миналото идва внезапно и неочаквано. Носталгия, която връхлита. Приеми спомена, после продължи напред.",
+    "reading_description": "Спомен идва внезапно. Носталгия връхлита.",
+    "reading_advice": "Приеми спомена, после продължи напред. Не позволявай на носталгията да те държи в миналото."
+  },
+  {
+    "reading_id": "six_cups_nine_wands",
+    "reading_name": "Шестица Чаши + Деветка Жезли",
+    "reading_cards": "Шестица Чаши + Деветка Жезли",
+    "reading_combination": ["six_cups", "nine_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Деветка Жезли – устойчивост и изтощение. Носталгията и спомените те изтощават емоционално. Миналото тежи. Остави миналото – то не заслужава енергията ти.",
+    "reading_description": "Носталгията и спомените те изтощават. Миналото тежи.",
+    "reading_advice": "Остави миналото. То не заслужава енергията ти. Спомените са хубави, но не трябва да те изтощават."
+  },
+  {
+    "reading_id": "six_cups_ten_wands",
+    "reading_name": "Шестица Чаши + Десетка Жезли",
+    "reading_cards": "Шестица Чаши + Десетка Жезли",
+    "reading_combination": ["six_cups", "ten_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Десетка Жезли – претоварване и бреме. Носите тежестта на минали спомени и преживявания. Миналото тежи. Освободете се от ненужното бреме.",
+    "reading_description": "Носиш тежестта на минали спомени. Миналото тежи.",
+    "reading_advice": "Освободи се от бремето на миналото. Не можеш да носиш всичко със себе си."
+  },
+  {
+    "reading_id": "six_cups_page_wands",
+    "reading_name": "Шестица Чаши + Паж Жезли",
+    "reading_cards": "Шестица Чаши + Паж Жезли",
+    "reading_combination": ["six_cups", "page_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Паж Жезли – новини и ентусиазъм. Получавате вест, свързана с миналото – може би някой от миналото се свързва. Носталгия и надежда.",
+    "reading_description": "Вест, свързана с миналото – някой се свързва.",
+    "reading_advice": "Отвори се за новината. Тя носи нещо ценно за теб."
+  },
+  {
+    "reading_id": "six_cups_knight_wands",
+    "reading_name": "Шестица Чаши + Рицар Жезли",
+    "reading_cards": "Шестица Чаши + Рицар Жезли",
+    "reading_combination": ["six_cups", "knight_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Рицар Жезли – импулсивност и бързина. Някой от миналото идва бързо и неочаквано. Бъдете готови да го посрещнете, но не позволявайте на импулсивността да ви завладее.",
+    "reading_description": "Някой от миналото идва бързо и неочаквано.",
+    "reading_advice": "Посрещни, но не позволявай на импулсивността да те завладее. Дай си време да помислиш."
+  },
+  {
+    "reading_id": "six_cups_queen_wands",
+    "reading_name": "Шестица Чаши + Царица Жезли",
+    "reading_cards": "Шестица Чаши + Царица Жезли",
+    "reading_combination": ["six_cups", "queen_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Царица Жезли – увереност и харизма. Носталгията ви кара да се чувствате уверени в корените си. Вашата топлина идва от спомените за дома.",
+    "reading_description": "Носталгията те кара да се чувстваш уверен в корените си.",
+    "reading_advice": "Използвай спомените като източник на увереност. Корените ти са твоята сила."
+  },
+  {
+    "reading_id": "six_cups_king_wands",
+    "reading_name": "Шестица Чаши + Цар Жезли",
+    "reading_cards": "Шестица Чаши + Цар Жезли",
+    "reading_combination": ["six_cups", "king_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Цар Жезли – лидерство и визия. Вие сте лидер, който черпи сила от миналото. Вашата визия е основана на опита, който сте придобили.",
+    "reading_description": "Ти си лидер, който черпи сила от миналото.",
+    "reading_advice": "Използвай миналото като основа за визията си. Опитът ти е най-добрият учител."
+  },
+  {
+    "reading_id": "six_cups_ace_wands",
+    "reading_name": "Шестица Чаши + Асо Жезли",
+    "reading_cards": "Шестица Чаши + Асо Жезли",
+    "reading_combination": ["six_cups", "ace_wands"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Асо Жезли – ново начало и вдъхновение. Ново начало, което носи спомени от миналото. Искрата е запалена от нещо познато. Творете новото с опита на старото.",
+    "reading_description": "Ново начало, което носи спомени от миналото.",
+    "reading_advice": "Хвани искрата. Творете новото с опита на старото. Миналото може да вдъхнови бъдещето."
+  },
+  {
+    "reading_id": "six_cups_ace_cups",
+    "reading_name": "Шестица Чаши + Асо Чаши",
+    "reading_cards": "Шестица Чаши + Асо Чаши",
+    "reading_combination": ["six_cups", "ace_cups"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Асо Чаши – нови чувства и любов. Нова любов, която ви напомня за миналото. Познато чувство, но ново начало. Отворете сърцето си.",
+    "reading_description": "Нова любов, която напомня за миналото. Познато, но ново.",
+    "reading_advice": "Отвори сърцето си. Познатото чувство може да доведе до нова, истинска любов."
+  },
+  {
+    "reading_id": "six_cups_two_cups",
+    "reading_name": "Шестица Чаши + Двойка Чаши",
+    "reading_cards": "Шестица Чаши + Двойка Чаши",
+    "reading_combination": ["six_cups", "two_cups"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Двойка Чаши – любов и връзка. Завръщане на стара любов или приятелство. Връзка от миналото се възражда. Носталгия и надежда.",
+    "reading_description": "Завръщане на стара любов или приятелство. Връзка от миналото се възражда.",
+    "reading_advice": "Бъди отворен, но гледай с реализъм. Хората се променят, но понякога някои връзки са вечни."
+  },
+  {
+    "reading_id": "six_cups_three_cups",
+    "reading_name": "Шестица Чаши + Тройка Чаши",
+    "reading_cards": "Шестица Чаши + Тройка Чаши",
+    "reading_combination": ["six_cups", "three_cups"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Тройка Чаши – празник и радост. Събиране на стари приятели или семейство. Носталгия, спомени, топлина. Завръщане към корените.",
+    "reading_description": "Събиране на стари приятели. Носталгия и радост.",
+    "reading_advice": "Цени тези моменти. Те са безценни. Старите приятели са като вино – с времето стават по-добри."
+  },
+  {
+    "reading_id": "six_cups_four_cups",
+    "reading_name": "Шестица Чаши + Четворка Чаши",
+    "reading_cards": "Шестица Чаши + Четворка Чаши",
+    "reading_combination": ["six_cups", "four_cups"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Четворка Чаши – апатия и неудовлетворение. Носталгията ви прави неудовлетворени от настоящето. Не живейте в миналото – то не може да се върне.",
+    "reading_description": "Носталгията те прави неудовлетворен от настоящето.",
+    "reading_advice": "Миналото е учител, не водач. Вземи наученото, но гледай напред. Настоящето заслужава вниманието ти."
+  },
+  {
+    "reading_id": "six_cups_five_cups",
+    "reading_name": "Шестица Чаши + Петица Чаши",
+    "reading_cards": "Шестица Чаши + Петица Чаши",
+    "reading_combination": ["six_cups", "five_cups"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Петица Чаши – загуба и тъга. Носталгия по нещо, което сте загубили. Спомените за загубата ви тъжат. Позволете си да скърбите, но не оставайте там.",
+    "reading_description": "Носталгия по нещо, което си загубил. Спомените тъжат.",
+    "reading_advice": "Позволи си да скърбиш, но не оставай в миналото. Загубата е част от живота – продължи напред."
+  },
+  {
+    "reading_id": "six_cups_six_cups",
+    "reading_name": "Шестица Чаши + Шестица Чаши",
+    "reading_cards": "Шестица Чаши + Шестица Чаши",
+    "reading_combination": ["six_cups", "six_cups"],
+    "reading_meaning": "Шестица Чаши + Шестица Чаши – две шестици заедно. Двойна носталгия, двойни спомени. Завръщане към корените, към детството, към миналото. Ценете спомените, но не живейте в тях.",
+    "reading_description": "Двойна носталгия, двойни спомени. Завръщане към корените.",
+    "reading_advice": "Цени спомените, но не живей в тях. Миналото е основа, а не затвор."
+  },
+  {
+    "reading_id": "six_cups_seven_cups",
+    "reading_name": "Шестица Чаши + Седмица Чаши",
+    "reading_cards": "Шестица Чаши + Седмица Чаши",
+    "reading_combination": ["six_cups", "seven_cups"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Седмица Чаши – илюзии и фантазии. Илюзорни представи за миналото. Спомените не винаги са точни – не идеализирайте миналото.",
+    "reading_description": "Илюзорни представи за миналото. Не идеализирай.",
+    "reading_advice": "Свали розовите очила. Спомените не винаги са точни. Реалността е по-ценна от идеализираното минало."
+  },
+  {
+    "reading_id": "six_cups_eight_cups",
+    "reading_name": "Шестица Чаши + Осмица Чаши",
+    "reading_cards": "Шестица Чаши + Осмица Чаши",
+    "reading_combination": ["six_cups", "eight_cups"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Осмица Чаши – тръгване и оставяне. Решавате да оставите миналото зад гърба си и да тръгнете напред. Смела стъпка към свободата.",
+    "reading_description": "Решаваш да оставиш миналото и да тръгнеш напред.",
+    "reading_advice": "Тръгни смело. Миналото те държеше – сега си свободен да вървиш напред."
+  },
+  {
+    "reading_id": "six_cups_nine_cups",
+    "reading_name": "Шестица Чаши + Деветка Чаши",
+    "reading_cards": "Шестица Чаши + Деветка Чаши",
+    "reading_combination": ["six_cups", "nine_cups"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Деветка Чаши – сбъднато желание. Мечта от миналото се сбъдва. Носталгия и удовлетворение. По-добре късно, отколкото никога.",
+    "reading_description": "Мечта от миналото се сбъдва. Носталгия и удовлетворение.",
+    "reading_advice": "Наслади се на момента. Някои мечти заслужават да изчакаш. По-добре късно, отколкото никога."
+  },
+  {
+    "reading_id": "six_cups_ten_cups",
+    "reading_name": "Шестица Чаши + Десетка Чаши",
+    "reading_cards": "Шестица Чаши + Десетка Чаши",
+    "reading_combination": ["six_cups", "ten_cups"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Десетка Чаши – семейно щастие. Семейна среща, която носи спомени и носталгия. Завръщане към корените, към семейството. Ценете тези моменти.",
+    "reading_description": "Семейна среща, която носи спомени. Завръщане към корените.",
+    "reading_advice": "Цени корените си. Те са основата на семейството. Тези моменти са безценни."
+  },
+  {
+    "reading_id": "six_cups_page_cups",
+    "reading_name": "Шестица Чаши + Паж Чаши",
+    "reading_cards": "Шестица Чаши + Паж Чаши",
+    "reading_combination": ["six_cups", "page_cups"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Паж Чаши – емоционално послание. Получавате нежно послание от някого от миналото. Отворете сърцето си за него.",
+    "reading_description": "Нежно послание от някого от миналото идва.",
+    "reading_advice": "Отвори сърцето си за посланието. То носи спомени и топлина."
+  },
+  {
+    "reading_id": "six_cups_knight_cups",
+    "reading_name": "Шестица Чаши + Рицар Чаши",
+    "reading_cards": "Шестица Чаши + Рицар Чаши",
+    "reading_combination": ["six_cups", "knight_cups"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Рицар Чаши – романтика и ухажване. Романтичен жест от някого от миналото. Стара любов се завръща с романтично предложение.",
+    "reading_description": "Романтичен жест от някого от миналото. Стара любов се завръща.",
+    "reading_advice": "Позволи на любовта да влезе. Някои истории заслужават втори шанс."
+  },
+  {
+    "reading_id": "six_cups_queen_cups",
+    "reading_name": "Шестица Чаши + Царица Чаши",
+    "reading_cards": "Шестица Чаши + Царица Чаши",
+    "reading_combination": ["six_cups", "queen_cups"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Царица Чаши – интуиция и емпатия. Интуицията ви води към спомени, които имат значение. Слушайте сърцето си – то знае кои спомени са важни.",
+    "reading_description": "Интуицията води към спомени, които имат значение.",
+    "reading_advice": "Довери се на интуицията си. Тя знае кои спомени да цениш и кои да оставиш."
+  },
+  {
+    "reading_id": "six_cups_king_cups",
+    "reading_name": "Шестица Чаши + Цар Чаши",
+    "reading_cards": "Шестица Чаши + Цар Чаши",
+    "reading_combination": ["six_cups", "king_cups"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Цар Чаши – емоционална зрялост и баланс. Поглеждате назад с мъдрост и спокойствие. Носталгия без болка – зряло приемане на миналото.",
+    "reading_description": "Поглеждаш назад с мъдрост и спокойствие. Носталгия без болка.",
+    "reading_advice": "Приеми миналото с мъдрост. То те направи това, което си днес. Благодари му и продължи напред."
+  },
+  {
+    "reading_id": "six_cups_two_swords",
+    "reading_name": "Шестица Чаши + Двойка Мечове",
+    "reading_cards": "Шестица Чаши + Двойка Мечове",
+    "reading_combination": ["six_cups", "two_swords"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Двойка Мечове – нерешителност и съмнение. Съмнявате се дали да се върнете към миналото или да продължите напред. Свалете превръзката – вижте истината.",
+    "reading_description": "Съмняваш се дали да се върнеш към миналото или да продължиш напред.",
+    "reading_advice": "Свали превръзката. Истината ще ти покаже пътя. Понякога най-добрият начин да вървиш напред е да приемеш миналото."
+  },
+  {
+    "reading_id": "six_cups_three_swords",
+    "reading_name": "Шестица Чаши + Тройка Мечове",
+    "reading_cards": "Шестица Чаши + Тройка Мечове",
+    "reading_combination": ["six_cups", "three_swords"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Тройка Мечове – болка и разбито сърце. Спомените носят болка. Някои спомени трябва да оставим, за да оздравеем. Позволете си да скърбите, после продължете.",
+    "reading_description": "Спомените носят болка. Някои спомени трябва да оставиш.",
+    "reading_advice": "Позволи си да скърбиш, после продължи. Не всички спомени заслужават да ги носиш."
+  },
+    {
+    "reading_id": "six_cups_four_swords",
+    "reading_name": "Шестица Чаши + Четворка Мечове",
+    "reading_cards": "Шестица Чаши + Четворка Мечове",
+    "reading_combination": ["six_cups", "four_swords"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Четворка Мечове – почивка и уединение. Имате нужда от почивка, за да обработите спомените си. Уединението може да ви помогне да намерите мир с миналото.",
+    "reading_description": "Имаш нужда от почивка, за да обработиш спомените си.",
+    "reading_advice": "Почини си. Уединението може да ти помогне да намериш мир с миналото."
+  },
+  {
+    "reading_id": "six_cups_five_swords",
+    "reading_name": "Шестица Чаши + Петица Мечове",
+    "reading_cards": "Шестица Чаши + Петица Мечове",
+    "reading_combination": ["six_cups", "five_swords"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Петица Мечове – конфликт и празна победа. Стар конфликт от миналото излиза, но победата ще бъде празна. Не си струва да се връщаш.",
+    "reading_description": "Стар конфликт от миналото излиза, но победата ще бъде празна.",
+    "reading_advice": "Не си струва да се връщаш. Остави миналото – то не заслужава нова битка."
+  },
+  {
+    "reading_id": "six_cups_six_swords",
+    "reading_name": "Шестица Чаши + Шестица Мечове",
+    "reading_cards": "Шестица Чаши + Шестица Мечове",
+    "reading_combination": ["six_cups", "six_swords"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Шестица Мечове – пътуване и преход. Пътуване, което ви връща към корените или към спомени. Завръщане на място от миналото. Носталгично пътешествие.",
+    "reading_description": "Пътуване, което те връща към корените. Носталгично пътешествие.",
+    "reading_advice": "Пътувай с отворено сърце. Новите места могат да събудят стари спомени. Приеми ги с благодарност."
+  },
+  {
+    "reading_id": "six_cups_seven_swords",
+    "reading_name": "Шестица Чаши + Седмица Мечове",
+    "reading_cards": "Шестица Чаши + Седмица Мечове",
+    "reading_combination": ["six_cups", "seven_swords"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Седмица Мечове – измама и хитрост. Внимавайте – някой от миналото може да се опита да ви измами. Не всички спомени са красиви – някои крият измама.",
+    "reading_description": "Някой от миналото може да се опита да те измами.",
+    "reading_advice": "Пази се. Не всички спомени са красиви – някои крият измама. Проверявай фактите."
+  },
+  {
+    "reading_id": "six_cups_eight_swords",
+    "reading_name": "Шестица Чаши + Осмица Мечове",
+    "reading_cards": "Шестица Чаши + Осмица Мечове",
+    "reading_combination": ["six_cups", "eight_swords"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Осмица Мечове – чувство на капан и ограничение. Чувствате се в капан от спомените си. Оковите са в главата ви – миналото не трябва да ви държи в плен.",
+    "reading_description": "Чувстваш се в капан от спомените си. Оковите са в главата ти.",
+    "reading_advice": "Освободи се от страха. Миналото не трябва да те държи в плен. Имаш повече възможности, отколкото си мислиш."
+  },
+  {
+    "reading_id": "six_cups_nine_swords",
+    "reading_name": "Шестица Чаши + Деветка Мечове",
+    "reading_cards": "Шестица Чаши + Деветка Мечове",
+    "reading_combination": ["six_cups", "nine_swords"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Деветка Мечове – тревога и безсъние. Спомените ви причиняват тревога и безсъние. Мислите ви се въртят около миналото. Тревогите ви измъчват.",
+    "reading_description": "Спомените ти причиняват тревога и безсъние. Мислите се въртят.",
+    "reading_advice": "Спокойствие. Мислите ти не са реалност. Потърси помощ, ако тревогата те завладява. Не позволявай на миналото да краде настоящето ти."
+  },
+  {
+    "reading_id": "six_cups_ten_swords",
+    "reading_name": "Шестица Чаши + Десетка Мечове",
+    "reading_cards": "Шестица Чаши + Десетка Мечове",
+    "reading_combination": ["six_cups", "ten_swords"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Десетка Мечове – край и дъно. Периодът на носталгия приключва. Краят носи освобождение. Оставете миналото зад гърба си – то вече не тежи.",
+    "reading_description": "Периодът на носталгия приключва. Краят носи освобождение.",
+    "reading_advice": "Остави миналото зад гърба си. Това, което е свършило, вече не тежи. Гледай напред."
+  },
+  {
+    "reading_id": "six_cups_page_swords",
+    "reading_name": "Шестица Чаши + Паж Мечове",
+    "reading_cards": "Шестица Чаши + Паж Мечове",
+    "reading_combination": ["six_cups", "page_swords"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Паж Мечове – търсене на истината. Истината за нещо от миналото излиза наяве. Бъдете отворени за прозренията, които идват.",
+    "reading_description": "Истината за нещо от миналото излиза наяве.",
+    "reading_advice": "Търси истината. Тя може да ти помогне да разбереш миналото и да го оставиш зад гърба си."
+  },
+  {
+    "reading_id": "six_cups_knight_swords",
+    "reading_name": "Шестица Чаши + Рицар Мечове",
+    "reading_cards": "Шестица Чаши + Рицар Мечове",
+    "reading_combination": ["six_cups", "knight_swords"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Рицар Мечове – бързина и прямота. Истината за миналото идва бързо и рязко. Бъдете готови да я приемете, колкото и да боли.",
+    "reading_description": "Истината за миналото идва бързо и рязко. Бъди готов.",
+    "reading_advice": "Приеми истината с отворено сърце. Тя може да те освободи от миналото."
+  },
+  {
+    "reading_id": "six_cups_queen_swords",
+    "reading_name": "Шестица Чаши + Царица Мечове",
+    "reading_cards": "Шестица Чаши + Царица Мечове",
+    "reading_combination": ["six_cups", "queen_swords"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Царица Мечове – яснота и независимост. Виждате миналото ясно, без илюзии. Яснотата, колкото и да е сурова, ви позволява да продължите напред.",
+    "reading_description": "Виждаш миналото ясно, без илюзии.",
+    "reading_advice": "Бъди честен със себе си. Яснотата, колкото и да е сурова, те освобождава от миналото."
+  },
+  {
+    "reading_id": "six_cups_king_swords",
+    "reading_name": "Шестица Чаши + Цар Мечове",
+    "reading_cards": "Шестица Чаши + Цар Мечове",
+    "reading_combination": ["six_cups", "king_swords"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Цар Мечове – интелект и стратегия. С логика и анализ можете да разберете миналото и да извлечете уроци от него. Използвайте ума си, за да осмислите спомените.",
+    "reading_description": "С логика и анализ можеш да разбереш миналото и да извлечеш уроци.",
+    "reading_advice": "Използвай ума си. Анализът може да ти помогне да осмислиш спомените и да продължиш напред."
+  },
+  {
+    "reading_id": "six_cups_two_pentacles",
+    "reading_name": "Шестица Чаши + Двойка Пентакли",
+    "reading_cards": "Шестица Чаши + Двойка Пентакли",
+    "reading_combination": ["six_cups", "two_pentacles"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Двойка Пентакли – баланс и жонглиране. Опитвате се да балансирате спомените с настоящето. Жонглирайте внимателно – не изпускайте себе си.",
+    "reading_description": "Опитваш се да балансираш спомените с настоящето.",
+    "reading_advice": "Балансирай, но не изпускай себе си. Спомените са важни, но настоящето заслужава вниманието ти."
+  },
+  {
+    "reading_id": "six_cups_three_pentacles",
+    "reading_name": "Шестица Чаши + Тройка Пентакли",
+    "reading_cards": "Шестица Чаши + Тройка Пентакли",
+    "reading_combination": ["six_cups", "three_pentacles"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Тройка Пентакли – екипна работа и сътрудничество. Заедно с екипа или семейството се връщате към стари проекти или спомени. Носталгия, която може да вдъхнови новото.",
+    "reading_description": "Заедно с екипа се връщате към стари проекти.",
+    "reading_advice": "Използвайте миналото като вдъхновение, но гледайте напред. Заедно можете да създадете нещо ново от старото."
+  },
+  {
+    "reading_id": "six_cups_four_pentacles",
+    "reading_name": "Шестица Чаши + Четворка Пентакли",
+    "reading_cards": "Шестица Чаши + Четворка Пентакли",
+    "reading_combination": ["six_cups", "four_pentacles"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Четворка Пентакли – сигурност и стискане. Държите се за стари вещи и спомени от страх да не ги загубите. Пуснете – спомените са в сърцето, не в нещата.",
+    "reading_description": "Държиш се за стари вещи и спомени от страх да не ги загубиш.",
+    "reading_advice": "Пусни. Спомените са в сърцето, не в нещата. Освободи място за новото."
+  },
+  {
+    "reading_id": "six_cups_five_pentacles",
+    "reading_name": "Шестица Чаши + Петица Пентакли",
+    "reading_cards": "Шестица Чаши + Петица Пентакли",
+    "reading_combination": ["six_cups", "five_pentacles"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Петица Пентакли – финансови трудности и липса. Спомени за по-добри финансови времена ви тъжат. Не живейте в миналото – фокусирайте се върху настоящето.",
+    "reading_description": "Спомени за по-добри финансови времена те тъжат.",
+    "reading_advice": "Не живей в миналото. Фокусирай се върху настоящето и какво можеш да направиш сега."
+  },
+  {
+    "reading_id": "six_cups_six_pentacles",
+    "reading_name": "Шестица Чаши + Шестица Пентакли",
+    "reading_cards": "Шестица Чаши + Шестица Пентакли",
+    "reading_combination": ["six_cups", "six_pentacles"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Шестица Пентакли – помощ и щедрост. Някой от миналото идва да ви помогне. Стар приятел или роднина протяга ръка. Приемете помощта с благодарност.",
+    "reading_description": "Някой от миналото идва да ти помогне. Стар приятел протяга ръка.",
+    "reading_advice": "Приеми помощта с благодарност. Някои връзки са вечни."
+  },
+  {
+    "reading_id": "six_cups_seven_pentacles",
+    "reading_name": "Шестица Чаши + Седмица Пентакли",
+    "reading_cards": "Шестица Чаши + Седмица Пентакли",
+    "reading_combination": ["six_cups", "seven_pentacles"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Седмица Пентакли – търпение и чакане. Инвестиция от миналото започва да дава плодове. Търпението ви се отплаща. Чакайте още малко.",
+    "reading_description": "Инвестиция от миналото започва да дава плодове.",
+    "reading_advice": "Чакай търпеливо. Плодовете на миналите усилия скоро ще узреят."
+  },
+  {
+    "reading_id": "six_cups_eight_pentacles",
+    "reading_name": "Шестица Чаши + Осмица Пентакли",
+    "reading_cards": "Шестица Чаши + Осмица Пентакли",
+    "reading_combination": ["six_cups", "eight_pentacles"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Осмица Пентакли – усърдие и учене. Връщате се към старо хоби или умение. Старите умения могат да получат нов живот. Учете се от миналото.",
+    "reading_description": "Връщаш се към старо хоби или умение. Старите умения получават нов живот.",
+    "reading_advice": "Използвай миналото като вдъхновение. Старите умения могат да ти донесат нова радост."
+  },
+  {
+    "reading_id": "six_cups_nine_pentacles",
+    "reading_name": "Шестица Чаши + Деветка Пентакли",
+    "reading_cards": "Шестица Чаши + Деветка Пентакли",
+    "reading_combination": ["six_cups", "nine_pentacles"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Деветка Пентакли – самодостатъчност и успех. Успехът ви напомня за корените ви. Носталгия и благодарност към миналото, което ви доведе тук.",
+    "reading_description": "Успехът ти напомня за корените ти. Благодарност към миналото.",
+    "reading_advice": "Благодари на миналото, което те доведе тук. Но гледай напред."
+  },
+  {
+    "reading_id": "six_cups_ten_pentacles",
+    "reading_name": "Шестица Чаши + Десетка Пентакли",
+    "reading_cards": "Шестица Чаши + Десетка Пентакли",
+    "reading_combination": ["six_cups", "ten_pentacles"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Десетка Пентакли – семейно наследство и богатство. Семейно наследство или традиция от миналото. Завръщане към корените, към семейната история.",
+    "reading_description": "Семейно наследство или традиция от миналото. Завръщане към корените.",
+    "reading_advice": "Цени корените си. Семейната история е твоето наследство. Предай я нататък."
+  },
+  {
+    "reading_id": "six_cups_page_pentacles",
+    "reading_name": "Шестица Чаши + Паж Пентакли",
+    "reading_cards": "Шестица Чаши + Паж Пентакли",
+    "reading_combination": ["six_cups", "page_pentacles"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Паж Пентакли – нова възможност и учене. Нова възможност, свързана с нещо от миналото. Старо хоби може да стане нова професия. Шанс да се върнете към корените си.",
+    "reading_description": "Нова възможност, свързана с нещо от миналото.",
+    "reading_advice": "Хвани възможността. Старото може да стане ново и вълнуващо."
+  },
+  {
+    "reading_id": "six_cups_knight_pentacles",
+    "reading_name": "Шестица Чаши + Рицар Пентакли",
+    "reading_cards": "Шестица Чаши + Рицар Пентакли",
+    "reading_combination": ["six_cups", "knight_pentacles"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Рицар Пентакли – бавен и сигурен напредък. Бавно, но сигурно се връщате към нещо от миналото. Търпение – старите пътища понякога водят до нови дестинации.",
+    "reading_description": "Бавно, но сигурно се връщаш към нещо от миналото.",
+    "reading_advice": "Не бързай. Старите пътища понякога водят до нови дестинации. Движи се бавно, но сигурно."
+  },
+  {
+    "reading_id": "six_cups_queen_pentacles",
+    "reading_name": "Шестица Чаши + Царица Пентакли",
+    "reading_cards": "Шестица Чаши + Царица Пентакли",
+    "reading_combination": ["six_cups", "queen_pentacles"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Царица Пентакли – грижа и дом. Грижите за дома ви напомнят за семейните традиции. Носталгия и топлина. Грижете се за дома като за наследство.",
+    "reading_description": "Грижите за дома ти напомнят за семейните традиции. Носталгия и топлина.",
+    "reading_advice": "Грижи се за дома като за наследство. Традициите са важни, но създавай и нови спомени."
+  },
+  {
+    "reading_id": "six_cups_king_pentacles",
+    "reading_name": "Шестица Чаши + Цар Пентакли",
+    "reading_cards": "Шестица Чаши + Цар Пентакли",
+    "reading_combination": ["six_cups", "king_pentacles"],
+    "reading_meaning": "Шестица Чаши носи спомени и носталгия, а Цар Пентакли – стабилност и успех. Успехът ви е изграден върху стабилна основа от миналото. Благодарете на корените си, но гледайте напред.",
+    "reading_description": "Успехът ти е изграден върху стабилна основа от миналото.",
+    "reading_advice": "Благодари на корените си. Те са основата на твоя успех. Но гледай напред и гради върху тях."
+  },
+    {
+    "reading_id": "seven_cups_two_wands",
+    "reading_name": "Седмица Чаши + Двойка Жезли",
+    "reading_cards": "Седмица Чаши + Двойка Жезли",
+    "reading_combination": ["seven_cups", "two_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Двойка Жезли – избор и планиране. Много възможности, но повечето са илюзорни. Трудно различавате истината от фантазията. Свалете розовите очила, преди да изберете.",
+    "reading_description": "Много възможности, но повечето са илюзорни. Трудно различаваш истината.",
+    "reading_advice": "Свали розовите очила, преди да избереш. Реалността е по-ценна от фантазията."
+  },
+  {
+    "reading_id": "seven_cups_three_wands",
+    "reading_name": "Седмица Чаши + Тройка Жезли",
+    "reading_cards": "Седмица Чаши + Тройка Жезли",
+    "reading_combination": ["seven_cups", "three_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Тройка Жезли – очакване и разширяване. Очаквате нещо, което вероятно не е реално. Илюзиите замъгляват перспективата. Слез на земята.",
+    "reading_description": "Очакваш нещо, което вероятно не е реално. Илюзиите замъгляват перспективата.",
+    "reading_advice": "Слез на земята. Това, което очакваш, може да не е истина. Бъди реалист."
+  },
+  {
+    "reading_id": "seven_cups_four_wands",
+    "reading_name": "Седмица Чаши + Четворка Жезли",
+    "reading_cards": "Седмица Чаши + Четворка Жезли",
+    "reading_combination": ["seven_cups", "four_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Четворка Жезли – празник и стабилност. Празнувате нещо, което може да е илюзия. Радост, която може да е временна. Проверете дали празнувате истинско постижение.",
+    "reading_description": "Празнуваш нещо, което може да е илюзия. Провери дали е истинско.",
+    "reading_advice": "Провери дали това, което празнуваш, е реално. Не се залъгвай с илюзорна радост."
+  },
+  {
+    "reading_id": "seven_cups_five_wands",
+    "reading_name": "Седмица Чаши + Петица Жезли",
+    "reading_cards": "Седмица Чаши + Петица Жезли",
+    "reading_combination": ["seven_cups", "five_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Петица Жезли – конфликт и съперничество. Борите се с илюзии или страхове, които съществуват само в главата ви. Най-големите битки са в ума ни. Освободете се.",
+    "reading_description": "Бориш се с илюзии или страхове, които съществуват само в главата ти.",
+    "reading_advice": "Най-големите битки са в ума ни. Освободи се. Повечето врагове, с които се бием, са въображаеми."
+  },
+  {
+    "reading_id": "seven_cups_six_wands",
+    "reading_name": "Седмица Чаши + Шестица Жезли",
+    "reading_cards": "Седмица Чаши + Шестица Жезли",
+    "reading_combination": ["seven_cups", "six_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Шестица Жезли – победа и признание. Мислите, че сте успели, но може да е илюзия. Проверете реалността – истинският успех е реален, не въображаем.",
+    "reading_description": "Мислиш, че си успял, но може да е илюзия. Провери реалността.",
+    "reading_advice": "Не се залъгвай. Истинският успех е реален. Свали розовите очила и виж нещата такива, каквито са."
+  },
+  {
+    "reading_id": "seven_cups_seven_wands",
+    "reading_name": "Седмица Чаши + Седмица Жезли",
+    "reading_cards": "Седмица Чаши + Седмица Жезли",
+    "reading_combination": ["seven_cups", "seven_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Седмица Жезли – защита на позицията. Защитавате се от илюзорни заплахи. Страховете ви не са реални. Истината е най-добрата защита.",
+    "reading_description": "Защитаваш се от илюзорни заплахи. Страховете ти не са реални.",
+    "reading_advice": "Истината е най-добрата защита. Освободи се от илюзиите и виж реалността."
+  },
+  {
+    "reading_id": "seven_cups_eight_wands",
+    "reading_name": "Седмица Чаши + Осмица Жезли",
+    "reading_cards": "Седмица Чаши + Осмица Жезли",
+    "reading_combination": ["seven_cups", "eight_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Осмица Жезли – бързина и движение. Илюзиите идват бързо и ви завладяват. Внимавайте да не изгубите реалността. Слез на земята, преди да е късно.",
+    "reading_description": "Илюзиите идват бързо и те завладяват. Внимавай да не изгубиш реалността.",
+    "reading_advice": "Слез на земята, преди да е късно. Бързината на илюзиите може да те отнесе."
+  },
+  {
+    "reading_id": "seven_cups_nine_wands",
+    "reading_name": "Седмица Чаши + Деветка Жезли",
+    "reading_cards": "Седмица Чаши + Деветка Жезли",
+    "reading_combination": ["seven_cups", "nine_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Деветка Жезли – устойчивост и изтощение. Живеенето в илюзии ви е изтощило. Време е да се сблъскате с реалността. Реалността може да е по-добра от фантазиите.",
+    "reading_description": "Живеенето в илюзии те е изтощило. Време е да се сблъскаш с реалността.",
+    "reading_advice": "Реалността може да е по-добра от фантазиите. Свали розовите очила и виж истината."
+  },
+  {
+    "reading_id": "seven_cups_ten_wands",
+    "reading_name": "Седмица Чаши + Десетка Жезли",
+    "reading_cards": "Седмица Чаши + Десетка Жезли",
+    "reading_combination": ["seven_cups", "ten_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Десетка Жезли – претоварване и бреме. Носите тежестта на нереалистични очаквания и илюзии. Освободете се от товара на нереалистичните мечти.",
+    "reading_description": "Носиш тежестта на нереалистични очаквания и илюзии.",
+    "reading_advice": "Свали товара на нереалистичните мечти. Истинският живот е по-лек."
+  },
+  {
+    "reading_id": "seven_cups_page_wands",
+    "reading_name": "Седмица Чаши + Паж Жезли",
+    "reading_cards": "Седмица Чаши + Паж Жезли",
+    "reading_combination": ["seven_cups", "page_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Паж Жезли – новини и ентусиазъм. Новината, която идва, може да е илюзорна. Проверете фактите, преди да се вълнувате. Не се залъгвайте.",
+    "reading_description": "Новината, която идва, може да е илюзорна. Провери фактите.",
+    "reading_advice": "Провери два пъти. Не се залъгвай с привидно добри новини."
+  },
+  {
+    "reading_id": "seven_cups_knight_wands",
+    "reading_name": "Седмица Чаши + Рицар Жезли",
+    "reading_cards": "Седмица Чаши + Рицар Жезли",
+    "reading_combination": ["seven_cups", "knight_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Рицар Жезли – импулсивност и бързина. Импулсивно действие, водено от илюзия, може да доведе до разочарование. Забавете и помислете – реално ли е това, което искате?",
+    "reading_description": "Импулсивно действие, водено от илюзия, може да доведе до разочарование.",
+    "reading_advice": "Забави. Преди да действаш, провери дали това, което искаш, е реално."
+  },
+  {
+    "reading_id": "seven_cups_queen_wands",
+    "reading_name": "Седмица Чаши + Царица Жезли",
+    "reading_cards": "Седмица Чаши + Царица Жезли",
+    "reading_combination": ["seven_cups", "queen_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Царица Жезли – увереност и харизма. Увереността ви може да ви заслепи за реалността. Бъдете уверени, но не позволявайте на егото да ви води по илюзорен път.",
+    "reading_description": "Увереността ти може да те заслепи за реалността.",
+    "reading_advice": "Бъди уверен, но не позволявай на егото да те води по илюзорен път. Проверявай реалността."
+  },
+  {
+    "reading_id": "seven_cups_king_wands",
+    "reading_name": "Седмица Чаши + Цар Жезли",
+    "reading_cards": "Седмица Чаши + Цар Жезли",
+    "reading_combination": ["seven_cups", "king_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Цар Жезли – лидерство и визия. Вашата визия може да е илюзорна. Уверете се, че мечтите ви са постижими. Истинският лидер гради върху реалност, не върху илюзии.",
+    "reading_description": "Визията ти може да е илюзорна. Увери се, че мечтите ти са постижими.",
+    "reading_advice": "Истинският лидер гради върху реалност, не върху илюзии. Провери дали визията ти е осъществима."
+  },
+  {
+    "reading_id": "seven_cups_ace_wands",
+    "reading_name": "Седмица Чаши + Асо Жезли",
+    "reading_cards": "Седмица Чаши + Асо Жезли",
+    "reading_combination": ["seven_cups", "ace_wands"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Асо Жезли – ново начало и вдъхновение. Нова идея, която може да е илюзорна. Проверете дали искрата, която ви води, е реална. Не се залъгвайте с фалшиво вдъхновение.",
+    "reading_description": "Нова идея, която може да е илюзорна. Провери дали искрата е реална.",
+    "reading_advice": "Не се залъгвай с фалшиво вдъхновение. Провери дали идеята ти е осъществима."
+  },
+  {
+    "reading_id": "seven_cups_ace_cups",
+    "reading_name": "Седмица Чаши + Асо Чаши",
+    "reading_cards": "Седмица Чаши + Асо Чаши",
+    "reading_combination": ["seven_cups", "ace_cups"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Асо Чаши – нови чувства и любов. Нова любов, която може да е илюзия. Влюбвате се в идея, не в човека. Свали розовите очила, преди да е късно.",
+    "reading_description": "Нова любов, която може да е илюзия. Влюбваш се в идея, не в човека.",
+    "reading_advice": "Свали розовите очила. Истинската любов е реална, не фантазия. Познай човека, не идеята за него."
+  },
+  {
+    "reading_id": "seven_cups_two_cups",
+    "reading_name": "Седмица Чаши + Двойка Чаши",
+    "reading_cards": "Седмица Чаши + Двойка Чаши",
+    "reading_combination": ["seven_cups", "two_cups"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Двойка Чаши – любов и връзка. Връзка, която може да е илюзорна. Идеализирате партньора или връзката. Свали розовите очила – вижте човека такъв, какъвто е.",
+    "reading_description": "Връзка, която може да е илюзорна. Идеализираш партньора.",
+    "reading_advice": "Свали розовите очила. Истинската любов приема човека такъв, какъвто е, не какъвто искаш да бъде."
+  },
+  {
+    "reading_id": "seven_cups_three_cups",
+    "reading_name": "Седмица Чаши + Тройка Чаши",
+    "reading_cards": "Седмица Чаши + Тройка Чаши",
+    "reading_combination": ["seven_cups", "three_cups"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Тройка Чаши – празник и радост. Празнувате нещо, което може да е илюзия. Радост, която може да е временна. Проверете дали празнувате истинско постижение.",
+    "reading_description": "Празнуваш нещо, което може да е илюзия. Провери дали е истинско.",
+    "reading_advice": "Провери дали това, което празнуваш, е реално. Не се залъгвай с илюзорна радост."
+  },
+  {
+    "reading_id": "seven_cups_four_cups",
+    "reading_name": "Седмица Чаши + Четворка Чаши",
+    "reading_cards": "Седмица Чаши + Четворка Чаши",
+    "reading_combination": ["seven_cups", "four_cups"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Четворка Чаши – апатия и неудовлетворение. Живеете в илюзия, че нещо ви липсва. Истинската радост може да е точно пред вас. Свали розовите очила.",
+    "reading_description": "Живееш в илюзия, че нещо ти липсва. Истинската радост може да е точно пред теб.",
+    "reading_advice": "Свали розовите очила. Погледни какво имаш – може да е повече, отколкото си мислиш."
+  },
+  {
+    "reading_id": "seven_cups_five_cups",
+    "reading_name": "Седмица Чаши + Петица Чаши",
+    "reading_cards": "Седмица Чаши + Петица Чаши",
+    "reading_combination": ["seven_cups", "five_cups"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Петица Чаши – загуба и тъга. Тъгата ви идва от илюзорна загуба. Може да скърбите за нещо, което никога не сте имали. Освободете се от илюзията.",
+    "reading_description": "Тъгата ти идва от илюзорна загуба. Скърбиш за нещо, което никога не си имал.",
+    "reading_advice": "Освободи се от илюзията. Не можеш да загубиш това, което никога не си имал."
+  },
+  {
+    "reading_id": "seven_cups_six_cups",
+    "reading_name": "Седмица Чаши + Шестица Чаши",
+    "reading_cards": "Седмица Чаши + Шестица Чаши",
+    "reading_combination": ["seven_cups", "six_cups"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Шестица Чаши – спомени и носталгия. Идеализирате миналото. Спомените не винаги са точни – не идеализирайте миналото. Живейте в настоящето.",
+    "reading_description": "Идеализираш миналото. Спомените не винаги са точни.",
+    "reading_advice": "Свали розовите очила. Миналото не е било толкова перфектно, колкото си спомняш. Живей в настоящето."
+  },
+  {
+    "reading_id": "seven_cups_seven_cups",
+    "reading_name": "Седмица Чаши + Седмица Чаши",
+    "reading_cards": "Седмица Чаши + Седмица Чаши",
+    "reading_combination": ["seven_cups", "seven_cups"],
+    "reading_meaning": "Седмица Чаши + Седмица Чаши – две седмици заедно. Двойни илюзии, двойни фантазии. Живеете в свят на мечти, който няма нищо общо с реалността. Време е да слезете на земята.",
+    "reading_description": "Двойни илюзии, двойни фантазии. Живееш в свят на мечти.",
+    "reading_advice": "Време е да слезеш на земята. Истинският живот е по-ценен от фантазиите."
+  },
+  {
+    "reading_id": "seven_cups_eight_cups",
+    "reading_name": "Седмица Чаши + Осмица Чаши",
+    "reading_cards": "Седмица Чаши + Осмица Чаши",
+    "reading_combination": ["seven_cups", "eight_cups"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Осмица Чаши – тръгване и оставяне. Решавате да оставите илюзиите зад гърба си и да тръгнете към реалността. Смела стъпка към истината.",
+    "reading_description": "Решаваш да оставиш илюзиите и да тръгнеш към реалността.",
+    "reading_advice": "Тръгни смело. Истината е по-ценна от фантазията. Реалността те очаква."
+  },
+  {
+    "reading_id": "seven_cups_nine_cups",
+    "reading_name": "Седмица Чаши + Деветка Чаши",
+    "reading_cards": "Седмица Чаши + Деветка Чаши",
+    "reading_combination": ["seven_cups", "nine_cups"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Деветка Чаши – сбъднато желание. Мечтата ви се сбъдва, но може да не е такава, каквато сте си я представяли. Реалността често е различна от фантазията.",
+    "reading_description": "Мечтата ти се сбъдва, но може да не е такава, каквато си я представял.",
+    "reading_advice": "Приеми реалността. Тя може да е различна от фантазията, но не по-малко ценна."
+  },
+  {
+    "reading_id": "seven_cups_ten_cups",
+    "reading_name": "Седмица Чаши + Десетка Чаши",
+    "reading_cards": "Седмица Чаши + Десетка Чаши",
+    "reading_combination": ["seven_cups", "ten_cups"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Десетка Чаши – семейно щастие. Илюзорни представи за семейното щастие. Истинското семейно щастие не е в идеалната картина – то е в реалните моменти.",
+    "reading_description": "Илюзорни представи за семейното щастие.",
+    "reading_advice": "Свали розовите очила. Истинското семейно щастие не е в идеалната картина – то е в реалните моменти."
+  },
+  {
+    "reading_id": "seven_cups_page_cups",
+    "reading_name": "Седмица Чаши + Паж Чаши",
+    "reading_cards": "Седмица Чаши + Паж Чаши",
+    "reading_combination": ["seven_cups", "page_cups"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Паж Чаши – емоционално послание. Посланието, което идва, може да е илюзорно. Проверете фактите, преди да се вълнувате. Не се залъгвайте.",
+    "reading_description": "Посланието, което идва, може да е илюзорно. Провери фактите.",
+    "reading_advice": "Провери два пъти. Не се залъгвай с привидно добро послание."
+  },
+  {
+    "reading_id": "seven_cups_knight_cups",
+    "reading_name": "Седмица Чаши + Рицар Чаши",
+    "reading_cards": "Седмица Чаши + Рицар Чаши",
+    "reading_combination": ["seven_cups", "knight_cups"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Рицар Чаши – романтика и ухажване. Романтичен жест, който може да е илюзия. Рицарят може да не е толкова искрен, колкото изглежда. Проверете намеренията.",
+    "reading_description": "Романтичен жест, който може да е илюзия. Провери намеренията.",
+    "reading_advice": "Не се залъгвай от привидна романтика. Провери дали чувствата са истински."
+  },
+  {
+    "reading_id": "seven_cups_queen_cups",
+    "reading_name": "Седмица Чаши + Царица Чаши",
+    "reading_cards": "Седмица Чаши + Царица Чаши",
+    "reading_combination": ["seven_cups", "queen_cups"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Царица Чаши – интуиция и емпатия. Интуицията ви подсказва, че нещо не е наред с илюзиите ви. Слушайте вътрешния си глас – той различава истината от фантазията.",
+    "reading_description": "Интуицията ти подсказва, че нещо не е наред с илюзиите ти.",
+    "reading_advice": "Довери се на интуицията си. Тя различава истината от фантазията."
+  },
+  {
+    "reading_id": "seven_cups_king_cups",
+    "reading_name": "Седмица Чаши + Цар Чаши",
+    "reading_cards": "Седмица Чаши + Цар Чаши",
+    "reading_combination": ["seven_cups", "king_cups"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Цар Чаши – емоционална зрялост и баланс. Емоционалната зрялост ви помага да различите илюзията от реалността. Бъдете мъдри – не позволявайте на фантазиите да ви завладеят.",
+    "reading_description": "Емоционалната зрялост ти помага да различиш илюзията от реалността.",
+    "reading_advice": "Бъди мъдър. Не позволявай на фантазиите да те завладеят. Истината е по-ценна."
+  },
+  {
+    "reading_id": "seven_cups_two_swords",
+    "reading_name": "Седмица Чаши + Двойка Мечове",
+    "reading_cards": "Седмица Чаши + Двойка Мечове",
+    "reading_combination": ["seven_cups", "two_swords"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Двойка Мечове – нерешителност и съмнение. Илюзиите ви карат да се съмнявате във всичко. Свалете превръзката – истината ще ви освободи от съмненията.",
+    "reading_description": "Илюзиите те карат да се съмняваш във всичко.",
+    "reading_advice": "Свали превръзката. Истината ще те освободи от съмненията."
+  },
+  {
+    "reading_id": "seven_cups_three_swords",
+    "reading_name": "Седмица Чаши + Тройка Мечове",
+    "reading_cards": "Седмица Чаши + Тройка Мечове",
+    "reading_combination": ["seven_cups", "three_swords"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Тройка Мечове – болка и разбито сърце. Илюзорната любов ви носи болка. Разбито сърце от нещо, което никога не е било реално. Време е да приемете истината.",
+    "reading_description": "Илюзорната любов ти носи болка. Скърбиш за нещо, което никога не е било реално.",
+    "reading_advice": "Приеми истината. Болката от илюзията е реална, но илюзията не е. Освободи се."
+  },
+    {
+    "reading_id": "seven_cups_four_swords",
+    "reading_name": "Седмица Чаши + Четворка Мечове",
+    "reading_cards": "Седмица Чаши + Четворка Мечове",
+    "reading_combination": ["seven_cups", "four_swords"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Четворка Мечове – почивка и уединение. Имате нужда от почивка, за да се отърсите от илюзиите. Уединението може да ви помогне да намерите истината.",
+    "reading_description": "Имаш нужда от почивка, за да се отърсиш от илюзиите.",
+    "reading_advice": "Почини си. Уединението може да ти помогне да намериш истината и да се върнеш към реалността."
+  },
+  {
+    "reading_id": "seven_cups_five_swords",
+    "reading_name": "Седмица Чаши + Петица Мечове",
+    "reading_cards": "Седмица Чаши + Петица Мечове",
+    "reading_combination": ["seven_cups", "five_swords"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Петица Мечове – конфликт и празна победа. Битката, която водите, е с илюзорен враг. Дори да спечелите, победата ще е празна. Освободете се от илюзията.",
+    "reading_description": "Битката, която водиш, е с илюзорен враг. Дори да спечелиш, победата ще е празна.",
+    "reading_advice": "Освободи се от илюзията. Най-големите битки са в ума ни. Престани да се биеш с въображаеми врагове."
+  },
+  {
+    "reading_id": "seven_cups_six_swords",
+    "reading_name": "Седмица Чаши + Шестица Мечове",
+    "reading_cards": "Седмица Чаши + Шестица Мечове",
+    "reading_combination": ["seven_cups", "six_swords"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Шестица Мечове – пътуване и преход. Пътуването ви помага да оставите илюзиите зад гърба си. Новите води носят нова перспектива и истина.",
+    "reading_description": "Пътуването ти помага да оставиш илюзиите зад гърба си.",
+    "reading_advice": "Тръгни. Новите води носят нова перспектива и истина. Остави илюзиите на старите места."
+  },
+  {
+    "reading_id": "seven_cups_seven_swords",
+    "reading_name": "Седмица Чаши + Седмица Мечове",
+    "reading_cards": "Седмица Чаши + Седмица Мечове",
+    "reading_combination": ["seven_cups", "seven_swords"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Седмица Мечове – измама и хитрост. Внимавайте – някой може да се възползва от илюзиите ви, за да ви измами. Някой не играе честно. Пазите се.",
+    "reading_description": "Някой може да се възползва от илюзиите ти, за да те измами.",
+    "reading_advice": "Пази се. Не всички играят честно. Проверявай фактите и не се доверявай сляпо."
+  },
+  {
+    "reading_id": "seven_cups_eight_swords",
+    "reading_name": "Седмица Чаши + Осмица Мечове",
+    "reading_cards": "Седмица Чаши + Осмица Мечове",
+    "reading_combination": ["seven_cups", "eight_swords"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Осмица Мечове – чувство на капан и ограничение. Илюзиите ви държат в капан. Чувствате се блокирани, но оковите са в главата ви. Освободете се.",
+    "reading_description": "Илюзиите те държат в капан. Чувстваш се блокиран.",
+    "reading_advice": "Оковите са в главата ти. Освободи се от илюзиите – имаш повече възможности, отколкото си мислиш."
+  },
+  {
+    "reading_id": "seven_cups_nine_swords",
+    "reading_name": "Седмица Чаши + Деветка Мечове",
+    "reading_cards": "Седмица Чаши + Деветка Мечове",
+    "reading_combination": ["seven_cups", "nine_swords"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Деветка Мечове – тревога и безсъние. Илюзиите ви причиняват безсъние и тревожни мисли. Страховете ви са илюзорни – не позволявайте на фантазиите да крадат съня ви.",
+    "reading_description": "Илюзиите ти причиняват безсъние и тревожни мисли.",
+    "reading_advice": "Спокойствие. Страховете ти са илюзорни – не позволявай на фантазиите да крадат съня ти. Довери се на реалността."
+  },
+  {
+    "reading_id": "seven_cups_ten_swords",
+    "reading_name": "Седмица Чаши + Десетка Мечове",
+    "reading_cards": "Седмица Чаши + Десетка Мечове",
+    "reading_combination": ["seven_cups", "ten_swords"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Десетка Мечове – край и дъно. Периодът на илюзии приключва. Краят носи освобождение. След дъното идва реалността и ново начало.",
+    "reading_description": "Периодът на илюзии приключва. Краят носи освобождение.",
+    "reading_advice": "Остави илюзиите зад гърба си. Това, което е свършило, вече не тежи. Реалността те очаква."
+  },
+  {
+    "reading_id": "seven_cups_page_swords",
+    "reading_name": "Седмица Чаши + Паж Мечове",
+    "reading_cards": "Седмица Чаши + Паж Мечове",
+    "reading_combination": ["seven_cups", "page_swords"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Паж Мечове – търсене на истината. Истината за илюзиите ви излиза наяве. Любопитството ви води към открития. Бъдете отворени за истината.",
+    "reading_description": "Истината за илюзиите ти излиза наяве. Бъди отворен.",
+    "reading_advice": "Търси истината. Тя може да боли, но винаги лекува. Отвори се за прозренията, които идват."
+  },
+  {
+    "reading_id": "seven_cups_knight_swords",
+    "reading_name": "Седмица Чаши + Рицар Мечове",
+    "reading_cards": "Седмица Чаши + Рицар Мечове",
+    "reading_combination": ["seven_cups", "knight_swords"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Рицар Мечове – бързина и прямота. Истината за илюзиите ви идва бързо и рязко. Бъдете готови да я приемете. Прозрението ще ви освободи.",
+    "reading_description": "Истината за илюзиите ти идва бързо и рязко. Бъди готов.",
+    "reading_advice": "Приеми истината с отворено сърце. Тя може да е рязка, но ще те освободи от илюзиите."
+  },
+  {
+    "reading_id": "seven_cups_queen_swords",
+    "reading_name": "Седмица Чаши + Царица Мечове",
+    "reading_cards": "Седмица Чаши + Царица Мечове",
+    "reading_combination": ["seven_cups", "queen_swords"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Царица Мечове – яснота и независимост. Виждате илюзиите си ясно, без да се залъгвате. Яснотата, колкото и да е сурова, е първата стъпка към свободата.",
+    "reading_description": "Виждаш илюзиите си ясно, без да се залъгваш.",
+    "reading_advice": "Бъди честен със себе си. Яснотата, колкото и да е сурова, води към свобода от илюзиите."
+  },
+  {
+    "reading_id": "seven_cups_king_swords",
+    "reading_name": "Седмица Чаши + Цар Мечове",
+    "reading_cards": "Седмица Чаши + Цар Мечове",
+    "reading_combination": ["seven_cups", "king_swords"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Цар Мечове – интелект и стратегия. С логика и анализ можете да разберете кои от мечтите ви са реални и кои илюзорни. Използвайте ума си, за да различите истината.",
+    "reading_description": "С логика и анализ можеш да разбереш кои мечти са реални.",
+    "reading_advice": "Използвай ума си. Анализът може да ти помогне да различиш истината от фантазията."
+  },
+  {
+    "reading_id": "seven_cups_two_pentacles",
+    "reading_name": "Седмица Чаши + Двойка Пентакли",
+    "reading_cards": "Седмица Чаши + Двойка Пентакли",
+    "reading_combination": ["seven_cups", "two_pentacles"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Двойка Пентакли – баланс и жонглиране. Опитвате се да балансирате илюзиите с реалността. Жонглирайте внимателно – не изпускайте истината.",
+    "reading_description": "Опитваш се да балансираш илюзиите с реалността.",
+    "reading_advice": "Балансирай, но не изпускай истината. Илюзиите са привлекателни, но реалността е по-ценна."
+  },
+  {
+    "reading_id": "seven_cups_three_pentacles",
+    "reading_name": "Седмица Чаши + Тройка Пентакли",
+    "reading_cards": "Седмица Чаши + Тройка Пентакли",
+    "reading_combination": ["seven_cups", "three_pentacles"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Тройка Пентакли – екипна работа и сътрудничество. В екипа има нереалистични очаквания. Свалете розовите очила и погледнете реалността. Заедно можете да постигнете реални цели.",
+    "reading_description": "В екипа има нереалистични очаквания. Свалете розовите очила.",
+    "reading_advice": "Погледнете реалността. Заедно можете да постигнете реални цели, ако спрете да мечтаете за невъзможното."
+  },
+  {
+    "reading_id": "seven_cups_four_pentacles",
+    "reading_name": "Седмица Чаши + Четворка Пентакли",
+    "reading_cards": "Седмица Чаши + Четворка Пентакли",
+    "reading_combination": ["seven_cups", "four_pentacles"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Четворка Пентакли – сигурност и стискане. Живеете в илюзия, че стискането ще ви донесе сигурност. Истинската сигурност идва отвътре, не от това, което стискате.",
+    "reading_description": "Живееш в илюзия, че стискането ще ти донесе сигурност.",
+    "reading_advice": "Свали розовите очила. Истинската сигурност идва отвътре, не от това, което стискаш."
+  },
+  {
+    "reading_id": "seven_cups_five_pentacles",
+    "reading_name": "Седмица Чаши + Петица Пентакли",
+    "reading_cards": "Седмица Чаши + Петица Пентакли",
+    "reading_combination": ["seven_cups", "five_pentacles"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Петица Пентакли – финансови трудности и липса. Илюзиите ви за пари може да ви държат в бедност. Свали розовите очила и погледни реалността на финансите си.",
+    "reading_description": "Илюзиите ти за пари може да те държат в бедност.",
+    "reading_advice": "Погледни реалността на финансите си. Истината може да е трудна, но само тя може да те изведе от липсата."
+  },
+  {
+    "reading_id": "seven_cups_six_pentacles",
+    "reading_name": "Седмица Чаши + Шестица Пентакли",
+    "reading_cards": "Седмица Чаши + Шестица Пентакли",
+    "reading_combination": ["seven_cups", "six_pentacles"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Шестица Пентакли – помощ и щедрост. Някой предлага помощ, но може да не е искрен. Проверете намеренията, преди да приемете. Не всяка предложена помощ е искрена.",
+    "reading_description": "Някой предлага помощ, но може да не е искрен. Провери намеренията.",
+    "reading_advice": "Провери два пъти. Не всяка предложена помощ е искрена. Някои илюзии са опасни."
+  },
+  {
+    "reading_id": "seven_cups_seven_pentacles",
+    "reading_name": "Седмица Чаши + Седмица Пентакли",
+    "reading_cards": "Седмица Чаши + Седмица Пентакли",
+    "reading_combination": ["seven_cups", "seven_pentacles"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Седмица Пентакли – търпение и чакане. Чакате нещо, което вероятно е илюзия. Инвестирали сте време и надежда в нещо нереално. Проверете дали чакането си струва.",
+    "reading_description": "Чакаш нещо, което вероятно е илюзия. Провери дали чакането си струва.",
+    "reading_advice": "Провери дали това, което чакаш, е реално. Не инвестирай време в илюзии."
+  },
+  {
+    "reading_id": "seven_cups_eight_pentacles",
+    "reading_name": "Седмица Чаши + Осмица Пентакли",
+    "reading_cards": "Седмица Чаши + Осмица Пентакли",
+    "reading_combination": ["seven_cups", "eight_pentacles"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Осмица Пентакли – усърдие и учене. Ученето може да ви помогне да различите илюзията от реалността. Вложете енергия в усвояване на нови умения, които да ви заземят.",
+    "reading_description": "Ученето може да ти помогне да различиш илюзията от реалността.",
+    "reading_advice": "Учи се. Новото знание ще ти помогне да видиш нещата такива, каквито са – без илюзии."
+  },
+  {
+    "reading_id": "seven_cups_nine_pentacles",
+    "reading_name": "Седмица Чаши + Деветка Пентакли",
+    "reading_cards": "Седмица Чаши + Деветка Пентакли",
+    "reading_combination": ["seven_cups", "nine_pentacles"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Деветка Пентакли – самодостатъчност и успех. Мислите, че имате всичко, но може да е илюзия. Проверете дали успехът ви е реален, или само във фантазиите ви.",
+    "reading_description": "Мислиш, че имаш всичко, но може да е илюзия. Провери дали успехът е реален.",
+    "reading_advice": "Свали розовите очила. Истинският успех е реален. Провери дали това, което имаш, е истинско."
+  },
+  {
+    "reading_id": "seven_cups_ten_pentacles",
+    "reading_name": "Седмица Чаши + Десетка Пентакли",
+    "reading_cards": "Седмица Чаши + Десетка Пентакли",
+    "reading_combination": ["seven_cups", "ten_pentacles"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Десетка Пентакли – семейно наследство и богатство. Илюзорни представи за семейното богатство. Проверете реалността. Истинското богатство на семейството е любовта, не парите.",
+    "reading_description": "Илюзорни представи за семейното богатство. Провери реалността.",
+    "reading_advice": "Свали розовите очила. Истинското богатство на семейството е любовта, не парите."
+  },
+  {
+    "reading_id": "seven_cups_page_pentacles",
+    "reading_name": "Седмица Чаши + Паж Пентакли",
+    "reading_cards": "Седмица Чаши + Паж Пентакли",
+    "reading_combination": ["seven_cups", "page_pentacles"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Паж Пентакли – нова възможност и учене. Нова финансова възможност, която може да е илюзия. Проверете фактите, преди да инвестирате. Не се залъгвайте с привидно добри оферти.",
+    "reading_description": "Нова финансова възможност, която може да е илюзия. Провери фактите.",
+    "reading_advice": "Провери два пъти. Не се залъгвай с привидно добри оферти. Истинските възможности са реални."
+  },
+  {
+    "reading_id": "seven_cups_knight_pentacles",
+    "reading_name": "Седмица Чаши + Рицар Пентакли",
+    "reading_cards": "Седмица Чаши + Рицар Пентакли",
+    "reading_combination": ["seven_cups", "knight_pentacles"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Рицар Пентакли – бавен и сигурен напредък. Илюзиите ви карат да очаквате бързи резултати. Реалността изисква търпение. Бавно, но сигурно – не се залъгвай.",
+    "reading_description": "Илюзиите те карат да очакваш бързи резултати. Реалността изисква търпение.",
+    "reading_advice": "Не бързай. Бавното и сигурно е реално. Бързите резултати често са илюзия."
+  },
+  {
+    "reading_id": "seven_cups_queen_pentacles",
+    "reading_name": "Седмица Чаши + Царица Пентакли",
+    "reading_cards": "Седмица Чаши + Царица Пентакли",
+    "reading_combination": ["seven_cups", "queen_pentacles"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Царица Пентакли – грижа и дом. Илюзорни представи за дома или семейството. Свали розовите очила – грижата изисква реалност, не фантазии. Грижи се за това, което имаш.",
+    "reading_description": "Илюзорни представи за дома или семейството. Свали розовите очила.",
+    "reading_advice": "Бъди реалист. Грижата изисква реалност, не фантазии. Грижи се за това, което имаш, а не за това, което искаш да имаш."
+  },
+  {
+    "reading_id": "seven_cups_king_pentacles",
+    "reading_name": "Седмица Чаши + Цар Пентакли",
+    "reading_cards": "Седмица Чаши + Цар Пентакли",
+    "reading_combination": ["seven_cups", "king_pentacles"],
+    "reading_meaning": "Седмица Чаши носи илюзии и фантазии, а Цар Пентакли – стабилност и успех. Илюзорни представи за успеха. Свали розовите очила – истинският успех се гради на реалност, не на фантазии. Бъди реалист.",
+    "reading_description": "Илюзорни представи за успеха. Свали розовите очила.",
+    "reading_advice": "Бъди реалист. Истинският успех се гради на реалност, не на фантазии. Гради стабилно и сигурно."
+  },
+  
+[
+  {
+    "reading_id": "ace_wands_two_wands",
+    "reading_name": "Асо Жезли + Двойка Жезли",
+    "reading_cards": "Асо Жезли + Двойка Жезли",
+    "reading_combination": ["ace_wands", "two_wands"],
+    "reading_meaning": "Нова искра пред избор",
+    "second_meaning": "Асо Жезли носи ново начало и вдъхновение, а Двойка Жезли – избор и планиране. Заедно показват, че имате енергията да започнете нещо ново, но все още се колебаете в коя посока. Това е момент на потенциал – искрата е запалена, сега трябва да изберете накъде да я насочите.",
+    "reading_description": "Нова идея или проект ви вълнува, но все още не сте сигурни как точно да го реализирате. Предстои важен избор, който ще определи пътя напред.",
+    "reading_advice": "Не се страхувайте да изберете – всяка посока е по-добра от липсата на такава. Доверете се на първоначалния си ентусиазъм."
+  },
+  {
+    "reading_id": "ace_wands_three_wands",
+    "reading_name": "Асо Жезли + Тройка Жезли",
+    "reading_cards": "Асо Жезли + Тройка Жезли",
+    "reading_combination": ["ace_wands", "three_wands"],
+    "reading_meaning": "Начало и очакване",
+    "second_meaning": "Асо Жезли символизира старта и вдъхновението, а Тройка Жезли – търпеливото очакване на плодовете. Посяли сте семето на нещо ново и сега трябва да изчакате то да покълне. Енергията ви е насочена правилно, но резултатите ще дойдат с времето.",
+    "reading_description": "Започнали сте нов проект и сега чакате първите резултати. Нетърпението е голямо, но трябва да проявите търпение.",
+    "reading_advice": "Бъдете търпеливи – добрите неща идват при тези, които умеят да чакат, докато продължават да работят."
+  },
+  {
+    "reading_id": "ace_wands_four_wands",
+    "reading_name": "Асо Жезли + Четворка Жезли",
+    "reading_cards": "Асо Жезли + Четворка Жезли",
+    "reading_combination": ["ace_wands", "four_wands"],
+    "reading_meaning": "Ново начало с празник",
+    "second_meaning": "Асо Жезли носи искрата на новото начало, а Четворка Жезли – празника и завръщането у дома. Заедно предвещават радостно събитие, свързано с нов старт – нова работа, преместване или важен етап. Ентусиазмът ви ще бъде споделен от близките.",
+    "reading_description": "Предстои нещо ново, което носи радост и повод за празнуване. Очаквайте щастливи събития и подкрепа от семейството.",
+    "reading_advice": "Празнувайте малките победи – те са стъпалата към големия успех. Споделете радостта си с близките."
+  },
+  {
+    "reading_id": "ace_wands_five_wands",
+    "reading_name": "Асо Жезли + Петица Жезли",
+    "reading_cards": "Асо Жезли + Петица Жезли",
+    "reading_combination": ["ace_wands", "five_wands"],
+    "reading_meaning": "Конкурентно начало",
+    "second_meaning": "Асо Жезли носи нова идея, а Петица Жезли – конфликт и съперничество. Още в началото срещате конкуренция или съпротива. Това може да ви обезкуражи, но е знак, че сте на прав път – значимите неща винаги предизвикват реакция.",
+    "reading_description": "Новото ви начинание среща съпротива още в зародиш. Конкуренция, спорове или хора, които не подкрепят идеята ви.",
+    "reading_advice": "Не се отказвайте при първото препятствие. Конкуренцията означава, че идеята ви има стойност."
+  },
+  {
+    "reading_id": "ace_wands_six_wands",
+    "reading_name": "Асо Жезли + Шестица Жезли",
+    "reading_cards": "Асо Жезли + Шестица Жезли",
+    "reading_combination": ["ace_wands", "six_wands"],
+    "reading_meaning": "Победно начало",
+    "second_meaning": "Асо Жезли символизира старта, а Шестица Жезли – победата и признанието. Новото ви начинание ще има успех още от самото начало. Вашият ентусиазъм и увереност ще бъдат забелязани и оценени.",
+    "reading_description": "Новият ви проект получава признание и успех още в началото. Всички виждат вашия талант и енергия.",
+    "reading_advice": "Наслаждавайте се на успеха, но не спирайте да работите. Първата победа е само началото."
+  },
+  {
+    "reading_id": "ace_wands_seven_wands",
+    "reading_name": "Асо Жезли + Седмица Жезли",
+    "reading_cards": "Асо Жезли + Седмица Жезли",
+    "reading_combination": ["ace_wands", "seven_wands"],
+    "reading_meaning": "Защита на идеята",
+    "second_meaning": "Асо Жезли носи вдъхновението, а Седмица Жезли – защитата на позицията. Още в началото трябва да отстоявате новата си идея пред критици. Това е изпитание на вашата увереност.",
+    "reading_description": "Новата ви идея се сблъсква с критики и съпротива. Трябва да защитавате позицията си.",
+    "reading_advice": "Не се огъвайте пред първата съпротива. Убедеността ви ще спечели."
+  },
+  {
+    "reading_id": "ace_wands_eight_wands",
+    "reading_name": "Асо Жезли + Осмица Жезли",
+    "reading_cards": "Асо Жезли + Осмица Жезли",
+    "reading_combination": ["ace_wands", "eight_wands"],
+    "reading_meaning": "Бърз старт",
+    "second_meaning": "Асо Жезли носи искрата, а Осмица Жезли – бързината и движението. Всичко се случва светкавично – идеята се ражда и веднага започва да се развива. Няма време за колебание.",
+    "reading_description": "Новата ви идея или проект се развива с неочаквана скорост. Трябва да действате бързо, за да не изпуснете вълната.",
+    "reading_advice": "Хванете вълната на скоростта. Действайте сега, без да се бавите."
+  },
+  {
+    "reading_id": "ace_wands_nine_wands",
+    "reading_name": "Асо Жезли + Деветка Жезли",
+    "reading_cards": "Асо Жезли + Деветка Жезли",
+    "reading_combination": ["ace_wands", "nine_wands"],
+    "reading_meaning": "Упорито начало",
+    "second_meaning": "Асо Жезли носи ентусиазма, а Деветка Жезли – устойчивостта и последната линия на отбрана. Началото е трудно и изисква много усилия. Чувствате се изтощени, но не се отказвайте – краят на усилията наближава.",
+    "reading_description": "Стартът е труден и изисква много енергия. Чувствате се изтощени, но трябва да издържите.",
+    "reading_advice": "Дръжте се още малко. Финалната права е точно зад ъгъла."
+  },
+  {
+    "reading_id": "ace_wands_ten_wands",
+    "reading_name": "Асо Жезли + Десетка Жезли",
+    "reading_cards": "Асо Жезли + Десетка Жезли",
+    "reading_combination": ["ace_wands", "ten_wands"],
+    "reading_meaning": "Претоварен старт",
+    "second_meaning": "Асо Жезли носи ентусиазъм, а Десетка Жезли – претоварване и бреме. Поемате твърде много отговорности твърде рано. Ентусиазмът ви води до прегаряне, ако не забавите темпото.",
+    "reading_description": "Започвате с ентусиазъм, но бързо се претоварвате. Поемате твърде много отговорности.",
+    "reading_advice": "Забавете темпото. Никой не може да носи всичко сам. Потърсете помощ."
+  },
+  {
+    "reading_id": "ace_wands_page_wands",
+    "reading_name": "Асо Жезли + Паж Жезли",
+    "reading_cards": "Асо Жезли + Паж Жезли",
+    "reading_combination": ["ace_wands", "page_wands"],
+    "reading_meaning": "Свежа енергия и новини",
+    "second_meaning": "Асо Жезли носи искрата на новото начало, а Паж Жезли – ентусиазма и свежите новини. Заедно предвещават вълнуващо послание, свързано с нов проект или идея. Вашата енергия е заразителна.",
+    "reading_description": "Получавате вълнуваща новина, свързана с ново начало. Ентусиазмът ви е на върха.",
+    "reading_advice": "Споделете ентусиазма си с другите. Вашата енергия е заразителна и може да привлече подкрепа."
+  },
+  {
+    "reading_id": "ace_wands_knight_wands",
+    "reading_name": "Асо Жезли + Рицар Жезли",
+    "reading_cards": "Асо Жезли + Рицар Жезли",
+    "reading_combination": ["ace_wands", "knight_wands"],
+    "reading_meaning": "Стремителен старт",
+    "second_meaning": "Асо Жезли носи новото начало, а Рицар Жезли – импулсивността и бързото действие. Заедно създават експлозивна комбинация – идеята се ражда и веднага се втурвате да я реализирате с пълна сила. Внимавайте да не прегазите другите.",
+    "reading_description": "Новата идея ви кара да действате светкавично. Имате неудържима енергия и желание за движение.",
+    "reading_advice": "Действайте бързо, но не забравяйте за хората около вас. Страстта е добра, но не трябва да прегазва."
+  },
+  {
+    "reading_id": "ace_wands_queen_wands",
+    "reading_name": "Асо Жезли + Царица Жезли",
+    "reading_cards": "Асо Жезли + Царица Жезли",
+    "reading_combination": ["ace_wands", "queen_wands"],
+    "reading_meaning": "Уверен старт",
+    "second_meaning": "Асо Жезли носи искрата, а Царица Жезли – увереността и харизмата. Започвате нещо ново с голяма самоувереност. Вашата топлина и увереност привличат хората към вас и вашата идея.",
+    "reading_description": "Започвате нов проект с увереност и харизма. Хората се вдъхновяват от вашата енергия.",
+    "reading_advice": "Бъдете себе си – топло и уверено. Вашата светлина вдъхновява другите да ви последват."
+  },
+  {
+    "reading_id": "ace_wands_king_wands",
+    "reading_name": "Асо Жезли + Цар Жезли",
+    "reading_cards": "Асо Жезли + Цар Жезли",
+    "reading_combination": ["ace_wands", "king_wands"],
+    "reading_meaning": "Лидерски старт",
+    "second_meaning": "Асо Жезли носи новото начало, а Цар Жезли – лидерството и визията. Започвате нещо ново с ясна визия и авторитет. Имате всички качества да поведете другите и да реализирате идеята си.",
+    "reading_description": "Започвате нов проект с ясна визия и лидерска позиция. Имате авторитета да водите другите.",
+    "reading_advice": "Поемете лидерството. Имате визията и силата да я осъществите. Водете с пример."
+  },
+  {
+    "reading_id": "ace_wands_two_cups",
+    "reading_name": "Асо Жезли + Двойка Чаши",
+    "reading_cards": "Асо Жезли + Двойка Чаши",
+    "reading_combination": ["ace_wands", "two_cups"],
+    "reading_meaning": "Страст и любов",
+    "second_meaning": "Асо Жезли носи страстта и енергията, а Двойка Чаши – любовта и взаимното привличане. Огън и вода се срещат – страстна и интензивна любовна връзка. Химията между вас е силна и неудържима.",
+    "reading_description": "Нова любовна връзка с много страст и енергия. Химията между вас е неудържима.",
+    "reading_advice": "Наслаждавайте се на страстта, но не забравяйте и за емоционалната връзка. Огънят се нуждае от вода, за да не изгори."
+  },
+  {
+    "reading_id": "ace_wands_three_cups",
+    "reading_name": "Асо Жезли + Тройка Чаши",
+    "reading_cards": "Асо Жезли + Тройка Чаши",
+    "reading_combination": ["ace_wands", "three_cups"],
+    "reading_meaning": "Празнична страст",
+    "second_meaning": "Асо Жезли носи енергията, а Тройка Чаши – празника и радостта. Нова страст или проект идва с много поводи за празнуване. Вашият ентусиазъм е заразителен и събира хора около вас.",
+    "reading_description": "Нов проект или страст носи много радост и поводи за празнуване. Енергията ви е заразителна.",
+    "reading_advice": "Празнувайте всеки успех, дори малкия. Радостта, споделена с други, е двойна радост."
+  },
+  {
+    "reading_id": "ace_wands_four_cups",
+    "reading_name": "Асо Жезли + Четворка Чаши",
+    "reading_cards": "Асо Жезли + Четворка Чаши",
+    "reading_combination": ["ace_wands", "four_cups"],
+    "reading_meaning": "Пропусната възможност",
+    "second_meaning": "Асо Жезли носи нова възможност, а Четворка Чаши – апатията и неудовлетворението. Нова възможност се появява, но вие сте твърде заети със себе си, за да я забележите. Рискувате да пропуснете нещо ценно.",
+    "reading_description": "Нова възможност се появява, но вие не я забелязвате. Твърде сте заети със себе си.",
+    "reading_advice": "Вдигнете поглед. Може да пропускате нещо важно, което е точно пред вас."
+  },
+  {
+    "reading_id": "ace_wands_five_cups",
+    "reading_name": "Асо Жезли + Петица Чаши",
+    "reading_cards": "Асо Жезли + Петица Чаши",
+    "reading_combination": ["ace_wands", "five_cups"],
+    "reading_meaning": "Ново начало след загуба",
+    "second_meaning": "Асо Жезли носи новото начало, а Петица Чаши – тъгата и загубата. След период на скръб или разочарование идва нова надежда. Светлината се появява след тъмнината.",
+    "reading_description": "Нова страст или проект се появява след период на тъга и загуба. Светлина след мрак.",
+    "reading_advice": "Дори в скръбта има място за ново начало. Позволете си да се отворите към надеждата."
+  },
+  {
+    "reading_id": "ace_wands_six_cups",
+    "reading_name": "Асо Жезли + Шестица Чаши",
+    "reading_cards": "Асо Жезли + Шестица Чаши",
+    "reading_combination": ["ace_wands", "six_cups"],
+    "reading_meaning": "Носталгична страст",
+    "second_meaning": "Асо Жезли носи новото, а Шестица Чаши – спомените и носталгията. Новият проект или страст ви напомня за нещо от миналото. Усещате позната топлина и вдъхновение от стари спомени.",
+    "reading_description": "Нов проект или страст ви напомня за нещо от миналото. Носталгия и ново начало.",
+    "reading_advice": "Използвайте миналото като вдъхновение, но не позволявайте то да ви държи в капан. Творете новото с опита на старото."
+  },
+  {
+    "reading_id": "ace_wands_seven_cups",
+    "reading_name": "Асо Жезли + Седмица Чаши",
+    "reading_cards": "Асо Жезли + Седмица Чаши",
+    "reading_combination": ["ace_wands", "seven_cups"],
+    "reading_meaning": "Много възможности",
+    "second_meaning": "Асо Жезли носи нова енергия, а Седмица Чаши – множество избори и илюзии. Имате много възможности, но не всички са реални. Трудно е да изберете накъде да насочите енергията си.",
+    "reading_description": "Нова страст и много възможности едновременно. Трудно е да изберете посока.",
+    "reading_advice": "Изберете една възможност и ѝ се посветете. Не се разпилявайте в илюзии."
+  },
+  {
+    "reading_id": "ace_wands_eight_cups",
+    "reading_name": "Асо Жезли + Осмица Чаши",
+    "reading_cards": "Асо Жезли + Осмица Чаши",
+    "reading_combination": ["ace_wands", "eight_cups"],
+    "reading_meaning": "Тръгване с нов проект",
+    "second_meaning": "Асо Жезли носи новото начало, а Осмица Чаши – тръгването и оставянето. Започвате нов проект, което означава да оставите нещо старо зад гърба си. Пътят към новото изисква освобождаване.",
+    "reading_description": "Започвате нов проект и оставяте старото зад гърба си. Път към новото.",
+    "reading_advice": "Тръгнете смело. Старото вече не ви служи. Новият път ви очаква."
+  },
+  {
+    "reading_id": "ace_wands_nine_cups",
+    "reading_name": "Асо Жезли + Деветка Чаши",
+    "reading_cards": "Асо Жезли + Деветка Чаши",
+    "reading_combination": ["ace_wands", "nine_cups"],
+    "reading_meaning": "Сбъдната мечта",
+    "second_meaning": "Асо Жезли носи енергията, а Деветка Чаши – сбъднатото желание. Новият ви проект носи изпълнение на дългогодишна мечта. Удовлетворение и радост от постигнатото.",
+    "reading_description": "Новият ви проект носи сбъдване на дългогодишна мечта. Удовлетворение и радост.",
+    "reading_advice": "Насладете се на момента. Ти го заслужи. Мечтата ви се сбъдва."
+  },
+  {
+    "reading_id": "ace_wands_ten_cups",
+    "reading_name": "Асо Жезли + Десетка Чаши",
+    "reading_cards": "Асо Жезли + Десетка Чаши",
+    "reading_combination": ["ace_wands", "ten_cups"],
+    "reading_meaning": "Семеен успех",
+    "second_meaning": "Асо Жезли носи новото начало, а Десетка Чаши – пълното семейно щастие. Новият ви проект или начинание носи радост на цялото семейство. Споделен успех и хармония в дома.",
+    "reading_description": "Нов проект, който носи щастие на цялото семейство. Споделен успех.",
+    "reading_advice": "Споделете успеха със семейството си. Щастието е по-голямо, когато е споделено."
+  },
+  {
+    "reading_id": "ace_wands_page_cups",
+    "reading_name": "Асо Жезли + Паж Чаши",
+    "reading_cards": "Асо Жезли + Паж Чаши",
+    "reading_combination": ["ace_wands", "page_cups"],
+    "reading_meaning": "Нова страст и послание",
+    "second_meaning": "Асо Жезли носи енергията, а Паж Чаши – емоционално послание. Очаквайте вълнуваща новина, свързана със сърдечни въпроси или нов творчески проект. Някой може да ви признае чувствата си.",
+    "reading_description": "Получавате емоционално послание, свързано с нова страст или проект. Сърцето ви бие по-бързо.",
+    "reading_advice": "Отворете сърцето си за посланието. То носи нещо важно за вас."
+  },
+  {
+    "reading_id": "ace_wands_knight_cups",
+    "reading_name": "Асо Жезли + Рицар Чаши",
+    "reading_cards": "Асо Жезли + Рицар Чаши",
+    "reading_combination": ["ace_wands", "knight_cups"],
+    "reading_meaning": "Романтична страст",
+    "second_meaning": "Асо Жезли носи страстта, а Рицар Чаши – романтиката и ухажването. Очаквайте романтичен жест или предложение, което идва с много страст. Някой идва при вас с отворено сърце.",
+    "reading_description": "Нова романтична връзка или романтичен жест идва с много страст и емоция.",
+    "reading_advice": "Кажете какво чувствате. Бъдете смели в любовта – сърцето ви знае пътя."
+  },
+  {
+    "reading_id": "ace_wands_queen_cups",
+    "reading_name": "Асо Жезли + Царица Чаши",
+    "reading_cards": "Асо Жезли + Царица Чаши",
+    "reading_combination": ["ace_wands", "queen_cups"],
+    "reading_meaning": "Интуитивна страст",
+    "second_meaning": "Асо Жезли носи енергията, а Царица Чаши – интуицията и дълбоката емоционалност. Новата ви страст е водена от силна интуиция. Сърцето ви знае какво иска, дори умът да се съмнява.",
+    "reading_description": "Нова страст или проект, воден от интуиция и дълбоки чувства. Слушайте сърцето си.",
+    "reading_advice": "Доверете се на вътрешния си глас. Интуицията ви води правилно."
+  },
+  {
+    "reading_id": "ace_wands_king_cups",
+    "reading_name": "Асо Жезли + Цар Чаши",
+    "reading_cards": "Асо Жезли + Цар Чаши",
+    "reading_combination": ["ace_wands", "king_cups"],
+    "reading_meaning": "Контролирана страст",
+    "second_meaning": "Асо Жезли носи страстта, а Цар Чаши – емоционалната зрялост и контрол. Новата ви страст е силна, но вие умеете да я контролирате. Баланс между огън и вода.",
+    "reading_description": "Нова страст, която умеете да контролирате. Емоционална зрялост и баланс.",
+    "reading_advice": "Управлявайте енергията си с мъдрост. Страстта е силна, но вие сте по-силни."
+  },
+  {
+    "reading_id": "ace_wands_two_swords",
+    "reading_name": "Асо Жезли + Двойка Мечове",
+    "reading_cards": "Асо Жезли + Двойка Мечове",
+    "reading_combination": ["ace_wands", "two_swords"],
+    "reading_meaning": "Идея и съмнение",
+    "second_meaning": "Асо Жезли носи нова идея, а Двойка Мечове – нерешителност и блокиране. Имате нова идея, но се съмнявате дали да я реализирате. Страхът от грешка ви парализира.",
+    "reading_description": "Нова идея се ражда, но я съпътстват съмнения и нерешителност. Не знаете дали да действате.",
+    "reading_advice": "Свалете превръзката от очите. Понякога трябва да изберете, дори да не виждате ясно."
+  },
+  {
+    "reading_id": "ace_wands_three_swords",
+    "reading_name": "Асо Жезли + Тройка Мечове",
+    "reading_cards": "Асо Жезли + Тройка Мечове",
+    "reading_combination": ["ace_wands", "three_swords"],
+    "reading_meaning": "Страст и болка",
+    "second_meaning": "Асо Жезли носи страст, а Тройка Мечове – болка и разбито сърце. Новата ви страст може да донесе разочарование или болка. Внимавайте с кого споделяте ентусиазма си.",
+    "reading_description": "Нова страст или проект носи не само радост, но и риск от разочарование.",
+    "reading_advice": "Бъдете внимателни с доверието си. Не всяка страст носи само радост."
+  },
+  {
+    "reading_id": "ace_wands_four_swords",
+    "reading_name": "Асо Жезли + Четворка Мечове",
+    "reading_cards": "Асо Жезли + Четворка Мечове",
+    "reading_combination": ["ace_wands", "four_swords"],
+    "reading_meaning": "Почивка преди старт",
+    "second_meaning": "Асо Жезли носи нова енергия, а Четворка Мечове – почивка и възстановяване. Имате идея, но сега не е моментът за действие. Първо починете и съберете сили.",
+    "reading_description": "Имате нова идея, но сега е време за почивка, не за действие. Съберете сили.",
+    "reading_advice": "Починете си преди да започнете. Добрата подготовка води до успех."
+  },
+  {
+    "reading_id": "ace_wands_five_swords",
+    "reading_name": "Асо Жезли + Петица Мечове",
+    "reading_cards": "Асо Жезли + Петица Мечове",
+    "reading_combination": ["ace_wands", "five_swords"],
+    "reading_meaning": "Конфликтна идея",
+    "second_meaning": "Асо Жезли носи нова идея, а Петица Мечове – конфликт и празна победа. Идеята ви може да предизвика спор или да се опитате да я наложите по неправилен начин. Помислете дали си струва.",
+    "reading_description": "Новата ви идея предизвиква конфликт. Може да спечелите, но с цената на нечии чувства.",
+    "reading_advice": "Помислете дали си струва да нараните другите, за да спечелите. Понякога е по-добре да отстъпите."
+  },
+  {
+    "reading_id": "ace_wands_six_swords",
+    "reading_name": "Асо Жезли + Шестица Мечове",
+    "reading_cards": "Асо Жезли + Шестица Мечове",
+    "reading_combination": ["ace_wands", "six_swords"],
+    "reading_meaning": "Ново начало и път",
+    "second_meaning": "Асо Жезли носи новото начало, а Шестица Мечове – пътуването и прехода. Новата ви идея или проект ще ви отведе на ново място – физически или метафорично. Очаквайте промяна на средата.",
+    "reading_description": "Нов проект или идея ви отвежда на ново място. Пътуване или преместване ви очаква.",
+    "reading_advice": "Тръгнете с увереност. Новите води носят нови възможности."
+  },
+  {
+    "reading_id": "ace_wands_seven_swords",
+    "reading_name": "Асо Жезли + Седмица Мечове",
+    "reading_cards": "Асо Жезли + Седмица Мечове",
+    "reading_combination": ["ace_wands", "seven_swords"],
+    "reading_meaning": "Идея и измама",
+    "second_meaning": "Асо Жезли носи нова идея, а Седмица Мечове – измама и хитрост. Внимавайте – някой може да се опита да присвои идеята ви или да ви измами. Пазите интелектуалната си собственост.",
+    "reading_description": "Новата ви идея е ценна, но има риск някой да се опита да ви я открадне.",
+    "reading_advice": "Бъдете внимателни с кого споделяте идеите си. Проверявайте два пъти."
+  },
+  {
+    "reading_id": "ace_wands_eight_swords",
+    "reading_name": "Асо Жезли + Осмица Мечове",
+    "reading_cards": "Асо Жезли + Осмица Мечове",
+    "reading_combination": ["ace_wands", "eight_swords"],
+    "reading_meaning": "Блокирана идея",
+    "second_meaning": "Асо Жезли носи нова идея, а Осмица Мечове – чувство на капан и ограничение. Имате страхотна идея, но се чувствате блокирани и без изход. Страхът ви пречи да действате.",
+    "reading_description": "Имате нова идея, но се чувствате в капан. Страховете ви пречат да действате.",
+    "reading_advice": "Оковите са в главата ви. Освободете се от страха и ще видите, че имате повече възможности, отколкото си мислите."
+  },
+  {
+    "reading_id": "ace_wands_nine_swords",
+    "reading_name": "Асо Жезли + Деветка Мечове",
+    "reading_cards": "Асо Жезли + Деветка Мечове",
+    "reading_combination": ["ace_wands", "nine_swords"],
+    "reading_meaning": "Тревожна идея",
+    "second_meaning": "Асо Жезли носи нова енергия, а Деветка Мечове – тревога и безсъние. Новата идея ви вълнува, но също така ви тревожи. Мислите ви се въртят около нея и не ви оставят да спите.",
+    "reading_description": "Нова идея ви вълнува, но носи и тревоги. Безсъние и премисляне.",
+    "reading_advice": "Спокойствие. Повечето неща, за които се тревожим, никога не се случват. Доверете се на процеса."
+  },
+  {
+    "reading_id": "ace_wands_ten_swords",
+    "reading_name": "Асо Жезли + Десетка Мечове",
+    "reading_cards": "Асо Жезли + Десетка Мечове",
+    "reading_combination": ["ace_wands", "ten_swords"],
+    "reading_meaning": "Край и ново начало",
+    "second_meaning": "Асо Жезли носи новото, а Десетка Мечове – края и дъното. Нещо старо приключва, за да може нещо ново да започне. Краят е болезнен, но носи освобождение и нов път.",
+    "reading_description": "След тежък край идва ново начало. Феникс от пепелта.",
+    "reading_advice": "Оставете старото да умре. Новото вече чука на вратата. Позволете му да влезе."
+  },
+  {
+    "reading_id": "ace_wands_page_swords",
+    "reading_name": "Асо Жезли + Паж Мечове",
+    "reading_cards": "Асо Жезли + Паж Мечове",
+    "reading_combination": ["ace_wands", "page_swords"],
+    "reading_meaning": "Идея и истина",
+    "second_meaning": "Асо Жезли носи нова идея, а Паж Мечове – търсене на истината и любопитство. Новата ви идея ви кара да търсите отговори и да задавате въпроси. Любопитството ви води към открития.",
+    "reading_description": "Нова идея ви кара да търсите истината. Любопитство и открития.",
+    "reading_advice": "Задавайте въпроси. Не приемайте нищо за дадено. Истината е някъде там – открийте я."
+  },
+  {
+    "reading_id": "ace_wands_knight_swords",
+    "reading_name": "Асо Жезли + Рицар Мечове",
+    "reading_cards": "Асо Жезли + Рицар Мечове",
+    "reading_combination": ["ace_wands", "knight_swords"],
+    "reading_meaning": "Стремителна идея",
+    "second_meaning": "Асо Жезли носи новата идея, а Рицар Мечове – бързината и прямотата. Идеята ви идва светкавично и веднага искате да я реализирате. Действате бързо и решително.",
+    "reading_description": "Новата идея идва светкавично и ви кара да действате без колебание. Бързина и решителност.",
+    "reading_advice": "Действайте бързо, но не безразсъдно. Устремът ви е сила, но не прегазвайте другите."
+  },
+  {
+    "reading_id": "ace_wands_queen_swords",
+    "reading_name": "Асо Жезли + Царица Мечове",
+    "reading_cards": "Асо Жезли + Царица Мечове",
+    "reading_combination": ["ace_wands", "queen_swords"],
+    "reading_meaning": "Ясна идея",
+    "second_meaning": "Асо Жезли носи новата идея, а Царица Мечове – яснота и независимост. Имате кристално ясна визия за новото си начинание. Никой не може да ви заблуди – виждате истината.",
+    "reading_description": "Новата ви идея е кристално ясна. Знаете точно какво искате и как да го постигнете.",
+    "reading_advice": "Бъдете честни със себе си и с другите. Вашата яснота вдъхновява доверие."
+  },
+  {
+    "reading_id": "ace_wands_king_swords",
+    "reading_name": "Асо Жезли + Цар Мечове",
+    "reading_cards": "Асо Жезли + Цар Мечове",
+    "reading_combination": ["ace_wands", "king_swords"],
+    "reading_meaning": "Стратегическа идея",
+    "second_meaning": "Асо Жезли носи новата идея, а Цар Мечове – интелект и стратегия. Новата ви идея е добре обмислена и стратегически издържана. Имате ясен план за реализация.",
+    "reading_description": "Новата ви идея е подкрепена с ясен план и стратегия. Интелект и логика водят напред.",
+    "reading_advice": "Вземете решение с ума си, но не забравяйте и сърцето. Стратегията е важна, но и емоциите имат значение."
+  },
+  {
+    "reading_id": "ace_wands_two_pentacles",
+    "reading_name": "Асо Жезли + Двойка Пентакли",
+    "reading_cards": "Асо Жезли + Двойка Пентакли",
+    "reading_combination": ["ace_wands", "two_pentacles"],
+    "reading_meaning": "Нов проект и баланс",
+    "second_meaning": "Асо Жезли носи новата енергия, а Двойка Пентакли – баланса и жонглирането с ресурси. Новият проект изисква да балансирате време, пари и енергия. Ще трябва да жонглирате.",
+    "reading_description": "Нов проект изисква да балансирате ресурсите си. Време, пари, енергия – всичко трябва да е в хармония.",
+    "reading_advice": "Жонглирайте, но не изпускайте топката. Балансът е ключът към успеха."
+  },
+  {
+    "reading_id": "ace_wands_three_pentacles",
+    "reading_name": "Асо Жезли + Тройка Пентакли",
+    "reading_cards": "Асо Жезли + Тройка Пентакли",
+    "reading_combination": ["ace_wands", "three_pentacles"],
+    "reading_meaning": "Нов проект в екип",
+    "second_meaning": "Асо Жезли носи новата идея, а Тройка Пентакли – екипната работа и сътрудничество. Новият ви проект изисква да работите с други хора. Заедно можете да постигнете повече.",
+    "reading_description": "Нов проект, който изисква сътрудничество с други. Екипна работа и споделени умения.",
+    "reading_advice": "Работете в екип. Учете се от по-опитните и споделяйте знанията си. Заедно сте по-силни."
+  },
+  {
+    "reading_id": "ace_wands_four_pentacles",
+    "reading_name": "Асо Жезли + Четворка Пентакли",
+    "reading_cards": "Асо Жезли + Четворка Пентакли",
+    "reading_combination": ["ace_wands", "four_pentacles"],
+    "reading_meaning": "Нов проект и сигурност",
+    "second_meaning": "Асо Жезли носи новата идея, а Четворка Пентакли – сигурността и задържането. Новият проект изисква да инвестирате ресурси, но се страхувате да ги пуснете. Стискането може да ви попречи.",
+    "reading_description": "Нова идея, но се страхувате да инвестирате ресурси. Стискате и се колебаете.",
+    "reading_advice": "Пуснете малко. Страхът от загуба може да ви попречи да спечелите нещо по-голямо."
+  },
+  {
+    "reading_id": "ace_wands_five_pentacles",
+    "reading_name": "Асо Жезли + Петица Пентакли",
+    "reading_cards": "Асо Жезли + Петица Пентакли",
+    "reading_combination": ["ace_wands", "five_pentacles"],
+    "reading_meaning": "Нов проект и липса",
+    "second_meaning": "Асо Жезли носи новата идея, а Петица Пентакли – финансови трудности и липса. Имате страхотна идея, но ви липсват ресурси за реализация. Търсете помощ.",
+    "reading_description": "Имате нова идея, но финансовите ресурси са ограничени. Чувствате се изолирани.",
+    "reading_advice": "Потърсете помощ. Не сте сами. Има хора, готови да ви подкрепят, ако поискате."
+  },
+  {
+    "reading_id": "ace_wands_six_pentacles",
+    "reading_name": "Асо Жезли + Шестица Пентакли",
+    "reading_cards": "Асо Жезли + Шестица Пентакли",
+    "reading_combination": ["ace_wands", "six_pentacles"],
+    "reading_meaning": "Нов проект и подкрепа",
+    "second_meaning": "Асо Жезли носи новата идея, а Шестица Пентакли – помощта и щедростта. Новият ви проект получава подкрепа – финансова или емоционална. Някой вярва във вас.",
+    "reading_description": "Новата ви идея получава подкрепа. Някой протяга ръка да ви помогне.",
+    "reading_advice": "Приемете помощта с благодарност. Някой ден ще имате възможност да върнете жеста."
+  },
+  {
+    "reading_id": "ace_wands_seven_pentacles",
+    "reading_name": "Асо Жезли + Седмица Пентакли",
+    "reading_cards": "Асо Жезли + Седмица Пентакли",
+    "reading_combination": ["ace_wands", "seven_pentacles"],
+    "reading_meaning": "Нов проект и търпение",
+    "second_meaning": "Асо Жезли носи новата енергия, а Седмица Пентакли – търпението и чакането на резултати. Започнали сте нещо ново, но резултатите няма да дойдат веднага. Трябва да изчакате.",
+    "reading_description": "Започнали сте нов проект, но трябва да изчакате резултатите. Търпение и вяра.",
+    "reading_advice": "Чакайте търпеливо. Добрите неща идват при тези, които умеят да чакат, докато продължават да работят."
+  },
+  {
+    "reading_id": "ace_wands_eight_pentacles",
+    "reading_name": "Асо Жезли + Осмица Пентакли",
+    "reading_cards": "Асо Жезли + Осмица Пентакли",
+    "reading_combination": ["ace_wands", "eight_pentacles"],
+    "reading_meaning": "Нов занаят",
+    "second_meaning": "Асо Жезли носи новата идея, а Осмица Пентакли – усърдието и ученето. Новият ви проект изисква да научите нови умения. Вложете време и усилия в усъвършенстването.",
+    "reading_description": "Нов проект изисква да научите нови умения. Усърдие и постоянство.",
+    "reading_advice": "Учете се с желание. Майсторството идва с практика. Не спирайте да се развивате."
+  },
+  {
+    "reading_id": "ace_wands_nine_pentacles",
+    "reading_name": "Асо Жезли + Деветка Пентакли",
+    "reading_cards": "Асо Жезли + Деветка Пентакли",
+    "reading_combination": ["ace_wands", "nine_pentacles"],
+    "reading_meaning": "Нов проект и независимост",
+    "second_meaning": "Асо Жезли носи новата идея, а Деветка Пентакли – самодостатъчността и успеха. Новият ви проект ви води към финансова независимост и свобода. Наслаждавайте се на плодовете.",
+    "reading_description": "Новият проект ви води към независимост и успех. Наслаждавайте се на постигнатото.",
+    "reading_advice": "Ти постигна самостоятелност. Наслади се на свободата, но не спирай да твориш."
+  },
+  {
+    "reading_id": "ace_wands_ten_pentacles",
+    "reading_name": "Асо Жезли + Десетка Пентакли",
+    "reading_cards": "Асо Жезли + Десетка Пентакли",
+    "reading_combination": ["ace_wands", "ten_pentacles"],
+    "reading_meaning": "Нов проект и наследство",
+    "second_meaning": "Асо Жезли носи новото начало, а Десетка Пентакли – семейното наследство и дългосрочната сигурност. Новият ви проект има потенциала да осигури бъдещето на семейството ви.",
+    "reading_description": "Нов проект, който носи дългосрочна сигурност и полза за семейството.",
+    "reading_advice": "Мислете за бъдещето. Това, което градите сега, ще остане след вас."
+  },
+  {
+    "reading_id": "ace_wands_page_pentacles",
+    "reading_name": "Асо Жезли + Паж Пентакли",
+    "reading_cards": "Асо Жезли + Паж Пентакли",
+    "reading_combination": ["ace_wands", "page_pentacles"],
+    "reading_meaning": "Нова възможност и учене",
+    "second_meaning": "Асо Жезли носи новата възможност, а Паж Пентакли – ученето и новото начало в материалната сфера. Получавате шанс да научите нещо ново, което ще ви донесе полза.",
+    "reading_description": "Нова възможност за учене или старт в материалната сфера. Инвестиция в себе си.",
+    "reading_advice": "Започнете да учите. Инвестирайте в себе си. Търпеливо градете, стъпка по стъпка."
+  },
+  {
+    "reading_id": "ace_wands_knight_pentacles",
+    "reading_name": "Асо Жезли + Рицар Пентакли",
+    "reading_cards": "Асо Жезли + Рицар Пентакли",
+    "reading_combination": ["ace_wands", "knight_pentacles"],
+    "reading_meaning": "Нов проект и търпение",
+    "second_meaning": "Асо Жезли носи ентусиазма, а Рицар Пентакли – бавния и сигурен напредък. Новият ви проект изисква търпение – не очаквайте бързи резултати. Бавно, но сигурно.",
+    "reading_description": "Нов проект, който изисква търпение и постоянство. Бързите резултати не са реалистични.",
+    "reading_advice": "Не бързайте. Работете търпеливо. Сигурният път е бавен, но води до целта."
+  },
+  {
+    "reading_id": "ace_wands_queen_pentacles",
+    "reading_name": "Асо Жезли + Царица Пентакли",
+    "reading_cards": "Асо Жезли + Царица Пентакли",
+    "reading_combination": ["ace_wands", "queen_pentacles"],
+    "reading_meaning": "Нов проект и грижа",
+    "second_meaning": "Асо Жезли носи новата енергия, а Царица Пентакли – грижата и дома. Новият ви проект е свързан с дома, семейството или създаване на уют. Вложете сърце в него.",
+    "reading_description": "Нов проект, свързан с дома, семейството или материалния уют. Грижа и практичност.",
+    "reading_advice": "Грижете се за проекта като за дом. Вложете любов и практичност – резултатът ще бъде прекрасен."
+  },
+  {
+    "reading_id": "ace_wands_king_pentacles",
+    "reading_name": "Асо Жезли + Цар Пентакли",
+    "reading_cards": "Асо Жезли + Цар Пентакли",
+    "reading_combination": ["ace_wands", "king_pentacles"],
+    "reading_meaning": "Нов бизнес проект",
+    "second_meaning": "Асо Жезли носи новата идея, а Цар Пентакли – бизнес успеха и стабилността. Новият ви проект има потенциала да се превърне в успешен бизнес. Имате всички качества да успеете.",
+    "reading_description": "Нов бизнес проект с потенциал за успех и стабилност. Лидерски качества.",
+    "reading_advice": "Поемете лидерството. Имате визията и практичността да успеете. Градете стабилно."
   }
+
+
+
+
+
+
+
+
 
 ];
    
