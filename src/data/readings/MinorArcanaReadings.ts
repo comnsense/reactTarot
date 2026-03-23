@@ -11747,6 +11747,25 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Успя, но се съмняваш дали заслужаваш.",
     "reading_advice": "Свали превръзката. Заслужил си успеха. Позволи си да се радваш без съмнение."
   },
+   
+  {
+    "reading_id": "love_fast",
+    "reading_name": "Любов от пръв поглед",
+    "reading_cards": "8 Жезли + Асо Чаши",
+    "reading_combination": ["eight_wands", "ace_cups"],
+    "reading_meaning": "Бърза любов",
+    "reading_description": "Всичко се случва светкавично. Страст, която пламва веднага.",
+    "reading_advice": "Наслаждавай се, но не изгаряй прекалено бързо."
+  },
+  {
+    "reading_id": "love_slow",
+    "reading_name": "Бавно изграждане",
+    "reading_cards": "8 Пентакли + 2 Чаши",
+    "reading_combination": ["eight_pentacles", "two_cups"],
+    "reading_meaning": "Бавен и стабилен растеж",
+    "reading_description": "Връзка, която се гради бавно, но стабилно. Търпение.",
+    "reading_advice": "Няма нужда да бързаш. Истинското идва с времето."
+  },
   {
     "reading_id": "nine_cups_three_swords",
     "reading_name": "Деветка Чаши + Тройка Мечове",
