@@ -10,6 +10,61 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Нова идея или проект ви вълнува, но все още не сте сигурни как точно да го реализирате. Предстои важен избор, който ще определи пътя напред.",
     "reading_advice": "Не се страхувайте да изберете – всяка посока е по-добра от липсата на такава. Доверете се на първоначалния си ентусиазъм."
   },
+   {
+    "reading_id": "office_politics",
+    "reading_name": "Офис политики",
+    "reading_cards": "5 Жезли + 7 Мечове",
+    "reading_combination": ["five_wands", "seven_swords"],
+    "reading_meaning": "Интриги и клюки",
+    "reading_description": "Интриги, клюки, борба за власт. Има скрити врагове.",
+    "reading_advice": "Пази гърба си. Не се замесвай в клюки. Работи, мълчи и гледай."
+  },
+    {
+    "reading_id": "ace_wands_three_wands",
+    "reading_name": "Първи стъпки",
+    "reading_cards": "Асо Жезли + 3 Жезли",
+    "reading_combination": ["ace_wands", "three_wands"],
+    "reading_meaning": "Старт и очакване",
+    "reading_description": "Започваш нещо ново и веднага виждаш първите резултати. Успехът не идва веднага, но пътят е обещаващ.",
+    "reading_advice": "Бъди търпелив. Добрите неща идват при тези, които чакат, докато работят."
+  },
+    {
+    "reading_id": "home_celebration",
+    "reading_name": "Семеен празник",
+    "reading_cards": "3 Чаши + 4 Жезли",
+    "reading_combination": ["three_cups", "four_wands"],
+    "reading_meaning": "Празник у дома",
+    "reading_description": "Рожден ден, годишнина, празник в семейството.",
+    "reading_advice": "Събери всички. Тези моменти са безценни."
+  },
+  {
+    "reading_id": "creative_project",
+    "reading_name": "Творчески проект",
+    "reading_cards": "Асо Жезли + 3 Чаши",
+    "reading_combination": ["ace_wands", "three_cups"],
+    "reading_meaning": "Творческа работа",
+    "reading_description": "Работа, свързана с изкуство, музика, писане. Твориш с радост.",
+    "reading_advice": "Пусни въображението си. Това, което създаваш сега, носи радост на другите."
+  },
+  {
+    "reading_id": "burnout",
+    "reading_name": "Прегаряне",
+    "reading_cards": "10 Жезли + 4 Мечове",
+    "reading_combination": ["ten_wands", "four_swords"],
+    "reading_meaning": "Изтощение",
+    "reading_description": "Работиш прекалено много – тялото иска почивка.",
+    "reading_advice": "Спри! Болничният идва, ако не спреш доброволно. Почивката не е лукс, а нужда."
+  },
+  {
+    "reading_id": "distance_relationship",
+    "reading_name": "Дистанционна връзка",
+    "reading_cards": "8 Чаши + 2 Чаши",
+    "reading_combination": ["eight_cups", "two_cups"],
+    "reading_meaning": "Физическа или емоционална дистанция",
+    "reading_description": "Единият от двамата е далеч – физически или емоционално.",
+    "reading_advice": "Любовта изисква присъствие. Ако единият е тръгнал, пусни го."
+  },
+ 
   {
     "reading_id": "ace_wands_three_wands",
     "reading_name": "Начало и очакване",
