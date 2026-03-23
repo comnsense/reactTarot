@@ -8353,7 +8353,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Новата любов има потенциал за дългосрочна връзка.",
     "reading_advice": "Поеми отговорност. Имаш всичко необходимо да изградиш стабилна любов."
   },
-    {
+  {
     "reading_id": "two_cups_two_wands",
     "reading_name": "Двойка Чаши + Двойка Жезли",
     "reading_cards": "Двойка Чаши + Двойка Жезли",
@@ -8830,7 +8830,6 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Връзката има потенциал за дълготрайна стабилност.",
     "reading_advice": "Градете заедно. Стабилността и любовта вървят ръка за ръка."
   },
-   
   {
     "reading_id": "three_cups_king_wands",
     "reading_name": "Тройка Чаши + Цар Жезли",
@@ -8840,7 +8839,6 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Ти си организаторът на празника. Визията ти води другите.",
     "reading_advice": "Води с пример. Твоята визия прави празника незабравим за всички."
   },
-   
   {
     "reading_id": "three_cups_three_swords",
     "reading_name": "Тройка Чаши + Тройка Мечове",
@@ -8850,8 +8848,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Празнуваш, но носиш болка в сърцето си. Радост и тъга заедно.",
     "reading_advice": "Позволи си да чувстваш и двете. Нормално е. Болката не отрича радостта."
   },
-  
-    {
+  {
     "reading_id": "three_cups_five_swords",
     "reading_name": "Тройка Чаши + Петица Мечове",
     "reading_cards": "Тройка Чаши + Петица Мечове",
@@ -9167,7 +9164,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Апатията идва от разбито сърце. Скърби, но не оставай в застой.",
     "reading_advice": "Позволи си да скърбиш, после продължи. Болката не е вечна."
   },
-    {
+  {
     "reading_id": "four_cups_four_swords",
     "reading_name": "Четворка Чаши + Четворка Мечове",
     "reading_cards": "Четворка Чаши + Четворка Мечове",
@@ -9383,7 +9380,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Имаш стабилност, но не си щастлив. Потърси какво наистина искаш.",
     "reading_advice": "Успехът не е всичко. Потърси какво те прави истински щастлив. Може би нещо, което не можеш да купиш с пари."
   },
-    {
+  {
     "reading_id": "five_cups_two_wands",
     "reading_name": "Петица Чаши + Двойка Жезли",
     "reading_cards": "Петица Чаши + Двойка Жезли",
@@ -9653,7 +9650,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Двойна болка – загуба и разбито сърце.",
     "reading_advice": "Позволи си да скърбиш, но помни – болката не е вечна. Тя ще отмине, както всичко."
   },
-    {
+  {
     "reading_id": "five_cups_four_swords",
     "reading_name": "Петица Чаши + Четворка Мечове",
     "reading_cards": "Петица Чаши + Четворка Мечове",
@@ -9869,7 +9866,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Въпреки загубата, имаш стабилна основа.",
     "reading_advice": "Използвай стабилността, която имаш. Тя ще ти помогне да се изправиш след загубата и да продължиш напред."
   },
-    {
+  {
     "reading_id": "six_cups_two_wands",
     "reading_name": "Шестица Чаши + Двойка Жезли",
     "reading_cards": "Шестица Чаши + Двойка Жезли",
@@ -10355,7 +10352,7 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Успехът ти е изграден върху стабилна основа от миналото.",
     "reading_advice": "Благодари на корените си. Те са основата на твоя успех. Но гледай напред и гради върху тях."
   },
-    {
+  {
     "reading_id": "seven_cups_two_wands",
     "reading_name": "Седмица Чаши + Двойка Жезли",
     "reading_cards": "Седмица Чаши + Двойка Жезли",
@@ -10971,7 +10968,6 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Започвате нов проект с ясна визия и лидерска позиция. Имате авторитета да водите другите.",
     "reading_advice": "Поемете лидерството. Имате визията и силата да я осъществите. Водете с пример."
   },
- 
   {
     "reading_id": "ace_wands_three_cups",
     "reading_name": "Асо Жезли + Тройка Чаши",
@@ -11539,8 +11535,8 @@ export const minorArcanaReadings: Reading[] = [
     "reading_meaning": "Осмица Чаши носи тръгване и оставяне, а Цар Пентакли – стабилност и успех. Тръгвате от стабилност, за да намерите нов успех. Оставяте сигурността, но носите увереността. Бъдете царят на своя път.",
     "reading_description": "Тръгваш от стабилност, за да намериш нов успех.",
     "reading_advice": "Бъди царят на своя път. Носи увереността със себе си. Стабилността ти ще те следва."
-  }.
-    {
+  },
+  {
     "reading_id": "nine_cups_two_wands",
     "reading_name": "Деветка Чаши + Двойка Жезли",
     "reading_cards": "Деветка Чаши + Двойка Жезли",
