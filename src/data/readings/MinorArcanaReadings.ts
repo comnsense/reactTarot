@@ -11175,6 +11175,17 @@ export const minorArcanaReadings: Reading[] = [
     "reading_description": "Нова идея, но се страхувате да инвестирате ресурси. Стискате и се колебаете.",
     "reading_advice": "Пуснете малко. Страхът от загуба може да ви попречи да спечелите нещо по-голямо."
   },
+
+  
+  {
+    "reading_id": "illness",
+    "reading_name": "Болест",
+    "reading_cards": "5 Пентакли + 4 Мечове",
+    "reading_combination": ["five_pentacles", "four_swords"],
+    "reading_meaning": "Здравословни проблеми",
+    "reading_description": "Здравословни проблеми. Нужда от почивка и лечение.",
+    "reading_advice": "Посети лекар! Не отлагай. Тялото ти крещи за внимание."
+  },
   {
     "reading_id": "ace_wands_five_pentacles",
     "reading_name": "Асо Жезли + Петица Пентакли",
